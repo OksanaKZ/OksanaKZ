@@ -1,4 +1,4 @@
-![](https://github.com/OksanaKZ/OksanaKZ/blob/main/hello_world.png)
+![]()
 
 ## :wave: Добро пожаловать на мою страницу!
 

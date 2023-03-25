@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/OksanaKZ/OksanaKZ/blob/main/picture_1.webp)
 
 ## :wave: Добро пожаловать на мою страницу!
 

@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)
 
 ## :diamond_shape_with_a_dot_inside: Добро пожаловать на мою страницу!
 

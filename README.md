@@ -1,6 +1,15 @@
-![](https://asmbase.ru/wp-content/uploads/2020/10/lesson-6-hello-world-2.png)
+![](https://github.com/OksanaKZ/OksanaKZ/blob/main/hello_world.png)
 
-## :wave: Welcome to my page!
-I'm Oksana, QA Engineer Junior from  St. Petersburg, Russia.
+## :wave: Добро пожаловать на мою страницу!
 
-### My CV
+Меня зовут Оксана, я начинающий тестировщик ПО из города Санкт-Петербург, Россия.  
+
+Я изучила теорию тестирования, создавала сценарии проверок мобильного и веб-приложения, заводила баг-репорты. Обладаю базовым пониманием HTML и CSS, навыками работы с командной строкой и базами данных. Я внимательна и умею анализировать информацию.
+
+### Резюме
+
+[QA_Engineer_Козлюк_Оксана](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
+
+## Портфолио
+
+

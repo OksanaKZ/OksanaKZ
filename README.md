@@ -29,3 +29,5 @@
 ## :diamond_shape_with_a_dot_inside: Инструменты и технологии
 
 ## :diamond_shape_with_a_dot_inside: Мои контакты
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

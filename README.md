@@ -8,7 +8,7 @@
 
 ## :diamond_shape_with_a_dot_inside:  Мое резюме
 
-+ [QA_Engineer_Козлюк_Оксана](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
++ [QA Engineer Козлюк Оксана](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 
 ## :diamond_shape_with_a_dot_inside: Портфолио
 
@@ -22,7 +22,7 @@
 
 + Баг-репорты
 
-Моя страница
+[Моя первая страница (HTML, CSS, JS)](https://oksanakz.github.io/MyFirstPage/) 
 
 Чат-бот в Telegram
 

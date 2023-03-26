@@ -12,19 +12,19 @@
 
 ## :diamond_shape_with_a_dot_inside: Портфолио
 
-Тестовая документация
++ Тестовая документация
 
-+ Чек-листы
+  + Чек-листы
 
-+ Тест-кейсы
+  + Тест-кейсы
 
-+ Mind-maps
+  + Mind-maps
 
-+ Баг-репорты
+  + Баг-репорты
 
-[Моя первая страница (HTML, CSS, JS)](https://oksanakz.github.io/MyFirstPage/) 
++ [Моя первая страница (HTML, CSS, JS)](https://oksanakz.github.io/MyFirstPage/) 
 
-Чат-бот в Telegram
++ Чат-бот в Telegram
 
 ## :diamond_shape_with_a_dot_inside: Инструменты и технологии
 

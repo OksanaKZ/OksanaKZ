@@ -16,7 +16,7 @@
 
   + [Чек-листы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
-  + Тест-кейсы
+  + [Тест-кейсы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
   + Mind-maps
 

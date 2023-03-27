@@ -1,4 +1,4 @@
-![](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)
+[![](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 
 ## :diamond_shape_with_a_dot_inside: Добро пожаловать на мою страницу!
 

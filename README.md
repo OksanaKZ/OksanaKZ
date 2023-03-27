@@ -14,7 +14,7 @@
 
 + Тестовая документация
 
-  + Чек-листы
+  + [Чек-листы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
   + Тест-кейсы
 

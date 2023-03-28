@@ -1,4 +1,4 @@
-[![](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)](https://www.nasa.gov/mission_pages/hubble/main/index.html)
+[![Space](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 
 ## :diamond_shape_with_a_dot_inside: Добро пожаловать на мою страницу!
 
@@ -14,7 +14,7 @@
 
 + Тестовая документация
 
-  + [Чек-листы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx){target="_blank"}
+  + ![Чек-листы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
   + [Тест-кейсы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 

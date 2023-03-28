@@ -14,7 +14,7 @@
 
 + Тестовая документация
 
-  + ![Чек-листы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
+  + <a href="[http://example.com](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)" target="_blank">Чек-листы</a>
 
   + [Тест-кейсы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 

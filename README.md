@@ -18,7 +18,7 @@
 
   + [Тест-кейсы](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
-  + [Mind-maps]()
+  + [Mind-map](https://github.com/OksanaKZ/OksanaKZ/blob/main/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0.png)
 
   + [Баг-репорты]()
 

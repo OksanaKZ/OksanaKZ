@@ -24,7 +24,7 @@
 
 + [Моя первая страница (HTML, CSS, JS)](https://oksanakz.github.io/MyFirstPage/)
 
-+ [Чат-бот в Telegram]()
++ [Чат-бот в Telegram](https://github.com/OksanaKZ/ToDoBot)
 
 ## :diamond_shape_with_a_dot_inside: Инструменты и технологии
 

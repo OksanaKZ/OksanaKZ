@@ -1,5 +1,7 @@
 [![Space](https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg)](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 
+<img src="https://github.com/OksanaKZ/OksanaKZ/blob/main/pic1.jpg" alt="Spsce" width="500"/>
+
 ## :diamond_shape_with_a_dot_inside: Hi there! Welcome to my page!
 
 *My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  

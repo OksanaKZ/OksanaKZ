@@ -10,6 +10,8 @@
 
 + [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :diamond_shape_with_a_dot_inside: Examples of my works
 
 + Тестовая документация
@@ -50,7 +52,5 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Vkontakte](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

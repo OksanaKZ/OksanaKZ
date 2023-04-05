@@ -4,8 +4,6 @@
 
 *My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  
 
-*Я изучила теорию тестирования, создавала сценарии проверок мобильного и веб-приложения, заводила баг-репорты. Обладаю базовым пониманием HTML и CSS, навыками работы с командной строкой и базами данных. Я внимательна к деталям и умею анализировать информацию.*
-
 ## :diamond_shape_with_a_dot_inside:  My CV
 
 + [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)

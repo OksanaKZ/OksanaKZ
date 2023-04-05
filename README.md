@@ -10,7 +10,7 @@
 
 + [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&layout=compact)](https://github.com/OksanaKZ/github-readme-stats)
 
 ## :diamond_shape_with_a_dot_inside: Examples of my works
 

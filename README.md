@@ -44,5 +44,3 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
 ![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&layout=compact)](https://github.com/OksanaKZ/github-readme-stats)

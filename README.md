@@ -8,8 +8,6 @@
 
 + [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&layout=compact)](https://github.com/OksanaKZ/github-readme-stats)
-
 ## :diamond_shape_with_a_dot_inside: Examples of my works
 
 + Тестовая документация
@@ -31,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black&color=black&labelColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black&color=black&labelColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black&color=black&labelColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColorblack&color=black&labelColor==white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColorblack&color=black&labelColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black&color=black&labelColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black&color=black&labelColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
@@ -44,5 +42,7 @@
 ## :diamond_shape_with_a_dot_inside: Contacts
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&layout=compact)](https://github.com/OksanaKZ/github-readme-stats)

@@ -10,8 +10,6 @@
 
 ## :diamond_shape_with_a_dot_inside: Examples of my works
 
-+ Тестовая документация
-
   + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
   + [Test-cases](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
@@ -22,7 +20,7 @@
 
 + [My first page (HTML, CSS, JS)](https://oksanakz.github.io/MyFirstPage/)
 
-+ [Чат-бот в Telegram](https://github.com/OksanaKZ/ToDoBot)
++ [ToDo Bot (Python)](https://github.com/OksanaKZ/ToDoBot)
 
 ## :diamond_shape_with_a_dot_inside: Tools and skills
 

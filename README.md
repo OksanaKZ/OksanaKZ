@@ -4,11 +4,11 @@
 
 *My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  
 
-## :diamond_shape_with_a_dot_inside:  My CV
+##  My CV
 
 + [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 
-## :diamond_shape_with_a_dot_inside: Examples of my works
+## Examples of my works
 
   + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
 
@@ -22,7 +22,7 @@
 
 + [ToDo Bot (Python)](https://github.com/OksanaKZ/ToDoBot)
 
-## :diamond_shape_with_a_dot_inside: Tools and skills
+## Tools and skills
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black&color=black&labelColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black&color=black&labelColor=white)

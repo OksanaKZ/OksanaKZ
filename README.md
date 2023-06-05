@@ -1,6 +1,6 @@
 ![Picture](/img.JPG)
 
-## :rocket: Hi there! Welcome to my page!
+## Hi there! Welcome to my page :rocket::rocket::rocket:
 
 *My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  
 

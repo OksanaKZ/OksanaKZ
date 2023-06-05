@@ -1,6 +1,6 @@
 ![Picture](/img.JPG)
 
-## :diamond_shape_with_a_dot_inside: Hi there! Welcome to my page!
+## :rocket: Hi there! Welcome to my page!
 
 *My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  
 

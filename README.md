@@ -1,8 +1,11 @@
 ![Picture](/img.JPG)
 
-## Hi there! Welcome to my page :rocket:
+## Hi there :wave: Welcome to my page :rocket:
 
-*My name is Oksana. I'm QA Engineer (Junior) from Saint-Petersburg, Russia.*  
+*I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.*  
+
+* 🌍  I'm based in Saint-Petersburg, Russia
+* ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
 ##  My CV
 

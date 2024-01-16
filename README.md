@@ -26,7 +26,7 @@
 + [ToDo Bot (Python)](https://github.com/OksanaKZ/ToDoBot)
 
 ## Tools and skills
-
+![Linux]
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black&color=black&labelColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black&color=black&labelColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black&color=black&labelColor=white)

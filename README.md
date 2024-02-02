@@ -7,9 +7,10 @@
 * 🌍  I'm based in Saint-Petersburg, Russia
 * ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
-##  My CV
+##  About me
 
-+ [QA Engineer Kozlyuk Oksana](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
++ [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
++ [Certificates]
 
 ## Examples of my works
 

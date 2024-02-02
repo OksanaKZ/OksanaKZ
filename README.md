@@ -36,3 +36,6 @@
 
 <a href="https://github.com/OksanaKZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<div id="header" align="left" vspace="5" hspace="5">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/> 
+</div> 

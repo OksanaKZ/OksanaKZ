@@ -1,6 +1,6 @@
 ## Hi there :wave: Welcome to my page :rocket: 
 
-<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="left" width="220"/> I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.</p> 
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="left" width="200"/> I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.</p> 
 🌍  I'm based in Saint-Petersburg, Russia
 
 ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
@@ -31,9 +31,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-<a href="https://github.com/OksanaKZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaKZ&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div id="header" align="left" vspace="5" hspace="5">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/> 
-</div> 

@@ -1,11 +1,9 @@
-![Picture](/img.JPG)
+## Hi there :wave: Welcome to my page :rocket: 
 
-## Hi there :wave: Welcome to my page :rocket:
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="left" width="220"/> I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.</p> 
+🌍  I'm based in Saint-Petersburg, Russia
 
-*I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.*  
-
-* 🌍  I'm based in Saint-Petersburg, Russia
-* ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
+✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
 ##  About me
 

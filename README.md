@@ -7,7 +7,7 @@
 ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
 
-<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="300"/>
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="250"/>
   
 ##  About me
 
@@ -31,3 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="60"/>&nbsp;
 </div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

@@ -6,15 +6,14 @@
 
 ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
-
 <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="250"/>
   
-##  About me
+## :raising_hand: About me
 
 + [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
 + Certificates
 
-## Examples of my works
+## :page_with_curl: Examples of my works
 
   + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
   + [Testcases](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
@@ -32,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="60"/>&nbsp;
 </div>
 
+## :globe_with_meridians: Latest posts from Habr about testing
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] 10 задач для собеседования по SQL-запросам](https://habr.com/ru/articles/791184/?utm_campaign=791184&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 SQL вопросов на собеседовании тестировщика](https://habr.com/ru/articles/791088/?utm_campaign=791088&utm_source=habrahabr&utm_medium=rss)

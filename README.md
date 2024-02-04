@@ -16,7 +16,7 @@
 ## :page_with_curl: Examples of my works
 
   + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
-  + [Testcases](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
+  + [Test cases](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
   + [Mindmap](https://github.com/OksanaKZ/OksanaKZ/blob/main/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0.png)
 
 ## :hammer_and_wrench: Tools and Languages

@@ -1,9 +1,14 @@
 ## Hello world :wave: Welcome to my page :rocket: 
-<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="left" width="200"/> <i>I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.</i></p> 
+
+*I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.*
+
 🌍  I'm based in Saint-Petersburg, Russia
 
 ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
+
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="300"/>
+  
 ##  About me
 
 + [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)

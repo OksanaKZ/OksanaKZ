@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дорожная карта тестировщика 2024](https://habr.com/ru/articles/791338/?utm_campaign=791338&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 25 вопросов и ответов на собеседовании QA](https://habr.com/ru/articles/791352/?utm_campaign=791352&utm_source=habrahabr&utm_medium=rss)
 - [Chaos Engineering Enterprise Version. Часть 2](https://habr.com/ru/articles/791272/?utm_campaign=791272&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 10 задач для собеседования по SQL-запросам](https://habr.com/ru/articles/791184/?utm_campaign=791184&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 SQL вопросов на собеседовании тестировщика](https://habr.com/ru/articles/791088/?utm_campaign=791088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

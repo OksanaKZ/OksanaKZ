@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [QA инженер и дизайн](https://habr.com/ru/articles/791882/?utm_campaign=791882&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист: технический аудит IT проекта](https://habr.com/ru/articles/791596/?utm_campaign=791596&utm_source=habrahabr&utm_medium=rss)
 - [Chaos Engineering Enterprise Version. Часть 2](https://habr.com/ru/articles/791272/?utm_campaign=791272&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 5 альтернативных вопросов на собеседовании по тестированию](https://habr.com/ru/articles/791090/?utm_campaign=791090&utm_source=habrahabr&utm_medium=rss)
-- [Задачки для начинающих автоматизаторов тестирования](https://habr.com/ru/articles/791048/?utm_campaign=791048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

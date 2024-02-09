@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Защищено ли ваше программное обеспечение?](https://habr.com/ru/companies/otus/articles/792572/?utm_campaign=792572&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Perfect DLL Hijacking. Разбор техники](https://habr.com/ru/articles/792424/?utm_campaign=792424&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист или тест-кейсы?](https://habr.com/ru/articles/791334/?utm_campaign=791334&utm_source=habrahabr&utm_medium=rss)
 - [Разбираемся в автотестах gRPC без боли и седых волос](https://habr.com/ru/companies/sibur_official/articles/792168/?utm_campaign=792168&utm_source=habrahabr&utm_medium=rss)
-- [Вся наша жизнь – игра: или как прижилась геймификация внутри мобильного приложения в ритейле](https://habr.com/ru/companies/X5Tech/articles/792084/?utm_campaign=792084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

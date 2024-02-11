@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 4 инструмента автоматизации для DevOps, заслуживающих внимания — по версии TechRepublic](https://habr.com/ru/companies/ssp-soft/articles/791044/?utm_campaign=791044&utm_source=habrahabr&utm_medium=rss)
+- [Cypress для Junior QA. Легкий способ войти в автоматизацию](https://habr.com/ru/articles/792894/?utm_campaign=792894&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] 4 инструмента автоматизации для DevOps, заслуживающих внимания — по версии TechRepublic](https://habr.com/ru/articles/791044/?utm_campaign=791044&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Защищено ли ваше программное обеспечение?](https://habr.com/ru/companies/otus/articles/792572/?utm_campaign=792572&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Perfect DLL Hijacking. Разбор техники](https://habr.com/ru/articles/792424/?utm_campaign=792424&utm_source=habrahabr&utm_medium=rss)
-- [Чек-лист или тест-кейсы?](https://habr.com/ru/articles/791334/?utm_campaign=791334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

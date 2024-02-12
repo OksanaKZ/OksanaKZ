@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Легкий путь к власти: тестируем API Госуслуг с PyCades без головной боли](https://habr.com/ru/articles/793028/?utm_campaign=793028&utm_source=habrahabr&utm_medium=rss)
 - [Простой, полезный проект интеграционных тестов](https://habr.com/ru/companies/alfastrah/articles/792598/?utm_campaign=792598&utm_source=habrahabr&utm_medium=rss)
 - [Cypress для Junior QA. Легкий способ войти в автоматизацию](https://habr.com/ru/articles/792894/?utm_campaign=792894&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 4 инструмента автоматизации для DevOps, заслуживающих внимания — по версии TechRepublic](https://habr.com/ru/articles/791044/?utm_campaign=791044&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Защищено ли ваше программное обеспечение?](https://habr.com/ru/companies/otus/articles/792572/?utm_campaign=792572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

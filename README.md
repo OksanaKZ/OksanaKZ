@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Все об Offensive Security: о чем говорили на круглом столе AM Life](https://habr.com/ru/companies/bastion/articles/793354/?utm_campaign=793354&utm_source=habrahabr&utm_medium=rss)
+- [Расширяем тестовый фреймворк с помощью Pytest-плагинов. Часть 2: практика](https://habr.com/ru/companies/yadro/articles/791496/?utm_campaign=791496&utm_source=habrahabr&utm_medium=rss)
 - [Автоматическая проверка названий тестовых методов для Java](https://habr.com/ru/companies/otus/articles/792982/?utm_campaign=792982&utm_source=habrahabr&utm_medium=rss)
 - [Легкий путь к власти: тестируем API Госуслуг с PyCades без головной боли](https://habr.com/ru/articles/793028/?utm_campaign=793028&utm_source=habrahabr&utm_medium=rss)
-- [Простой, полезный проект интеграционных тестов](https://habr.com/ru/companies/alfastrah/articles/792598/?utm_campaign=792598&utm_source=habrahabr&utm_medium=rss)
-- [Cypress для Junior QA. Легкий способ войти в автоматизацию](https://habr.com/ru/articles/792894/?utm_campaign=792894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [С нуля до плагина JMeter: пишем свой продукт без опыта](https://habr.com/ru/articles/794114/?utm_campaign=794114&utm_source=habrahabr&utm_medium=rss)
 - [Зачем тестировщику CJM](https://habr.com/ru/companies/sportmaster_lab/articles/793832/?utm_campaign=793832&utm_source=habrahabr&utm_medium=rss)
 - [Топ-14 книг для тестировщика на русском языке](https://habr.com/ru/articles/793822/?utm_campaign=793822&utm_source=habrahabr&utm_medium=rss)
 - [Управление контейнерами из Kotlin-тестов](https://habr.com/ru/companies/otus/articles/793052/?utm_campaign=793052&utm_source=habrahabr&utm_medium=rss)
-- [Все об Offensive Security: о чем говорили на круглом столе AM Life](https://habr.com/ru/companies/bastion/articles/793354/?utm_campaign=793354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

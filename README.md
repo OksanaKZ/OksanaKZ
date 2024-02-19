@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему важно выстроить контроль качества IT-продукта до первой строчки кода? 4 кейса](https://habr.com/ru/articles/794694/?utm_campaign=794694&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование производительности 1С на СУБД MSSQL 2022 и PostgreSQL 15 &lpar;на 20, 40, 60,80, 100 пользователей&rpar;](https://habr.com/ru/articles/794248/?utm_campaign=794248&utm_source=habrahabr&utm_medium=rss)
 - [С нуля до плагина JMeter: пишем свой продукт без опыта](https://habr.com/ru/articles/794114/?utm_campaign=794114&utm_source=habrahabr&utm_medium=rss)
 - [Зачем тестировщику CJM](https://habr.com/ru/companies/sportmaster_lab/articles/793832/?utm_campaign=793832&utm_source=habrahabr&utm_medium=rss)
-- [Топ-14 книг для тестировщика на русском языке](https://habr.com/ru/articles/793822/?utm_campaign=793822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

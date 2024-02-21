@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Cinimex QA meetup &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/795307/?utm_campaign=795307&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие практики модульного тестирования](https://habr.com/ru/articles/795105/?utm_campaign=795105&utm_source=habrahabr&utm_medium=rss)
 - [Поиск элементов в Appium](https://habr.com/ru/articles/795103/?utm_campaign=795103&utm_source=habrahabr&utm_medium=rss)
 - [Вопросы по Appium на собеседовании](https://habr.com/ru/articles/794829/?utm_campaign=794829&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизируем проверку содержимого PDF-файлов с помощью pdf-test](https://habr.com/ru/companies/simbirsoft/articles/794728/?utm_campaign=794728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

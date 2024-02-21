@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие практики модульного тестирования](https://habr.com/ru/articles/795105/?utm_campaign=795105&utm_source=habrahabr&utm_medium=rss)
 - [Поиск элементов в Appium](https://habr.com/ru/articles/795103/?utm_campaign=795103&utm_source=habrahabr&utm_medium=rss)
 - [Вопросы по Appium на собеседовании](https://habr.com/ru/articles/794829/?utm_campaign=794829&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизируем проверку содержимого PDF-файлов с помощью pdf-test](https://habr.com/ru/companies/simbirsoft/articles/794728/?utm_campaign=794728&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование производительности 1С на СУБД MSSQL 2022 и PostgreSQL 15 &lpar;на 20, 40, 60,80, 100 пользователей&rpar;](https://habr.com/ru/articles/794248/?utm_campaign=794248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -33,8 +33,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [API-автотесты: как достичь наиболее полного покрытия?](https://habr.com/ru/companies/ncloudtech/articles/793342/?utm_campaign=793342&utm_source=habrahabr&utm_medium=rss)
 - [Quality Gate для автоматизации QA](https://habr.com/ru/companies/otus/articles/794764/?utm_campaign=794764&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Cinimex QA meetup &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/795307/?utm_campaign=795307&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие практики модульного тестирования](https://habr.com/ru/articles/795105/?utm_campaign=795105&utm_source=habrahabr&utm_medium=rss)
-- [Поиск элементов в Appium](https://habr.com/ru/articles/795103/?utm_campaign=795103&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

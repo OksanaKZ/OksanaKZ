@@ -11,7 +11,7 @@
 ## :raising_hand: About Me
 
   + [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/oksana_qa_engineer.pdf)
-  + Certificates
+  + [Certificates](https://github.com/OksanaKZ/My_Certificates/)
 
 ## :page_with_curl: My Works
 

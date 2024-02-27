@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Платформа для нагрузочного тестирования на базе Apache Airflow](https://habr.com/ru/articles/796597/?utm_campaign=796597&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как я пишу HTTP-сервисы спустя 13 лет работы с Go](https://habr.com/ru/articles/793166/?utm_campaign=793166&utm_source=habrahabr&utm_medium=rss)
 - [API-автотесты: как достичь наиболее полного покрытия?](https://habr.com/ru/companies/ncloudtech/articles/793342/?utm_campaign=793342&utm_source=habrahabr&utm_medium=rss)
 - [Quality Gate для автоматизации QA](https://habr.com/ru/companies/otus/articles/794764/?utm_campaign=794764&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Cinimex QA meetup &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/795307/?utm_campaign=795307&utm_source=habrahabr&utm_medium=rss)
-- [Лучшие практики модульного тестирования](https://habr.com/ru/articles/795105/?utm_campaign=795105&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

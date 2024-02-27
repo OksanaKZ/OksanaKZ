@@ -6,7 +6,7 @@
 
 ✉️  You can contact me at [oksanakozlyuk@gmail.com](mailto:oksanakozlyuk@gmail.com)
 
-<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="250"/>
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiYWFjdDF1ZmZiaDVseXQyY21icWh6aTVxNTk5MzM2ZzVmenFoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" align="right" width="250"/></p>
   
 ## :raising_hand: About Me
 

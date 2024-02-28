@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Обучение на веб-тестировщика | Как и с помощью чего обучаю я](https://habr.com/ru/articles/796975/?utm_campaign=796975&utm_source=habrahabr&utm_medium=rss)
 - [Moscow QA #2 митап для тестировщиков](https://habr.com/ru/articles/796737/?utm_campaign=796737&utm_source=habrahabr&utm_medium=rss)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/796755/?utm_campaign=796755&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Генерация тест-кейсов на основе искусственного интеллекта: революционный подход для тестировщиков](https://habr.com/ru/articles/796623/?utm_campaign=796623&utm_source=habrahabr&utm_medium=rss)
 - [Платформа для нагрузочного тестирования на базе Apache Airflow](https://habr.com/ru/articles/796597/?utm_campaign=796597&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как я пишу HTTP-сервисы спустя 13 лет работы с Go](https://habr.com/ru/articles/793166/?utm_campaign=793166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

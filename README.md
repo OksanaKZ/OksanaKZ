@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Не читал? Я осуждаю! 5 имен, которые должен знать каждый тестировщик](https://habr.com/ru/companies/ibs/articles/797105/?utm_campaign=797105&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем OpenAPI-документацию в автотестах](https://habr.com/ru/companies/hh/articles/796665/?utm_campaign=796665&utm_source=habrahabr&utm_medium=rss)
 - [Обучение на веб-тестировщика | Как и с помощью чего обучаю я](https://habr.com/ru/articles/796975/?utm_campaign=796975&utm_source=habrahabr&utm_medium=rss)
 - [Moscow QA #2 митап для тестировщиков](https://habr.com/ru/articles/796737/?utm_campaign=796737&utm_source=habrahabr&utm_medium=rss)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/796755/?utm_campaign=796755&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Генерация тест-кейсов на основе искусственного интеллекта: революционный подход для тестировщиков](https://habr.com/ru/articles/796623/?utm_campaign=796623&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

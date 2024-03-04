@@ -33,7 +33,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Это не баг, а фича – 6 ситуаций, с которыми должен справляться каждый QA инженер](https://habr.com/ru/articles/797795/?utm_campaign=797795&utm_source=habrahabr&utm_medium=rss)
+- [Путь к надёжности: как QA инженеру действовать в нестандартных ситуациях](https://habr.com/ru/articles/797795/?utm_campaign=797795&utm_source=habrahabr&utm_medium=rss)
 - [Полезные ресурсы для тестировщиков](https://habr.com/ru/articles/797643/?utm_campaign=797643&utm_source=habrahabr&utm_medium=rss)
 - [Разница между тестированием и отладкой в разработке программного обеспечения: ключевые аспекты](https://habr.com/ru/articles/797641/?utm_campaign=797641&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 36 багов 29 февраля 2024](https://habr.com/ru/articles/797569/?utm_campaign=797569&utm_source=habrahabr&utm_medium=rss)

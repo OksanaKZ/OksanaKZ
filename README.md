@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я перестал бояться и полюбил автоматизацию мобильных приложений — Robot Framework](https://habr.com/ru/companies/yandex_praktikum/articles/794064/?utm_campaign=794064&utm_source=habrahabr&utm_medium=rss)
 - [Путь к надёжности: как QA инженеру действовать в нестандартных ситуациях](https://habr.com/ru/articles/797795/?utm_campaign=797795&utm_source=habrahabr&utm_medium=rss)
 - [Полезные ресурсы для тестировщиков](https://habr.com/ru/articles/797643/?utm_campaign=797643&utm_source=habrahabr&utm_medium=rss)
 - [Разница между тестированием и отладкой в разработке программного обеспечения: ключевые аспекты](https://habr.com/ru/articles/797641/?utm_campaign=797641&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 36 багов 29 февраля 2024](https://habr.com/ru/articles/797569/?utm_campaign=797569&utm_source=habrahabr&utm_medium=rss)
-- [Опыт автоматизации управления FPGA-стендами для распределенной команды: отказ от готового решения и работа над ошибками](https://habr.com/ru/companies/yadro/articles/797111/?utm_campaign=797111&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

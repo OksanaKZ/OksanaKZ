@@ -33,7 +33,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Секреты тестирования Wiren Board:  test-suite и крафтовые стенды](https://habr.com/ru/companies/wirenboard/articles/798325/?utm_campaign=798325&utm_source=habrahabr&utm_medium=rss)
+- [Секреты тестирования Wiren Board: test-suite и крафтовые стенды](https://habr.com/ru/companies/wirenboard/articles/798325/?utm_campaign=798325&utm_source=habrahabr&utm_medium=rss)
 - [Тест-дизайн на практике: комбинируем разные техники тестирования, на примере проверки систем оплаты](https://habr.com/ru/companies/petrovich-tech/articles/798347/?utm_campaign=798347&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 9 советов как ускорить автоматизированные UI тесты](https://habr.com/ru/articles/798257/?utm_campaign=798257&utm_source=habrahabr&utm_medium=rss)
 - [Как я перестал бояться и полюбил автоматизацию мобильных приложений — Robot Framework](https://habr.com/ru/companies/yandex_praktikum/articles/794064/?utm_campaign=794064&utm_source=habrahabr&utm_medium=rss)

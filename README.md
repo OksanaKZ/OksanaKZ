@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Bazel, stamping, remote cache &lpar;часть 2&rpar;](https://habr.com/ru/companies/joom/articles/799201/?utm_campaign=799201&utm_source=habrahabr&utm_medium=rss)
+- [Как игрушечный свисток помог взломать телефонную систему: история Джона Дрейпера](https://habr.com/ru/companies/first/articles/799311/?utm_campaign=799311&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Outlook Remote Code Execution CVE-2024-21413](https://habr.com/ru/articles/798759/?utm_campaign=798759&utm_source=habrahabr&utm_medium=rss)
 - [Что можно и стоит писать в поле Pre-conditions в тест-кейсах](https://habr.com/ru/articles/798711/?utm_campaign=798711&utm_source=habrahabr&utm_medium=rss)
 - [Восемь опаснейших уязвимостей февраля 2024 года](https://habr.com/ru/companies/pt/articles/798357/?utm_campaign=798357&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем устройства, которые производим: Python, Grafana и крафтовые стенды](https://habr.com/ru/companies/wirenboard/articles/798325/?utm_campaign=798325&utm_source=habrahabr&utm_medium=rss)
-- [Тест-дизайн на практике: комбинируем разные техники тестирования, на примере проверки систем оплаты](https://habr.com/ru/companies/petrovich-tech/articles/798347/?utm_campaign=798347&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

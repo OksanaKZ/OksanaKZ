@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [В помощь IT-команде — «Регламент создания багов» или «Как сделать задачу ясной для тебя из отпуска»](https://habr.com/ru/articles/799879/?utm_campaign=799879&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Долой баги! Рандомизация веб-тестирования](https://habr.com/ru/articles/799717/?utm_campaign=799717&utm_source=habrahabr&utm_medium=rss)
 - [Инфраструктурный пентест по шагам: сканирование и получение доступа](https://habr.com/ru/companies/bastion/articles/799529/?utm_campaign=799529&utm_source=habrahabr&utm_medium=rss)
 - [Bazel, stamping, remote cache &lpar;часть 2&rpar;](https://habr.com/ru/companies/joom/articles/799201/?utm_campaign=799201&utm_source=habrahabr&utm_medium=rss)
 - [Как игрушечный свисток помог взломать телефонную систему: история Джона Дрейпера](https://habr.com/ru/companies/first/articles/799311/?utm_campaign=799311&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Outlook Remote Code Execution CVE-2024-21413](https://habr.com/ru/articles/798759/?utm_campaign=798759&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

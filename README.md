@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Беда “войти в айти” или курсы тестировщика отзывы: Сколько студентов на самом деле находит работу после Skillbox](https://habr.com/ru/articles/800079/?utm_campaign=800079&utm_source=habrahabr&utm_medium=rss)
 - [JIRA + AI = LOVE или Как Product manager-у найти друзей и перестать страдать](https://habr.com/ru/companies/raft/articles/799953/?utm_campaign=799953&utm_source=habrahabr&utm_medium=rss)
 - [Fullstack QA — путь самурая, или раскрытие потенциала тестировщика](https://habr.com/ru/companies/slsoft/articles/799589/?utm_campaign=799589&utm_source=habrahabr&utm_medium=rss)
 - [В помощь IT-команде — «Регламент создания багов» или «Как сделать задачу ясной для тебя из отпуска»](https://habr.com/ru/articles/799879/?utm_campaign=799879&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Долой баги! Рандомизация веб-тестирования](https://habr.com/ru/articles/799717/?utm_campaign=799717&utm_source=habrahabr&utm_medium=rss)
-- [Инфраструктурный пентест по шагам: сканирование и получение доступа](https://habr.com/ru/companies/bastion/articles/799529/?utm_campaign=799529&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

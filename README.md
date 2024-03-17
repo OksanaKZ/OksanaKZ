@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Спринт с багами, или как &lpar;не&rpar; создать себе проблем](https://habr.com/ru/articles/800841/?utm_campaign=800841&utm_source=habrahabr&utm_medium=rss)
 - [Разница ролей QA Lead, QA Manager и QA Head](https://habr.com/ru/articles/800591/?utm_campaign=800591&utm_source=habrahabr&utm_medium=rss)
 - [Частые ошибки при освоении профессии QA Engineer](https://habr.com/ru/articles/800329/?utm_campaign=800329&utm_source=habrahabr&utm_medium=rss)
 - [Внутренняя разведка Active Directory через Cobalt Strike](https://habr.com/ru/articles/800247/?utm_campaign=800247&utm_source=habrahabr&utm_medium=rss)
 - [Беда «войти в айти» или курсы тестировщика отзывы: Сколько студентов на самом деле находит работу после Skillbox](https://habr.com/ru/articles/800079/?utm_campaign=800079&utm_source=habrahabr&utm_medium=rss)
-- [JIRA + AI = LOVE или Как Product manager-у найти друзей и перестать страдать](https://habr.com/ru/companies/raft/articles/799953/?utm_campaign=799953&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -33,9 +33,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/801227/?utm_campaign=801227&utm_source=habrahabr&utm_medium=rss)
 - [Monkey patching в Go, или грабли от Apple](https://habr.com/ru/articles/801177/?utm_campaign=801177&utm_source=habrahabr&utm_medium=rss)
 - [Спринт с багами, или как &lpar;не&rpar; создать себе проблем](https://habr.com/ru/articles/800841/?utm_campaign=800841&utm_source=habrahabr&utm_medium=rss)
 - [Разница ролей QA Lead, QA Manager и QA Head](https://habr.com/ru/articles/800591/?utm_campaign=800591&utm_source=habrahabr&utm_medium=rss)
 - [Частые ошибки при освоении профессии QA Engineer](https://habr.com/ru/articles/800329/?utm_campaign=800329&utm_source=habrahabr&utm_medium=rss)
-- [Внутренняя разведка Active Directory через Cobalt Strike](https://habr.com/ru/articles/800247/?utm_campaign=800247&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

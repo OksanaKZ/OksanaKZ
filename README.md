@@ -18,6 +18,7 @@
   + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
   + [Test cases](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
   + [Mindmap](https://github.com/OksanaKZ/OksanaKZ/blob/main/mindmap.png)
+  + [Postman collection](https://github.com/OksanaKZ/Postman_Collection/blob/main/Petstore.postman_collection.json)
 
 ## :hammer_and_wrench: Tools and Languages
 <div>

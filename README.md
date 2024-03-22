@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Шпаргалка глаголов на английском языке при составлении тест-кейсов и заведении дефектов](https://habr.com/ru/articles/802265/?utm_campaign=802265&utm_source=habrahabr&utm_medium=rss)
 - [Большая шпаргалка по Docker: как распилить монолитный проект на части](https://habr.com/ru/companies/kokocgroup/articles/802039/?utm_campaign=802039&utm_source=habrahabr&utm_medium=rss)
 - [Уравнение с тремя неизвестными: как отлавливать баги в системах хранения данных](https://habr.com/ru/companies/yadro/articles/800237/?utm_campaign=800237&utm_source=habrahabr&utm_medium=rss)
 - [Ферма тестирования SberDevices](https://habr.com/ru/companies/sberdevices/articles/801773/?utm_campaign=801773&utm_source=habrahabr&utm_medium=rss)
 - [Как собрать контейнер и не вооружить хакера](https://habr.com/ru/companies/oleg-bunin/articles/799773/?utm_campaign=799773&utm_source=habrahabr&utm_medium=rss)
-- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/801227/?utm_campaign=801227&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

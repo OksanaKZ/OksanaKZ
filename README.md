@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Эксплуатируем переполнение буфера в простом TCP-сервере](https://habr.com/ru/articles/803141/?utm_campaign=803141&utm_source=habrahabr&utm_medium=rss)
 - [История об одном экзамене](https://habr.com/ru/companies/itfb/articles/802975/?utm_campaign=802975&utm_source=habrahabr&utm_medium=rss)
 - [Как проверить локаторы с помощью Playwright](https://habr.com/ru/articles/802767/?utm_campaign=802767&utm_source=habrahabr&utm_medium=rss)
 - [Disaster Recovery Plan: Как правильно заваривать чай, когда горит серверная](https://habr.com/ru/companies/wiseops/articles/802701/?utm_campaign=802701&utm_source=habrahabr&utm_medium=rss)
 - [Автоматическое тестирование ускорило разработку в 50 раз. Сказка от создателей FoundationDB](https://habr.com/ru/companies/ruvds/articles/800009/?utm_campaign=800009&utm_source=habrahabr&utm_medium=rss)
-- [Шпаргалка глаголов на английском языке при составлении тест-кейсов и заведении дефектов](https://habr.com/ru/articles/802265/?utm_campaign=802265&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Профессия — инженер по автоматизации тестирования: работодатели в поисках фулстеков](https://habr.com/ru/companies/yandex_praktikum/articles/803297/?utm_campaign=803297&utm_source=habrahabr&utm_medium=rss)
 - [Третий год борюсь с инфоцыганами. Теперь за мной следит наблюдательный совет](https://habr.com/ru/articles/802937/?utm_campaign=802937&utm_source=habrahabr&utm_medium=rss)
 - [Эксплуатируем переполнение буфера в простом TCP-сервере](https://habr.com/ru/articles/803141/?utm_campaign=803141&utm_source=habrahabr&utm_medium=rss)
 - [История об одном экзамене](https://habr.com/ru/companies/itfb/articles/802975/?utm_campaign=802975&utm_source=habrahabr&utm_medium=rss)
 - [Как проверить локаторы с помощью Playwright](https://habr.com/ru/articles/802767/?utm_campaign=802767&utm_source=habrahabr&utm_medium=rss)
-- [Disaster Recovery Plan: Как правильно заваривать чай, когда горит серверная](https://habr.com/ru/companies/wiseops/articles/802701/?utm_campaign=802701&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

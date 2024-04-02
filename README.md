@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Rust — это не «memory safe C»](https://habr.com/ru/articles/804915/?utm_campaign=804915&utm_source=habrahabr&utm_medium=rss)
 - [Обзор продукта «Структура API» и новой функциональности сравнения Open API спецификаций](https://habr.com/ru/companies/webmonitorx/articles/804489/?utm_campaign=804489&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно выбрать тестовое покрытие, чтобы уложиться в рамки бюджета на тестирование](https://habr.com/ru/articles/804803/?utm_campaign=804803&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании — выполнение тестового проекта](https://habr.com/ru/articles/803711/?utm_campaign=803711&utm_source=habrahabr&utm_medium=rss)
 - [Синкерим, хешайдим, терминируем: 6 утилит, чтобы ускорить ваши локализации](https://habr.com/ru/companies/kaspersky/articles/804207/?utm_campaign=804207&utm_source=habrahabr&utm_medium=rss)
-- [Как защитить PROD от багов и себя от стресса](https://habr.com/ru/articles/804171/?utm_campaign=804171&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

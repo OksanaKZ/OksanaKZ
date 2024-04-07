@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Все, что нужно знать перед сдачей ISTQB](https://habr.com/ru/articles/805993/?utm_campaign=805993&utm_source=habrahabr&utm_medium=rss)
 - [Shiva — Open Source проект на Rust для парсинга и генерации документов любого типа](https://habr.com/ru/articles/805871/?utm_campaign=805871&utm_source=habrahabr&utm_medium=rss)
 - [Как протестировать Android-приложение, которому требуются разрешения](https://habr.com/ru/companies/kaspersky/articles/804563/?utm_campaign=804563&utm_source=habrahabr&utm_medium=rss)
 - [Как настроить тестирование с Vanessa Automation и Gitlab с нуля](https://habr.com/ru/companies/samolet/articles/803345/?utm_campaign=803345&utm_source=habrahabr&utm_medium=rss)
 - [Стоит ли идти в тестирование в 2024 году?](https://habr.com/ru/articles/805147/?utm_campaign=805147&utm_source=habrahabr&utm_medium=rss)
-- [Rust — это не «memory safe C»](https://habr.com/ru/articles/804915/?utm_campaign=804915&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

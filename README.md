@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Трендовые уязвимости марта: обновляйтесь и импортозамещайтесь](https://habr.com/ru/companies/pt/articles/806519/?utm_campaign=806519&utm_source=habrahabr&utm_medium=rss)
 - [Хорошие практики нагрузочного тестирования: гайд для тех, кто успел до «пожара»](https://habr.com/ru/companies/digitalleague/articles/806439/?utm_campaign=806439&utm_source=habrahabr&utm_medium=rss)
 - [Тестируй, пиши отчет и снова тестируй! Как мы в лабораториях КРОК изучаем рынок инфраструктурных решений](https://habr.com/ru/companies/croc/articles/806101/?utm_campaign=806101&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 13 инструментов для тестирования методом «чёрного ящика»](https://habr.com/ru/companies/otus/articles/806087/?utm_campaign=806087&utm_source=habrahabr&utm_medium=rss)
 - [Лучшее и новое: что расскажут о тестировании на Heisenbug 2024 Spring](https://habr.com/ru/companies/jugru/articles/803541/?utm_campaign=803541&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Рулетка онбординга: ежедневно удаляем аккаунты сотрудников](https://habr.com/ru/articles/800679/?utm_campaign=800679&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -35,8 +35,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [На что способны процессоры Intel 14 поколения на Raptor Lake Refresh: Core i5, Core i7 и Core i9](https://habr.com/ru/companies/x-com/articles/807045/?utm_campaign=807045&utm_source=habrahabr&utm_medium=rss)
-- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/806961/?utm_campaign=806961&utm_source=habrahabr&utm_medium=rss)
 - [Охота за кредами](https://habr.com/ru/articles/806831/?utm_campaign=806831&utm_source=habrahabr&utm_medium=rss)
 - [Xpath — залог стабильных UI-автотестов на Web и Mobile Web](https://habr.com/ru/companies/vk/articles/806661/?utm_campaign=806661&utm_source=habrahabr&utm_medium=rss)
 - [Трендовые уязвимости марта: обновляйтесь и импортозамещайтесь](https://habr.com/ru/companies/pt/articles/806519/?utm_campaign=806519&utm_source=habrahabr&utm_medium=rss)
+- [Хорошие практики нагрузочного тестирования: гайд для тех, кто успел до «пожара»](https://habr.com/ru/companies/digitalleague/articles/806439/?utm_campaign=806439&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

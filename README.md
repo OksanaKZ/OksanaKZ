@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Metatron — Open Source библиотека для генерации отчетов на языке Rust](https://habr.com/ru/articles/808721/?utm_campaign=808721&utm_source=habrahabr&utm_medium=rss)
 - [Нужны ли курсы по тестированию? Честное мнение от преподавателя](https://habr.com/ru/articles/808447/?utm_campaign=808447&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Что такое системное тестирование, зачем оно нужно и как его проводить?](https://habr.com/ru/articles/807813/?utm_campaign=807813&utm_source=habrahabr&utm_medium=rss)
 - [Денежный вопрос: обсуждаем затраты на Bug Bounty с Лукой Сафоновым](https://habr.com/ru/companies/bastion/articles/807787/?utm_campaign=807787&utm_source=habrahabr&utm_medium=rss)
 - [Рецензия на новую книгу «Баг-трекинг: локализация и оформление дефектов» Ольги Назиной](https://habr.com/ru/companies/ssp-soft/articles/807543/?utm_campaign=807543&utm_source=habrahabr&utm_medium=rss)
-- [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/ru/articles/807449/?utm_campaign=807449&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

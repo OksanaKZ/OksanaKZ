@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Найти отличия, или внедряем Snapshot-тесты для web. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/808799/?utm_campaign=808799&utm_source=habrahabr&utm_medium=rss)
 - [Введение в BDD](https://habr.com/ru/companies/auriga/articles/808527/?utm_campaign=808527&utm_source=habrahabr&utm_medium=rss)
 - [Домашняя лаба. Как собрать домашнюю инфраструктуру мечты](https://habr.com/ru/articles/808751/?utm_campaign=808751&utm_source=habrahabr&utm_medium=rss)
 - [Нужны ли курсы по тестированию? Честное мнение от преподавателя](https://habr.com/ru/articles/808447/?utm_campaign=808447&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Что такое системное тестирование, зачем оно нужно и как его проводить?](https://habr.com/ru/articles/807813/?utm_campaign=807813&utm_source=habrahabr&utm_medium=rss)
-- [Денежный вопрос: обсуждаем затраты на Bug Bounty с Лукой Сафоновым](https://habr.com/ru/companies/bastion/articles/807787/?utm_campaign=807787&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

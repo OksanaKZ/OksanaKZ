@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как QA собеседование проходил](https://habr.com/ru/companies/sportmaster_lab/articles/809007/?utm_campaign=809007&utm_source=habrahabr&utm_medium=rss)
 - [Просто ли открывается ларчик, Или как протестировать сразу более 10 сервисов](https://habr.com/ru/companies/sberbank/articles/808965/?utm_campaign=808965&utm_source=habrahabr&utm_medium=rss)
 - [Найти отличия, или внедряем Snapshot-тесты для web. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/808799/?utm_campaign=808799&utm_source=habrahabr&utm_medium=rss)
 - [Введение в BDD](https://habr.com/ru/companies/auriga/articles/808527/?utm_campaign=808527&utm_source=habrahabr&utm_medium=rss)
 - [Домашняя лаба. Как собрать домашнюю инфраструктуру мечты](https://habr.com/ru/articles/808751/?utm_campaign=808751&utm_source=habrahabr&utm_medium=rss)
-- [Нужны ли курсы по тестированию? Честное мнение от преподавателя](https://habr.com/ru/articles/808447/?utm_campaign=808447&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

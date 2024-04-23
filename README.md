@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Чистый дизайн. Практика эмпирического проектирования ПО»](https://habr.com/ru/companies/piter/articles/809815/?utm_campaign=809815&utm_source=habrahabr&utm_medium=rss)
 - [Инфраструктурный пентест по шагам: боковое перемещение и повышение привилегий в сети](https://habr.com/ru/companies/bastion/articles/809655/?utm_campaign=809655&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузи меня, Gatling](https://habr.com/ru/companies/alfastrah/articles/808281/?utm_campaign=808281&utm_source=habrahabr&utm_medium=rss)
 - [QA-тестировщикам — рецензия на книгу «Тест-дизайн. Практическое руководство» Ольги Назиной](https://habr.com/ru/companies/ssp-soft/articles/809151/?utm_campaign=809151&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование UI в Compose Multiplatform](https://habr.com/ru/articles/809127/?utm_campaign=809127&utm_source=habrahabr&utm_medium=rss)
-- [Как QA собеседование проходил](https://habr.com/ru/companies/sportmaster_lab/articles/809007/?utm_campaign=809007&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

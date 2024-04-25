@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzing-тестирование. Практическое применение](https://habr.com/ru/companies/wildberries/articles/808911/?utm_campaign=808911&utm_source=habrahabr&utm_medium=rss)
 - [REST API на котиках](https://habr.com/ru/companies/cdek_blog/articles/809601/?utm_campaign=809601&utm_source=habrahabr&utm_medium=rss)
 - [Анализ инцидентов с продакшена: как мы интегрировали этот процесс в тестирование](https://habr.com/ru/companies/slsoft/articles/809635/?utm_campaign=809635&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать работу тестировщиков по науке](https://habr.com/ru/companies/ibs/articles/810099/?utm_campaign=810099&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Чистый дизайн. Практика эмпирического проектирования ПО»](https://habr.com/ru/companies/piter/articles/809815/?utm_campaign=809815&utm_source=habrahabr&utm_medium=rss)
-- [Инфраструктурный пентест по шагам: боковое перемещение и повышение привилегий в сети](https://habr.com/ru/companies/bastion/articles/809655/?utm_campaign=809655&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

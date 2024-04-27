@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаём надёжные API для бэкенда при помощи конечных автоматов: подробное руководство](https://habr.com/ru/companies/piter/articles/810955/?utm_campaign=810955&utm_source=habrahabr&utm_medium=rss)
 - [Телеграм бот для подготовки к собеседованиям для QA инженеров](https://habr.com/ru/articles/810775/?utm_campaign=810775&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие альтернативы ChatGPT для QA](https://habr.com/ru/articles/810525/?utm_campaign=810525&utm_source=habrahabr&utm_medium=rss)
 - [Fuzzing-тестирование. Практическое применение](https://habr.com/ru/companies/wildberries/articles/808911/?utm_campaign=808911&utm_source=habrahabr&utm_medium=rss)
 - [REST API на котиках](https://habr.com/ru/companies/cdek_blog/articles/809601/?utm_campaign=809601&utm_source=habrahabr&utm_medium=rss)
-- [Анализ инцидентов с продакшена: как мы интегрировали этот процесс в тестирование](https://habr.com/ru/companies/slsoft/articles/809635/?utm_campaign=809635&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

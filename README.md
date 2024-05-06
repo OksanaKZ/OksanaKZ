@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Образование для “Войти в IT” на примере тестирования](https://habr.com/ru/articles/812725/?utm_campaign=812725&utm_source=habrahabr&utm_medium=rss)
 - [Переезд с Jira](https://habr.com/ru/companies/itfb/articles/812157/?utm_campaign=812157&utm_source=habrahabr&utm_medium=rss)
 - [Управление API или API Security? Что это такое?](https://habr.com/ru/companies/webmonitorx/articles/811753/?utm_campaign=811753&utm_source=habrahabr&utm_medium=rss)
 - [Мифы о работе тестировщиков, на которые всегда один ответ: «Ага, конечно. Ты полностью прав»](https://habr.com/ru/companies/rshb/articles/811021/?utm_campaign=811021&utm_source=habrahabr&utm_medium=rss)
 - [Как закрыть весь техдолг автотестов за два дня «по-домашнему»](https://habr.com/ru/companies/alfa/articles/810983/?utm_campaign=810983&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Создаём надёжные API для бэкенда при помощи конечных автоматов: подробное руководство](https://habr.com/ru/companies/piter/articles/810955/?utm_campaign=810955&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

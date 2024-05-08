@@ -34,8 +34,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Профессия «белый хакер»: как превратить хобби в работу](https://habr.com/ru/companies/pt/articles/813137/?utm_campaign=813137&utm_source=habrahabr&utm_medium=rss)
 - [Трендовые уязвимости апреля: до пяти лет скрытой эксплуатации](https://habr.com/ru/companies/pt/articles/813003/?utm_campaign=813003&utm_source=habrahabr&utm_medium=rss)
-- [Профессия «белый хакер»: как превратить хобби в работу](https://habr.com/ru/companies/pt/articles/812911/?utm_campaign=812911&utm_source=habrahabr&utm_medium=rss)
 - [Flatpak CVE-2024-32462](https://habr.com/ru/articles/812885/?utm_campaign=812885&utm_source=habrahabr&utm_medium=rss)
 - [Фаззинг на пальцах. Часть 2: автоматизация фаззинг-тестирования на примере ClusterFuzz](https://habr.com/ru/companies/ussc/articles/812853/?utm_campaign=812853&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование программного решения в проектах внедрения ERP-систем](https://habr.com/ru/articles/812761/?utm_campaign=812761&utm_source=habrahabr&utm_medium=rss)

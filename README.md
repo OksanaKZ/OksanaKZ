@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Выстраиваем понятный онбординг: кейс команды тестирования из Яндекс Диска](https://habr.com/ru/companies/yandex360/articles/813909/?utm_campaign=813909&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз большого интерактивного «столетнего» учебника по тестированию](https://habr.com/ru/articles/814133/?utm_campaign=814133&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование для интернет-магазина](https://habr.com/ru/articles/814119/?utm_campaign=814119&utm_source=habrahabr&utm_medium=rss)
 - [Как стать тестировщиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/813749/?utm_campaign=813749&utm_source=habrahabr&utm_medium=rss)
 - [Профессия «белый хакер»: как превратить хобби в работу](https://habr.com/ru/companies/pt/articles/813137/?utm_campaign=813137&utm_source=habrahabr&utm_medium=rss)
-- [Трендовые уязвимости апреля: до пяти лет скрытой эксплуатации](https://habr.com/ru/companies/pt/articles/813003/?utm_campaign=813003&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как замерять и повышать производительность Java-кода: личный пример с JMH](https://habr.com/ru/companies/sberbank/articles/814299/?utm_campaign=814299&utm_source=habrahabr&utm_medium=rss)
+- [Интеллект-карта с вопросами для подготовки к собеседованию Junior QA](https://habr.com/ru/articles/814379/?utm_campaign=814379&utm_source=habrahabr&utm_medium=rss)
 - [Выстраиваем понятный онбординг: кейс команды тестирования из Яндекс Диска](https://habr.com/ru/companies/yandex360/articles/813909/?utm_campaign=813909&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз большого интерактивного «столетнего» учебника по тестированию](https://habr.com/ru/articles/814133/?utm_campaign=814133&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование для интернет-магазина](https://habr.com/ru/articles/814119/?utm_campaign=814119&utm_source=habrahabr&utm_medium=rss)
-- [Как стать тестировщиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/813749/?utm_campaign=813749&utm_source=habrahabr&utm_medium=rss)
-- [Профессия «белый хакер»: как превратить хобби в работу](https://habr.com/ru/companies/pt/articles/813137/?utm_campaign=813137&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [7 главных типов веб-уязвимостей, о которых должен знать каждый бэкендер](https://habr.com/ru/companies/spaceweb/articles/814725/?utm_campaign=814725&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Сам себе тестировщик. Пошаговое руководство по тестированию ПО»](https://habr.com/ru/companies/piter/articles/814281/?utm_campaign=814281&utm_source=habrahabr&utm_medium=rss)
 - [Как замерять и повышать производительность Java-кода: личный пример с JMH](https://habr.com/ru/companies/sberbank/articles/814299/?utm_campaign=814299&utm_source=habrahabr&utm_medium=rss)
 - [Интеллект-карта с вопросами для подготовки к собеседованию Junior QA](https://habr.com/ru/articles/814379/?utm_campaign=814379&utm_source=habrahabr&utm_medium=rss)
 - [Выстраиваем понятный онбординг: кейс команды тестирования из Яндекс Диска](https://habr.com/ru/companies/yandex360/articles/813909/?utm_campaign=813909&utm_source=habrahabr&utm_medium=rss)
-- [Новый релиз большого интерактивного «столетнего» учебника по тестированию](https://habr.com/ru/articles/814133/?utm_campaign=814133&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

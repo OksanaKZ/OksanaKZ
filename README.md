@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы собеседовали ChatGPT на позицию QA](https://habr.com/ru/companies/hh/articles/815143/?utm_campaign=815143&utm_source=habrahabr&utm_medium=rss)
 - [Еще раз о регрессе: почему тестирование до сих пор вызывает вопросы?](https://habr.com/ru/companies/digitalleague/articles/815615/?utm_campaign=815615&utm_source=habrahabr&utm_medium=rss)
 - [Можно ли устроиться на работу тестировщиком после курсов? Что они дают?](https://habr.com/ru/articles/815327/?utm_campaign=815327&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировщику выживать среди заказчиков](https://habr.com/ru/companies/sportmaster_lab/articles/814313/?utm_campaign=814313&utm_source=habrahabr&utm_medium=rss)
 - [6 главных типов веб-уязвимостей, о которых должен знать каждый бэкендер](https://habr.com/ru/companies/spaceweb/articles/814725/?utm_campaign=814725&utm_source=habrahabr&utm_medium=rss)
-- [Книга: «Сам себе тестировщик. Пошаговое руководство по тестированию ПО»](https://habr.com/ru/companies/piter/articles/814281/?utm_campaign=814281&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

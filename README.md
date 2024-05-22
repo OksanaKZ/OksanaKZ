@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовить данные для запроса в Postman через pre-request](https://habr.com/ru/articles/816343/?utm_campaign=816343&utm_source=habrahabr&utm_medium=rss)
 - [Гайд по использованию JUnit 5, Mockito и AssertJ для проверки поведения кода](https://habr.com/ru/companies/banki/articles/814485/?utm_campaign=814485&utm_source=habrahabr&utm_medium=rss)
 - [Написание скриптов для Cobalt Strike C2 &lpar;Aggressor Script&rpar;](https://habr.com/ru/articles/815927/?utm_campaign=815927&utm_source=habrahabr&utm_medium=rss)
 - [Как мы собеседовали ChatGPT на позицию QA](https://habr.com/ru/companies/hh/articles/815143/?utm_campaign=815143&utm_source=habrahabr&utm_medium=rss)
 - [Еще раз о регрессе: почему тестирование до сих пор вызывает вопросы?](https://habr.com/ru/companies/digitalleague/articles/815615/?utm_campaign=815615&utm_source=habrahabr&utm_medium=rss)
-- [Можно ли устроиться на работу тестировщиком после курсов? Что они дают?](https://habr.com/ru/articles/815327/?utm_campaign=815327&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

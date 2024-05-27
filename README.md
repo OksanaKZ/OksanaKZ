@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему JOOQ — идеальный инструмент для работы с БД при интеграционном тестировании API](https://habr.com/ru/companies/simbirsoft/articles/817253/?utm_campaign=817253&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Повышение живучести SSD за счёт его превращения из QLC в SLC](https://habr.com/ru/companies/ruvds/articles/816463/?utm_campaign=816463&utm_source=habrahabr&utm_medium=rss)
 - [Пермишены &lpar;permissions&rpar; для тестировщика: зачем нужно, что такое и как с этим работать](https://habr.com/ru/articles/816951/?utm_campaign=816951&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты E2E для самых маленьких](https://habr.com/ru/articles/816597/?utm_campaign=816597&utm_source=habrahabr&utm_medium=rss)
 - [Как подготовить данные для запроса в Postman через pre-request](https://habr.com/ru/articles/816343/?utm_campaign=816343&utm_source=habrahabr&utm_medium=rss)
-- [Гайд по использованию JUnit 5, Mockito и AssertJ для проверки поведения кода](https://habr.com/ru/companies/banki/articles/814485/?utm_campaign=814485&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

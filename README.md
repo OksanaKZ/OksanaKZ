@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Cinimex TECH VRN meetup в Воронеже &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/819387/?utm_campaign=819387&utm_source=habrahabr&utm_medium=rss)
 - [СДЭК в критические дни и приключения с потерянным лекарством](https://habr.com/ru/articles/818927/?utm_campaign=818927&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Интеграционное тестирование с применением Testcontainers в .NET 8](https://habr.com/ru/companies/piter/articles/818071/?utm_campaign=818071&utm_source=habrahabr&utm_medium=rss)
 - [Между холиваром и оверинжинирингом: что, если разработчик не доверяет тестам тестировщика](https://habr.com/ru/companies/kaspersky/articles/817999/?utm_campaign=817999&utm_source=habrahabr&utm_medium=rss)
 - [Генерация документации из моделей с помощью Pydantic](https://habr.com/ru/companies/2gis/articles/816457/?utm_campaign=816457&utm_source=habrahabr&utm_medium=rss)
-- [Нагружать может каждый](https://habr.com/ru/companies/oleg-bunin/articles/817591/?utm_campaign=817591&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

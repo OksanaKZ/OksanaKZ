@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как лиду тестирования войти в проект](https://habr.com/ru/companies/itfb/articles/819779/?utm_campaign=819779&utm_source=habrahabr&utm_medium=rss)
 - [Как генерировать полезные отчеты в автотестах](https://habr.com/ru/companies/auriga/articles/793594/?utm_campaign=793594&utm_source=habrahabr&utm_medium=rss)
 - [ИТ-книга от идеи до выпуска. Часть 2: поиск издательства](https://habr.com/ru/articles/820111/?utm_campaign=820111&utm_source=habrahabr&utm_medium=rss)
 - [Тест-менеджмент система TestY: обзор новых фич в версии 1.3](https://habr.com/ru/companies/yadro/articles/819657/?utm_campaign=819657&utm_source=habrahabr&utm_medium=rss)
 - [Как в Tele2 автоматизировали тестирование SAP ERP с помощью Python](https://habr.com/ru/companies/tele2/articles/819649/?utm_campaign=819649&utm_source=habrahabr&utm_medium=rss)
-- [AI уже тут: в какие инструменты тестирования уже интегрирован искусственный интеллект](https://habr.com/ru/articles/819573/?utm_campaign=819573&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

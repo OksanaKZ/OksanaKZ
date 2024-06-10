@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как ошибка ChatGPT стоила нам $10 000](https://habr.com/ru/articles/820633/?utm_campaign=820633&utm_source=habrahabr&utm_medium=rss)
 - [Слушаем события в Selenium с помощью Listeners. Как реагировать на события без тонны кода](https://habr.com/ru/articles/820557/?utm_campaign=820557&utm_source=habrahabr&utm_medium=rss)
 - [Все тесты — это юнит тесты :o](https://habr.com/ru/articles/820247/?utm_campaign=820247&utm_source=habrahabr&utm_medium=rss)
 - [Как лиду тестирования войти в проект](https://habr.com/ru/companies/itfb/articles/819779/?utm_campaign=819779&utm_source=habrahabr&utm_medium=rss)
 - [Как генерировать полезные отчеты в автотестах](https://habr.com/ru/companies/auriga/articles/793594/?utm_campaign=793594&utm_source=habrahabr&utm_medium=rss)
-- [ИТ-книга от идеи до выпуска. Часть 2: поиск издательства](https://habr.com/ru/articles/820111/?utm_campaign=820111&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

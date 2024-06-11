@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИТ-книга от идеи до выпуска. Часть 3: редактура и выпуск](https://habr.com/ru/articles/821097/?utm_campaign=821097&utm_source=habrahabr&utm_medium=rss)
 - [Как понять, что вы не дуршлаг, или Уязвимости, которые нельзя называть](https://habr.com/ru/companies/pt/articles/820879/?utm_campaign=820879&utm_source=habrahabr&utm_medium=rss)
 - [Предотвращение утечек API](https://habr.com/ru/companies/webmonitorx/articles/820695/?utm_campaign=820695&utm_source=habrahabr&utm_medium=rss)
 - [Ролевая модель и интеграция c Jira: что изменилось в системе для управления тестами, которая доступна всем](https://habr.com/ru/companies/yadro/articles/820675/?utm_campaign=820675&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Интеграционные тесты](https://habr.com/ru/companies/otus/articles/820851/?utm_campaign=820851&utm_source=habrahabr&utm_medium=rss)
-- [Трендовые уязвимости мая: лингвистический лесоруб и таинственный файл на ломаном английском](https://habr.com/ru/companies/pt/articles/820613/?utm_campaign=820613&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Космопути отдела нагрузочного тестирования — Cosmos](https://habr.com/ru/companies/tbank/articles/822913/?utm_campaign=822913&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как бороться с ReDoS](https://habr.com/ru/companies/otus/articles/822929/?utm_campaign=822929&utm_source=habrahabr&utm_medium=rss)
 - [No fail, no gain: как мы исправили более миллиона тестов, проверяя оптимизацию библиотеки OpenBLAS под RISC-V](https://habr.com/ru/companies/yadro/articles/821715/?utm_campaign=821715&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать А/B-тест в офлайне, на примере ускорения доставки в Самокате](https://habr.com/ru/companies/samokat_tech/articles/821777/?utm_campaign=821777&utm_source=habrahabr&utm_medium=rss)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/821561/?utm_campaign=821561&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование мобильных и веб-приложений: как избежать фейлов при планировании](https://habr.com/ru/articles/821209/?utm_campaign=821209&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

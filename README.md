@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я сдавала ISTQB Foundation Level V4.0](https://habr.com/ru/articles/823706/?utm_campaign=823706&utm_source=habrahabr&utm_medium=rss)
 - [«Скрипач не нужен» или что делать с тестовыми паролями](https://habr.com/ru/articles/823100/?utm_campaign=823100&utm_source=habrahabr&utm_medium=rss)
 - [Попарное тестирование: испытание огнем на задаче по рефакторингу кода](https://habr.com/ru/companies/petrovich-tech/articles/823130/?utm_campaign=823130&utm_source=habrahabr&utm_medium=rss)
 - [Космопути отдела нагрузочного тестирования — Cosmos](https://habr.com/ru/companies/tbank/articles/822913/?utm_campaign=822913&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как бороться с ReDoS](https://habr.com/ru/companies/otus/articles/822929/?utm_campaign=822929&utm_source=habrahabr&utm_medium=rss)
-- [No fail, no gain: как мы исправили более миллиона тестов, проверяя оптимизацию библиотеки OpenBLAS под RISC-V](https://habr.com/ru/companies/yadro/articles/821715/?utm_campaign=821715&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

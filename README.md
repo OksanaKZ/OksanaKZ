@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ELK: использовать нельзя изобрести](https://habr.com/ru/companies/vk/articles/822391/?utm_campaign=822391&utm_source=habrahabr&utm_medium=rss)
 - [Подробное руководство по Logcat в Android Studio с примерами](https://habr.com/ru/articles/818751/?utm_campaign=818751&utm_source=habrahabr&utm_medium=rss)
 - [Понимание бизнес-сущности системы при тестировании](https://habr.com/ru/companies/finam_broker/articles/823746/?utm_campaign=823746&utm_source=habrahabr&utm_medium=rss)
 - [Как я сдавала ISTQB Foundation Level V4.0](https://habr.com/ru/articles/823706/?utm_campaign=823706&utm_source=habrahabr&utm_medium=rss)
 - [«Скрипач не нужен» или что делать с тестовыми паролями](https://habr.com/ru/articles/823100/?utm_campaign=823100&utm_source=habrahabr&utm_medium=rss)
-- [Попарное тестирование: испытание огнем на задаче по рефакторингу кода](https://habr.com/ru/companies/petrovich-tech/articles/823130/?utm_campaign=823130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как тестировать PWA?](https://habr.com/ru/articles/824106/?utm_campaign=824106&utm_source=habrahabr&utm_medium=rss)
 - [Как подготовить тестовое окружение и не сойти с ума](https://habr.com/ru/companies/sbermarket/articles/823342/?utm_campaign=823342&utm_source=habrahabr&utm_medium=rss)
 - [ELK: использовать нельзя изобрести](https://habr.com/ru/companies/vk/articles/822391/?utm_campaign=822391&utm_source=habrahabr&utm_medium=rss)
 - [Подробное руководство по Logcat в Android Studio с примерами](https://habr.com/ru/articles/818751/?utm_campaign=818751&utm_source=habrahabr&utm_medium=rss)
 - [Понимание бизнес-сущности системы при тестировании](https://habr.com/ru/companies/finam_broker/articles/823746/?utm_campaign=823746&utm_source=habrahabr&utm_medium=rss)
-- [Как я сдавала ISTQB Foundation Level V4.0](https://habr.com/ru/articles/823706/?utm_campaign=823706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

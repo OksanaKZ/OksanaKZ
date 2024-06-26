@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анализ влияния тестирования](https://habr.com/ru/companies/otus/articles/824682/?utm_campaign=824682&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Тюнинг систем: экспериментирование для инженеров от A/B-тестирования до байесовской оптимизации»](https://habr.com/ru/companies/piter/articles/823314/?utm_campaign=823314&utm_source=habrahabr&utm_medium=rss)
 - [Эмуляция сбоев ФС. Ломаем PostgreSQL](https://habr.com/ru/articles/824376/?utm_campaign=824376&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать PWA?](https://habr.com/ru/articles/824106/?utm_campaign=824106&utm_source=habrahabr&utm_medium=rss)
 - [Как подготовить тестовое окружение и не сойти с ума](https://habr.com/ru/companies/sbermarket/articles/823342/?utm_campaign=823342&utm_source=habrahabr&utm_medium=rss)
-- [ELK: использовать нельзя изобрести](https://habr.com/ru/companies/vk/articles/822391/?utm_campaign=822391&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

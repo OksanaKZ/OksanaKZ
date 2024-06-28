@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Фальшивый опыт в резюме QA: Обман ради работы?](https://habr.com/ru/articles/825472/?utm_campaign=825472&utm_source=habrahabr&utm_medium=rss)
 - [Как пирамида тестирования уплывает на сторону разработки](https://habr.com/ru/companies/maxilect/articles/824918/?utm_campaign=824918&utm_source=habrahabr&utm_medium=rss)
 - [Как ChatGPT помогает искать работу: опыт QA-инженера](https://habr.com/ru/companies/yandex_praktikum/articles/822057/?utm_campaign=822057&utm_source=habrahabr&utm_medium=rss)
 - [Пирамида тестирования в hh.ru](https://habr.com/ru/companies/hh/articles/824134/?utm_campaign=824134&utm_source=habrahabr&utm_medium=rss)
 - [Встречайте новые функции продукта «ПроAPI Структура» от команды «Вебмониторэкс»](https://habr.com/ru/companies/webmonitorx/articles/824740/?utm_campaign=824740&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Анализ влияния тестирования](https://habr.com/ru/companies/otus/articles/824682/?utm_campaign=824682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Правда ли, что разработчики не могут быть хорошими тестировщиками?](https://habr.com/ru/companies/otus/articles/826084/?utm_campaign=826084&utm_source=habrahabr&utm_medium=rss)
 - [10 откликов — 8 ответов: как я ищу работу QA-инженером с помощью ChatGPT](https://habr.com/ru/companies/yandex_praktikum/articles/825984/?utm_campaign=825984&utm_source=habrahabr&utm_medium=rss)
 - [Эффективное автотестирование с Qase: Интеграция Playwright и GitLab CI](https://habr.com/ru/articles/826008/?utm_campaign=826008&utm_source=habrahabr&utm_medium=rss)
 - [Как мы использовали нейросети для генерации тестовых данных](https://habr.com/ru/companies/icl_group/articles/825726/?utm_campaign=825726&utm_source=habrahabr&utm_medium=rss)
 - [Фальшивый опыт в резюме QA: Обман ради работы?](https://habr.com/ru/articles/825472/?utm_campaign=825472&utm_source=habrahabr&utm_medium=rss)
-- [Как пирамида тестирования уплывает на сторону разработки](https://habr.com/ru/companies/maxilect/articles/824918/?utm_campaign=824918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [О плюсах и минусах профессии нагрузочного тестировщика](https://habr.com/ru/companies/ssp-soft/articles/826302/?utm_campaign=826302&utm_source=habrahabr&utm_medium=rss)
 - [Что мы делаем в сети: подведение ежегодных итогов тестирования компаний-клиентов](https://habr.com/ru/companies/pt/articles/826190/?utm_campaign=826190&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] «Создание эффективных отчетов об ошибках»: краткое руководство](https://habr.com/ru/articles/825852/?utm_campaign=825852&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Правда ли, что разработчики не могут быть хорошими тестировщиками?](https://habr.com/ru/companies/otus/articles/826084/?utm_campaign=826084&utm_source=habrahabr&utm_medium=rss)
 - [10 откликов — 8 ответов: как я ищу работу QA-инженером с помощью ChatGPT](https://habr.com/ru/companies/yandex_praktikum/articles/825984/?utm_campaign=825984&utm_source=habrahabr&utm_medium=rss)
-- [Эффективное автотестирование с Qase: Интеграция Playwright и GitLab CI](https://habr.com/ru/articles/826008/?utm_campaign=826008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как прошла Всероссийская студенческая кибербитва в Москве на Positive Hack Days 2](https://habr.com/ru/companies/innostage/articles/826744/?utm_campaign=826744&utm_source=habrahabr&utm_medium=rss)
 - [Кто такой куратор и с чем его едят?](https://habr.com/ru/companies/sportmaster_lab/articles/826510/?utm_campaign=826510&utm_source=habrahabr&utm_medium=rss)
 - [Перестань называть себя QA](https://habr.com/ru/companies/tochka/articles/826152/?utm_campaign=826152&utm_source=habrahabr&utm_medium=rss)
 - [Как мы отлавливаем флаки-тесты в СУБД Platform V Pangolin. Показываю бэкенд решения](https://habr.com/ru/companies/sberbank/articles/824560/?utm_campaign=824560&utm_source=habrahabr&utm_medium=rss)
 - [О плюсах и минусах профессии нагрузочного тестировщика](https://habr.com/ru/companies/ssp-soft/articles/826302/?utm_campaign=826302&utm_source=habrahabr&utm_medium=rss)
-- [Что мы делаем в сети: подведение ежегодных итогов тестирования компаний-клиентов](https://habr.com/ru/companies/pt/articles/826190/?utm_campaign=826190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

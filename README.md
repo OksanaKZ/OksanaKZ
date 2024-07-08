@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование телеметрии в каршеринге или как мы внедряли эмулятор](https://habr.com/ru/companies/citydrive/articles/827342/?utm_campaign=827342&utm_source=habrahabr&utm_medium=rss)
 - [Как создать систему управления батареей используя современный подход?](https://habr.com/ru/companies/rosatom/articles/827286/?utm_campaign=827286&utm_source=habrahabr&utm_medium=rss)
 - [Как подружить DynamoRIO и LibFuzzer](https://habr.com/ru/articles/826932/?utm_campaign=826932&utm_source=habrahabr&utm_medium=rss)
 - [Как прошла Всероссийская студенческая кибербитва в Москве на Positive Hack Days 2](https://habr.com/ru/companies/innostage/articles/826744/?utm_campaign=826744&utm_source=habrahabr&utm_medium=rss)
 - [Кто такой куратор и с чем его едят?](https://habr.com/ru/companies/sportmaster_lab/articles/826510/?utm_campaign=826510&utm_source=habrahabr&utm_medium=rss)
-- [Перестань называть себя QA](https://habr.com/ru/companies/tochka/articles/826152/?utm_campaign=826152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

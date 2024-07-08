@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Диалекты, зумеры и боты: секреты тестирования NLU-систем](https://habr.com/ru/companies/just_ai/articles/826520/?utm_campaign=826520&utm_source=habrahabr&utm_medium=rss)
 - [Cамые опасные уязвимости июня: от Windows, Linux и PHP до сетевых устройств, виртуализации и бэкапов](https://habr.com/ru/companies/pt/articles/827318/?utm_campaign=827318&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование телеметрии в каршеринге или как мы внедряли эмулятор](https://habr.com/ru/companies/citydrive/articles/827342/?utm_campaign=827342&utm_source=habrahabr&utm_medium=rss)
 - [Как создать систему управления батареей используя современный подход?](https://habr.com/ru/companies/rosatom/articles/827286/?utm_campaign=827286&utm_source=habrahabr&utm_medium=rss)
 - [Как подружить DynamoRIO и LibFuzzer](https://habr.com/ru/articles/826932/?utm_campaign=826932&utm_source=habrahabr&utm_medium=rss)
-- [Как прошла Всероссийская студенческая кибербитва в Москве на Positive Hack Days 2](https://habr.com/ru/companies/innostage/articles/826744/?utm_campaign=826744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

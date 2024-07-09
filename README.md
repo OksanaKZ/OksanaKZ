@@ -10,7 +10,7 @@
   
 ## :raising_hand: About Me
 
-  + [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/QA%20Engineer_Kozlyuk%20Oksana.pdf)
+  + [CV](https://github.com/OksanaKZ/OksanaKZ/blob/main/Kozlyuk%20Oksana_QA%20Engineer.pdf)
   + [Certificates](https://github.com/OksanaKZ/My_Certificates/)
 
 ## :page_with_curl: My Works

@@ -15,8 +15,10 @@
 
 ## :page_with_curl: My Works
 
-  + [Check list](https://github.com/OksanaKZ/OksanaKZ/blob/main/checklists.xlsx)
-  + [Test cases](https://github.com/OksanaKZ/OksanaKZ/blob/main/testcases.xlsx)
+  + [Check list (WEB)](https://github.com/OksanaKZ/OksanaKZ/blob/main/Check%20list%20(WEB).pdf)
+  + [Check list (API)](https://github.com/OksanaKZ/OksanaKZ/blob/main/Check%20list%20(API).pdf)
+  + [Check list (field validation)](https://github.com/OksanaKZ/OksanaKZ/blob/main/Check%20list%20(field%20validation).pdf)
+  + [Test cases (mobile)](https://github.com/OksanaKZ/OksanaKZ/blob/main/Test%20cases%20(mobile).pdf)
   + [Mindmap](https://github.com/OksanaKZ/OksanaKZ/blob/main/mindmap.png)
   + [Postman collection](https://github.com/OksanaKZ/Postman_Collection/blob/main/Petstore.postman_collection.json)
 

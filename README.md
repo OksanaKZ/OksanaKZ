@@ -34,9 +34,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как оценивать проектные задачи, чтобы не слить бюджет и не убить команду. Советы QA-лида](https://habr.com/ru/articles/827554/?utm_campaign=827554&utm_source=habrahabr&utm_medium=rss)
+- [Зачем искать поверхность атаки для своего проекта](https://habr.com/ru/companies/isp_ras/articles/801459/?utm_campaign=801459&utm_source=habrahabr&utm_medium=rss)
+- [Как оценивать проектные задачи, чтобы не слить бюджет и не убить команду: советы QA-лида](https://habr.com/ru/articles/827554/?utm_campaign=827554&utm_source=habrahabr&utm_medium=rss)
 - [Диалекты, зумеры и боты: секреты тестирования NLU-систем](https://habr.com/ru/companies/just_ai/articles/826520/?utm_campaign=826520&utm_source=habrahabr&utm_medium=rss)
 - [Cамые опасные уязвимости июня: от Windows, Linux и PHP до сетевых устройств, виртуализации и бэкапов](https://habr.com/ru/companies/pt/articles/827318/?utm_campaign=827318&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование телеметрии в каршеринге или как мы внедряли эмулятор](https://habr.com/ru/companies/citydrive/articles/827342/?utm_campaign=827342&utm_source=habrahabr&utm_medium=rss)
-- [Как создать систему управления батареей используя современный подход?](https://habr.com/ru/companies/rosatom/articles/827286/?utm_campaign=827286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

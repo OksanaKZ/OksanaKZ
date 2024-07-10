@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [RAIDIX: тернистый путь к светлому счастью? Разбор на винтики](https://habr.com/ru/companies/icl_group/articles/827970/?utm_campaign=827970&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как правильно тестировать конкурентные структуры данных](https://habr.com/ru/companies/ruvds/articles/827940/?utm_campaign=827940&utm_source=habrahabr&utm_medium=rss)
 - [Зачем искать поверхность атаки для своего проекта](https://habr.com/ru/companies/isp_ras/articles/801459/?utm_campaign=801459&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать проектные задачи, чтобы не слить бюджет и не убить команду: советы QA-лида](https://habr.com/ru/articles/827554/?utm_campaign=827554&utm_source=habrahabr&utm_medium=rss)
 - [Диалекты, зумеры и боты: секреты тестирования NLU-систем](https://habr.com/ru/companies/just_ai/articles/826520/?utm_campaign=826520&utm_source=habrahabr&utm_medium=rss)
-- [Cамые опасные уязвимости июня: от Windows, Linux и PHP до сетевых устройств, виртуализации и бэкапов](https://habr.com/ru/companies/pt/articles/827318/?utm_campaign=827318&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование телеметрии в каршеринге или как мы внедряли эмулятор](https://habr.com/ru/companies/citydrive/articles/827342/?utm_campaign=827342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

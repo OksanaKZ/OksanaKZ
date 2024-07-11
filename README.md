@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что знать и уметь, чтобы стать участником Всероссийской студенческой кибербитвы?](https://habr.com/ru/companies/innostage/articles/828210/?utm_campaign=828210&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования без скриптов: возможно ли?](https://habr.com/ru/articles/827982/?utm_campaign=827982&utm_source=habrahabr&utm_medium=rss)
 - [GPU-ускорение FFmpeg. Видите прибавку в скорости? И я нет. А она должна быть…](https://habr.com/ru/companies/cdnnow/articles/827948/?utm_campaign=827948&utm_source=habrahabr&utm_medium=rss)
-- [RAIDIX: тернистый путь к светлому счастью? Разбор на винтики](https://habr.com/ru/articles/827970/?utm_campaign=827970&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как правильно тестировать конкурентные структуры данных](https://habr.com/ru/companies/ruvds/articles/827940/?utm_campaign=827940&utm_source=habrahabr&utm_medium=rss)
 - [Зачем искать поверхность атаки для своего проекта](https://habr.com/ru/companies/isp_ras/articles/801459/?utm_campaign=801459&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

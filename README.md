@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [API в ОК: анализ покрытия и автотесты](https://habr.com/ru/companies/odnoklassniki/articles/828222/?utm_campaign=828222&utm_source=habrahabr&utm_medium=rss)
+- [API в ОК: анализ покрытия и автотесты](https://habr.com/ru/companies/vk/articles/828222/?utm_campaign=828222&utm_source=habrahabr&utm_medium=rss)
 - [Что знать и уметь, чтобы стать участником Всероссийской студенческой кибербитвы?](https://habr.com/ru/companies/innostage/articles/828210/?utm_campaign=828210&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования без скриптов: возможно ли?](https://habr.com/ru/articles/827982/?utm_campaign=827982&utm_source=habrahabr&utm_medium=rss)
 - [GPU-ускорение FFmpeg. Видите прибавку в скорости? И я нет. А она должна быть…](https://habr.com/ru/companies/cdnnow/articles/827948/?utm_campaign=827948&utm_source=habrahabr&utm_medium=rss)

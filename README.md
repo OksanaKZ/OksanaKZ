@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Провести интеграционное тестирование микросервисов и выжить &lpar;несмотря на legacy&rpar;](https://habr.com/ru/companies/lamoda/articles/828430/?utm_campaign=828430&utm_source=habrahabr&utm_medium=rss)
 - [Кто обесценивает профессию QA](https://habr.com/ru/articles/829118/?utm_campaign=829118&utm_source=habrahabr&utm_medium=rss)
 - [Децентрализованное тестирование в «Додо Пицце». Как собраться в одного большого тестировщика с помощью Kaiten](https://habr.com/ru/companies/kaiten/articles/829010/?utm_campaign=829010&utm_source=habrahabr&utm_medium=rss)
 - [Как установить библиотеку check.h?](https://habr.com/ru/articles/828884/?utm_campaign=828884&utm_source=habrahabr&utm_medium=rss)
 - [Карты, деньги, каталог: используем граничные значения на практике](https://habr.com/ru/companies/petrovich-tech/articles/828840/?utm_campaign=828840&utm_source=habrahabr&utm_medium=rss)
-- [API в ОК: анализ покрытия и автотесты](https://habr.com/ru/companies/vk/articles/828222/?utm_campaign=828222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

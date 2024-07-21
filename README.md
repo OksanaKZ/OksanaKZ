@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как синий экран смерти остановил работу аэропортов и предприятий](https://habr.com/ru/articles/830280/?utm_campaign=830280&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Canon TDD](https://habr.com/ru/companies/otus/articles/829744/?utm_campaign=829744&utm_source=habrahabr&utm_medium=rss)
 - [d42 в действии: лучшие практики подготовки данных](https://habr.com/ru/companies/2gis/articles/827584/?utm_campaign=827584&utm_source=habrahabr&utm_medium=rss)
 - [Красная команда, черный день: почему матерые пентестеры лажают в Red Team](https://habr.com/ru/companies/bastion/articles/829402/?utm_campaign=829402&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство В Тестировании: Тестирование в Команде](https://habr.com/ru/articles/828800/?utm_campaign=828800&utm_source=habrahabr&utm_medium=rss)
-- [Провести интеграционное тестирование микросервисов и выжить &lpar;несмотря на legacy&rpar;](https://habr.com/ru/companies/lamoda/articles/828430/?utm_campaign=828430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_campaign=830962&utm_source=habrahabr&utm_medium=rss)
+- [От Junior QA до Product Owner: моя история роста в Exante](https://habr.com/ru/companies/exante/articles/831034/?utm_campaign=831034&utm_source=habrahabr&utm_medium=rss)
 - [Что поможет настроить процесс работы с обращениями пользователей](https://habr.com/ru/companies/avito/articles/829140/?utm_campaign=829140&utm_source=habrahabr&utm_medium=rss)
 - [Разворачиваем стенд для UI-тестирования iOS на базе Selenoid](https://habr.com/ru/companies/alfa/articles/830616/?utm_campaign=830616&utm_source=habrahabr&utm_medium=rss)
 - [Самый быстрый фреймворк на Диком Западе: ускоряем Django-rest-framework вместе с Rust](https://habr.com/ru/companies/yadro/articles/830024/?utm_campaign=830024&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Стабы и моки нарушают инкапсуляцию](https://habr.com/ru/companies/otus/articles/830794/?utm_campaign=830794&utm_source=habrahabr&utm_medium=rss)
-- [Тестируем качественные характеристики. Как сделать сложное простым](https://habr.com/ru/companies/beeline_cloud/articles/830560/?utm_campaign=830560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

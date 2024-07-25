@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Фулстек-тестирование»](https://habr.com/ru/companies/piter/articles/831200/?utm_campaign=831200&utm_source=habrahabr&utm_medium=rss)
 - [Внутренние коммуникации инженеров: как поддержать командный дух на удалёнке](https://habr.com/ru/companies/2gis/articles/831436/?utm_campaign=831436&utm_source=habrahabr&utm_medium=rss)
 - [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_campaign=830962&utm_source=habrahabr&utm_medium=rss)
 - [От Junior QA до Product Owner: моя история роста в Exante](https://habr.com/ru/companies/exante/articles/831034/?utm_campaign=831034&utm_source=habrahabr&utm_medium=rss)
 - [Что поможет настроить процесс работы с обращениями пользователей](https://habr.com/ru/companies/avito/articles/829140/?utm_campaign=829140&utm_source=habrahabr&utm_medium=rss)
-- [Разворачиваем стенд для UI-тестирования iOS на базе Selenoid](https://habr.com/ru/companies/alfa/articles/830616/?utm_campaign=830616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

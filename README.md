@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как команда Solar webProxy применяет критерии DoR и DoD в тестировании продукта](https://habr.com/ru/companies/solarsecurity/articles/831532/?utm_campaign=831532&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизируем тестирование с помощью Lettuce](https://habr.com/ru/companies/otus/articles/830118/?utm_campaign=830118&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Фулстек-тестирование»](https://habr.com/ru/companies/piter/articles/831200/?utm_campaign=831200&utm_source=habrahabr&utm_medium=rss)
 - [Внутренние коммуникации инженеров: как поддержать командный дух на удалёнке](https://habr.com/ru/companies/2gis/articles/831436/?utm_campaign=831436&utm_source=habrahabr&utm_medium=rss)
 - [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_campaign=830962&utm_source=habrahabr&utm_medium=rss)
-- [От Junior QA до Product Owner: моя история роста в Exante](https://habr.com/ru/companies/exante/articles/831034/?utm_campaign=831034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

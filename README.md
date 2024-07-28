@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Выгорание тестировщиков: почему так бывает и что делать](https://habr.com/ru/articles/832088/?utm_campaign=832088&utm_source=habrahabr&utm_medium=rss)
 - [Студенческий опыт Standoff — на шаг ближе к вершинам](https://habr.com/ru/articles/832068/?utm_campaign=832068&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как программные ошибки приводят к катастрофическим последствиям](https://habr.com/ru/companies/ruvds/articles/831590/?utm_campaign=831590&utm_source=habrahabr&utm_medium=rss)
 - [Как команда Solar webProxy применяет критерии DoR и DoD в тестировании продукта](https://habr.com/ru/companies/solarsecurity/articles/831532/?utm_campaign=831532&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизируем тестирование с помощью Lettuce](https://habr.com/ru/companies/otus/articles/830118/?utm_campaign=830118&utm_source=habrahabr&utm_medium=rss)
-- [Книга: «Фулстек-тестирование»](https://habr.com/ru/companies/piter/articles/831200/?utm_campaign=831200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

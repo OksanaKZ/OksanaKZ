@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Продукт, который можно “пить”](https://habr.com/ru/companies/rostelecom/articles/832454/?utm_campaign=832454&utm_source=habrahabr&utm_medium=rss)
+- [Продукт, который можно «пить»](https://habr.com/ru/companies/rostelecom/articles/832454/?utm_campaign=832454&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация интеграционных и приемочных тестов с помощью 1001 велосипеда](https://habr.com/ru/articles/832270/?utm_campaign=832270&utm_source=habrahabr&utm_medium=rss)
 - [Выгорание тестировщиков: почему так бывает и что делать](https://habr.com/ru/articles/832088/?utm_campaign=832088&utm_source=habrahabr&utm_medium=rss)
 - [Студенческий опыт Standoff — на шаг ближе к вершинам](https://habr.com/ru/articles/832068/?utm_campaign=832068&utm_source=habrahabr&utm_medium=rss)

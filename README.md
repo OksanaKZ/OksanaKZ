@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Как устроены условные точки останова](https://habr.com/ru/companies/piter/articles/832564/?utm_campaign=832564&utm_source=habrahabr&utm_medium=rss)
+- [Звездный час Зодиак АйТиЭм: тестируем российский аналог Microsoft SCCM](https://habr.com/ru/companies/k2tech/articles/832740/?utm_campaign=832740&utm_source=habrahabr&utm_medium=rss)
 - [Как и зачем мы написали 5000 интеграционных тестов за пару часов](https://habr.com/ru/companies/avito/articles/832606/?utm_campaign=832606&utm_source=habrahabr&utm_medium=rss)
 - [Продукт, который можно «пить»](https://habr.com/ru/companies/rostelecom/articles/832454/?utm_campaign=832454&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация интеграционных и приемочных тестов с помощью 1001 велосипеда](https://habr.com/ru/articles/832270/?utm_campaign=832270&utm_source=habrahabr&utm_medium=rss)
-- [Выгорание тестировщиков: почему так бывает и что делать](https://habr.com/ru/articles/832088/?utm_campaign=832088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

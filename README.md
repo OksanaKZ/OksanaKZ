@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование EVPN-MPLS на маршрутизаторах MR-381 от B4COM. Методика, результаты и выводы](https://habr.com/ru/articles/833526/?utm_campaign=833526&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем SSD. Чтобы выросли IOPS, нужно всего лишь… сменить версию PCIe?](https://habr.com/ru/companies/cdnnow/articles/833418/?utm_campaign=833418&utm_source=habrahabr&utm_medium=rss)
 - [Шаблон unit-тестов на Go](https://habr.com/ru/articles/833448/?utm_campaign=833448&utm_source=habrahabr&utm_medium=rss)
 - [TMS Test IT: польза и лайфхаки для мануальных тестировщиков](https://habr.com/ru/articles/833360/?utm_campaign=833360&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование BMC: Автоматизировать! Нельзя все руками](https://habr.com/ru/companies/aquarius/articles/833210/?utm_campaign=833210&utm_source=habrahabr&utm_medium=rss)
-- [Selenoid без симуляции: настройка, отладка и автоматизация на физическом Android-устройстве](https://habr.com/ru/companies/alfa/articles/833136/?utm_campaign=833136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как тестировщики взламывали частушку](https://habr.com/ru/companies/aquarius/articles/834274/?utm_campaign=834274&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация метрик веба через аудит в Google Tag Manager: реальность или вымысел?](https://habr.com/ru/companies/ivi/articles/833900/?utm_campaign=833900&utm_source=habrahabr&utm_medium=rss)
 - [Business driven testing: как тестировщику решать задачи бизнеса](https://habr.com/ru/companies/skbkontur/articles/832218/?utm_campaign=832218&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование EVPN-MPLS на маршрутизаторах MR-381 от B4COM. Методика, результаты и выводы](https://habr.com/ru/articles/833526/?utm_campaign=833526&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем SSD. Чтобы выросли IOPS, нужно всего лишь… сменить версию PCIe?](https://habr.com/ru/companies/cdnnow/articles/833418/?utm_campaign=833418&utm_source=habrahabr&utm_medium=rss)
-- [Шаблон unit-тестов на Go](https://habr.com/ru/articles/833448/?utm_campaign=833448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

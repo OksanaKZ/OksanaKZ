@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [5 стадий принятия: как протестировать плагин на разных версиях браузера](https://habr.com/ru/companies/simbirsoft/articles/834752/?utm_campaign=834752&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик в банке &lpar;не в трёхлитровой&rpar;](https://habr.com/ru/companies/gazprombank/articles/834690/?utm_campaign=834690&utm_source=habrahabr&utm_medium=rss)
 - [Топ опасных уязвимостей июля. Под угрозой пользователи ОС Windows и Linux](https://habr.com/ru/companies/pt/articles/834630/?utm_campaign=834630&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировщики взламывали частушку](https://habr.com/ru/companies/aquarius/articles/834274/?utm_campaign=834274&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация метрик веба через аудит в Google Tag Manager: реальность или вымысел?](https://habr.com/ru/companies/ivi/articles/833900/?utm_campaign=833900&utm_source=habrahabr&utm_medium=rss)
-- [Business driven testing: как тестировщику решать задачи бизнеса](https://habr.com/ru/companies/skbkontur/articles/832218/?utm_campaign=832218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

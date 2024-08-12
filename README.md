@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Жизненный цикл activity в Android для QA](https://habr.com/ru/articles/830198/?utm_campaign=830198&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Сказ о слонах: Как я развивал инструмент, повлиявший на работу тысяч инженеров в Amazon](https://habr.com/ru/companies/otus/articles/835426/?utm_campaign=835426&utm_source=habrahabr&utm_medium=rss)
 - [python тестирование с помощью pytest&lpar;ч.1&rpar;](https://habr.com/ru/articles/835196/?utm_campaign=835196&utm_source=habrahabr&utm_medium=rss)
 - [5 стадий принятия: как протестировать плагин на разных версиях браузера](https://habr.com/ru/companies/simbirsoft/articles/834752/?utm_campaign=834752&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик в банке &lpar;не в трёхлитровой&rpar;](https://habr.com/ru/companies/gazprombank/articles/834690/?utm_campaign=834690&utm_source=habrahabr&utm_medium=rss)
-- [Топ опасных уязвимостей июля. Под угрозой пользователи ОС Windows и Linux](https://habr.com/ru/companies/pt/articles/834630/?utm_campaign=834630&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировщики взламывали частушку](https://habr.com/ru/companies/aquarius/articles/834274/?utm_campaign=834274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

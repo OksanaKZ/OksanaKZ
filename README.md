@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Правильный инструмент для аналитики нагрузочного тестирования](https://habr.com/ru/articles/833598/?utm_campaign=833598&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем в микросервисах: TaaS и пять шлюзов качества](https://habr.com/ru/companies/avito/articles/835060/?utm_campaign=835060&utm_source=habrahabr&utm_medium=rss)
 - [Тест-дизайн в автоматизации тестирования](https://habr.com/ru/companies/otus/articles/835534/?utm_campaign=835534&utm_source=habrahabr&utm_medium=rss)
 - [Дайджест по уязвимостям за прошедшие два месяца лета](https://habr.com/ru/companies/webmonitorx/articles/835526/?utm_campaign=835526&utm_source=habrahabr&utm_medium=rss)
 - [Когда ваше приложение умирает – жизненный цикл activity в Android для QA](https://habr.com/ru/articles/830198/?utm_campaign=830198&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Сказ о слонах: Как я развивал инструмент, повлиявший на работу тысяч инженеров в Amazon](https://habr.com/ru/companies/otus/articles/835426/?utm_campaign=835426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

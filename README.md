@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Негативное тестирование. Что это такое и с чем его едят? Особенности применения невалидных проверок](https://habr.com/ru/articles/836840/?utm_campaign=836840&utm_source=habrahabr&utm_medium=rss)
+- [Негативное тестирование. Что это такое и с чем его «едят»? Особенности применения невалидных проверок](https://habr.com/ru/articles/836840/?utm_campaign=836840&utm_source=habrahabr&utm_medium=rss)
 - [Написание функционального тестирования в Go](https://habr.com/ru/articles/836664/?utm_campaign=836664&utm_source=habrahabr&utm_medium=rss)
 - [Клиент-серверная архитектура. SA для самых маленьких](https://habr.com/ru/articles/836464/?utm_campaign=836464&utm_source=habrahabr&utm_medium=rss)
 - [Как заставить code coverage работать на вас](https://habr.com/ru/articles/836366/?utm_campaign=836366&utm_source=habrahabr&utm_medium=rss)

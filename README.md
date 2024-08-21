@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Рецензия на книгу «Идеальный тестировщик» Кристин Джеквони](https://habr.com/ru/companies/simbirsoft/articles/837568/?utm_campaign=837568&utm_source=habrahabr&utm_medium=rss)
 - [Управление временем контейнера с помощью docker-compose и faketime](https://habr.com/ru/articles/837412/?utm_campaign=837412&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Подходы к организации автотестов: Чему мы можем научиться у разработчиков?](https://habr.com/ru/articles/837140/?utm_campaign=837140&utm_source=habrahabr&utm_medium=rss)
 - [Итерационное развитие CI в gitlab для фреймворка по авто-тестированию](https://habr.com/ru/companies/exante/articles/837328/?utm_campaign=837328&utm_source=habrahabr&utm_medium=rss)
 - [Как мы прикрутили прокси к автотестам](https://habr.com/ru/companies/ivi/articles/835794/?utm_campaign=835794&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Эпистемология тестирования взаимодействия компонентов](https://habr.com/ru/companies/otus/articles/837246/?utm_campaign=837246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

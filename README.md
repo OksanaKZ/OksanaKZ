@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как не сойти с ума, тестируя страховые продукты](https://habr.com/ru/companies/usetech/articles/838514/?utm_campaign=838514&utm_source=habrahabr&utm_medium=rss)
 - [Python — тестирование с помощью pytest&lpar;ч.2&rpar;](https://habr.com/ru/articles/836680/?utm_campaign=836680&utm_source=habrahabr&utm_medium=rss)
 - [Плохие тест-классы — перезапуск через боль](https://habr.com/ru/articles/837630/?utm_campaign=837630&utm_source=habrahabr&utm_medium=rss)
 - [Рецензия на книгу «Идеальный тестировщик» Кристин Джеквони](https://habr.com/ru/companies/simbirsoft/articles/837568/?utm_campaign=837568&utm_source=habrahabr&utm_medium=rss)
 - [Управление временем контейнера с помощью docker-compose и faketime](https://habr.com/ru/articles/837412/?utm_campaign=837412&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Подходы к организации автотестов: Чему мы можем научиться у разработчиков?](https://habr.com/ru/articles/837140/?utm_campaign=837140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

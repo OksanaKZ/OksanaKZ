@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Из лета в зиму: как хакеры сменили сезон для виртуального склада на Standoff](https://habr.com/ru/companies/pt/articles/839156/?utm_campaign=839156&utm_source=habrahabr&utm_medium=rss)
 - [Где и как использовать сниффер для тестирования веб-приложений на примере Proxyman](https://habr.com/ru/articles/838730/?utm_campaign=838730&utm_source=habrahabr&utm_medium=rss)
 - [&amp;lt;Не&amp;gt;Страшное слово эстимация, или Как я впервые оценивала время на тестирование и перебрала](https://habr.com/ru/articles/838716/?utm_campaign=838716&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование работы “прозрачного” &lpar;TDE&rpar; шифрования 1С на базе СУБД MSSQL 2022](https://habr.com/ru/articles/838564/?utm_campaign=838564&utm_source=habrahabr&utm_medium=rss)
 - [Мой первый баг: инструменты и ресурсы для начинающих тестировщиков](https://habr.com/ru/companies/selectel/articles/838508/?utm_campaign=838508&utm_source=habrahabr&utm_medium=rss)
-- [Как не сойти с ума, тестируя страховые продукты](https://habr.com/ru/companies/usetech/articles/838514/?utm_campaign=838514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

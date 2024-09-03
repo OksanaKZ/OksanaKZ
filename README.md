@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Таролог в тестировании](https://habr.com/ru/articles/840466/?utm_campaign=840466&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование ML систем](https://habr.com/ru/articles/840416/?utm_campaign=840416&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с тараканами в голове](https://habr.com/ru/articles/839930/?utm_campaign=839930&utm_source=habrahabr&utm_medium=rss)
 - [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_campaign=838966&utm_source=habrahabr&utm_medium=rss)
 - [Из лета в зиму: как хакеры сменили сезон для виртуального склада на Standoff](https://habr.com/ru/companies/pt/articles/839156/?utm_campaign=839156&utm_source=habrahabr&utm_medium=rss)
-- [Где и как использовать сниффер для тестирования веб-приложений на примере Proxyman](https://habr.com/ru/articles/838730/?utm_campaign=838730&utm_source=habrahabr&utm_medium=rss)
-- [&amp;lt;Не&amp;gt;Страшное слово эстимация, или Как я впервые оценивала время на тестирование и перебрала](https://habr.com/ru/articles/838716/?utm_campaign=838716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

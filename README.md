@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Первый питерский митап по Go в этом сезоне: построим PaaS без хардкода и научимся отлаживать приложение в проде](https://habr.com/ru/companies/yadro/articles/840688/?utm_campaign=840688&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как использовать концепции тестирования для эффективного исследовательского тестирования?](https://habr.com/ru/articles/840410/?utm_campaign=840410&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты: от первого автотеста до масштабного проекта. Мой набор инструментов для масштабирования](https://habr.com/ru/articles/840594/?utm_campaign=840594&utm_source=habrahabr&utm_medium=rss)
 - [Таролог в тестировании](https://habr.com/ru/articles/840466/?utm_campaign=840466&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ML систем](https://habr.com/ru/articles/840416/?utm_campaign=840416&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование с тараканами в голове](https://habr.com/ru/articles/839930/?utm_campaign=839930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

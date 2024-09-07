@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Классы эквивалентности для QA со стороны математического анализа](https://habr.com/ru/articles/841538/?utm_campaign=841538&utm_source=habrahabr&utm_medium=rss)
 - [Влияние UX Writing на конверсию через A/B тестирование](https://habr.com/ru/companies/otus/articles/839946/?utm_campaign=839946&utm_source=habrahabr&utm_medium=rss)
 - [Moscow QA #5 x X5 Tech](https://habr.com/ru/articles/841306/?utm_campaign=841306&utm_source=habrahabr&utm_medium=rss)
 - [Принципы тестирования с примерами](https://habr.com/ru/articles/840816/?utm_campaign=840816&utm_source=habrahabr&utm_medium=rss)
 - [Первый питерский митап по Go в этом сезоне: построим PaaS без хардкода и научимся отлаживать приложение в проде](https://habr.com/ru/companies/yadro/articles/840688/?utm_campaign=840688&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как использовать концепции тестирования для эффективного исследовательского тестирования?](https://habr.com/ru/articles/840410/?utm_campaign=840410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

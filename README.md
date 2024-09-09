@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Моделирование статического тиристорного компенсатора](https://habr.com/ru/companies/rosatom/articles/841842/?utm_campaign=841842&utm_source=habrahabr&utm_medium=rss)
 - [КОТ РСХБ-Интех или «Как Обучить Тестировщика»](https://habr.com/ru/companies/rshb/articles/841800/?utm_campaign=841800&utm_source=habrahabr&utm_medium=rss)
 - [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 1](https://habr.com/ru/articles/841566/?utm_campaign=841566&utm_source=habrahabr&utm_medium=rss)
 - [Классы эквивалентности для QA со стороны математического анализа](https://habr.com/ru/articles/841538/?utm_campaign=841538&utm_source=habrahabr&utm_medium=rss)
 - [Влияние UX Writing на конверсию через A/B тестирование](https://habr.com/ru/companies/otus/articles/839946/?utm_campaign=839946&utm_source=habrahabr&utm_medium=rss)
-- [Moscow QA #5 x X5 Tech](https://habr.com/ru/articles/841306/?utm_campaign=841306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

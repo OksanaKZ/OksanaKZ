@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [WAF: интеграция в SOC через SIEM или ASOC? &lpar;Часть 2&rpar;](https://habr.com/ru/companies/webmonitorx/articles/842138/?utm_campaign=842138&utm_source=habrahabr&utm_medium=rss)
+- [Как у взрослых: смотрим цепочки атак команд со студенческого Standoff](https://habr.com/ru/companies/pt/articles/842050/?utm_campaign=842050&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать производительность 1С без нагрузки на бюджет? Опыт «КОРУС Консалтинг»](https://habr.com/ru/companies/selectel/articles/840770/?utm_campaign=840770&utm_source=habrahabr&utm_medium=rss)
 - [Моделирование статического тиристорного компенсатора](https://habr.com/ru/companies/rosatom/articles/841842/?utm_campaign=841842&utm_source=habrahabr&utm_medium=rss)
 - [КОТ РСХБ-Интех или «Как Обучить Тестировщика»](https://habr.com/ru/companies/rshb/articles/841800/?utm_campaign=841800&utm_source=habrahabr&utm_medium=rss)
-- [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 1](https://habr.com/ru/articles/841566/?utm_campaign=841566&utm_source=habrahabr&utm_medium=rss)
-- [Классы эквивалентности для QA со стороны математического анализа](https://habr.com/ru/articles/841538/?utm_campaign=841538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

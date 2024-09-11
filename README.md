@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем Android-приложения с помощью Baseline Profiles](https://habr.com/ru/companies/avito/articles/842218/?utm_campaign=842218&utm_source=habrahabr&utm_medium=rss)
+- [Автоматизация тестирования: 3 ошибки в начале обучения и как их избежать](https://habr.com/ru/companies/yandex_praktikum/articles/840340/?utm_campaign=840340&utm_source=habrahabr&utm_medium=rss)
 - [Критерии качества требований с примерами &lpar;Часть 1&rpar;](https://habr.com/ru/articles/842296/?utm_campaign=842296&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании: тестирование сервисов](https://habr.com/ru/articles/842082/?utm_campaign=842082&utm_source=habrahabr&utm_medium=rss)
 - [WAF: интеграция в SOC через SIEM или ASOC? &lpar;Часть 2&rpar;](https://habr.com/ru/companies/webmonitorx/articles/842138/?utm_campaign=842138&utm_source=habrahabr&utm_medium=rss)
-- [Как у взрослых: смотрим цепочки атак команд со студенческого Standoff](https://habr.com/ru/companies/pt/articles/842050/?utm_campaign=842050&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировать производительность 1С без нагрузки на бюджет? Опыт «КОРУС Консалтинг»](https://habr.com/ru/companies/selectel/articles/840770/?utm_campaign=840770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

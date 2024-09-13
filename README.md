@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тестирование исключений](https://habr.com/ru/companies/otus/articles/843114/?utm_campaign=843114&utm_source=habrahabr&utm_medium=rss)
 - [Первые шаги в нагрузке](https://habr.com/ru/companies/sportmaster_lab/articles/842672/?utm_campaign=842672&utm_source=habrahabr&utm_medium=rss)
 - [Топ опасных уязвимости августа: под угрозой Microsoft Windows и сайты на WordPress](https://habr.com/ru/companies/pt/articles/842276/?utm_campaign=842276&utm_source=habrahabr&utm_medium=rss)
 - [Ускоряем Android-приложения с помощью Baseline Profiles](https://habr.com/ru/companies/avito/articles/842218/?utm_campaign=842218&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования: 3 ошибки в начале обучения и как их избежать](https://habr.com/ru/companies/yandex_praktikum/articles/840340/?utm_campaign=840340&utm_source=habrahabr&utm_medium=rss)
-- [Критерии качества требований с примерами &lpar;Часть 1&rpar;](https://habr.com/ru/articles/842296/?utm_campaign=842296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

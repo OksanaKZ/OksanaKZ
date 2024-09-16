@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование полей ввода. Реквизиты](https://habr.com/ru/articles/843876/?utm_campaign=843876&utm_source=habrahabr&utm_medium=rss)
 - [Apache OFBiz CVE-2024-32113](https://habr.com/ru/articles/843750/?utm_campaign=843750&utm_source=habrahabr&utm_medium=rss)
 - [Интеграционное тестирование: виды, примеры и инструменты](https://habr.com/ru/articles/843534/?utm_campaign=843534&utm_source=habrahabr&utm_medium=rss)
 - [Критерии качества требований с примерами &lpar;Часть 2&rpar;](https://habr.com/ru/articles/843220/?utm_campaign=843220&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Тестирование исключений](https://habr.com/ru/companies/otus/articles/843114/?utm_campaign=843114&utm_source=habrahabr&utm_medium=rss)
-- [Первые шаги в нагрузке](https://habr.com/ru/companies/sportmaster_lab/articles/842672/?utm_campaign=842672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

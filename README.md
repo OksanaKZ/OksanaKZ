@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Проверяем табуретку: руководство для нетерпеливых менеджеров, или Как работает тестирование](https://habr.com/ru/companies/samolet/articles/841906/?utm_campaign=841906&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Разный подход к CI/CD: опыт Amazon и Google](https://habr.com/ru/companies/otus/articles/844008/?utm_campaign=844008&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование полей ввода. Реквизиты](https://habr.com/ru/articles/843876/?utm_campaign=843876&utm_source=habrahabr&utm_medium=rss)
 - [Apache OFBiz CVE-2024-32113](https://habr.com/ru/articles/843750/?utm_campaign=843750&utm_source=habrahabr&utm_medium=rss)
 - [Интеграционное тестирование: виды, примеры и инструменты](https://habr.com/ru/articles/843534/?utm_campaign=843534&utm_source=habrahabr&utm_medium=rss)
-- [Критерии качества требований с примерами &lpar;Часть 2&rpar;](https://habr.com/ru/articles/843220/?utm_campaign=843220&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Тестирование исключений](https://habr.com/ru/companies/otus/articles/843114/?utm_campaign=843114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

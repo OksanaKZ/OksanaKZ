@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Параметризованные тесты в Pytest: обзор с примерами](https://habr.com/ru/companies/otus/articles/843142/?utm_campaign=843142&utm_source=habrahabr&utm_medium=rss)
 - [Selenium или Playwright – что выбрать разработчику и тестировщику](https://habr.com/ru/companies/sovcombank_technologies/articles/843726/?utm_campaign=843726&utm_source=habrahabr&utm_medium=rss)
 - [Проверка содержимого PDF-файлов средствами Python и pdfminer. Часть 1](https://habr.com/ru/companies/auriga/articles/843774/?utm_campaign=843774&utm_source=habrahabr&utm_medium=rss)
 - [CodeChecker: анализируем большой проект на С++ быстро, эффективно и бесплатно](https://habr.com/ru/companies/yadro/articles/838878/?utm_campaign=838878&utm_source=habrahabr&utm_medium=rss)
 - [«Песочные» технологии: об архитектуре и техниках обхода песочниц](https://habr.com/ru/companies/pt/articles/844022/?utm_campaign=844022&utm_source=habrahabr&utm_medium=rss)
-- [Делаем нагрузочные тесты за 5 минут &lpar;ну почти&rpar;](https://habr.com/ru/articles/844132/?utm_campaign=844132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

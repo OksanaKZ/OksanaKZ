@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Песочные» технологии: об архитектуре и техниках обхода песочниц](https://habr.com/ru/companies/pt/articles/844022/?utm_campaign=844022&utm_source=habrahabr&utm_medium=rss)
 - [Делаем нагрузочные тесты за 5 минут &lpar;ну почти&rpar;](https://habr.com/ru/articles/844132/?utm_campaign=844132&utm_source=habrahabr&utm_medium=rss)
 - [Как я поднимал качество продукта в IT-стартапе](https://habr.com/ru/articles/844182/?utm_campaign=844182&utm_source=habrahabr&utm_medium=rss)
 - [Проверяем табуретку: руководство для нетерпеливых менеджеров, или Как работает тестирование](https://habr.com/ru/companies/samolet/articles/841906/?utm_campaign=841906&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Разный подход к CI/CD: опыт Amazon и Google](https://habr.com/ru/companies/otus/articles/844008/?utm_campaign=844008&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование полей ввода. Реквизиты](https://habr.com/ru/articles/843876/?utm_campaign=843876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

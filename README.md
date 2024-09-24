@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] С 80-х по 2024-й: как создавались и оптимизировались CI-тесты](https://habr.com/ru/companies/netologyru/articles/845756/?utm_campaign=845756&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно писать тесты?&lpar;Часть 1&rpar;](https://habr.com/ru/articles/845774/?utm_campaign=845774&utm_source=habrahabr&utm_medium=rss)
 - [Lamoda Tech QA Back Meetup: материалы встречи](https://habr.com/ru/companies/lamoda/articles/845566/?utm_campaign=845566&utm_source=habrahabr&utm_medium=rss)
 - [Преимущества тестирования миграции данных при переходе на новое ПО](https://habr.com/ru/articles/845648/?utm_campaign=845648&utm_source=habrahabr&utm_medium=rss)
 - [Cards — бесплатная песочница с GraphQL API](https://habr.com/ru/articles/845356/?utm_campaign=845356&utm_source=habrahabr&utm_medium=rss)
-- [Визуализация покрытия автотестами для gRPC сервисов](https://habr.com/ru/articles/845020/?utm_campaign=845020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

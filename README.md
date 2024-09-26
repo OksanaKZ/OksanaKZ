@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Как мы работаем с QA-метриками: опыт Рунити](https://habr.com/ru/companies/runity/articles/846208/?utm_campaign=846208&utm_source=habrahabr&utm_medium=rss)
 - [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна](https://habr.com/ru/articles/846046/?utm_campaign=846046&utm_source=habrahabr&utm_medium=rss)
-- [Качество на каждом уровне: Мой подход к роли QA](https://habr.com/ru/articles/845890/?utm_campaign=845890&utm_source=habrahabr&utm_medium=rss)
+- [Качество на каждом уровне: мой подход к роли QA](https://habr.com/ru/articles/845890/?utm_campaign=845890&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] С 80-х по 2024-й: как создавались и оптимизировались CI-тесты](https://habr.com/ru/companies/netologyru/articles/845756/?utm_campaign=845756&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно писать тесты? Часть 1](https://habr.com/ru/articles/845774/?utm_campaign=845774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

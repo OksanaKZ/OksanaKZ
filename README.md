@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Статья-обзор третьего митапа BelQA комьюнити](https://habr.com/ru/articles/846930/?utm_campaign=846930&utm_source=habrahabr&utm_medium=rss)
 - [Контрактные тесты с Pact: гарантия стабильности микросервисов](https://habr.com/ru/companies/kuper/articles/845964/?utm_campaign=845964&utm_source=habrahabr&utm_medium=rss)
 - [Как мы работаем с QA-метриками: опыт Рунити](https://habr.com/ru/companies/runity/articles/846208/?utm_campaign=846208&utm_source=habrahabr&utm_medium=rss)
 - [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна](https://habr.com/ru/articles/846046/?utm_campaign=846046&utm_source=habrahabr&utm_medium=rss)
 - [Качество на каждом уровне: мой подход к роли QA](https://habr.com/ru/articles/845890/?utm_campaign=845890&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] С 80-х по 2024-й: как создавались и оптимизировались CI-тесты](https://habr.com/ru/companies/netologyru/articles/845756/?utm_campaign=845756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

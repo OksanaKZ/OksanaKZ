@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эксперименты с фиксированной статистической мощностью: вопрос не в подглядывании, а в том, на что именно смотрят](https://habr.com/ru/companies/wunderfund/articles/846914/?utm_campaign=846914&utm_source=habrahabr&utm_medium=rss)
+- [Сколько получают тестировщики в 2024 году на самом деле](https://habr.com/ru/articles/846978/?utm_campaign=846978&utm_source=habrahabr&utm_medium=rss)
 - [Митап BelQA комьюнити №3. Краткий обзор белорусской IT-конференции](https://habr.com/ru/articles/846930/?utm_campaign=846930&utm_source=habrahabr&utm_medium=rss)
 - [Контрактные тесты с Pact: гарантия стабильности микросервисов](https://habr.com/ru/companies/kuper/articles/845964/?utm_campaign=845964&utm_source=habrahabr&utm_medium=rss)
 - [Как мы работаем с QA-метриками: опыт Рунити](https://habr.com/ru/companies/runity/articles/846208/?utm_campaign=846208&utm_source=habrahabr&utm_medium=rss)
-- [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна](https://habr.com/ru/articles/846046/?utm_campaign=846046&utm_source=habrahabr&utm_medium=rss)
-- [Качество на каждом уровне: мой подход к роли QA](https://habr.com/ru/articles/845890/?utm_campaign=845890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

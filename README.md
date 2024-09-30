@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Секреты айтишной карьеры, о которых лучше не рассказывать…](https://habr.com/ru/companies/itq_group/articles/847234/?utm_campaign=847234&utm_source=habrahabr&utm_medium=rss)
 - [Вход в заднюю дверь или пентест сетевых принтеров и МФУ](https://habr.com/ru/articles/847196/?utm_campaign=847196&utm_source=habrahabr&utm_medium=rss)
 - [Как я использовал КОТа, чтобы войти в ИТ](https://habr.com/ru/companies/rshb/articles/844882/?utm_campaign=844882&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Эксперименты с фиксированной статистической мощностью: вопрос не в подглядывании, а в том, на что именно смотрят](https://habr.com/ru/companies/wunderfund/articles/846914/?utm_campaign=846914&utm_source=habrahabr&utm_medium=rss)
 - [Сколько получают тестировщики в 2024 году на самом деле](https://habr.com/ru/articles/846978/?utm_campaign=846978&utm_source=habrahabr&utm_medium=rss)
-- [Митап BelQA комьюнити №3. Краткий обзор белорусской IT-конференции](https://habr.com/ru/articles/846930/?utm_campaign=846930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

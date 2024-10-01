@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Мой опыт использования Plumber: UI-инструмент для тестирования Kafka](https://habr.com/ru/companies/kuper/articles/845970/?utm_campaign=845970&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать инструмент для запуска нагрузки одной кнопкой: показываем наш Pangoloader](https://habr.com/ru/companies/sberbank/articles/847334/?utm_campaign=847334&utm_source=habrahabr&utm_medium=rss)
+- [WAF для Вебсокетов: рабочее решение или иллюзия?](https://habr.com/ru/companies/webmonitorx/articles/847364/?utm_campaign=847364&utm_source=habrahabr&utm_medium=rss)
 - [Проверка содержимого PDF-файлов средствами Python и pdfminer. Часть 2](https://habr.com/ru/companies/auriga/articles/845926/?utm_campaign=845926&utm_source=habrahabr&utm_medium=rss)
 - [Гайд по логам для тестировщиков](https://habr.com/ru/companies/lanit/articles/844772/?utm_campaign=844772&utm_source=habrahabr&utm_medium=rss)
-- [Секреты айтишной карьеры, о которых лучше не рассказывать…](https://habr.com/ru/companies/itq_group/articles/847234/?utm_campaign=847234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

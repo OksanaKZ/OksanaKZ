@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что изменилось в open source-альтернативе TestRail. От кастомных статусов и атрибутов до bulk-операций](https://habr.com/ru/companies/yadro/articles/846614/?utm_campaign=846614&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность на автопилоте: взламываем авиакомпанию, чтобы летать бесплатно](https://habr.com/ru/companies/bastion/articles/847330/?utm_campaign=847330&utm_source=habrahabr&utm_medium=rss)
 - [Код, который работает: Unit и интеграционное тестирование для повышения надежности ПО](https://habr.com/ru/companies/zyfra/articles/847502/?utm_campaign=847502&utm_source=habrahabr&utm_medium=rss)
 - [Мой опыт использования Plumber: UI-инструмент для тестирования Kafka](https://habr.com/ru/companies/kuper/articles/845970/?utm_campaign=845970&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать инструмент для запуска нагрузки одной кнопкой: показываем наш Pangoloader](https://habr.com/ru/companies/sberbank/articles/847334/?utm_campaign=847334&utm_source=habrahabr&utm_medium=rss)
-- [WAF для Вебсокетов: рабочее решение или иллюзия?](https://habr.com/ru/companies/webmonitorx/articles/847364/?utm_campaign=847364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

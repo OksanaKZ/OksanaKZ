@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Postman: почтальон на страже API](https://habr.com/ru/companies/banki/articles/847946/?utm_campaign=847946&utm_source=habrahabr&utm_medium=rss)
 - [Standoff-онбординг: знакомство, фишинг и взлом внешнего периметра](https://habr.com/ru/companies/pt/articles/847464/?utm_campaign=847464&utm_source=habrahabr&utm_medium=rss)
 - [«ПЯТНО НА ВАЗЕ» – мнемоника для тестирования требований](https://habr.com/ru/articles/847794/?utm_campaign=847794&utm_source=habrahabr&utm_medium=rss)
 - [Что изменилось в open source-альтернативе TestRail. От кастомных статусов и атрибутов до bulk-операций](https://habr.com/ru/companies/yadro/articles/846614/?utm_campaign=846614&utm_source=habrahabr&utm_medium=rss)
 - [Код, который работает: Unit и интеграционное тестирование для повышения надежности ПО](https://habr.com/ru/companies/zyfra/articles/847502/?utm_campaign=847502&utm_source=habrahabr&utm_medium=rss)
-- [Мой опыт использования Plumber: UI-инструмент для тестирования Kafka](https://habr.com/ru/companies/kuper/articles/845970/?utm_campaign=845970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

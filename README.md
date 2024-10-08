@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Тестирование программного обеспечения: контекстно ориентированный подход»](https://habr.com/ru/companies/piter/articles/847374/?utm_campaign=847374&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Дашборды качества в Ericsson, Volvo, Saab](https://habr.com/ru/articles/848872/?utm_campaign=848872&utm_source=habrahabr&utm_medium=rss)
 - [Ретрансляция Kerberos. Как работает RemoteKrbRelay](https://habr.com/ru/articles/848542/?utm_campaign=848542&utm_source=habrahabr&utm_medium=rss)
 - [Как вводить необходимые дни недели и периоды при автоматизации тестирования с помощью инструмента Vanessa Automation](https://habr.com/ru/articles/848324/?utm_campaign=848324&utm_source=habrahabr&utm_medium=rss)
 - [Ледибаг в деле. Как найти уязвимости в Android и попасть в топ белых хакеров Google](https://habr.com/ru/companies/pt/articles/847740/?utm_campaign=847740&utm_source=habrahabr&utm_medium=rss)
-- [Postman: почтальон на страже API](https://habr.com/ru/companies/banki/articles/847946/?utm_campaign=847946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

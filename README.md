@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Smoke vs Sanity тестирование: в чём разница?](https://habr.com/ru/companies/otus/articles/849098/?utm_campaign=849098&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование процессов BPMN-схемы Camunda в изоляции](https://habr.com/ru/companies/simbirsoft/articles/849000/?utm_campaign=849000&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Тестирование программного обеспечения: контекстно ориентированный подход»](https://habr.com/ru/companies/piter/articles/847374/?utm_campaign=847374&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Дашборды качества в Ericsson, Volvo, Saab](https://habr.com/ru/articles/848872/?utm_campaign=848872&utm_source=habrahabr&utm_medium=rss)
 - [Ретрансляция Kerberos. Как работает RemoteKrbRelay](https://habr.com/ru/articles/848542/?utm_campaign=848542&utm_source=habrahabr&utm_medium=rss)
-- [Как вводить необходимые дни недели и периоды при автоматизации тестирования с помощью инструмента Vanessa Automation](https://habr.com/ru/articles/848324/?utm_campaign=848324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

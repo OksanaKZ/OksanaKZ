@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Самые опасные уязвимости сентября: под угрозой Microsoft, VMware, Veeam и другие](https://habr.com/ru/companies/pt/articles/849310/?utm_campaign=849310&utm_source=habrahabr&utm_medium=rss)
 - [Вычисления на RISC-V: исследуем производительность OpenCL на CPU и совместимых GPU](https://habr.com/ru/companies/yadro/articles/847960/?utm_campaign=847960&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Smoke vs Sanity тестирование: в чём разница?](https://habr.com/ru/companies/otus/articles/849098/?utm_campaign=849098&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование процессов BPMN-схемы Camunda в изоляции](https://habr.com/ru/companies/simbirsoft/articles/849000/?utm_campaign=849000&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Тестирование программного обеспечения: контекстно ориентированный подход»](https://habr.com/ru/companies/piter/articles/847374/?utm_campaign=847374&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Дашборды качества в Ericsson, Volvo, Saab](https://habr.com/ru/articles/848872/?utm_campaign=848872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

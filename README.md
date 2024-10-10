@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна&lpar;продолжение&rpar;](https://habr.com/ru/articles/849770/?utm_campaign=849770&utm_source=habrahabr&utm_medium=rss)
 - [Синергия ручных проверок и автоматизации: как мы улучшили тестирование и ускорили запуск продуктов](https://habr.com/ru/companies/cloud_ru/articles/849336/?utm_campaign=849336&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Методология баг-баунти: гайд для охотников за багами](https://habr.com/ru/companies/bastion/articles/849370/?utm_campaign=849370&utm_source=habrahabr&utm_medium=rss)
 - [Самые опасные уязвимости сентября: под угрозой Microsoft, VMware, Veeam и другие](https://habr.com/ru/companies/pt/articles/849310/?utm_campaign=849310&utm_source=habrahabr&utm_medium=rss)
 - [Вычисления на RISC-V: исследуем производительность OpenCL на CPU и совместимых GPU](https://habr.com/ru/companies/yadro/articles/847960/?utm_campaign=847960&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Smoke vs Sanity тестирование: в чём разница?](https://habr.com/ru/companies/otus/articles/849098/?utm_campaign=849098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

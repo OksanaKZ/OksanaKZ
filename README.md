@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Приключение на 20 минут. Часть 1: автоматизируем запуск проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/848286/?utm_campaign=848286&utm_source=habrahabr&utm_medium=rss)
 - [Standoff-онбординг: взлом внутреннего периметра, АСУ ТП и матрица MITRE ATT&amp;amp;CK](https://habr.com/ru/companies/pt/articles/849918/?utm_campaign=849918&utm_source=habrahabr&utm_medium=rss)
 - [Ошибаться и учиться на реальных задачах: как студенты получают опыт работы с FPGA и процессорными ядрами](https://habr.com/ru/companies/yadro/articles/849404/?utm_campaign=849404&utm_source=habrahabr&utm_medium=rss)
 - [Пример создания Full Stack проекта c использованием функционального тестирования как инструмента дизайна &lpar;продолжение&rpar;](https://habr.com/ru/articles/849770/?utm_campaign=849770&utm_source=habrahabr&utm_medium=rss)
 - [Синергия ручных проверок и автоматизации: как мы улучшили тестирование и ускорили запуск продуктов](https://habr.com/ru/companies/cloud_ru/articles/849336/?utm_campaign=849336&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Методология баг-баунти: гайд для охотников за багами](https://habr.com/ru/companies/bastion/articles/849370/?utm_campaign=849370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

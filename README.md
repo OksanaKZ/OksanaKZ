@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как найти своего идеального QA и отсеять жертв инфоцыганских курсов](https://habr.com/ru/articles/850230/?utm_campaign=850230&utm_source=habrahabr&utm_medium=rss)
 - [Как Generative AI может помочь в подготовке к собеседованию для ИТ специалистов](https://habr.com/ru/articles/850194/?utm_campaign=850194&utm_source=habrahabr&utm_medium=rss)
 - [Приключение на 20 минут. Часть 1: автоматизируем запуск проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/848286/?utm_campaign=848286&utm_source=habrahabr&utm_medium=rss)
 - [Standoff-онбординг: взлом внутреннего периметра, АСУ ТП и матрица MITRE ATT&amp;amp;CK](https://habr.com/ru/companies/pt/articles/849918/?utm_campaign=849918&utm_source=habrahabr&utm_medium=rss)
 - [Ошибаться и учиться на реальных задачах: как студенты получают опыт работы с FPGA и процессорными ядрами](https://habr.com/ru/companies/yadro/articles/849404/?utm_campaign=849404&utm_source=habrahabr&utm_medium=rss)
-- [Пример создания Full Stack проекта c использованием функционального тестирования как инструмента дизайна &lpar;продолжение&rpar;](https://habr.com/ru/articles/849770/?utm_campaign=849770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить тесты «видеть» дефекты: о внедрении функционала скриншот-тестирования в проект E2E автотестов](https://habr.com/ru/companies/alfa/articles/850748/?utm_campaign=850748&utm_source=habrahabr&utm_medium=rss)
+- [Нагружаем и отдыхаем: load testing без стресса, ч.1](https://habr.com/ru/companies/eftech/articles/850800/?utm_campaign=850800&utm_source=habrahabr&utm_medium=rss)
 - [Ролевая модель: чит-лист проверок](https://habr.com/ru/articles/850838/?utm_campaign=850838&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Улучшенная глобальная настройка в Playwright с использованием авторизации и проектными зависимостями](https://habr.com/ru/companies/otus/articles/850810/?utm_campaign=850810&utm_source=habrahabr&utm_medium=rss)
 - [Атаки на веб-кэширование. Отравление кэша: теория и практика](https://habr.com/ru/articles/850626/?utm_campaign=850626&utm_source=habrahabr&utm_medium=rss)
-- [Решение по автоматизированной проверке движений документа в Vanessa Automation](https://habr.com/ru/articles/850560/?utm_campaign=850560&utm_source=habrahabr&utm_medium=rss)
-- [Locust: проводим нагрузочное тестирование](https://habr.com/ru/companies/otus/articles/848892/?utm_campaign=848892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ролевая модель: чит-лист проверок](https://habr.com/ru/articles/850838/?utm_campaign=850838&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Улучшенная глобальная настройка в Playwright с использованием авторизации и проектными зависимостями](https://habr.com/ru/companies/otus/articles/850810/?utm_campaign=850810&utm_source=habrahabr&utm_medium=rss)
 - [Атаки на веб-кэширование. Отравление кэша: теория и практика](https://habr.com/ru/articles/850626/?utm_campaign=850626&utm_source=habrahabr&utm_medium=rss)
 - [Решение по автоматизированной проверке движений документа в Vanessa Automation](https://habr.com/ru/articles/850560/?utm_campaign=850560&utm_source=habrahabr&utm_medium=rss)
 - [Locust: проводим нагрузочное тестирование](https://habr.com/ru/companies/otus/articles/848892/?utm_campaign=848892&utm_source=habrahabr&utm_medium=rss)
-- [Как найти своего идеального QA и отсеять жертв инфоцыганских курсов](https://habr.com/ru/articles/850230/?utm_campaign=850230&utm_source=habrahabr&utm_medium=rss)
-- [Как Generative AI может помочь в подготовке к собеседованию для ИТ специалистов](https://habr.com/ru/articles/850194/?utm_campaign=850194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

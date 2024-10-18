@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Топ-8 систем управления тестированием, доступных в России в 2024 году](https://habr.com/ru/articles/851720/?utm_campaign=851720&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 1: непрерывные потоки данных](https://habr.com/ru/companies/wunderfund/articles/850382/?utm_campaign=850382&utm_source=habrahabr&utm_medium=rss)
 - [LLaMator: Red Teaming фреймворк для тестирования уязвимостей LLM](https://habr.com/ru/companies/raft/articles/851640/?utm_campaign=851640&utm_source=habrahabr&utm_medium=rss)
 - [Введение в методологию Agile и ее влияние на тестирование](https://habr.com/ru/articles/851510/?utm_campaign=851510&utm_source=habrahabr&utm_medium=rss)
 - [Пишем хорошие баг репорты. Рекомендации](https://habr.com/ru/articles/851220/?utm_campaign=851220&utm_source=habrahabr&utm_medium=rss)
-- [10 логических задач, которые помогут вам пройти собеседование на инженера по тестированию](https://habr.com/ru/companies/yandex_praktikum/articles/845362/?utm_campaign=845362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

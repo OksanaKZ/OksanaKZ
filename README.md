@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [LLaMator: Red Teaming фреймворк для тестирования уязвимостей LLM](https://habr.com/ru/articles/851640/?utm_campaign=851640&utm_source=habrahabr&utm_medium=rss)
 - [Введение в методологию Agile и ее влияние на тестирование](https://habr.com/ru/articles/851510/?utm_campaign=851510&utm_source=habrahabr&utm_medium=rss)
 - [Пишем хорошие баг репорты. Рекомендации](https://habr.com/ru/articles/851220/?utm_campaign=851220&utm_source=habrahabr&utm_medium=rss)
 - [10 логических задач, которые помогут вам пройти собеседование на инженера по тестированию](https://habr.com/ru/companies/yandex_praktikum/articles/845362/?utm_campaign=845362&utm_source=habrahabr&utm_medium=rss)
 - [Скриншот-тестирование: как заставить тесты «видеть» дефекты](https://habr.com/ru/companies/alfa/articles/850748/?utm_campaign=850748&utm_source=habrahabr&utm_medium=rss)
-- [Нагружаем и отдыхаем: load testing без стресса, ч.1](https://habr.com/ru/companies/eftech/articles/850800/?utm_campaign=850800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

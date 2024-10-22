@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация тестирования с использованием SoapUI — Практическое руководство](https://habr.com/ru/companies/mkb/articles/852280/?utm_campaign=852280&utm_source=habrahabr&utm_medium=rss)
 - [У нас T-shape, а у вас?](https://habr.com/ru/companies/tbank/articles/852210/?utm_campaign=852210&utm_source=habrahabr&utm_medium=rss)
 - [История о том, как учительница английского с тремя детьми решила стать тестировщиком](https://habr.com/ru/companies/yandex_praktikum/articles/850570/?utm_campaign=850570&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в тестировании ПО: обзор инструментов](https://habr.com/ru/companies/inpglobal/articles/852212/?utm_campaign=852212&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 2: процессы подсчёта](https://habr.com/ru/companies/wunderfund/articles/852194/?utm_campaign=852194&utm_source=habrahabr&utm_medium=rss)
-- [Забудьте про терминал! Как я избавлялся от рутинных ADB команды с помощью Shortcuts](https://habr.com/ru/articles/852114/?utm_campaign=852114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Подходы к сокращению регрессионного тестирования](https://habr.com/ru/companies/sportmaster_lab/articles/852200/?utm_campaign=852200&utm_source=habrahabr&utm_medium=rss)
 - [Quake 2 на нашем RISC-V, или как мы поднимали старый Radeon на FPGA](https://habr.com/ru/companies/yadro/articles/851068/?utm_campaign=851068&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования с использованием SoapUI — Практическое руководство](https://habr.com/ru/companies/mkb/articles/852280/?utm_campaign=852280&utm_source=habrahabr&utm_medium=rss)
 - [У нас T-shape, а у вас?](https://habr.com/ru/companies/tbank/articles/852210/?utm_campaign=852210&utm_source=habrahabr&utm_medium=rss)
 - [История о том, как учительница английского с тремя детьми решила стать тестировщиком](https://habr.com/ru/companies/yandex_praktikum/articles/850570/?utm_campaign=850570&utm_source=habrahabr&utm_medium=rss)
-- [Искусственный интеллект в тестировании ПО: обзор инструментов](https://habr.com/ru/companies/inpglobal/articles/852212/?utm_campaign=852212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [История о том, как учительница английского с тремя детьми решила стать тестировщиком](https://habr.com/ru/companies/yandex_praktikum/articles/850570/?utm_campaign=850570&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в тестировании ПО: обзор инструментов](https://habr.com/ru/companies/inpglobal/articles/852212/?utm_campaign=852212&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 2: процессы подсчёта](https://habr.com/ru/companies/wunderfund/articles/852194/?utm_campaign=852194&utm_source=habrahabr&utm_medium=rss)
 - [Забудьте про терминал! Как я избавлялся от рутинных ADB команды с помощью Shortcuts](https://habr.com/ru/articles/852114/?utm_campaign=852114&utm_source=habrahabr&utm_medium=rss)
 - [Топ-8 систем управления тестированием, доступных в России в 2024 году](https://habr.com/ru/articles/851720/?utm_campaign=851720&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 1: непрерывные потоки данных](https://habr.com/ru/companies/wunderfund/articles/850382/?utm_campaign=850382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

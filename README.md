@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Standoff-онбординг: собираем команду, создаем баг-репорт и готовимся к соревнованиям](https://habr.com/ru/companies/pt/articles/852654/?utm_campaign=852654&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 14 лучших практик автоматизации тестирования](https://habr.com/ru/articles/852192/?utm_campaign=852192&utm_source=habrahabr&utm_medium=rss)
 - [Подходы к сокращению регрессионного тестирования](https://habr.com/ru/companies/sportmaster_lab/articles/852200/?utm_campaign=852200&utm_source=habrahabr&utm_medium=rss)
 - [Quake 2 на нашем RISC-V, или как мы поднимали старый Radeon на FPGA](https://habr.com/ru/companies/yadro/articles/851068/?utm_campaign=851068&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования с использованием SoapUI — Практическое руководство](https://habr.com/ru/companies/mkb/articles/852280/?utm_campaign=852280&utm_source=habrahabr&utm_medium=rss)
-- [У нас T-shape, а у вас?](https://habr.com/ru/companies/tbank/articles/852210/?utm_campaign=852210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

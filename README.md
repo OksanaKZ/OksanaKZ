@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Войти в IT – в 37 и с дипломом филфака](https://habr.com/ru/articles/853856/?utm_campaign=853856&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] CISQ. Исследование анализа качества ПО 2020 — часть 1](https://habr.com/ru/articles/853810/?utm_campaign=853810&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизированное тестирование графических приложений и сценариев установки](https://habr.com/ru/companies/inferit/articles/853374/?utm_campaign=853374&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация CQC на CI](https://habr.com/ru/articles/852978/?utm_campaign=852978&utm_source=habrahabr&utm_medium=rss)
 - [Standoff-онбординг: собираем команду, создаем баг-репорт и готовимся к соревнованиям](https://habr.com/ru/companies/pt/articles/852654/?utm_campaign=852654&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] 14 лучших практик автоматизации тестирования](https://habr.com/ru/articles/852192/?utm_campaign=852192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

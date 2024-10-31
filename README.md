@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Борьба с багами, или как мы провели внутренний эксперимент с командой QA](https://habr.com/ru/companies/zvuk/articles/854902/?utm_campaign=854902&utm_source=habrahabr&utm_medium=rss)
 - [Быстрый старт в QA Fullstack: чем вооружиться будущему стажеру в Альфа-Банке](https://habr.com/ru/companies/alfa/articles/854242/?utm_campaign=854242&utm_source=habrahabr&utm_medium=rss)
 - [Записки начинающего тестировщика: как адаптироваться в мире IT после смены профессии](https://habr.com/ru/companies/ispring/articles/853994/?utm_campaign=853994&utm_source=habrahabr&utm_medium=rss)
 - [Ускоряем разработку и тестирование с DevTools: 4 новых инструмента, которые сэкономят вам время](https://habr.com/ru/articles/854274/?utm_campaign=854274&utm_source=habrahabr&utm_medium=rss)
 - [Приключение на 20 минут. Часть 2: разбираемся со структурой проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/850030/?utm_campaign=850030&utm_source=habrahabr&utm_medium=rss)
-- [Войти в IT – в 37 и с дипломом филфака](https://habr.com/ru/articles/853856/?utm_campaign=853856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

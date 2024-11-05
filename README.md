@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нагружаем и отдыхаем: load testing без стресса ч.2 — автоматизация](https://habr.com/ru/companies/eftech/articles/856240/?utm_campaign=856240&utm_source=habrahabr&utm_medium=rss)
 - [Мониторинг качества и готовности к релизу: наши практики и инструменты](https://habr.com/ru/articles/856012/?utm_campaign=856012&utm_source=habrahabr&utm_medium=rss)
 - [Подборка российских QA-конференций и митапов](https://habr.com/ru/articles/855914/?utm_campaign=855914&utm_source=habrahabr&utm_medium=rss)
 - [Борьба с багами, или как мы провели внутренний эксперимент с командой QA](https://habr.com/ru/companies/zvuk/articles/854902/?utm_campaign=854902&utm_source=habrahabr&utm_medium=rss)
 - [Быстрый старт в QA Fullstack: чем вооружиться будущему стажеру в Альфа-Банке](https://habr.com/ru/companies/alfa/articles/854242/?utm_campaign=854242&utm_source=habrahabr&utm_medium=rss)
-- [Записки начинающего тестировщика: как адаптироваться в мире IT после смены профессии](https://habr.com/ru/companies/ispring/articles/853994/?utm_campaign=853994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как тестировщики запустили ВездеКОТ](https://habr.com/ru/companies/rshb/articles/857878/?utm_campaign=857878&utm_source=habrahabr&utm_medium=rss)
 - [Экспертиза под микроскопом [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/857760/?utm_campaign=857760&utm_source=habrahabr&utm_medium=rss)
 - [Ключ от всех дверей: как нашли бэкдор в самых надежных* картах доступа](https://habr.com/ru/companies/bastion/articles/854974/?utm_campaign=854974&utm_source=habrahabr&utm_medium=rss)
 - [Как в 2024 году организовывать интернатуру в US-компании для русских QA-джунов](https://habr.com/ru/articles/856518/?utm_campaign=856518&utm_source=habrahabr&utm_medium=rss)
 - [Скилл-нутриенты для тестировщика и не только: зачем выращивать в себе технолога](https://habr.com/ru/articles/856250/?utm_campaign=856250&utm_source=habrahabr&utm_medium=rss)
-- [Нагружаем и отдыхаем: load testing без стресса ч.2 — автоматизация](https://habr.com/ru/companies/eftech/articles/856240/?utm_campaign=856240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

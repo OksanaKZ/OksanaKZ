@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Тренды VM: топ трендовых уязвимостей октября, «метод Форда» и «атака на жалобщика»](https://habr.com/ru/companies/pt/articles/858066/?utm_campaign=858066&utm_source=habrahabr&utm_medium=rss)
+- [Тренды VM: топ уязвимостей октября, «метод Форда» и «атака на жалобщика»](https://habr.com/ru/companies/pt/articles/858066/?utm_campaign=858066&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Автоматизированное тестирование API с использованием Python. Работа с JSON и JsonPath](https://habr.com/ru/companies/otus/articles/857726/?utm_campaign=857726&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировщики запустили ВездеКОТ](https://habr.com/ru/companies/rshb/articles/857878/?utm_campaign=857878&utm_source=habrahabr&utm_medium=rss)
 - [Экспертиза под микроскопом [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/857760/?utm_campaign=857760&utm_source=habrahabr&utm_medium=rss)

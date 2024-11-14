@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы исследовали энергоэффективность инференса нейросетей на планшете](https://habr.com/ru/companies/yadro/articles/855702/?utm_campaign=855702&utm_source=habrahabr&utm_medium=rss)
 - [Зачем нужны TMS и как мы пришли к TestRail: опыт Рунити](https://habr.com/ru/companies/runity/articles/858504/?utm_campaign=858504&utm_source=habrahabr&utm_medium=rss)
 - [Как реализовать методы скроллов через Appium для Android-приложений](https://habr.com/ru/companies/simbirsoft/articles/858152/?utm_campaign=858152&utm_source=habrahabr&utm_medium=rss)
 - [Как поднять инфраструктуру для запуска автотестов Android в облаках](https://habr.com/ru/companies/avito/articles/858222/?utm_campaign=858222&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с помощью Excel](https://habr.com/ru/articles/858322/?utm_campaign=858322&utm_source=habrahabr&utm_medium=rss)
-- [Тренды VM: топ уязвимостей октября, «метод Форда» и «атака на жалобщика»](https://habr.com/ru/companies/pt/articles/858066/?utm_campaign=858066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

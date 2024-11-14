@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как реализовать методы скроллов через Appium для Android-приложений](https://habr.com/ru/companies/simbirsoft/articles/858152/?utm_campaign=858152&utm_source=habrahabr&utm_medium=rss)
 - [Как поднять инфраструктуру для запуска автотестов Android в облаках](https://habr.com/ru/companies/avito/articles/858222/?utm_campaign=858222&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с помощью Excel](https://habr.com/ru/articles/858322/?utm_campaign=858322&utm_source=habrahabr&utm_medium=rss)
 - [Тренды VM: топ уязвимостей октября, «метод Форда» и «атака на жалобщика»](https://habr.com/ru/companies/pt/articles/858066/?utm_campaign=858066&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Автоматизированное тестирование API с использованием Python. Работа с JSON и JsonPath](https://habr.com/ru/companies/otus/articles/857726/?utm_campaign=857726&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировщики запустили ВездеКОТ](https://habr.com/ru/companies/rshb/articles/857878/?utm_campaign=857878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

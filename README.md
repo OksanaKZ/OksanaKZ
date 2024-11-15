@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование BMС: поговорим о нагрузочном тестировании](https://habr.com/ru/companies/aquarius/articles/858884/?utm_campaign=858884&utm_source=habrahabr&utm_medium=rss)
 - [Kafka для самых маленьких тестировщиков](https://habr.com/ru/companies/maxilect/articles/858698/?utm_campaign=858698&utm_source=habrahabr&utm_medium=rss)
 - [Путешествие внутрь YADRO. Часть 1: распаковка и тест-драйв TATLIN.FLEX.ONE](https://habr.com/ru/companies/k2tech/articles/858570/?utm_campaign=858570&utm_source=habrahabr&utm_medium=rss)
 - [Как мы исследовали энергоэффективность инференса нейросетей на планшете](https://habr.com/ru/companies/yadro/articles/855702/?utm_campaign=855702&utm_source=habrahabr&utm_medium=rss)
 - [Зачем нужны TMS и как мы пришли к TestRail: опыт Рунити](https://habr.com/ru/companies/runity/articles/858504/?utm_campaign=858504&utm_source=habrahabr&utm_medium=rss)
-- [Как реализовать методы скроллов через Appium для Android-приложений](https://habr.com/ru/companies/simbirsoft/articles/858152/?utm_campaign=858152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

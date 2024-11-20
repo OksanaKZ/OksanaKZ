@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Шапочка из фольги не поможет»: что такое handover в базовых станциях и как его тестируют](https://habr.com/ru/companies/yadro/articles/859380/?utm_campaign=859380&utm_source=habrahabr&utm_medium=rss)
 - [JSON как альтернатива CSV в Postman, или как описать тестовые данные быстрее и лучше](https://habr.com/ru/companies/lanit/articles/853026/?utm_campaign=853026&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция Assert&#39;a на примере тестирования вездехода из Звездных Войн](https://habr.com/ru/companies/rshb/articles/859364/?utm_campaign=859364&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование BMС: поговорим о нагрузочном тестировании](https://habr.com/ru/companies/aquarius/articles/858884/?utm_campaign=858884&utm_source=habrahabr&utm_medium=rss)
 - [Kafka для самых маленьких тестировщиков](https://habr.com/ru/companies/maxilect/articles/858698/?utm_campaign=858698&utm_source=habrahabr&utm_medium=rss)
-- [Путешествие внутрь YADRO. Часть 1: распаковка и тест-драйв TATLIN.FLEX.ONE](https://habr.com/ru/companies/k2tech/articles/858570/?utm_campaign=858570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

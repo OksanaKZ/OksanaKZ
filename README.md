@@ -36,8 +36,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«ИИ-тестировщик»: от идеи к реализации](https://habr.com/ru/companies/domrf/articles/860216/?utm_campaign=860216&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование — битва к которой нужно подговиться](https://habr.com/ru/articles/860172/?utm_campaign=860172&utm_source=habrahabr&utm_medium=rss)
-- [«Шапочка из фольги не поможет»: что такое handover в базовых станциях и как его тестируют](https://habr.com/ru/companies/yadro/articles/859380/?utm_campaign=859380&utm_source=habrahabr&utm_medium=rss)
 - [JSON как альтернатива CSV в Postman, или как описать тестовые данные быстрее и лучше](https://habr.com/ru/companies/lanit/articles/853026/?utm_campaign=853026&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция Assert&#39;a на примере тестирования вездехода из Звездных Войн](https://habr.com/ru/companies/rshb/articles/859364/?utm_campaign=859364&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование BMС: поговорим о нагрузочном тестировании](https://habr.com/ru/companies/aquarius/articles/858884/?utm_campaign=858884&utm_source=habrahabr&utm_medium=rss)

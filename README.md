@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный интеллект в документации: как внедрить бота-документоведа](https://habr.com/ru/articles/860880/?utm_campaign=860880&utm_source=habrahabr&utm_medium=rss)
 - [«Шапочка из фольги не поможет»: что такое handover в базовых станциях и как его тестируют](https://habr.com/ru/companies/yadro/articles/860186/?utm_campaign=860186&utm_source=habrahabr&utm_medium=rss)
 - [«ИИ-тестировщик»: от идеи к реализации](https://habr.com/ru/companies/domrf/articles/860216/?utm_campaign=860216&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование — битва к которой нужно подговиться](https://habr.com/ru/articles/860172/?utm_campaign=860172&utm_source=habrahabr&utm_medium=rss)
 - [JSON как альтернатива CSV в Postman, или как описать тестовые данные быстрее и лучше](https://habr.com/ru/companies/lanit/articles/853026/?utm_campaign=853026&utm_source=habrahabr&utm_medium=rss)
-- [Эволюция Assert&#39;a на примере тестирования вездехода из Звездных Войн](https://habr.com/ru/companies/rshb/articles/859364/?utm_campaign=859364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Два подхода к анализу ПО на уязвимости: какой выбрать?](https://habr.com/ru/companies/sigma/articles/861482/?utm_campaign=861482&utm_source=habrahabr&utm_medium=rss)
 - [Как ручному тестировщику стать автоматизатором?](https://habr.com/ru/companies/avito/articles/861156/?utm_campaign=861156&utm_source=habrahabr&utm_medium=rss)
 - [Как один сервис сэкономил компании деньги, а сотрудникам — время](https://habr.com/ru/articles/852386/?utm_campaign=852386&utm_source=habrahabr&utm_medium=rss)
 - [Принцип тестирования «Скопление дефектов» &lpar;Defect Clustering&rpar;. Где прячутся баги?](https://habr.com/ru/articles/860970/?utm_campaign=860970&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в документации: как внедрить бота-документоведа](https://habr.com/ru/articles/860880/?utm_campaign=860880&utm_source=habrahabr&utm_medium=rss)
-- [«Шапочка из фольги не поможет»: что такое handover в базовых станциях и как его тестируют](https://habr.com/ru/companies/yadro/articles/860186/?utm_campaign=860186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Хакаем банк на 1337UP LIVE CTF 2024](https://habr.com/ru/companies/timeweb/articles/860812/?utm_campaign=860812&utm_source=habrahabr&utm_medium=rss)
 - [Точная оценка задач QA: возможно ли это?](https://habr.com/ru/articles/861640/?utm_campaign=861640&utm_source=habrahabr&utm_medium=rss)
 - [Ошибки, которые разрушают QA-процессы](https://habr.com/ru/articles/861556/?utm_campaign=861556&utm_source=habrahabr&utm_medium=rss)
 - [Как ухватить LLM за хвост: эффективные стратегии тестирования AI-моделей](https://habr.com/ru/articles/853038/?utm_campaign=853038&utm_source=habrahabr&utm_medium=rss)
 - [Два подхода к анализу ПО на уязвимости: какой выбрать?](https://habr.com/ru/companies/sigma/articles/861482/?utm_campaign=861482&utm_source=habrahabr&utm_medium=rss)
-- [Как ручному тестировщику стать автоматизатором?](https://habr.com/ru/companies/avito/articles/861156/?utm_campaign=861156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Пентест для самых маленьких на примере WinRAR](https://habr.com/ru/companies/alfa/articles/861298/?utm_campaign=861298&utm_source=habrahabr&utm_medium=rss)
 - [Популярные фреймворки для автоматизации тестирования](https://habr.com/ru/companies/sberbank/articles/861706/?utm_campaign=861706&utm_source=habrahabr&utm_medium=rss)
 - [Go отлаживать на проде, избавляться от хардкода и переходить на Ginkgo/Gomega: доклады для гоферов](https://habr.com/ru/companies/yadro/articles/861742/?utm_campaign=861742&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно завести баг](https://habr.com/ru/companies/kuper/articles/854722/?utm_campaign=854722&utm_source=habrahabr&utm_medium=rss)
 - [Хакаем банк на 1337UP LIVE CTF 2024](https://habr.com/ru/companies/timeweb/articles/860812/?utm_campaign=860812&utm_source=habrahabr&utm_medium=rss)
-- [Точная оценка задач QA: возможно ли это?](https://habr.com/ru/articles/861640/?utm_campaign=861640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

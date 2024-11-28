@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Из подземелья в QA: как и почему я перешёл в тестирование после 14 лет работы сисадмином в метрополитене](https://habr.com/ru/companies/sberbank/articles/861442/?utm_campaign=861442&utm_source=habrahabr&utm_medium=rss)
 - [Что тестировщикам &lpar;и не только им&rpar; важно знать о базах данных. Шпаргалка по популярным ошибкам](https://habr.com/ru/companies/sravni/articles/861806/?utm_campaign=861806&utm_source=habrahabr&utm_medium=rss)
 - [Apache Airflow: нестандартное применение](https://habr.com/ru/companies/dbraincloud/articles/861842/?utm_campaign=861842&utm_source=habrahabr&utm_medium=rss)
 - [Пентест для самых маленьких на примере WinRAR](https://habr.com/ru/companies/alfa/articles/861298/?utm_campaign=861298&utm_source=habrahabr&utm_medium=rss)
 - [Популярные фреймворки для автоматизации тестирования](https://habr.com/ru/companies/sberbank/articles/861706/?utm_campaign=861706&utm_source=habrahabr&utm_medium=rss)
-- [Go отлаживать на проде, избавляться от хардкода и переходить на Ginkgo/Gomega: доклады для гоферов](https://habr.com/ru/companies/yadro/articles/861742/?utm_campaign=861742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация тестирования таблиц в Postgresql на SQL](https://habr.com/ru/articles/862562/?utm_campaign=862562&utm_source=habrahabr&utm_medium=rss)
 - [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 3: Контроль](https://habr.com/ru/companies/yandex_praktikum/articles/858670/?utm_campaign=858670&utm_source=habrahabr&utm_medium=rss)
 - [Особенности нагрузочного тестирования банковского ПО: что важно учитывать](https://habr.com/ru/articles/862262/?utm_campaign=862262&utm_source=habrahabr&utm_medium=rss)
 - [Из подземелья в QA: как и почему я перешёл в тестирование после 14 лет работы сисадмином в метрополитене](https://habr.com/ru/companies/sberbank/articles/861442/?utm_campaign=861442&utm_source=habrahabr&utm_medium=rss)
 - [Что тестировщикам &lpar;и не только им&rpar; важно знать о базах данных. Шпаргалка по популярным ошибкам](https://habr.com/ru/companies/sravni/articles/861806/?utm_campaign=861806&utm_source=habrahabr&utm_medium=rss)
-- [Apache Airflow: нестандартное применение](https://habr.com/ru/companies/dbraincloud/articles/861842/?utm_campaign=861842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

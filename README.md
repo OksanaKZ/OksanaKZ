@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Омниканальность: инструменты и реальность](https://habr.com/ru/companies/bpmsoft/articles/863140/?utm_campaign=863140&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 10 инструментов для облегчения backend-разработки](https://habr.com/ru/articles/863138/?utm_campaign=863138&utm_source=habrahabr&utm_medium=rss)
-- [Непрямой контроль производительности приложения через генерируемый SQL и его характеристики](https://habr.com/ru/articles/862890/?utm_campaign=862890&utm_source=habrahabr&utm_medium=rss)
+- [Непрямой контроль за изменениями в производительности приложения через генерируемый SQL и его характеристики](https://habr.com/ru/articles/862890/?utm_campaign=862890&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования таблиц в Postgresql на SQL](https://habr.com/ru/articles/862562/?utm_campaign=862562&utm_source=habrahabr&utm_medium=rss)
 - [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 3: Контроль](https://habr.com/ru/companies/yandex_praktikum/articles/858670/?utm_campaign=858670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

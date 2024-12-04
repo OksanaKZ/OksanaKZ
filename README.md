@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Моки, L1 и никакого деплоя. Собираем идеальный .NET-тест для веб-сервиса](https://habr.com/ru/companies/kaspersky/articles/859718/?utm_campaign=859718&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем будущее: экспериментальный подход к релизам](https://habr.com/ru/companies/kuper/articles/861224/?utm_campaign=861224&utm_source=habrahabr&utm_medium=rss)
 - [Особенности тестирования Low-Code платформы: комбинации техник тест-дизайна на практике](https://habr.com/ru/companies/slsoft/articles/862864/?utm_campaign=862864&utm_source=habrahabr&utm_medium=rss)
 - [Омниканальность: инструменты и реальность](https://habr.com/ru/companies/bpmsoft/articles/863140/?utm_campaign=863140&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 10 инструментов для облегчения backend-разработки](https://habr.com/ru/articles/863138/?utm_campaign=863138&utm_source=habrahabr&utm_medium=rss)
-- [Непрямой контроль за изменениями в производительности приложения через генерируемый SQL и его характеристики](https://habr.com/ru/articles/862890/?utm_campaign=862890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

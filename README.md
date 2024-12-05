@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Запуск тест-ранов из Postman в командной строке с экспортом результатов в TMS TestIT](https://habr.com/ru/articles/864048/?utm_campaign=864048&utm_source=habrahabr&utm_medium=rss)
 - [Для Go-разработчиков, которые хорошо себя вели в этом году: генерируем стабы для тестирования и пилим монолит](https://habr.com/ru/companies/yadro/articles/863826/?utm_campaign=863826&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование на отказоустойчивость: ломаем, чтобы сделать лучше. Часть 1](https://habr.com/ru/companies/cloud_ru/articles/863042/?utm_campaign=863042&utm_source=habrahabr&utm_medium=rss)
 - [Моки, L1 и никакого деплоя. Собираем идеальный .NET-тест для веб-сервиса](https://habr.com/ru/companies/kaspersky/articles/859718/?utm_campaign=859718&utm_source=habrahabr&utm_medium=rss)
 - [Локализация дефектов как прохождение лабиринта](https://habr.com/ru/articles/863674/?utm_campaign=863674&utm_source=habrahabr&utm_medium=rss)
-- [Тестируем будущее: экспериментальный подход к релизам](https://habr.com/ru/companies/kuper/articles/861224/?utm_campaign=861224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

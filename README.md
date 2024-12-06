@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Обучение и воркшопы: как эффективно рассказать о новой функциональности](https://habr.com/ru/companies/bercut/articles/864554/?utm_campaign=864554&utm_source=habrahabr&utm_medium=rss)
+- [Обучение и воркшопы: как эффективно рассказать заказчику о новой функциональности](https://habr.com/ru/companies/bercut/articles/864554/?utm_campaign=864554&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист тестировщика в финансовой компании](https://habr.com/ru/companies/finam_broker/articles/864604/?utm_campaign=864604&utm_source=habrahabr&utm_medium=rss)
 - [На этой планете время идёт быстрее. Здесь мы и будем тестировать](https://habr.com/ru/companies/sberbank/articles/864152/?utm_campaign=864152&utm_source=habrahabr&utm_medium=rss)
 - [Запуск тест-ранов из Postman в командной строке с экспортом результатов в TMS TestIT](https://habr.com/ru/articles/864048/?utm_campaign=864048&utm_source=habrahabr&utm_medium=rss)

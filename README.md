@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_campaign=865098&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_campaign=865070&utm_source=habrahabr&utm_medium=rss)
 - [Взгляд интегратора на отечественные почтовые системы](https://habr.com/ru/companies/step_logic/articles/865006/?utm_campaign=865006&utm_source=habrahabr&utm_medium=rss)
 - [Поддерживаемые тесты в JMeter: tips and tricks](https://habr.com/ru/companies/ntechlab/articles/865032/?utm_campaign=865032&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в финтехе: на гребне волны импортозамещения](https://habr.com/ru/companies/rshb/articles/862298/?utm_campaign=862298&utm_source=habrahabr&utm_medium=rss)
-- [Обучение и воркшопы: как виртуозно познакомить заказчика с новой функциональностью](https://habr.com/ru/companies/bercut/articles/864554/?utm_campaign=864554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

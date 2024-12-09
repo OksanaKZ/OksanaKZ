@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Взгляд интегратора на отечественные почтовые системы](https://habr.com/ru/companies/step_logic/articles/865006/?utm_campaign=865006&utm_source=habrahabr&utm_medium=rss)
+- [Поддерживаемые тесты в JMeter: tips and tricks](https://habr.com/ru/companies/ntechlab/articles/865032/?utm_campaign=865032&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в финтехе: на гребне волны импортозамещения](https://habr.com/ru/companies/rshb/articles/862298/?utm_campaign=862298&utm_source=habrahabr&utm_medium=rss)
 - [Обучение и воркшопы: как виртуозно познакомить заказчика с новой функциональностью](https://habr.com/ru/companies/bercut/articles/864554/?utm_campaign=864554&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист тестировщика в финансовой компании](https://habr.com/ru/companies/finam_broker/articles/864604/?utm_campaign=864604&utm_source=habrahabr&utm_medium=rss)
-- [Сказ о термопасте](https://habr.com/ru/articles/864600/?utm_campaign=864600&utm_source=habrahabr&utm_medium=rss)
-- [На этой планете время идёт быстрее. Здесь мы и будем тестировать](https://habr.com/ru/companies/sberbank/articles/864152/?utm_campaign=864152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Знай своего ментора](https://habr.com/ru/articles/865550/?utm_campaign=865550&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании: управление тестированием производительности](https://habr.com/ru/articles/865152/?utm_campaign=865152&utm_source=habrahabr&utm_medium=rss)
 - [А нужна ли вам автоматизация тестирования?](https://habr.com/ru/companies/avito/articles/865122/?utm_campaign=865122&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT в работе тестировщика: как и когда использовать](https://habr.com/ru/companies/lanit/articles/863268/?utm_campaign=863268&utm_source=habrahabr&utm_medium=rss)
 - [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_campaign=865098&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_campaign=865070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

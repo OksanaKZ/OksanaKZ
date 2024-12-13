@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [В тренде VM: под прицелом продукты Windows, Ubuntu Server, Zyxel и другие](https://habr.com/ru/companies/pt/articles/866386/?utm_campaign=866386&utm_source=habrahabr&utm_medium=rss)
+- [Как заставить API самому себе писать тесты: практика генерации тестов на основе спецификации API. Часть 1](https://habr.com/ru/companies/odnoklassniki/articles/865370/?utm_campaign=865370&utm_source=habrahabr&utm_medium=rss)
 - [Одинокий рейнджер, или как выстраивать тестирование, будучи единственным QA в команде](https://habr.com/ru/companies/kuper/articles/861238/?utm_campaign=861238&utm_source=habrahabr&utm_medium=rss)
 - [Путешествие внутрь YADRO. Часть 2: распаковка и тест-драйв TATLIN.BACKUP](https://habr.com/ru/companies/k2tech/articles/866134/?utm_campaign=866134&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование на отказоустойчивость: ломаем, чтобы сделать лучше. Часть 2](https://habr.com/ru/companies/cloud_ru/articles/865308/?utm_campaign=865308&utm_source=habrahabr&utm_medium=rss)
-- [QAOps: новый этап эффективности тестирования ПО](https://habr.com/ru/companies/simbirsoft/articles/865930/?utm_campaign=865930&utm_source=habrahabr&utm_medium=rss)
-- [Picostress — наш подход к нагрузочному тестированию](https://habr.com/ru/companies/arenadata/articles/864974/?utm_campaign=864974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

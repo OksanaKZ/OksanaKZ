@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Поиск потенциальных уязвимостей в коде, часть 1: теория](https://habr.com/ru/companies/pvs-studio/articles/866896/?utm_campaign=866896&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование в Школе Тестирования КОТ Блока качества РСХБ-Интех](https://habr.com/ru/companies/rshb/articles/863718/?utm_campaign=863718&utm_source=habrahabr&utm_medium=rss)
 - [QA. Как навести порядок на проекте, в котором есть проблемы &lpar;Часть 2&rpar;](https://habr.com/ru/articles/865532/?utm_campaign=865532&utm_source=habrahabr&utm_medium=rss)
 - [Тест-кейсы: сортировка и гранулярность в репозитории](https://habr.com/ru/articles/866346/?utm_campaign=866346&utm_source=habrahabr&utm_medium=rss)
 - [Сравнение эффективности компиляторов под Эльбрус на примере решета Эратосфена](https://habr.com/ru/articles/866460/?utm_campaign=866460&utm_source=habrahabr&utm_medium=rss)
-- [В тренде VM: под прицелом продукты Windows, Ubuntu Server, Zyxel и другие](https://habr.com/ru/companies/pt/articles/866386/?utm_campaign=866386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

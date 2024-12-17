@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_campaign=867366&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с нуля: советы, которые я дала бы себе на старте](https://habr.com/ru/companies/doubletapp/articles/867204/?utm_campaign=867204&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании — повышение качества ПО и экономия времени на тестировании инфраструктуры](https://habr.com/ru/articles/867050/?utm_campaign=867050&utm_source=habrahabr&utm_medium=rss)
 - [Как я готовилась и сдавала ISTQB Certified Tester Advanced Level Test Analyst](https://habr.com/ru/articles/867210/?utm_campaign=867210&utm_source=habrahabr&utm_medium=rss)
 - [Замороженный cucumber](https://habr.com/ru/companies/mvideo/articles/867178/?utm_campaign=867178&utm_source=habrahabr&utm_medium=rss)
-- [Система отчётов в Gatling: как работать и что включает?](https://habr.com/ru/articles/867130/?utm_campaign=867130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

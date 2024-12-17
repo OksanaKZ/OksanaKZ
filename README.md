@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я готовилась и сдавала ISTQB Certified Tester Advanced Level Test Analyst](https://habr.com/ru/articles/867210/?utm_campaign=867210&utm_source=habrahabr&utm_medium=rss)
+- [Замороженный cucumber](https://habr.com/ru/companies/mvideo/articles/867178/?utm_campaign=867178&utm_source=habrahabr&utm_medium=rss)
 - [Система отчётов в Gatling: как работать и что включает?](https://habr.com/ru/articles/867130/?utm_campaign=867130&utm_source=habrahabr&utm_medium=rss)
 - [Идеи по тестированию печатных форм с помощью инструмента Vanessa Automation](https://habr.com/ru/articles/867096/?utm_campaign=867096&utm_source=habrahabr&utm_medium=rss)
 - [Введение в Gatling: какие есть альтернативы и в чем их минусы?](https://habr.com/ru/articles/867038/?utm_campaign=867038&utm_source=habrahabr&utm_medium=rss)
-- [Наводим порядок в мониторинге 30+ проектов](https://habr.com/ru/companies/2gis/articles/866140/?utm_campaign=866140&utm_source=habrahabr&utm_medium=rss)
-- [Поиск потенциальных уязвимостей в коде, часть 1: теория](https://habr.com/ru/companies/pvs-studio/articles/866896/?utm_campaign=866896&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

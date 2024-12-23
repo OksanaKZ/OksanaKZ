@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Применение методов искусственного интеллекта в автоматизированном тестировании ПО](https://habr.com/ru/articles/869020/?utm_campaign=869020&utm_source=habrahabr&utm_medium=rss)
 - [Самые эффективные метрики в тестировании](https://habr.com/ru/articles/868920/?utm_campaign=868920&utm_source=habrahabr&utm_medium=rss)
 - [Роль SDET-специалистов в разработке ПО в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/868292/?utm_campaign=868292&utm_source=habrahabr&utm_medium=rss)
 - [Рефлексия о техдолге и AutoDay](https://habr.com/ru/companies/alfa/articles/866946/?utm_campaign=866946&utm_source=habrahabr&utm_medium=rss)
 - [Remote Code Execution в Widget Options &lpar;WordPress Plugin&rpar; — CVE-2024-8672](https://habr.com/ru/articles/867684/?utm_campaign=867684&utm_source=habrahabr&utm_medium=rss)
-- [Автоматический поиск Proof-Of-Concept скриптов для CVE &lpar;sploitscan&rpar;](https://habr.com/ru/articles/867302/?utm_campaign=867302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

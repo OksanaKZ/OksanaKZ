@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Каким видят нейросети 2025 год для QA? И как будет развиваться профессия «Инженер по тестированию»?](https://habr.com/ru/articles/868862/?utm_campaign=868862&utm_source=habrahabr&utm_medium=rss)
 - [Роль SDET-специалистов в разработке ПО в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/868292/?utm_campaign=868292&utm_source=habrahabr&utm_medium=rss)
 - [Рефлексия о техдолге и AutoDay](https://habr.com/ru/companies/alfa/articles/866946/?utm_campaign=866946&utm_source=habrahabr&utm_medium=rss)
 - [Remote Code Execution в Widget Options &lpar;WordPress Plugin&rpar; — CVE-2024-8672](https://habr.com/ru/articles/867684/?utm_campaign=867684&utm_source=habrahabr&utm_medium=rss)
 - [Автоматический поиск Proof-Of-Concept скриптов для CVE &lpar;sploitscan&rpar;](https://habr.com/ru/articles/867302/?utm_campaign=867302&utm_source=habrahabr&utm_medium=rss)
+- [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_campaign=867366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Подход к автоматизации тестирования CI](https://habr.com/ru/companies/tbank/articles/869410/?utm_campaign=869410&utm_source=habrahabr&utm_medium=rss)
 - [Из учителя в QA: мой путь в IT](https://habr.com/ru/companies/simbirsoft/articles/869042/?utm_campaign=869042&utm_source=habrahabr&utm_medium=rss)
 - [100 тест-кейсов для страницы регистрации](https://habr.com/ru/articles/869152/?utm_campaign=869152&utm_source=habrahabr&utm_medium=rss)
 - [Применение методов искусственного интеллекта в автоматизированном тестировании ПО](https://habr.com/ru/articles/869020/?utm_campaign=869020&utm_source=habrahabr&utm_medium=rss)
 - [Самые эффективные метрики в тестировании](https://habr.com/ru/articles/868920/?utm_campaign=868920&utm_source=habrahabr&utm_medium=rss)
-- [Роль SDET-специалистов в разработке ПО в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/868292/?utm_campaign=868292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

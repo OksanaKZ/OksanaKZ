@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Моделирование статического синхронного компенсатора на базе преобразователя напряжения](https://habr.com/ru/companies/rosatom/articles/870238/?utm_campaign=870238&utm_source=habrahabr&utm_medium=rss)
 - [Как за 10 минут создать тестировщик нагрузки для API на Node.js](https://habr.com/ru/articles/870154/?utm_campaign=870154&utm_source=habrahabr&utm_medium=rss)
 - [Как генерация тестовых данных вернула доверие к тестам](https://habr.com/ru/companies/2gis/articles/868942/?utm_campaign=868942&utm_source=habrahabr&utm_medium=rss)
 - [Разделение ответственности между QA-инженером и разработчиком в Scrum-команде](https://habr.com/ru/companies/avito/articles/869782/?utm_campaign=869782&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тесты в «коробочки» завернули](https://habr.com/ru/companies/korus_consulting/articles/869628/?utm_campaign=869628&utm_source=habrahabr&utm_medium=rss)
-- [Подход к автоматизации тестирования CI](https://habr.com/ru/companies/tbank/articles/869410/?utm_campaign=869410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [60 тест-кейсов для тестирования API](https://habr.com/ru/articles/871188/?utm_campaign=871188&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция технологий контейнеризации и их роль в современном DevOps](https://habr.com/ru/articles/871178/?utm_campaign=871178&utm_source=habrahabr&utm_medium=rss)
 - [Порты в веб-разработке: от локальной разработки до продакшена](https://habr.com/ru/articles/870658/?utm_campaign=870658&utm_source=habrahabr&utm_medium=rss)
 - [Что скрывается за вводом пароля: как мы обновили сервис авторизации в Битрикс24](https://habr.com/ru/companies/bitrix/articles/870416/?utm_campaign=870416&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT против Школьника. Кто справляется с сочинением лучше?](https://habr.com/ru/articles/870328/?utm_campaign=870328&utm_source=habrahabr&utm_medium=rss)
-- [Моделирование статического синхронного компенсатора на базе преобразователя напряжения](https://habr.com/ru/companies/rosatom/articles/870238/?utm_campaign=870238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

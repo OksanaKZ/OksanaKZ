@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [QA. Расшиваем бутылочное горлышко регресса](https://habr.com/ru/articles/871694/?utm_campaign=871694&utm_source=habrahabr&utm_medium=rss)
 - [20 самых распространенных вопросов на собеседовании тестировщика ПО](https://habr.com/ru/articles/871446/?utm_campaign=871446&utm_source=habrahabr&utm_medium=rss)
 - [Как отслеживать перформанс-метрики приложения и выкатывать только позитивные изменения](https://habr.com/ru/companies/avito/articles/871428/?utm_campaign=871428&utm_source=habrahabr&utm_medium=rss)
 - [60 тест-кейсов для тестирования API](https://habr.com/ru/articles/871188/?utm_campaign=871188&utm_source=habrahabr&utm_medium=rss)
 - [Порты в веб-разработке: от локальной разработки до продакшена](https://habr.com/ru/articles/870658/?utm_campaign=870658&utm_source=habrahabr&utm_medium=rss)
-- [Что скрывается за вводом пароля: как мы обновили сервис авторизации в Битрикс24](https://habr.com/ru/companies/bitrix/articles/870416/?utm_campaign=870416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Основы разработки для автоматизации тестирования](https://habr.com/ru/articles/871840/?utm_campaign=871840&utm_source=habrahabr&utm_medium=rss)
+- [Aвтоматизация через призму пирамиды тестирования. Минимизация зависимости, швы, локаторы и о поиске UI-элементов](https://habr.com/ru/articles/871840/?utm_campaign=871840&utm_source=habrahabr&utm_medium=rss)
 - [100 вопросов на собеседовании тестировщика](https://habr.com/ru/articles/871746/?utm_campaign=871746&utm_source=habrahabr&utm_medium=rss)
 - [QA. Расшиваем бутылочное горлышко регресса](https://habr.com/ru/articles/871694/?utm_campaign=871694&utm_source=habrahabr&utm_medium=rss)
 - [Как отслеживать перформанс-метрики приложения и выкатывать только позитивные изменения](https://habr.com/ru/companies/avito/articles/871428/?utm_campaign=871428&utm_source=habrahabr&utm_medium=rss)

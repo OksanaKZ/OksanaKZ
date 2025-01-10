@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Меньше ресурсов при большей нагрузке: как мы создали простой инструмент нагрузочного тестирования](https://habr.com/ru/companies/sberbank/articles/872516/?utm_campaign=872516&utm_source=habrahabr&utm_medium=rss)
 - [Как подружиться с Social Selling Index &lpar;SSI&rpar; от LinkedIn и получить «новогодний буст»?](https://habr.com/ru/articles/871950/?utm_campaign=871950&utm_source=habrahabr&utm_medium=rss)
 - [Основы разработки для автоматизации тестирования](https://habr.com/ru/articles/871840/?utm_campaign=871840&utm_source=habrahabr&utm_medium=rss)
 - [QA. Расшиваем бутылочное горлышко регресса](https://habr.com/ru/articles/871694/?utm_campaign=871694&utm_source=habrahabr&utm_medium=rss)
 - [Как отслеживать перформанс-метрики приложения и выкатывать только позитивные изменения](https://habr.com/ru/companies/avito/articles/871428/?utm_campaign=871428&utm_source=habrahabr&utm_medium=rss)
-- [60 тест-кейсов для тестирования API](https://habr.com/ru/articles/871188/?utm_campaign=871188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

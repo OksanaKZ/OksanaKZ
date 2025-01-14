@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Платформы — великое благо и великое зло](https://habr.com/ru/articles/873518/?utm_campaign=873518&utm_source=habrahabr&utm_medium=rss)
+- [Выводим Большие языковые модели на чистую воду с помощью… Больших языковых моделей](https://habr.com/ru/companies/raft/articles/873504/?utm_campaign=873504&utm_source=habrahabr&utm_medium=rss)
 - [Мой первый Standoff, или Как я заглянул за плечо расследователю кибератак](https://habr.com/ru/companies/pt/articles/872556/?utm_campaign=872556&utm_source=habrahabr&utm_medium=rss)
 - [Делимся материалами с RSHB QA MeetUP: AI в тестировании](https://habr.com/ru/companies/rshb/articles/873380/?utm_campaign=873380&utm_source=habrahabr&utm_medium=rss)
 - [Валидация тела ответа с помощью JSON-Schema](https://habr.com/ru/companies/lanit/articles/869956/?utm_campaign=869956&utm_source=habrahabr&utm_medium=rss)
-- [Работа в двух вкладках: чит-лист проверок](https://habr.com/ru/articles/873320/?utm_campaign=873320&utm_source=habrahabr&utm_medium=rss)
-- [Сила связей в ручном тестировании. Часть 1: Формулируем подход для решения сложных задач](https://habr.com/ru/companies/axenix/articles/863188/?utm_campaign=863188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Основные функции инструментов управления тестированием](https://habr.com/ru/articles/871344/?utm_campaign=871344&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как улучшить качество ПО с помощью автоматизации, основанной на ИИ](https://habr.com/ru/companies/otus/articles/873556/?utm_campaign=873556&utm_source=habrahabr&utm_medium=rss)
 - [Платформы — великое благо и великое зло](https://habr.com/ru/articles/873518/?utm_campaign=873518&utm_source=habrahabr&utm_medium=rss)
 - [Выводим Большие языковые модели на чистую воду с помощью… Больших языковых моделей](https://habr.com/ru/companies/raft/articles/873504/?utm_campaign=873504&utm_source=habrahabr&utm_medium=rss)
 - [Мой первый Standoff, или Как я заглянул за плечо расследователю кибератак](https://habr.com/ru/companies/pt/articles/872556/?utm_campaign=872556&utm_source=habrahabr&utm_medium=rss)
-- [Делимся материалами с RSHB QA MeetUP: AI в тестировании](https://habr.com/ru/companies/rshb/articles/873380/?utm_campaign=873380&utm_source=habrahabr&utm_medium=rss)
-- [Валидация тела ответа с помощью JSON-Schema](https://habr.com/ru/companies/lanit/articles/869956/?utm_campaign=869956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

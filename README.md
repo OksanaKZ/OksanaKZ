@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестовая стратегия VS Тест-план](https://habr.com/ru/articles/874362/?utm_campaign=874362&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты: что есть 100% покрытие API?](https://habr.com/ru/articles/873854/?utm_campaign=873854&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем бэкенд](https://habr.com/ru/articles/873754/?utm_campaign=873754&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Основные функции инструментов управления тестированием](https://habr.com/ru/articles/871344/?utm_campaign=871344&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как улучшить качество ПО с помощью автоматизации, основанной на ИИ](https://habr.com/ru/companies/otus/articles/873556/?utm_campaign=873556&utm_source=habrahabr&utm_medium=rss)
-- [Платформы — великое благо и великое зло](https://habr.com/ru/articles/873518/?utm_campaign=873518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

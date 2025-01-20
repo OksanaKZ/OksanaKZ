@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Абсолютно потрясающее, но определенно не всеобъемлющее руководство по тестированию пуш-уведомлений](https://habr.com/ru/articles/811297/?utm_campaign=811297&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация проверки расчетов в 1С с помощью инструмента Vanessa automation](https://habr.com/ru/articles/874774/?utm_campaign=874774&utm_source=habrahabr&utm_medium=rss)
 - [Из бухгалтерии в тестирование: мой опыт](https://habr.com/ru/companies/ispsystem/articles/874230/?utm_campaign=874230&utm_source=habrahabr&utm_medium=rss)
 - [Тестовая стратегия VS Тест-план](https://habr.com/ru/articles/874362/?utm_campaign=874362&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты: что есть 100% покрытие API?](https://habr.com/ru/articles/873854/?utm_campaign=873854&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем бэкенд](https://habr.com/ru/articles/873754/?utm_campaign=873754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

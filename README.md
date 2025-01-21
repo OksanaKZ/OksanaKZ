@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сила связей в ручном тестировании. Часть 2: Связываем тест-кейсы с wiki-страницами](https://habr.com/ru/companies/axenix/articles/863196/?utm_campaign=863196&utm_source=habrahabr&utm_medium=rss)
 - [«Дебаггинг» резюме или как покорить сердце рекрутера](https://habr.com/ru/articles/875180/?utm_campaign=875180&utm_source=habrahabr&utm_medium=rss)
 - [Введение в тестирование](https://habr.com/ru/companies/nauka/articles/874472/?utm_campaign=874472&utm_source=habrahabr&utm_medium=rss)
 - [Абсолютно потрясающее, но определенно не всеобъемлющее руководство по тестированию пуш-уведомлений](https://habr.com/ru/articles/811297/?utm_campaign=811297&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация проверки расчетов в 1С с помощью инструмента Vanessa automation](https://habr.com/ru/articles/874774/?utm_campaign=874774&utm_source=habrahabr&utm_medium=rss)
-- [Из бухгалтерии в тестирование: мой опыт](https://habr.com/ru/companies/ispsystem/articles/874230/?utm_campaign=874230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

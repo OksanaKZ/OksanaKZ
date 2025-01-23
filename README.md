@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Коду плохо, зовите тестера: что такое санитарное тестирование](https://habr.com/ru/companies/petrovich-tech/articles/875886/?utm_campaign=875886&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Добавляем кнопку «Fix with AI» в отчёты Playwright](https://habr.com/ru/articles/875448/?utm_campaign=875448&utm_source=habrahabr&utm_medium=rss)
 - [Как писать баг-репорты, которые помогут всей команде](https://habr.com/ru/companies/itfb/articles/875356/?utm_campaign=875356&utm_source=habrahabr&utm_medium=rss)
 - [Инфракрасный счётчик посетителей. Ну что же ты всё по головам-то! Может, лучше — по ногам, по ногам..?](https://habr.com/ru/articles/875260/?utm_campaign=875260&utm_source=habrahabr&utm_medium=rss)
 - [Red Team против умного замка: взламываем биометрическую СКУД при помощи скрепки и магнита](https://habr.com/ru/companies/bastion/articles/873850/?utm_campaign=873850&utm_source=habrahabr&utm_medium=rss)
-- [Сила связей в ручном тестировании. Часть 2: Связываем тест-кейсы с wiki-страницами](https://habr.com/ru/companies/axenix/articles/863196/?utm_campaign=863196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

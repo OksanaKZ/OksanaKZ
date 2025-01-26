@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Создание образа в Cloud-init](https://habr.com/ru/articles/876750/?utm_campaign=876750&utm_source=habrahabr&utm_medium=rss)
 - [AI-driven TDD — используем Code-LLM на максимум](https://habr.com/ru/articles/876714/?utm_campaign=876714&utm_source=habrahabr&utm_medium=rss)
 - [Что такое pytest и как его использовать? Или как новичку начать автоматизировать тестирование?](https://habr.com/ru/articles/876570/?utm_campaign=876570&utm_source=habrahabr&utm_medium=rss)
 - [Сила связей в ручном тестировании. Часть 3: Оформляем wiki-страницы](https://habr.com/ru/companies/axenix/articles/863542/?utm_campaign=863542&utm_source=habrahabr&utm_medium=rss)
 - [Как мы обучаем автотестированию Junior и Middle в Школе К.О.Т](https://habr.com/ru/companies/rshb/articles/868198/?utm_campaign=868198&utm_source=habrahabr&utm_medium=rss)
-- [Что скрывают комментарии в тестах](https://habr.com/ru/articles/876248/?utm_campaign=876248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

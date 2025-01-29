@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как составить тест-кейсы на собеседовании? Разбираем задачу с техсобеса для начинающих QA](https://habr.com/ru/companies/sberbank/articles/877216/?utm_campaign=877216&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать бизнес-процессы в Camunda: пошаговый гайд](https://habr.com/ru/companies/clevertec/articles/876264/?utm_campaign=876264&utm_source=habrahabr&utm_medium=rss)
 - [Как читается Schema в GraphQL API](https://habr.com/ru/articles/876782/?utm_campaign=876782&utm_source=habrahabr&utm_medium=rss)
 - [Создание образа в Cloud-init](https://habr.com/ru/articles/876750/?utm_campaign=876750&utm_source=habrahabr&utm_medium=rss)
 - [AI-driven TDD — используем Code-LLM на максимум](https://habr.com/ru/articles/876714/?utm_campaign=876714&utm_source=habrahabr&utm_medium=rss)
-- [Что такое pytest и как его использовать? Или как новичку начать автоматизировать тестирование?](https://habr.com/ru/articles/876570/?utm_campaign=876570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

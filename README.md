@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [В тренде VM: под угрозой продукты Microsoft, сайты на WordPress и веб-приложения на Apache Struts](https://habr.com/ru/companies/pt/articles/877666/?utm_campaign=877666&utm_source=habrahabr&utm_medium=rss)
 - [Как заставить API самому себе писать тесты: практика генерации тестов на основе спецификации API. Часть 2](https://habr.com/ru/companies/vk/articles/876980/?utm_campaign=876980&utm_source=habrahabr&utm_medium=rss)
 - [Продукт, аутсорс или стартап — куда пойти? Мнение одного QA](https://habr.com/ru/companies/yandex_praktikum/articles/875072/?utm_campaign=875072&utm_source=habrahabr&utm_medium=rss)
 - [Не вручную: почему стоит автоматизировать рутинные задачи для QA](https://habr.com/ru/companies/surfstudio/articles/876994/?utm_campaign=876994&utm_source=habrahabr&utm_medium=rss)
 - [Как составить тест-кейсы на собеседовании? Разбираем задачу с техсобеса для начинающих QA](https://habr.com/ru/companies/sberbank/articles/877216/?utm_campaign=877216&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировать бизнес-процессы в Camunda: пошаговый гайд](https://habr.com/ru/companies/clevertec/articles/876264/?utm_campaign=876264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

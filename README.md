@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Начинаем в багбаунти: распродажа уязвимостей в Juice Shop, или Как искать простейшие баги в веб-приложениях](https://habr.com/ru/companies/pt/articles/878360/?utm_campaign=878360&utm_source=habrahabr&utm_medium=rss)
 - [WireMock: Легкий путь к эффективному тестированию](https://habr.com/ru/companies/beeline_tech/articles/878368/?utm_campaign=878368&utm_source=habrahabr&utm_medium=rss)
 - [Приручаем монстров в Go: боремся с разросшимся Makefile и монолитом — без распила на микросервисы](https://habr.com/ru/companies/yadro/articles/878354/?utm_campaign=878354&utm_source=habrahabr&utm_medium=rss)
 - [Тренды SDET-направления в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/877648/?utm_campaign=877648&utm_source=habrahabr&utm_medium=rss)
 - [В тренде VM: под угрозой продукты Microsoft, сайты на WordPress и веб-приложения на Apache Struts](https://habr.com/ru/companies/pt/articles/877666/?utm_campaign=877666&utm_source=habrahabr&utm_medium=rss)
-- [Как заставить API самому себе писать тесты: практика генерации тестов на основе спецификации API. Часть 2](https://habr.com/ru/companies/vk/articles/876980/?utm_campaign=876980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

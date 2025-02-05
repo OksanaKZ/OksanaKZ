@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek vs Mixtral: что безопаснее использовать для корпоративного чат-бота?](https://habr.com/ru/companies/raft/articles/879686/?utm_campaign=879686&utm_source=habrahabr&utm_medium=rss)
 - [Правильный инструмент для аналитики нагрузочного тестирования. Часть 2](https://habr.com/ru/articles/871154/?utm_campaign=871154&utm_source=habrahabr&utm_medium=rss)
 - [Тест-кейсы как справочник проекта](https://habr.com/ru/articles/878425/?utm_campaign=878425&utm_source=habrahabr&utm_medium=rss)
 - [Начинаем в багбаунти: распродажа уязвимостей в Juice Shop, или Как искать простейшие баги в веб-приложениях](https://habr.com/ru/companies/pt/articles/878360/?utm_campaign=878360&utm_source=habrahabr&utm_medium=rss)
 - [WireMock: Легкий путь к эффективному тестированию](https://habr.com/ru/companies/beeline_tech/articles/878368/?utm_campaign=878368&utm_source=habrahabr&utm_medium=rss)
-- [Приручаем монстров в Go: боремся с разросшимся Makefile и монолитом — без распила на микросервисы](https://habr.com/ru/companies/yadro/articles/878354/?utm_campaign=878354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

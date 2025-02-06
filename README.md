@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы используем пирамиду тестирования в Рунити](https://habr.com/ru/companies/runity/articles/880134/?utm_campaign=880134&utm_source=habrahabr&utm_medium=rss)
 - [Прощай, Teams и Cisco — здравствуй, российская разработка. Краткое руководство по выбору ВКС для бизнеса](https://habr.com/ru/companies/k2tech/articles/879964/?utm_campaign=879964&utm_source=habrahabr&utm_medium=rss)
 - [Pentesting 101: с чего начать](https://habr.com/ru/articles/879806/?utm_campaign=879806&utm_source=habrahabr&utm_medium=rss)
 - [Как мы за 3,5 часа обучили продуктовую команду быстрым тестированиям интерфейса](https://habr.com/ru/companies/vk/articles/879596/?utm_campaign=879596&utm_source=habrahabr&utm_medium=rss)
 - [Собеседования на Fullstack QA. Личный опыт](https://habr.com/ru/articles/879916/?utm_campaign=879916&utm_source=habrahabr&utm_medium=rss)
-- [Сменил завод на QA: реальный путь к профессии тестировщика 1С](https://habr.com/ru/companies/automacon/articles/879768/?utm_campaign=879768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

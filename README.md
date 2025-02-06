@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы за 3,5 часа обучили продуктовую команду быстрым тестированиям интерфейса](https://habr.com/ru/companies/vk/articles/879596/?utm_campaign=879596&utm_source=habrahabr&utm_medium=rss)
 - [Собеседования на Fullstack QA. Личный опыт](https://habr.com/ru/articles/879916/?utm_campaign=879916&utm_source=habrahabr&utm_medium=rss)
 - [Сменил завод на QA: реальный путь к профессии тестировщика 1С](https://habr.com/ru/companies/automacon/articles/879768/?utm_campaign=879768&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek vs Mixtral: что безопаснее использовать для корпоративного чат-бота?](https://habr.com/ru/companies/raft/articles/879686/?utm_campaign=879686&utm_source=habrahabr&utm_medium=rss)
 - [Правильный инструмент для аналитики нагрузочного тестирования. Часть 2](https://habr.com/ru/articles/871154/?utm_campaign=871154&utm_source=habrahabr&utm_medium=rss)
-- [Тест-кейсы как справочник проекта](https://habr.com/ru/articles/878425/?utm_campaign=878425&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Взгляд интегратора на отечественные почтовые системы: интеграция с каталогом LDAP](https://habr.com/ru/companies/step_logic/articles/880166/?utm_campaign=880166&utm_source=habrahabr&utm_medium=rss)
+- [Взгляд интегратора на отечественные почтовые системы. Часть 2: Интеграция с каталогом LDAP](https://habr.com/ru/companies/step_logic/articles/880166/?utm_campaign=880166&utm_source=habrahabr&utm_medium=rss)
 - [В погоне за багами: на кого охотились и как зарабатывали белые хакеры](https://habr.com/ru/companies/pt/articles/879522/?utm_campaign=879522&utm_source=habrahabr&utm_medium=rss)
 - [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/companies/kaspersky/articles/880268/?utm_campaign=880268&utm_source=habrahabr&utm_medium=rss)
 - [Как мы используем пирамиду тестирования в Рунити](https://habr.com/ru/companies/runity/articles/880134/?utm_campaign=880134&utm_source=habrahabr&utm_medium=rss)

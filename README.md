@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Один бесконечный год или помогли ли нам инопланетяне внедрить ИИ в тестирование?](https://habr.com/ru/companies/rshb/articles/881866/?utm_campaign=881866&utm_source=habrahabr&utm_medium=rss)
 - [Улучшение навигации и рост производительности: что изменилось в системе управления тестированием TestY 2.0](https://habr.com/ru/companies/yadro/articles/881714/?utm_campaign=881714&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать чат-бот с RAG безопаснее?](https://habr.com/ru/companies/raft/articles/881350/?utm_campaign=881350&utm_source=habrahabr&utm_medium=rss)
 - [Взгляд интегратора на отечественные почтовые системы. Часть 2: Интеграция с каталогом LDAP](https://habr.com/ru/companies/step_logic/articles/880166/?utm_campaign=880166&utm_source=habrahabr&utm_medium=rss)
 - [В погоне за багами: на кого охотились и как зарабатывали белые хакеры](https://habr.com/ru/companies/pt/articles/879522/?utm_campaign=879522&utm_source=habrahabr&utm_medium=rss)
-- [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/companies/kaspersky/articles/880268/?utm_campaign=880268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel&lpar;&rpar;](https://habr.com/ru/articles/882222/?utm_campaign=882222&utm_source=habrahabr&utm_medium=rss)
 - [MongoDB: магия вне Хогвартса в IT](https://habr.com/ru/companies/sportmaster_lab/articles/881644/?utm_campaign=881644&utm_source=habrahabr&utm_medium=rss)
 - [Один бесконечный год или помогли ли нам инопланетяне внедрить ИИ в тестирование?](https://habr.com/ru/companies/rshb/articles/881866/?utm_campaign=881866&utm_source=habrahabr&utm_medium=rss)
 - [Улучшение навигации и рост производительности: что изменилось в системе управления тестированием TestY 2.0](https://habr.com/ru/companies/yadro/articles/881714/?utm_campaign=881714&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать чат-бот с RAG безопаснее?](https://habr.com/ru/companies/raft/articles/881350/?utm_campaign=881350&utm_source=habrahabr&utm_medium=rss)
-- [Взгляд интегратора на отечественные почтовые системы. Часть 2: Интеграция с каталогом LDAP](https://habr.com/ru/companies/step_logic/articles/880166/?utm_campaign=880166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовое тестирование](https://habr.com/ru/articles/882660/?utm_campaign=882660&utm_source=habrahabr&utm_medium=rss)
 - [Как видеть всё: внедряем простой мониторинг производительности в командах &lpar;на примере QA&rpar;](https://habr.com/ru/companies/sravni/articles/882586/?utm_campaign=882586&utm_source=habrahabr&utm_medium=rss)
 - [Нормальным, вроде, UX&#39;ом об интеграцию](https://habr.com/ru/articles/882480/?utm_campaign=882480&utm_source=habrahabr&utm_medium=rss)
 - [Как не укусить себя за хвост во время написания функциональных тестов на Go](https://habr.com/ru/companies/sberbank/articles/882060/?utm_campaign=882060&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с интеллектом: Пилотный проект внедрения ИИ в РСХБ-Интех](https://habr.com/ru/companies/rshb/articles/881072/?utm_campaign=881072&utm_source=habrahabr&utm_medium=rss)
-- [Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel&lpar;&rpar;](https://habr.com/ru/articles/882222/?utm_campaign=882222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

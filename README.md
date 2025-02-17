@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я понимаю «компонентное тестирование»](https://habr.com/ru/articles/883120/?utm_campaign=883120&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование микросервисов: типы, моки, цирк и прочая чепуха](https://habr.com/ru/articles/882902/?utm_campaign=882902&utm_source=habrahabr&utm_medium=rss)
 - [«В ногу со временем»: разбор развития трендов и подходов QA](https://habr.com/ru/companies/vk/articles/882582/?utm_campaign=882582&utm_source=habrahabr&utm_medium=rss)
 - [Продуктовое тестирование](https://habr.com/ru/articles/882660/?utm_campaign=882660&utm_source=habrahabr&utm_medium=rss)
 - [Как видеть всё: внедряем простой мониторинг производительности в командах &lpar;на примере QA&rpar;](https://habr.com/ru/companies/sravni/articles/882586/?utm_campaign=882586&utm_source=habrahabr&utm_medium=rss)
-- [Нормальным, вроде, UX&#39;ом об интеграцию](https://habr.com/ru/articles/882480/?utm_campaign=882480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

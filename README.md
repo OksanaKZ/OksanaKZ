@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [5 вопросов тестировщика на собеседовании, или Красные флаги работодателя](https://habr.com/ru/companies/vk/articles/883334/?utm_campaign=883334&utm_source=habrahabr&utm_medium=rss)
 - [Эвристики в тестировании](https://habr.com/ru/articles/883048/?utm_campaign=883048&utm_source=habrahabr&utm_medium=rss)
 - [Запуск ML-модели в бизнесе — что нужно знать предпринимателям](https://habr.com/ru/articles/883180/?utm_campaign=883180&utm_source=habrahabr&utm_medium=rss)
 - [Ошибки в нагрузочном тестировании](https://habr.com/ru/companies/tbank/articles/883166/?utm_campaign=883166&utm_source=habrahabr&utm_medium=rss)
 - [Как я понимаю «компонентное тестирование»](https://habr.com/ru/articles/883120/?utm_campaign=883120&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование микросервисов: типы, моки, цирк и прочая чепуха](https://habr.com/ru/articles/882902/?utm_campaign=882902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

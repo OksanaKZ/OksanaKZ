@@ -39,6 +39,6 @@
 - [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 1: Качество продукта](https://habr.com/ru/articles/883036/?utm_campaign=883036&utm_source=habrahabr&utm_medium=rss)
 - [Хаос-тесты: ломаем прод, чтобы он не ломался](https://habr.com/ru/companies/mindbox/articles/883332/?utm_campaign=883332&utm_source=habrahabr&utm_medium=rss)
 - [Инновации в тестировании САПР: путь к созданию автоматизированного решения для тестирования](https://habr.com/ru/articles/883590/?utm_campaign=883590&utm_source=habrahabr&utm_medium=rss)
-- [TRex: установка, настройка и запуск тестов производительности NGFW](https://habr.com/ru/companies/pt/articles/883264/?utm_campaign=883264&utm_source=habrahabr&utm_medium=rss)
 - [5 вопросов тестировщика на собеседовании, или Красные флаги работодателя](https://habr.com/ru/companies/vk/articles/883334/?utm_campaign=883334&utm_source=habrahabr&utm_medium=rss)
+- [Эвристики в тестировании](https://habr.com/ru/articles/883048/?utm_campaign=883048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

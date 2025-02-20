@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сколько стоит рефакторинг тест-кейсов?](https://habr.com/ru/articles/884038/?utm_campaign=884038&utm_source=habrahabr&utm_medium=rss)
+- [Как провалить собеседование в IT? 7 типичных ошибок &lpar;и как их избежать&rpar;](https://habr.com/ru/articles/883740/?utm_campaign=883740&utm_source=habrahabr&utm_medium=rss)
 - [Из веб-тестировщиков в мобильные: инсайты для тех, кто задумался о переходе](https://habr.com/ru/companies/bitrix/articles/883808/?utm_campaign=883808&utm_source=habrahabr&utm_medium=rss)
 - [Фасилитация: превращаем разговоры в решения](https://habr.com/ru/articles/883744/?utm_campaign=883744&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 1: Качество продукта](https://habr.com/ru/articles/883036/?utm_campaign=883036&utm_source=habrahabr&utm_medium=rss)
-- [Хаос-тесты: ломаем прод, чтобы он не ломался](https://habr.com/ru/companies/mindbox/articles/883332/?utm_campaign=883332&utm_source=habrahabr&utm_medium=rss)
-- [Инновации в тестировании САПР: путь к созданию автоматизированного решения для тестирования](https://habr.com/ru/articles/883590/?utm_campaign=883590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

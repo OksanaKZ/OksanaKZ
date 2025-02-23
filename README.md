@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 2](https://habr.com/ru/articles/868484/?utm_campaign=868484&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем API с помощью Keploy](https://habr.com/ru/companies/otus/articles/882636/?utm_campaign=882636&utm_source=habrahabr&utm_medium=rss)
 - [Как составить устойчивые локаторы практически для любого сайта](https://habr.com/ru/companies/infowatch/articles/883908/?utm_campaign=883908&utm_source=habrahabr&utm_medium=rss)
 - [Системы управления тестированием, доступные в России](https://habr.com/ru/companies/otus/articles/884296/?utm_campaign=884296&utm_source=habrahabr&utm_medium=rss)
 - [Хьюстон, у нас проблема, или Чего не договаривают производители HDD](https://habr.com/ru/companies/pt/articles/883372/?utm_campaign=883372&utm_source=habrahabr&utm_medium=rss)
-- [Как использовать интеллектуальные карты в тестировании ПО](https://habr.com/ru/companies/simbirsoft/articles/884230/?utm_campaign=884230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

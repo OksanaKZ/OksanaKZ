@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Фишинг «для своих»: нюансы организации учебных рассылок](https://habr.com/ru/companies/bastion/articles/883200/?utm_campaign=883200&utm_source=habrahabr&utm_medium=rss)
 - [Поиск потенциальных уязвимостей в коде, часть 2: практика](https://habr.com/ru/companies/pvs-studio/articles/885576/?utm_campaign=885576&utm_source=habrahabr&utm_medium=rss)
 - [Низкие задержки для задач автоведения и сервисов критических служб в доступных беспроводных решениях](https://habr.com/ru/companies/aquarius/articles/885242/?utm_campaign=885242&utm_source=habrahabr&utm_medium=rss)
 - [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 2](https://habr.com/ru/articles/868484/?utm_campaign=868484&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем API с помощью Keploy](https://habr.com/ru/companies/otus/articles/882636/?utm_campaign=882636&utm_source=habrahabr&utm_medium=rss)
-- [Как составить устойчивые локаторы практически для любого сайта](https://habr.com/ru/companies/infowatch/articles/883908/?utm_campaign=883908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

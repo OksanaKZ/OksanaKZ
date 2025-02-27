@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как я сдавал на сертификат ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_campaign=886536&utm_source=habrahabr&utm_medium=rss)
+- [Как проходил экзамен на ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_campaign=886536&utm_source=habrahabr&utm_medium=rss)
 - [Как прогнать коллекцию в Postman за 5 секунд](https://habr.com/ru/companies/alfa/articles/883230/?utm_campaign=883230&utm_source=habrahabr&utm_medium=rss)
 - [Пентест системы печати. Атакуем](https://habr.com/ru/companies/otus/articles/882612/?utm_campaign=882612&utm_source=habrahabr&utm_medium=rss)
 - [Профиль ЦФТ или я его слепила из того, что было](https://habr.com/ru/companies/otpbank/articles/885874/?utm_campaign=885874&utm_source=habrahabr&utm_medium=rss)

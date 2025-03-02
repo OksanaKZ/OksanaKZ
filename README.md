@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследуем монады в Rust через тестирование на основе свойств](https://habr.com/ru/articles/887234/?utm_campaign=887234&utm_source=habrahabr&utm_medium=rss)
 - [Self-healing тесты и локальная LLM](https://habr.com/ru/articles/887226/?utm_campaign=887226&utm_source=habrahabr&utm_medium=rss)
 - [Революция в тестировании: от традиционного подхода к интеллектуальной эволюции](https://habr.com/ru/companies/axenix/articles/886596/?utm_campaign=886596&utm_source=habrahabr&utm_medium=rss)
 - [Как проходил экзамен на ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_campaign=886536&utm_source=habrahabr&utm_medium=rss)
 - [Как прогнать коллекцию в Postman за 5 секунд](https://habr.com/ru/companies/alfa/articles/883230/?utm_campaign=883230&utm_source=habrahabr&utm_medium=rss)
-- [Пентест системы печати. Атакуем](https://habr.com/ru/companies/otus/articles/882612/?utm_campaign=882612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

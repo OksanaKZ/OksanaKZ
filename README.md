@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Downstream-пайплайны как полезный инструмент для автоматизации тестирования](https://habr.com/ru/companies/tbank/articles/888078/?utm_campaign=888078&utm_source=habrahabr&utm_medium=rss)
 - [Локаторы. Стратегии поиска веб-элементов](https://habr.com/ru/articles/887964/?utm_campaign=887964&utm_source=habrahabr&utm_medium=rss)
 - [Подборка аналогов ChatGPT &lpar;текстовых ИИ&rpar;](https://habr.com/ru/articles/887256/?utm_campaign=887256&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Исследуем монады в Rust через тестирование на основе свойств](https://habr.com/ru/articles/887234/?utm_campaign=887234&utm_source=habrahabr&utm_medium=rss)
 - [Self-healing тесты и локальная LLM](https://habr.com/ru/articles/887226/?utm_campaign=887226&utm_source=habrahabr&utm_medium=rss)
-- [Революция в тестировании: от традиционного подхода к интеллектуальной эволюции](https://habr.com/ru/companies/axenix/articles/886596/?utm_campaign=886596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

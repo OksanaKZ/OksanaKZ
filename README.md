@@ -36,8 +36,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Page Object Model и Page Factory в Selenium](https://habr.com/ru/companies/otus/articles/888450/?utm_campaign=888450&utm_source=habrahabr&utm_medium=rss)
 - [Обзор песочницы по тестированию. Практика для QA](https://habr.com/ru/companies/sberbank/articles/888204/?utm_campaign=888204&utm_source=habrahabr&utm_medium=rss)
-- [Downstream-пайплайны как полезный инструмент для автоматизации тестирования](https://habr.com/ru/companies/tbank/articles/888078/?utm_campaign=888078&utm_source=habrahabr&utm_medium=rss)
 - [Локаторы. Стратегии поиска веб-элементов](https://habr.com/ru/articles/887964/?utm_campaign=887964&utm_source=habrahabr&utm_medium=rss)
 - [Подборка аналогов ChatGPT &lpar;текстовых ИИ&rpar;](https://habr.com/ru/articles/887256/?utm_campaign=887256&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Исследуем монады в Rust через тестирование на основе свойств](https://habr.com/ru/articles/887234/?utm_campaign=887234&utm_source=habrahabr&utm_medium=rss)

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Cobalt Strike: Гайд по использованию](https://habr.com/ru/articles/889446/?utm_campaign=889446&utm_source=habrahabr&utm_medium=rss)
+- [Что такое пирамида тестирования, зачем она нужна и как её правильно применять?](https://habr.com/ru/articles/888326/?utm_campaign=888326&utm_source=habrahabr&utm_medium=rss)
 - [От ЦОДа до ПРОДа: как прошел полный ИТ-цикл на MeetUp МКБ](https://habr.com/ru/companies/mkb/articles/888620/?utm_campaign=888620&utm_source=habrahabr&utm_medium=rss)
 - [Moq: пара фич для упрощения тестов, о которых знают не все](https://habr.com/ru/companies/dododev/articles/885198/?utm_campaign=885198&utm_source=habrahabr&utm_medium=rss)
 - [АОП в автоматизации тестирования](https://habr.com/ru/articles/888844/?utm_campaign=888844&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Page Object Model и Page Factory в Selenium](https://habr.com/ru/companies/otus/articles/888450/?utm_campaign=888450&utm_source=habrahabr&utm_medium=rss)
-- [Обзор песочницы по тестированию. Практика для QA](https://habr.com/ru/companies/sberbank/articles/888204/?utm_campaign=888204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

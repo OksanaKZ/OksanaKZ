@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Неинтеграционное тестирование интеграционных потоков. Или интеграционное?](https://habr.com/ru/companies/auchan/articles/889908/?utm_campaign=889908&utm_source=habrahabr&utm_medium=rss)
 - [Инфракрасный хакинг: взламываем пульт от телевизора Samsung](https://habr.com/ru/companies/bastion/articles/888176/?utm_campaign=888176&utm_source=habrahabr&utm_medium=rss)
 - [Как мы автоматизировали сбор данных по проблемам производительности 1С для проведения диагностики в одном окне](https://habr.com/ru/articles/889032/?utm_campaign=889032&utm_source=habrahabr&utm_medium=rss)
 - [Cobalt Strike: Гайд по использованию](https://habr.com/ru/articles/889446/?utm_campaign=889446&utm_source=habrahabr&utm_medium=rss)
 - [От ЦОДа до ПРОДа: как прошел полный ИТ-цикл на MeetUp МКБ](https://habr.com/ru/companies/mkb/articles/888620/?utm_campaign=888620&utm_source=habrahabr&utm_medium=rss)
-- [Moq: пара фич для упрощения тестов, о которых знают не все](https://habr.com/ru/companies/dododev/articles/885198/?utm_campaign=885198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

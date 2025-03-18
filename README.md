@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли необходимость в автоматизации тестирования на проникновение](https://habr.com/ru/companies/pt/articles/891406/?utm_campaign=891406&utm_source=habrahabr&utm_medium=rss)
 - [Год успешной работы тестировщиком: мифы, усвоенные на курсах, и реальность](https://habr.com/ru/companies/lanit/articles/889884/?utm_campaign=889884&utm_source=habrahabr&utm_medium=rss)
 - [Как читать сообщения, если никто из брокеров не предоставил удобный интерфейс](https://habr.com/ru/companies/axenix/articles/886042/?utm_campaign=886042&utm_source=habrahabr&utm_medium=rss)
 - [Realtime тестирование UserGate DCFW](https://habr.com/ru/companies/usergate/articles/889462/?utm_campaign=889462&utm_source=habrahabr&utm_medium=rss)
 - [Code, maturity, tools: как мы развиваем QA-практики в МТС](https://habr.com/ru/companies/ru_mts/articles/890162/?utm_campaign=890162&utm_source=habrahabr&utm_medium=rss)
-- [Неинтеграционное тестирование интеграционных потоков. Или интеграционное?](https://habr.com/ru/companies/auchan/articles/889908/?utm_campaign=889908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мокирование зависимостей в Go](https://habr.com/ru/companies/otus/articles/892084/?utm_campaign=892084&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как ваш мозг вас обманывает: тестировщики и когнитивные искажения](https://habr.com/ru/companies/otus/articles/891892/?utm_campaign=891892&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование БД в легаси-проекте: повышение качества кода и стабильности системы в «Цифровой карте магазина»](https://habr.com/ru/companies/sportmaster_lab/articles/888110/?utm_campaign=888110&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Взлом гиганта: как я нашел уязвимость в поддомене Google и попал в «зал славы» багхантеров](https://habr.com/ru/companies/bastion/articles/889988/?utm_campaign=889988&utm_source=habrahabr&utm_medium=rss)
 - [Есть ли необходимость в автоматизации тестирования на проникновение](https://habr.com/ru/companies/pt/articles/891406/?utm_campaign=891406&utm_source=habrahabr&utm_medium=rss)
-- [Год успешной работы тестировщиком: мифы, усвоенные на курсах, и реальность](https://habr.com/ru/companies/lanit/articles/889884/?utm_campaign=889884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

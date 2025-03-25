@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [SDET в деле: задачи автоматизаторов на проектах и в чем их отличие от QA Fullstack](https://habr.com/ru/companies/simbirsoft/articles/894062/?utm_campaign=894062&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать в 2025-м](https://habr.com/ru/companies/jugru/articles/893334/?utm_campaign=893334&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщики это просто крутые покемоны](https://habr.com/ru/articles/893278/?utm_campaign=893278&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование платформы DeepSeek для проверки гипотез по анализу данных](https://habr.com/ru/companies/vsk_insurance/articles/893110/?utm_campaign=893110&utm_source=habrahabr&utm_medium=rss)
 - [Мокирование зависимостей в Go](https://habr.com/ru/companies/otus/articles/892084/?utm_campaign=892084&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как ваш мозг вас обманывает: тестировщики и когнитивные искажения](https://habr.com/ru/companies/otus/articles/891892/?utm_campaign=891892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

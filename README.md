@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Kafka: что нужно знать тестировщику? Часть 1](https://habr.com/ru/companies/reksoft/articles/894556/?utm_campaign=894556&utm_source=habrahabr&utm_medium=rss)
+- [Протестировала 5 систем управления знаниями: делюсь впечатлениями](https://habr.com/ru/articles/894348/?utm_campaign=894348&utm_source=habrahabr&utm_medium=rss)
 - [C#: использование Unit test с Apache Ignite](https://habr.com/ru/companies/t2/articles/894502/?utm_campaign=894502&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Новая уязвимость в GitHub Copilot и Cursor: как хакеры могут превратить AI-агентов в оружие](https://habr.com/ru/articles/894248/?utm_campaign=894248&utm_source=habrahabr&utm_medium=rss)
 - [SDET в деле: задачи автоматизаторов на проектах и в чем их отличие от QA Fullstack](https://habr.com/ru/companies/simbirsoft/articles/894062/?utm_campaign=894062&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировать в 2025-м](https://habr.com/ru/companies/jugru/articles/893334/?utm_campaign=893334&utm_source=habrahabr&utm_medium=rss)
-- [Тестировщики это просто крутые покемоны](https://habr.com/ru/articles/893278/?utm_campaign=893278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

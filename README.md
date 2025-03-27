@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование влево, тестирование вправо: как не дать багам шанса](https://habr.com/ru/companies/2gis/articles/894568/?utm_campaign=894568&utm_source=habrahabr&utm_medium=rss)
 - [Я 6 лет в IT. Вместо меня повысили коллегу, который гуглил, как проверить API-запрос. Что я сделал](https://habr.com/ru/companies/minerva_media/articles/894306/?utm_campaign=894306&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Искусство юнит-тестирования с примерами на JavaScript. 3-е межд. изд.»](https://habr.com/ru/companies/piter/articles/891988/?utm_campaign=891988&utm_source=habrahabr&utm_medium=rss)
 - [Kafka: что нужно знать тестировщику? Часть 1](https://habr.com/ru/companies/reksoft/articles/894556/?utm_campaign=894556&utm_source=habrahabr&utm_medium=rss)
 - [Протестировала 5 систем управления знаниями: делюсь впечатлениями](https://habr.com/ru/articles/894348/?utm_campaign=894348&utm_source=habrahabr&utm_medium=rss)
-- [C#: использование Unit test с Apache Ignite](https://habr.com/ru/companies/t2/articles/894502/?utm_campaign=894502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

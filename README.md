@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тест от айти-джинна: справишься с рабочими задачами аналитика, тимлида, тестировщика?](https://habr.com/ru/specials/890538/?utm_campaign=890538&utm_source=habrahabr&utm_medium=rss)
+- [Автоматизация проверОК логирования действий пользователей сайта](https://habr.com/ru/companies/odnoklassniki/articles/896074/?utm_campaign=896074&utm_source=habrahabr&utm_medium=rss)
 - [Топ 3 расширения Chrome для автоматизированного тестирования](https://habr.com/ru/articles/895550/?utm_campaign=895550&utm_source=habrahabr&utm_medium=rss)
 - [CXL-Тестирование интерконнекта для дата-центров нового поколения](https://habr.com/ru/companies/selectel/articles/895416/?utm_campaign=895416&utm_source=habrahabr&utm_medium=rss)
 - [Невыносимая лёгкость проведения технических собеседований QA специалистов](https://habr.com/ru/articles/895154/?utm_campaign=895154&utm_source=habrahabr&utm_medium=rss)
-- [«Бот — нагрузочник»: как мы используем ассистента тестирования производительности при регрессионных тестах](https://habr.com/ru/companies/domrf/articles/894642/?utm_campaign=894642&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование влево, тестирование вправо: как не дать багам шанса](https://habr.com/ru/companies/2gis/articles/894568/?utm_campaign=894568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

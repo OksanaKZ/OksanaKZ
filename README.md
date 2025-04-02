@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Один контейнер, чтобы править всеми — пока всё не сломается](https://habr.com/ru/companies/T1Holding/articles/896742/?utm_campaign=896742&utm_source=habrahabr&utm_medium=rss)
 - [Я больше не вижу багов…](https://habr.com/ru/articles/896582/?utm_campaign=896582&utm_source=habrahabr&utm_medium=rss)
 - [История о том, как бот в отделе тестирования упростил нам жизнь](https://habr.com/ru/companies/runity/articles/896350/?utm_campaign=896350&utm_source=habrahabr&utm_medium=rss)
 - [API автотесты на Python с запуском на CI/CD и Allure отчетом](https://habr.com/ru/articles/895452/?utm_campaign=895452&utm_source=habrahabr&utm_medium=rss)
 - [Как я стал фулстек-QA в крупном банке. Моя история](https://habr.com/ru/companies/yandex_praktikum/articles/893084/?utm_campaign=893084&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Что нового в Kotlin 2.1.20-RC3](https://habr.com/ru/companies/otus/articles/896162/?utm_campaign=896162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

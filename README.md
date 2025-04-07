@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я подошла к построению карты компетенций тестировщиков](https://habr.com/ru/articles/898074/?utm_campaign=898074&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция DeepEval для тестирования LlamaIndex Workflow](https://habr.com/ru/articles/897634/?utm_campaign=897634&utm_source=habrahabr&utm_medium=rss)
 - [Йода тестирования: или как мы научили команду делиться «силой» и не потеряли светлую сторону](https://habr.com/ru/companies/sibur_official/articles/896734/?utm_campaign=896734&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Один контейнер, чтобы править всеми — пока всё не сломается](https://habr.com/ru/companies/T1Holding/articles/896742/?utm_campaign=896742&utm_source=habrahabr&utm_medium=rss)
 - [Я больше не вижу багов…](https://habr.com/ru/articles/896582/?utm_campaign=896582&utm_source=habrahabr&utm_medium=rss)
-- [История о том, как бот в отделе тестирования упростил нам жизнь](https://habr.com/ru/companies/runity/articles/896350/?utm_campaign=896350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

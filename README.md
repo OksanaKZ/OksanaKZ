@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы тестируем дизайн внутренних продуктов и почему это влияет на ипотеку](https://habr.com/ru/companies/domclick/articles/896384/?utm_campaign=896384&utm_source=habrahabr&utm_medium=rss)
 - [Рабство под видом работы: как распознать неадекватную вакансию](https://habr.com/ru/articles/886552/?utm_campaign=886552&utm_source=habrahabr&utm_medium=rss)
 - [Регулярные выражения для инженеров тестирования: чтение, анализ и применение в тестировании](https://habr.com/ru/companies/lanit/articles/896700/?utm_campaign=896700&utm_source=habrahabr&utm_medium=rss)
 - [Разглядываем CodeScoring с помощью Natch](https://habr.com/ru/companies/isp_ras/articles/892548/?utm_campaign=892548&utm_source=habrahabr&utm_medium=rss)
 - [Фантастическая стратегия тестирования и места, где она обитает](https://habr.com/ru/companies/gnivc/articles/898362/?utm_campaign=898362&utm_source=habrahabr&utm_medium=rss)
-- [How to: Установка chromedriver руками](https://habr.com/ru/companies/reksoft/articles/898386/?utm_campaign=898386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Рабство под видом работы: как распознать неадекватную вакансию](https://habr.com/ru/articles/886552/?utm_campaign=886552&utm_source=habrahabr&utm_medium=rss)
+- [Регулярные выражения для инженеров тестирования: чтение, анализ и применение в тестировании](https://habr.com/ru/companies/lanit/articles/896700/?utm_campaign=896700&utm_source=habrahabr&utm_medium=rss)
 - [Разглядываем CodeScoring с помощью Natch](https://habr.com/ru/companies/isp_ras/articles/892548/?utm_campaign=892548&utm_source=habrahabr&utm_medium=rss)
 - [Фантастическая стратегия тестирования и места, где она обитает](https://habr.com/ru/companies/gnivc/articles/898362/?utm_campaign=898362&utm_source=habrahabr&utm_medium=rss)
 - [How to: Установка chromedriver руками](https://habr.com/ru/companies/reksoft/articles/898386/?utm_campaign=898386&utm_source=habrahabr&utm_medium=rss)
-- [Как я подошла к построению карты компетенций тестировщиков](https://habr.com/ru/articles/898074/?utm_campaign=898074&utm_source=habrahabr&utm_medium=rss)
-- [Интеграция DeepEval для тестирования LlamaIndex Workflow](https://habr.com/ru/articles/897634/?utm_campaign=897634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

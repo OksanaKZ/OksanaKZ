@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Разглядываем CodeScoring с помощью Natch](https://habr.com/ru/companies/isp_ras/articles/892548/?utm_campaign=892548&utm_source=habrahabr&utm_medium=rss)
 - [Фантастическая стратегия тестирования и места, где она обитает](https://habr.com/ru/companies/gnivc/articles/898362/?utm_campaign=898362&utm_source=habrahabr&utm_medium=rss)
 - [How to: Установка chromedriver руками](https://habr.com/ru/companies/reksoft/articles/898386/?utm_campaign=898386&utm_source=habrahabr&utm_medium=rss)
 - [Как я подошла к построению карты компетенций тестировщиков](https://habr.com/ru/articles/898074/?utm_campaign=898074&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция DeepEval для тестирования LlamaIndex Workflow](https://habr.com/ru/articles/897634/?utm_campaign=897634&utm_source=habrahabr&utm_medium=rss)
-- [Йода тестирования: или как мы научили команду делиться «силой» и не потеряли светлую сторону](https://habr.com/ru/companies/sibur_official/articles/896734/?utm_campaign=896734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

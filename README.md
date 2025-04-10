@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Приоритизация тест-кейсов или как пройти регресс, не потеряв рассудок](https://habr.com/ru/companies/ppr/articles/899582/?utm_campaign=899582&utm_source=habrahabr&utm_medium=rss)
+- [Путь в микроэлектронику через верификацию: руководство для начинающих](https://habr.com/ru/companies/yadro/articles/899446/?utm_campaign=899446&utm_source=habrahabr&utm_medium=rss)
 - [Pairwise тестирование. Почему, зачем и как?](https://habr.com/ru/articles/876580/?utm_campaign=876580&utm_source=habrahabr&utm_medium=rss)
 - [Измерение покрытия API тестами на основе Swagger для Python](https://habr.com/ru/articles/898474/?utm_campaign=898474&utm_source=habrahabr&utm_medium=rss)
 - [Контроль времени в Python-тестах: freeze, mock и архитектура Clock](https://habr.com/ru/companies/otus/articles/898546/?utm_campaign=898546&utm_source=habrahabr&utm_medium=rss)
-- [Пишем тесты в транзакциях вместе с MySQL](https://habr.com/ru/articles/822073/?utm_campaign=822073&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем дизайн внутренних продуктов и почему это влияет на ипотеку](https://habr.com/ru/companies/domclick/articles/896384/?utm_campaign=896384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

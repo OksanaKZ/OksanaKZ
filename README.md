@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Измерение покрытия API тестами на основе Swagger для Python](https://habr.com/ru/articles/898474/?utm_campaign=898474&utm_source=habrahabr&utm_medium=rss)
 - [Контроль времени в Python-тестах: freeze, mock и архитектура Clock](https://habr.com/ru/companies/otus/articles/898546/?utm_campaign=898546&utm_source=habrahabr&utm_medium=rss)
 - [Пишем тесты в транзакциях вместе с MySQL](https://habr.com/ru/articles/822073/?utm_campaign=822073&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем дизайн внутренних продуктов и почему это влияет на ипотеку](https://habr.com/ru/companies/domclick/articles/896384/?utm_campaign=896384&utm_source=habrahabr&utm_medium=rss)
 - [Рабство под видом работы: как распознать неадекватную вакансию](https://habr.com/ru/articles/886552/?utm_campaign=886552&utm_source=habrahabr&utm_medium=rss)
-- [Регулярные выражения для инженеров тестирования: чтение, анализ и применение в тестировании](https://habr.com/ru/companies/lanit/articles/896700/?utm_campaign=896700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [А вы знаете, что происходит у вас в проекте?](https://habr.com/ru/companies/sberbank/articles/899248/?utm_campaign=899248&utm_source=habrahabr&utm_medium=rss)
 - [Моки, стабы и фейки: в чем разница и когда что использовать?](https://habr.com/ru/articles/899788/?utm_campaign=899788&utm_source=habrahabr&utm_medium=rss)
 - [Приоритизация тест-кейсов или как пройти регресс, не потеряв рассудок](https://habr.com/ru/companies/ppr/articles/899582/?utm_campaign=899582&utm_source=habrahabr&utm_medium=rss)
 - [Путь в микроэлектронику через верификацию: руководство для начинающих](https://habr.com/ru/companies/yadro/articles/899446/?utm_campaign=899446&utm_source=habrahabr&utm_medium=rss)
 - [Pairwise тестирование. Почему, зачем и как?](https://habr.com/ru/articles/876580/?utm_campaign=876580&utm_source=habrahabr&utm_medium=rss)
-- [Измерение покрытия API тестами на основе Swagger для Python](https://habr.com/ru/articles/898474/?utm_campaign=898474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

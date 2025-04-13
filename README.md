@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [AM2+ верхом на DDR II туземун](https://habr.com/ru/articles/760532/?utm_campaign=760532&utm_source=habrahabr&utm_medium=rss)
 - [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/?utm_campaign=900438&utm_source=habrahabr&utm_medium=rss)
 - [Проверка отсутствия деградации бенчмарков для двух версий статистическими методами](https://habr.com/ru/articles/898280/?utm_campaign=898280&utm_source=habrahabr&utm_medium=rss)
 - [Предъявите мне вашу карту! Или как составить ИПР с помощью карты компетенций](https://habr.com/ru/articles/899274/?utm_campaign=899274&utm_source=habrahabr&utm_medium=rss)
 - [А вы знаете, что происходит у вас в проекте?](https://habr.com/ru/companies/sberbank/articles/899248/?utm_campaign=899248&utm_source=habrahabr&utm_medium=rss)
-- [Моки, стабы и фейки: в чем разница и когда что использовать?](https://habr.com/ru/articles/899788/?utm_campaign=899788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

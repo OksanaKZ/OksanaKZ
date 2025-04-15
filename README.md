@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [День Сурка QA: как не застрять в цикле рутинных задач](https://habr.com/ru/articles/900660/?utm_campaign=900660&utm_source=habrahabr&utm_medium=rss)
 - [Мы его нагружали, а он выдержал! Тестируем китайский дисковый массив Maipu](https://habr.com/ru/companies/jetinfosystems/articles/899648/?utm_campaign=899648&utm_source=habrahabr&utm_medium=rss)
 - [[Appium:iOS] Как работать с запросами разрешений в Appium: распознаём, что от нас хочет iOS](https://habr.com/ru/companies/bitrix/articles/900578/?utm_campaign=900578&utm_source=habrahabr&utm_medium=rss)
 - [AM2+ верхом на DDR II туземун](https://habr.com/ru/articles/760532/?utm_campaign=760532&utm_source=habrahabr&utm_medium=rss)
 - [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/?utm_campaign=900438&utm_source=habrahabr&utm_medium=rss)
-- [Проверка отсутствия деградации бенчмарков для двух версий статистическими методами](https://habr.com/ru/articles/898280/?utm_campaign=898280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

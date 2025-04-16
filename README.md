@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Апатия Data Driven Testing](https://habr.com/ru/articles/901498/?utm_campaign=901498&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс.Разврат или анти-этичный ИИ](https://habr.com/ru/articles/901382/?utm_campaign=901382&utm_source=habrahabr&utm_medium=rss)
 - [Гайд с видео: метрики в Monq от сбора данных до алертинга](https://habr.com/ru/companies/monq/articles/901028/?utm_campaign=901028&utm_source=habrahabr&utm_medium=rss)
 - [Ключ от всех дверей: MITM-атака на протокол Wiegand с помощью самодельной платы](https://habr.com/ru/companies/bastion/articles/898758/?utm_campaign=898758&utm_source=habrahabr&utm_medium=rss)
 - [Kafka: как тестировать. Часть 2](https://habr.com/ru/companies/reksoft/articles/900918/?utm_campaign=900918&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 инструментов для начинающего тестировщика](https://habr.com/ru/companies/otpbank/articles/900898/?utm_campaign=900898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Яндекс.Вброс или ИИ для фейков](https://habr.com/ru/articles/902172/?utm_campaign=902172&utm_source=habrahabr&utm_medium=rss)
-- [Stable Diffusion WebUI Forge: Шаг 6. Txt2img. Сохраняем и улучшаем](https://habr.com/ru/articles/901962/?utm_campaign=901962&utm_source=habrahabr&utm_medium=rss)
 - [Антиспам бот для телеграм группы на Gigachat2](https://habr.com/ru/articles/901684/?utm_campaign=901684&utm_source=habrahabr&utm_medium=rss)
 - [Искусство Unit-тестирования: сокращаем Arrange до нуля](https://habr.com/ru/companies/ruvds/articles/894522/?utm_campaign=894522&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация UI-тестов с помощью API. Как избавиться от боли и ускорить автотесты в разы](https://habr.com/ru/articles/901660/?utm_campaign=901660&utm_source=habrahabr&utm_medium=rss)
+- [Апатия Data Driven Testing](https://habr.com/ru/articles/901498/?utm_campaign=901498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

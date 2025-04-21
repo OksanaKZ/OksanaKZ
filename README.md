@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Песочницы» против APT-атак: все еще работают или проигрывают хакерам?](https://habr.com/ru/companies/angarasecurity/articles/902802/?utm_campaign=902802&utm_source=habrahabr&utm_medium=rss)
 - [Как QA не утонуть в новом проекте. Часть 1: гайд, советы и ChatGPT](https://habr.com/ru/articles/902702/?utm_campaign=902702&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность подов: взгляд пользователя K8s](https://habr.com/ru/companies/raiffeisenbank/articles/901142/?utm_campaign=901142&utm_source=habrahabr&utm_medium=rss)
 - [Куда расти QA-инженеру на каждом грейде: подробный гид](https://habr.com/ru/articles/901874/?utm_campaign=901874&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс.Вброс или ИИ для фейков](https://habr.com/ru/articles/902172/?utm_campaign=902172&utm_source=habrahabr&utm_medium=rss)
-- [Антиспам бот для телеграм группы на Gigachat2](https://habr.com/ru/articles/901684/?utm_campaign=901684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [TRex: установка, настройка и запуск тестов производительности NGFW](https://habr.com/ru/companies/pt/articles/902930/?utm_campaign=902930&utm_source=habrahabr&utm_medium=rss)
 - [Хет-трик пентестера: обзор и опыт получения трех ИБ-сертификатов](https://habr.com/ru/companies/bastion/articles/886380/?utm_campaign=886380&utm_source=habrahabr&utm_medium=rss)
 - [Maipu MPS5580G2: разгадали секреты функционала от QoS до безопасности](https://habr.com/ru/companies/jetinfosystems/articles/902808/?utm_campaign=902808&utm_source=habrahabr&utm_medium=rss)
 - [UI автотесты на Python с запуском на CI/CD и Allure отчетом. PageObject, PageComponent, PageFactory](https://habr.com/ru/articles/896936/?utm_campaign=896936&utm_source=habrahabr&utm_medium=rss)
 - [«Песочницы» против APT-атак: все еще работают или проигрывают хакерам?](https://habr.com/ru/companies/angarasecurity/articles/902802/?utm_campaign=902802&utm_source=habrahabr&utm_medium=rss)
-- [Как QA не утонуть в новом проекте. Часть 1: гайд, советы и ChatGPT](https://habr.com/ru/articles/902702/?utm_campaign=902702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

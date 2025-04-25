@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Позвоните бабушке: как тестируют функцию CSFB, которая связывает поколения](https://habr.com/ru/companies/yadro/articles/903626/?utm_campaign=903626&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 87% валидных тест-кейсов: как ChatGPT справляется с их генерацией](https://habr.com/ru/companies/otus/articles/904222/?utm_campaign=904222&utm_source=habrahabr&utm_medium=rss)
 - [5 лайфхаков по тестированию для новичков, которые экономят до 100 часов в месяц](https://habr.com/ru/companies/otus/articles/904180/?utm_campaign=904180&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в тестировании ПО: возможности, ограничения, эксперименты и практический опыт](https://habr.com/ru/companies/simbirsoft/articles/902840/?utm_campaign=902840&utm_source=habrahabr&utm_medium=rss)
 - [Как увидеть, что именно покрывают UI-тесты — прямо на сайте и в реальном времени](https://habr.com/ru/articles/901656/?utm_campaign=901656&utm_source=habrahabr&utm_medium=rss)
-- [TRex: установка, настройка и запуск тестов производительности NGFW](https://habr.com/ru/companies/pt/articles/902930/?utm_campaign=902930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

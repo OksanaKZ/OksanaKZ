@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [BI в тестировании — сравнение результатов бенчмарков двух веток с помощью однофакторного ANOVA &lpar;критерий Кохрена-Кокса&rpar;](https://habr.com/ru/articles/904682/?utm_campaign=904682&utm_source=habrahabr&utm_medium=rss)
 - [Позвоните бабушке: как тестируют функцию CSFB, которая связывает поколения](https://habr.com/ru/companies/yadro/articles/903626/?utm_campaign=903626&utm_source=habrahabr&utm_medium=rss)
 - [Навайбкодил с Cursor AI рабочее приложение. Но в чём подвох?](https://habr.com/ru/companies/minerva_media/articles/904312/?utm_campaign=904312&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 87% валидных тест-кейсов: как ChatGPT справляется с их генерацией](https://habr.com/ru/companies/otus/articles/904222/?utm_campaign=904222&utm_source=habrahabr&utm_medium=rss)
 - [5 лайфхаков по тестированию для новичков, которые экономят до 100 часов в месяц](https://habr.com/ru/companies/otus/articles/904180/?utm_campaign=904180&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в тестировании ПО: возможности, ограничения, эксперименты и практический опыт](https://habr.com/ru/companies/simbirsoft/articles/902840/?utm_campaign=902840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

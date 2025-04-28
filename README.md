@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Каково это быть спикером на одной из крупнейших IT конференций в России?](https://habr.com/ru/articles/901514/?utm_campaign=901514&utm_source=habrahabr&utm_medium=rss)
 - [Авторизация через VK: что под капотом и как это тестировать](https://habr.com/ru/articles/902068/?utm_campaign=902068&utm_source=habrahabr&utm_medium=rss)
 - [В тестировщики пойду, пусть меня научат: отвечаем на самые частые вопросы о профессии](https://habr.com/ru/companies/doubletapp/articles/905138/?utm_campaign=905138&utm_source=habrahabr&utm_medium=rss)
 - [Сервисы финучета: обзор и сравнение](https://habr.com/ru/articles/904430/?utm_campaign=904430&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в киберзащите](https://habr.com/ru/companies/pt/articles/904936/?utm_campaign=904936&utm_source=habrahabr&utm_medium=rss)
-- [Через тернии к 5 тысячам звёзд на гитхабе – мой путь опенсорсера](https://habr.com/ru/companies/pt/articles/903800/?utm_campaign=903800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

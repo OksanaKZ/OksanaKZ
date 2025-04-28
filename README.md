@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный интеллект в киберзащите](https://habr.com/ru/companies/pt/articles/904936/?utm_campaign=904936&utm_source=habrahabr&utm_medium=rss)
+- [Через тернии к 5 тысячам звёзд на гитхабе – мой путь опенсорсера](https://habr.com/ru/companies/pt/articles/903800/?utm_campaign=903800&utm_source=habrahabr&utm_medium=rss)
+- [Jqwik: обзор тестирования на основе свойств в UI и API](https://habr.com/ru/companies/simbirsoft/articles/903686/?utm_campaign=903686&utm_source=habrahabr&utm_medium=rss)
 - [Избавляемся от Flaky тестов в CI/CD при помощи JMina](https://habr.com/ru/articles/904952/?utm_campaign=904952&utm_source=habrahabr&utm_medium=rss)
 - [BI в тестировании — сравнение результатов бенчмарков двух веток с помощью однофакторного ANOVA &lpar;критерий Кохрена-Кокса&rpar;](https://habr.com/ru/articles/904682/?utm_campaign=904682&utm_source=habrahabr&utm_medium=rss)
-- [Позвоните бабушке: как тестируют функцию CSFB, которая связывает поколения](https://habr.com/ru/companies/yadro/articles/903626/?utm_campaign=903626&utm_source=habrahabr&utm_medium=rss)
-- [Навайбкодил с Cursor AI рабочее приложение. Но в чём подвох?](https://habr.com/ru/companies/minerva_media/articles/904312/?utm_campaign=904312&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] 87% валидных тест-кейсов: как ChatGPT справляется с их генерацией](https://habr.com/ru/companies/otus/articles/904222/?utm_campaign=904222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Авторизация через VK: что под капотом и как это тестировать](https://habr.com/ru/articles/902068/?utm_campaign=902068&utm_source=habrahabr&utm_medium=rss)
+- [В тестировщики пойду, пусть меня научат: отвечаем на самые частые вопросы о профессии](https://habr.com/ru/companies/doubletapp/articles/905138/?utm_campaign=905138&utm_source=habrahabr&utm_medium=rss)
 - [Сервисы финучета: обзор и сравнение](https://habr.com/ru/articles/904430/?utm_campaign=904430&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в киберзащите](https://habr.com/ru/companies/pt/articles/904936/?utm_campaign=904936&utm_source=habrahabr&utm_medium=rss)
 - [Через тернии к 5 тысячам звёзд на гитхабе – мой путь опенсорсера](https://habr.com/ru/companies/pt/articles/903800/?utm_campaign=903800&utm_source=habrahabr&utm_medium=rss)
-- [Jqwik: обзор тестирования на основе свойств в UI и API](https://habr.com/ru/companies/simbirsoft/articles/903686/?utm_campaign=903686&utm_source=habrahabr&utm_medium=rss)
-- [Избавляемся от Flaky тестов в CI/CD при помощи JMina](https://habr.com/ru/articles/904952/?utm_campaign=904952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

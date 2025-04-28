@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сервисы финучета: обзор и сравнение](https://habr.com/ru/articles/904430/?utm_campaign=904430&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект в киберзащите](https://habr.com/ru/companies/pt/articles/904936/?utm_campaign=904936&utm_source=habrahabr&utm_medium=rss)
 - [Через тернии к 5 тысячам звёзд на гитхабе – мой путь опенсорсера](https://habr.com/ru/companies/pt/articles/903800/?utm_campaign=903800&utm_source=habrahabr&utm_medium=rss)
 - [Jqwik: обзор тестирования на основе свойств в UI и API](https://habr.com/ru/companies/simbirsoft/articles/903686/?utm_campaign=903686&utm_source=habrahabr&utm_medium=rss)
 - [Избавляемся от Flaky тестов в CI/CD при помощи JMina](https://habr.com/ru/articles/904952/?utm_campaign=904952&utm_source=habrahabr&utm_medium=rss)
-- [BI в тестировании — сравнение результатов бенчмарков двух веток с помощью однофакторного ANOVA &lpar;критерий Кохрена-Кокса&rpar;](https://habr.com/ru/articles/904682/?utm_campaign=904682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

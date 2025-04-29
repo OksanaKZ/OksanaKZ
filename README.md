@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я использовал ИИ для создания рабочего эксплойта для CVE-2025-32433 до появления публичных PoC](https://habr.com/ru/articles/905552/?utm_campaign=905552&utm_source=habrahabr&utm_medium=rss)
 - [GigaHeisenberg или преступный ИИ](https://habr.com/ru/articles/905502/?utm_campaign=905502&utm_source=habrahabr&utm_medium=rss)
 - [Корректируем резюме QA-инженера: советы от тимлида](https://habr.com/ru/articles/905456/?utm_campaign=905456&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист ревьюера тест кейсов](https://habr.com/ru/companies/reksoft/articles/904670/?utm_campaign=904670&utm_source=habrahabr&utm_medium=rss)
 - [Каково это быть спикером на одной из крупнейших IT конференций в России?](https://habr.com/ru/articles/901514/?utm_campaign=901514&utm_source=habrahabr&utm_medium=rss)
-- [Авторизация через VK: что под капотом и как это тестировать](https://habr.com/ru/articles/902068/?utm_campaign=902068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

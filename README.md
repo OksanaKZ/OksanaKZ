@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Взлом системного промпта ИИ &lpar;ChatGPT\Gemini etc&rpar;](https://habr.com/ru/articles/906346/?utm_campaign=906346&utm_source=habrahabr&utm_medium=rss)
 - [В Музее космонавтики прошёл финал конкурса «Научный подход»](https://habr.com/ru/articles/905784/?utm_campaign=905784&utm_source=habrahabr&utm_medium=rss)
 - [7 этапов эволюции тестирования в компании](https://habr.com/ru/articles/905720/?utm_campaign=905720&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Подход Atlassian к Качественной Помощи &lpar;Quality Assistance&rpar;](https://habr.com/ru/articles/903738/?utm_campaign=903738&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как я использовал ИИ для создания рабочего эксплойта для CVE-2025-32433 до появления публичных PoC](https://habr.com/ru/articles/905552/?utm_campaign=905552&utm_source=habrahabr&utm_medium=rss)
-- [GigaHeisenberg или преступный ИИ](https://habr.com/ru/articles/905502/?utm_campaign=905502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Большая подборка тестовых площадок и ресурсов для начинающих QA](https://habr.com/ru/articles/906152/?utm_campaign=906152&utm_source=habrahabr&utm_medium=rss)
+- [Большая подборка тестовых площадок и ресурсов для начинающих и опытных QA](https://habr.com/ru/articles/906152/?utm_campaign=906152&utm_source=habrahabr&utm_medium=rss)
 - [Взлом системного промпта ИИ &lpar;ChatGPT\Gemini etc&rpar;](https://habr.com/ru/articles/906346/?utm_campaign=906346&utm_source=habrahabr&utm_medium=rss)
 - [В Музее космонавтики прошёл финал конкурса «Научный подход»](https://habr.com/ru/articles/905784/?utm_campaign=905784&utm_source=habrahabr&utm_medium=rss)
 - [7 этапов эволюции тестирования в компании](https://habr.com/ru/articles/905720/?utm_campaign=905720&utm_source=habrahabr&utm_medium=rss)

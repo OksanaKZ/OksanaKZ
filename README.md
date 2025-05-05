@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Большой учебник по Postman](https://habr.com/ru/articles/907178/?utm_campaign=907178&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в IT в 2025 году как привлекательная точка входа для начинающих специалистов без технического образования](https://habr.com/ru/articles/907032/?utm_campaign=907032&utm_source=habrahabr&utm_medium=rss)
 - [Edge-to-edge в Android: опыт внедрения и рекомендации по тестированию](https://habr.com/ru/companies/avito/articles/905154/?utm_campaign=905154&utm_source=habrahabr&utm_medium=rss)
 - [Большой учебник по тестированию](https://habr.com/ru/articles/906818/?utm_campaign=906818&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, выполняем запретный запрос — метод калибровки анализа](https://habr.com/ru/articles/906654/?utm_campaign=906654&utm_source=habrahabr&utm_medium=rss)
-- [Большая подборка тестовых площадок &lpar;«песочниц»&rpar; и ресурсов для начинающих и опытных QA](https://habr.com/ru/articles/906152/?utm_campaign=906152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

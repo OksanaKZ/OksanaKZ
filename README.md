@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-edge в Android: опыт внедрения и рекомендации по тестированию](https://habr.com/ru/companies/avito/articles/905154/?utm_campaign=905154&utm_source=habrahabr&utm_medium=rss)
 - [Большой учебник по тестированию](https://habr.com/ru/articles/906818/?utm_campaign=906818&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, выполняем запретный запрос — метод калибровки анализа](https://habr.com/ru/articles/906654/?utm_campaign=906654&utm_source=habrahabr&utm_medium=rss)
 - [Большая подборка тестовых площадок &lpar;«песочниц»&rpar; и ресурсов для начинающих и опытных QA](https://habr.com/ru/articles/906152/?utm_campaign=906152&utm_source=habrahabr&utm_medium=rss)
 - [Взлом системного промпта ИИ &lpar;ChatGPT\Gemini etc&rpar;](https://habr.com/ru/articles/906346/?utm_campaign=906346&utm_source=habrahabr&utm_medium=rss)
-- [В Музее космонавтики прошёл финал конкурса «Научный подход»](https://habr.com/ru/articles/905784/?utm_campaign=905784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

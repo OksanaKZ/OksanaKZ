@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: как искать уязвимости? Набор исследователя](https://habr.com/ru/articles/907464/?utm_campaign=907464&utm_source=habrahabr&utm_medium=rss)
 - [Большой учебник по Playwright](https://habr.com/ru/articles/907430/?utm_campaign=907430&utm_source=habrahabr&utm_medium=rss)
 - [Большой учебник по Postman](https://habr.com/ru/articles/907178/?utm_campaign=907178&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в IT в 2025 году как привлекательная точка входа для начинающих специалистов без технического образования](https://habr.com/ru/articles/907032/?utm_campaign=907032&utm_source=habrahabr&utm_medium=rss)
 - [Edge-to-edge в Android: опыт внедрения и рекомендации по тестированию](https://habr.com/ru/companies/avito/articles/905154/?utm_campaign=905154&utm_source=habrahabr&utm_medium=rss)
-- [Большой учебник по тестированию](https://habr.com/ru/articles/906818/?utm_campaign=906818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Где набраться практики начинающему тестировщику: от учебных полигонов до open source](https://habr.com/ru/companies/yadro/articles/907598/?utm_campaign=907598&utm_source=habrahabr&utm_medium=rss)
 - [Взгляд интегратора на отечественные почтовые системы: маршрутизация почтовых сообщений, календари и папки](https://habr.com/ru/companies/step_logic/articles/903982/?utm_campaign=903982&utm_source=habrahabr&utm_medium=rss)
 - [Измерение покрытия UI тестами. Следующий уровень](https://habr.com/ru/articles/906670/?utm_campaign=906670&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT: как искать уязвимости? Набор исследователя](https://habr.com/ru/articles/907464/?utm_campaign=907464&utm_source=habrahabr&utm_medium=rss)
 - [Большой учебник по Playwright](https://habr.com/ru/articles/907430/?utm_campaign=907430&utm_source=habrahabr&utm_medium=rss)
-- [Большой учебник по Postman](https://habr.com/ru/articles/907178/?utm_campaign=907178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

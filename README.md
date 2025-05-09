@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [100 вопросов на собеседовании тестировщика](https://habr.com/ru/articles/908138/?utm_campaign=908138&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 100 видов тестирования ПО](https://habr.com/ru/articles/908136/?utm_campaign=908136&utm_source=habrahabr&utm_medium=rss)
 - [«Это не баг, а фича» — как junior QA отстаивать свою позицию и не испортить отношения с командой](https://habr.com/ru/articles/908070/?utm_campaign=908070&utm_source=habrahabr&utm_medium=rss)
 - [Легко ли войти в IT через курсы по ручному тестированию](https://habr.com/ru/companies/selectel/articles/907610/?utm_campaign=907610&utm_source=habrahabr&utm_medium=rss)
 - [Как мы упростили развертывание почтового сервиса для тестирования или сказ про Mailpit — он же сервис fakemail\mailtrap](https://habr.com/ru/articles/907922/?utm_campaign=907922&utm_source=habrahabr&utm_medium=rss)
-- [Где набраться практики начинающему тестировщику: от учебных полигонов до open source](https://habr.com/ru/companies/yadro/articles/907598/?utm_campaign=907598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

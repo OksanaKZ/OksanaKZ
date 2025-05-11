@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что такое тестирование ПО? Виды, методы и инструменты тестирования](https://habr.com/ru/articles/908434/?utm_campaign=908434&utm_source=habrahabr&utm_medium=rss)
 - [Тест-кейсы для проверки мобильных номеров](https://habr.com/ru/articles/908286/?utm_campaign=908286&utm_source=habrahabr&utm_medium=rss)
 - [Пошаговое руководство по написанию тест-кейсов](https://habr.com/ru/articles/908284/?utm_campaign=908284&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Коллекции Postman. Часть 1](https://habr.com/ru/articles/908140/?utm_campaign=908140&utm_source=habrahabr&utm_medium=rss)
 - [100 вопросов на собеседовании тестировщика](https://habr.com/ru/articles/908138/?utm_campaign=908138&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] 100 видов тестирования ПО](https://habr.com/ru/articles/908136/?utm_campaign=908136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

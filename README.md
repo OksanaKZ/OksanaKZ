@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как QA не утонуть в новом проекте. Часть 2: организация тестирования и документация](https://habr.com/ru/articles/908334/?utm_campaign=908334&utm_source=habrahabr&utm_medium=rss)
+- [От релиз-менеджера до разработчика: почему я ушел из QA и не жалею](https://habr.com/ru/articles/908582/?utm_campaign=908582&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизированное E2E-тестирование App.Farm: от хаоса к системе](https://habr.com/ru/companies/rshb/articles/908514/?utm_campaign=908514&utm_source=habrahabr&utm_medium=rss)
 - [Что такое тестирование ПО? Виды, методы и инструменты тестирования](https://habr.com/ru/articles/908434/?utm_campaign=908434&utm_source=habrahabr&utm_medium=rss)
 - [Тест-кейсы для проверки мобильных номеров](https://habr.com/ru/articles/908286/?utm_campaign=908286&utm_source=habrahabr&utm_medium=rss)
-- [Пошаговое руководство по написанию тест-кейсов](https://habr.com/ru/articles/908284/?utm_campaign=908284&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Коллекции Postman. Часть 1](https://habr.com/ru/articles/908140/?utm_campaign=908140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я ускорил анализ логов в мобильной игре с помощью Python-конвертера](https://habr.com/ru/articles/908842/?utm_campaign=908842&utm_source=habrahabr&utm_medium=rss)
 - [Соревнование по взлому AI-ассистентов: впечатления от соревнования Hackaprompt](https://habr.com/ru/articles/908814/?utm_campaign=908814&utm_source=habrahabr&utm_medium=rss)
 - [Обзор Greenmask — утилиты для логического дампа PgSQL с трансформацией данных на лету](https://habr.com/ru/articles/908706/?utm_campaign=908706&utm_source=habrahabr&utm_medium=rss)
 - [Как QA не утонуть в новом проекте. Часть 2: организация тестирования и документация](https://habr.com/ru/articles/908334/?utm_campaign=908334&utm_source=habrahabr&utm_medium=rss)
 - [От релиз-менеджера до разработчика: почему я ушел из QA и не жалею](https://habr.com/ru/articles/908582/?utm_campaign=908582&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизированное E2E-тестирование App.Farm: от хаоса к системе](https://habr.com/ru/companies/rshb/articles/908514/?utm_campaign=908514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

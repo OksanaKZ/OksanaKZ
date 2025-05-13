@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Методы убийства ИТ-продукта: мнение QA-инженера](https://habr.com/ru/companies/magnit/articles/908954/?utm_campaign=908954&utm_source=habrahabr&utm_medium=rss)
 - [Лайфхаки при работе с кафкой](https://habr.com/ru/companies/reksoft/articles/908912/?utm_campaign=908912&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] OpenAI Codex против GitHub Copilot: что лучше для написания и тестирования кода?](https://habr.com/ru/companies/ssp-soft/articles/908932/?utm_campaign=908932&utm_source=habrahabr&utm_medium=rss)
 - [Left Shift Testing: как выстроить процесс, чтобы тесты реально помогали](https://habr.com/ru/articles/907578/?utm_campaign=907578&utm_source=habrahabr&utm_medium=rss)
 - [Как я ускорил анализ логов в мобильной игре с помощью Python-конвертера](https://habr.com/ru/articles/908842/?utm_campaign=908842&utm_source=habrahabr&utm_medium=rss)
-- [Соревнование по взлому AI-ассистентов: впечатления от соревнования Hackaprompt](https://habr.com/ru/articles/908814/?utm_campaign=908814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

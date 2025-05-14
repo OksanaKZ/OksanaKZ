@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование по SAFe](https://habr.com/ru/companies/cinimex/articles/901374/?utm_campaign=901374&utm_source=habrahabr&utm_medium=rss)
 - [Установил DeepSeek 1.5B на слабое железо, пока остывал мой борщ](https://habr.com/ru/companies/minerva_media/articles/909130/?utm_campaign=909130&utm_source=habrahabr&utm_medium=rss)
 - [Видеть инфраструктуру как хакер или как мы моделируем потенциальные маршруты атак](https://habr.com/ru/companies/pt/articles/909166/?utm_campaign=909166&utm_source=habrahabr&utm_medium=rss)
 - [Что такое пентесты и зачем они нужны?](https://habr.com/ru/articles/908822/?utm_campaign=908822&utm_source=habrahabr&utm_medium=rss)
 - [Дымовое тестирование](https://habr.com/ru/companies/otus/articles/903712/?utm_campaign=903712&utm_source=habrahabr&utm_medium=rss)
-- [Гейты в тестировании](https://habr.com/ru/companies/usetech/articles/909086/?utm_campaign=909086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

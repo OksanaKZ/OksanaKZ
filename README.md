@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Гейты в тестировании](https://habr.com/ru/companies/usetech/articles/909086/?utm_campaign=909086&utm_source=habrahabr&utm_medium=rss)
 - [Взлом ИИ-асситентов. Абсолютный контроль: выдаём разрешение от имени системы](https://habr.com/ru/articles/909188/?utm_campaign=909188&utm_source=habrahabr&utm_medium=rss)
 - [10 ошибок QA и как их избежать](https://habr.com/ru/articles/908368/?utm_campaign=908368&utm_source=habrahabr&utm_medium=rss)
 - [Методы убийства ИТ-продукта: мнение QA-инженера](https://habr.com/ru/companies/magnit/articles/908954/?utm_campaign=908954&utm_source=habrahabr&utm_medium=rss)
 - [Лайфхаки при работе с кафкой](https://habr.com/ru/companies/reksoft/articles/908912/?utm_campaign=908912&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] OpenAI Codex против GitHub Copilot: что лучше для написания и тестирования кода?](https://habr.com/ru/companies/ssp-soft/articles/908932/?utm_campaign=908932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -40,5 +40,5 @@
 - [Разбираем древо ArangoDB «по веточкам». Подробный гайд по графовой БД](https://habr.com/ru/companies/ncloudtech/articles/905598/?utm_campaign=905598&utm_source=habrahabr&utm_medium=rss)
 - [Основы тестирования](https://habr.com/ru/articles/908444/?utm_campaign=908444&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование по SAFe](https://habr.com/ru/companies/cinimex/articles/901374/?utm_campaign=901374&utm_source=habrahabr&utm_medium=rss)
-- [Установил DeepSeek 1.5B на слабое железо, пока остывал мой борщ](https://habr.com/ru/companies/minerva_media/articles/909130/?utm_campaign=909130&utm_source=habrahabr&utm_medium=rss)
+- [За полчаса установил DeepSeek 1.5B, пока вы искали GPT подешевле](https://habr.com/ru/companies/minerva_media/articles/909130/?utm_campaign=909130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

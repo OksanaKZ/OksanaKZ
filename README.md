@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что такое пентесты и зачем они нужны?](https://habr.com/ru/articles/908822/?utm_campaign=908822&utm_source=habrahabr&utm_medium=rss)
+- [Дымовое тестирование](https://habr.com/ru/companies/otus/articles/903712/?utm_campaign=903712&utm_source=habrahabr&utm_medium=rss)
 - [Гейты в тестировании](https://habr.com/ru/companies/usetech/articles/909086/?utm_campaign=909086&utm_source=habrahabr&utm_medium=rss)
 - [Взлом ИИ-ассистентов. Абсолютный контроль: выдаём разрешение от имени системы](https://habr.com/ru/articles/909188/?utm_campaign=909188&utm_source=habrahabr&utm_medium=rss)
 - [10 ошибок QA и как их избежать](https://habr.com/ru/articles/908368/?utm_campaign=908368&utm_source=habrahabr&utm_medium=rss)
-- [Методы убийства ИТ-продукта: мнение QA-инженера](https://habr.com/ru/companies/magnit/articles/908954/?utm_campaign=908954&utm_source=habrahabr&utm_medium=rss)
-- [Лайфхаки при работе с кафкой](https://habr.com/ru/companies/reksoft/articles/908912/?utm_campaign=908912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

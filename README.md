@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Курсы по тестированию — развод, маркетинг и пустышки](https://habr.com/ru/articles/908744/?utm_campaign=908744&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация UI тестов на Cypress](https://habr.com/ru/articles/909568/?utm_campaign=909568&utm_source=habrahabr&utm_medium=rss)
 - [Шаблон для сессии исследовательского тестирования](https://habr.com/ru/articles/908824/?utm_campaign=908824&utm_source=habrahabr&utm_medium=rss)
 - [Разбираем древо ArangoDB «по веточкам». Подробный гайд по графовой БД](https://habr.com/ru/companies/ncloudtech/articles/905598/?utm_campaign=905598&utm_source=habrahabr&utm_medium=rss)
 - [Основы тестирования](https://habr.com/ru/articles/908444/?utm_campaign=908444&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование по SAFe](https://habr.com/ru/companies/cinimex/articles/901374/?utm_campaign=901374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

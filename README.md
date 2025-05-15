@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как найти и потерять бэкдор в ESP32](https://habr.com/ru/companies/bastion/articles/907362/?utm_campaign=907362&utm_source=habrahabr&utm_medium=rss)
+- [В поисках хорошего стиля. Часть 2. Пишем свой линтер на Go для golangci-lint](https://habr.com/ru/companies/ostrovok/articles/908768/?utm_campaign=908768&utm_source=habrahabr&utm_medium=rss)
 - [15 промтов для ChatGPT, упрощающих работу QA-менеджера](https://habr.com/ru/articles/908826/?utm_campaign=908826&utm_source=habrahabr&utm_medium=rss)
 - [Курсы по тестированию — развод, маркетинг и пустышки](https://habr.com/ru/articles/908744/?utm_campaign=908744&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация UI тестов на Cypress](https://habr.com/ru/articles/909568/?utm_campaign=909568&utm_source=habrahabr&utm_medium=rss)
-- [Шаблон для сессии исследовательского тестирования](https://habr.com/ru/articles/908824/?utm_campaign=908824&utm_source=habrahabr&utm_medium=rss)
-- [Разбираем древо ArangoDB «по веточкам». Подробный гайд по графовой БД](https://habr.com/ru/companies/ncloudtech/articles/905598/?utm_campaign=905598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

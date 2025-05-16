@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Все виды тестирования с описанием](https://habr.com/ru/articles/908446/?utm_campaign=908446&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования 2025: с чего начать?](https://habr.com/ru/articles/909820/?utm_campaign=909820&utm_source=habrahabr&utm_medium=rss)
 - [Вопросы и ответы на собеседовании по ручному тестированию](https://habr.com/ru/articles/908438/?utm_campaign=908438&utm_source=habrahabr&utm_medium=rss)
 - [Как найти и потерять бэкдор в ESP32](https://habr.com/ru/companies/bastion/articles/907362/?utm_campaign=907362&utm_source=habrahabr&utm_medium=rss)
 - [В поисках хорошего стиля. Часть 2. Пишем свой линтер на Go для golangci-lint](https://habr.com/ru/companies/ostrovok/articles/908768/?utm_campaign=908768&utm_source=habrahabr&utm_medium=rss)
-- [15 промтов для ChatGPT, упрощающих работу QA-менеджера](https://habr.com/ru/articles/908826/?utm_campaign=908826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

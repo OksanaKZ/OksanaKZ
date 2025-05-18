@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Большой учебник по Selenium](https://habr.com/ru/articles/910348/?utm_campaign=910348&utm_source=habrahabr&utm_medium=rss)
-- [Большой учебник по тестированию производительности](https://habr.com/ru/articles/910346/?utm_campaign=910346&utm_source=habrahabr&utm_medium=rss)
-- [Большой учебник по написанию тест-кейсов](https://habr.com/ru/articles/910344/?utm_campaign=910344&utm_source=habrahabr&utm_medium=rss)
-- [Большой учебник по Cypress](https://habr.com/ru/articles/910342/?utm_campaign=910342&utm_source=habrahabr&utm_medium=rss)
 - [Что происходит с собеседованиями QA в 2025 году? Взгляд с обеих сторон баррикад](https://habr.com/ru/companies/kts/articles/910066/?utm_campaign=910066&utm_source=habrahabr&utm_medium=rss)
+- [История о свершениях одного QA: о Quality Gates и оптимизации релизных процессов в ОК](https://habr.com/ru/companies/vk/articles/909970/?utm_campaign=909970&utm_source=habrahabr&utm_medium=rss)
+- [Майский «В тренде VM»: уязвимости в Microsoft Windows и фреймворке Erlang/OTP](https://habr.com/ru/companies/pt/articles/909802/?utm_campaign=909802&utm_source=habrahabr&utm_medium=rss)
+- [Все виды тестирования с описанием](https://habr.com/ru/articles/908446/?utm_campaign=908446&utm_source=habrahabr&utm_medium=rss)
+- [Автоматизация тестирования 2025: с чего начать?](https://habr.com/ru/articles/909820/?utm_campaign=909820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

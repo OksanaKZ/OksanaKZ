@@ -39,6 +39,6 @@
 - [Что происходит с собеседованиями QA в 2025 году? Взгляд с обеих сторон баррикад](https://habr.com/ru/companies/kts/articles/910066/?utm_campaign=910066&utm_source=habrahabr&utm_medium=rss)
 - [История о свершениях одного QA: о Quality Gates и оптимизации релизных процессов в ОК](https://habr.com/ru/companies/vk/articles/909970/?utm_campaign=909970&utm_source=habrahabr&utm_medium=rss)
 - [Майский «В тренде VM»: уязвимости в Microsoft Windows и фреймворке Erlang/OTP](https://habr.com/ru/companies/pt/articles/909802/?utm_campaign=909802&utm_source=habrahabr&utm_medium=rss)
-- [Все виды тестирования с описанием](https://habr.com/ru/articles/908446/?utm_campaign=908446&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизация тестирования 2025: с чего начать?](https://habr.com/ru/articles/909820/?utm_campaign=909820&utm_source=habrahabr&utm_medium=rss)
+- [Как найти и потерять бэкдор в ESP32](https://habr.com/ru/companies/bastion/articles/907362/?utm_campaign=907362&utm_source=habrahabr&utm_medium=rss)
+- [В поисках хорошего стиля. Часть 2. Пишем свой линтер на Go для golangci-lint](https://habr.com/ru/companies/ostrovok/articles/908768/?utm_campaign=908768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Кафка: преимущества и на что ещё обратить внимание при тестировании](https://habr.com/ru/companies/reksoft/articles/911132/?utm_campaign=911132&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать AI-приложения — Практический опыт Mentorpiece](https://habr.com/ru/articles/910754/?utm_campaign=910754&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как я взломал миллионы умных весов через уязвимости в API и железе](https://habr.com/ru/companies/bastion/articles/910492/?utm_campaign=910492&utm_source=habrahabr&utm_medium=rss)
 - [Как построить инфраструктуру, которая не подведет: главное с митапа по отказоустойчивости](https://habr.com/ru/companies/magnit/articles/907278/?utm_campaign=907278&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как провести бенчмарк кластера Camunda 8](https://habr.com/ru/articles/910898/?utm_campaign=910898&utm_source=habrahabr&utm_medium=rss)
-- [Claude, есть пробитие: взламываем самую защищенную модель](https://habr.com/ru/articles/910832/?utm_campaign=910832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

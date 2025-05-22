@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мое первое выступление на SQA-days](https://habr.com/ru/articles/911236/?utm_campaign=911236&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лучшие open-source инструменты для тестирования API в 2025 году](https://habr.com/ru/companies/otus/articles/911768/?utm_campaign=911768&utm_source=habrahabr&utm_medium=rss)
 - [Как проводить нагрузочное тестирование в 1С: инструкция по работе с Тест-центром](https://habr.com/ru/companies/ibs/articles/911398/?utm_campaign=911398&utm_source=habrahabr&utm_medium=rss)
 - [Бросил мечту о разработке, стал тестировщиком и не жалею: история, как я 10 лет вкатывался в IT](https://habr.com/ru/companies/outlines_tech/articles/911418/?utm_campaign=911418&utm_source=habrahabr&utm_medium=rss)
 - [Может ли разработчик с большим стажем но без QA бэкграунда стать хорошим Quality Assurance инженером?](https://habr.com/ru/articles/911178/?utm_campaign=911178&utm_source=habrahabr&utm_medium=rss)
-- [Кафка: преимущества и на что ещё обратить внимание при тестировании](https://habr.com/ru/companies/reksoft/articles/911132/?utm_campaign=911132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Опрос: тестовое покрытие — must-have или bullshit](https://habr.com/ru/companies/explyt/articles/912174/?utm_campaign=912174&utm_source=habrahabr&utm_medium=rss)
 - [Test Driven Development: сначала тесты, потом реализация](https://habr.com/ru/companies/otus/articles/910488/?utm_campaign=910488&utm_source=habrahabr&utm_medium=rss)
 - [Slowpoke Finder: как я сделала CLI-инструмент для анализа медленных шагов в автотестах](https://habr.com/ru/articles/911952/?utm_campaign=911952&utm_source=habrahabr&utm_medium=rss)
 - [Мое первое выступление на SQA-days](https://habr.com/ru/articles/911236/?utm_campaign=911236&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лучшие open-source инструменты для тестирования API в 2025 году](https://habr.com/ru/companies/otus/articles/911768/?utm_campaign=911768&utm_source=habrahabr&utm_medium=rss)
-- [Как проводить нагрузочное тестирование в 1С: инструкция по работе с Тест-центром](https://habr.com/ru/companies/ibs/articles/911398/?utm_campaign=911398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

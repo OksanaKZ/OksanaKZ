@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Регрессионное тестирование: взгляд изнутри от лидера команды](https://habr.com/ru/companies/rshb/articles/911580/?utm_campaign=911580&utm_source=habrahabr&utm_medium=rss)
+- [Pytest-xdist: как распараллелить тесты без конфликтов в базе](https://habr.com/ru/companies/kts/articles/912840/?utm_campaign=912840&utm_source=habrahabr&utm_medium=rss)
 - [Как создать тестовый фреймворк с нуля на Playwright](https://habr.com/ru/companies/simbirsoft/articles/911344/?utm_campaign=911344&utm_source=habrahabr&utm_medium=rss)
 - [Топ нейросетей 2025: маст-хэв для IT-специалиста](https://habr.com/ru/articles/912018/?utm_campaign=912018&utm_source=habrahabr&utm_medium=rss)
 - [Опрос: тестовое покрытие — must-have или bullshit](https://habr.com/ru/companies/explyt/articles/912174/?utm_campaign=912174&utm_source=habrahabr&utm_medium=rss)
-- [Test Driven Development: сначала тесты, потом реализация](https://habr.com/ru/companies/otus/articles/910488/?utm_campaign=910488&utm_source=habrahabr&utm_medium=rss)
-- [Slowpoke Finder: как я сделала CLI-инструмент для анализа медленных шагов в автотестах](https://habr.com/ru/articles/911952/?utm_campaign=911952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

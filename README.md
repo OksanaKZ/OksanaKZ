@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Soft skills которые изменили мою жизнь и могут изменить вашу](https://habr.com/ru/articles/913090/?utm_campaign=913090&utm_source=habrahabr&utm_medium=rss)
 - [CSS и XPath — отстой. Секрет стабильных автотестов в test-id](https://habr.com/ru/articles/910984/?utm_campaign=910984&utm_source=habrahabr&utm_medium=rss)
 - [Регрессионное тестирование: взгляд изнутри от лидера команды](https://habr.com/ru/companies/rshb/articles/911580/?utm_campaign=911580&utm_source=habrahabr&utm_medium=rss)
 - [Pytest-xdist: как распараллелить тесты без конфликтов в базе](https://habr.com/ru/companies/kts/articles/912840/?utm_campaign=912840&utm_source=habrahabr&utm_medium=rss)
 - [Как создать тестовый фреймворк с нуля на Playwright](https://habr.com/ru/companies/simbirsoft/articles/911344/?utm_campaign=911344&utm_source=habrahabr&utm_medium=rss)
-- [Топ нейросетей 2025: маст-хэв для IT-специалиста](https://habr.com/ru/articles/912018/?utm_campaign=912018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

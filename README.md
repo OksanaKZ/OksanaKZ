@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что меня поразило в английском, когда я начала работать тех. писателем. Часть 1](https://habr.com/ru/articles/913812/?utm_campaign=913812&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование глазами разработчика: как проходит командировка на реальный проект](https://habr.com/ru/companies/ibs/articles/913108/?utm_campaign=913108&utm_source=habrahabr&utm_medium=rss)
 - [SelfCoerce для локального повышения привилегий на Windows 10](https://habr.com/ru/companies/bastion/articles/910626/?utm_campaign=910626&utm_source=habrahabr&utm_medium=rss)
 - [Использование DevTools. Гайд для дизайн-ревью и не только](https://habr.com/ru/articles/913120/?utm_campaign=913120&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как выполнять параллельное тестирование: руководство](https://habr.com/ru/companies/otus/articles/913114/?utm_campaign=913114&utm_source=habrahabr&utm_medium=rss)
-- [Soft skills которые изменили мою жизнь и могут изменить вашу](https://habr.com/ru/articles/913090/?utm_campaign=913090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

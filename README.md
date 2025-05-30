@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От подбора пароля к WiFi до пентеста серверов Apple: разговор с топовыми багхантерами из Synack и HackerOne](https://habr.com/ru/companies/pt/articles/914018/?utm_campaign=914018&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 10 техник оптимизации Java, которые выведут вас на новый уровень](https://habr.com/ru/companies/otus/articles/913922/?utm_campaign=913922&utm_source=habrahabr&utm_medium=rss)
 - [Видеть инфраструктуру как хакер. От графа моделирования угроз к алгоритмам, которые находят маршруты атак на нем](https://habr.com/ru/companies/pt/articles/913386/?utm_campaign=913386&utm_source=habrahabr&utm_medium=rss)
 - [Как подружить несколько Jenkins Jobs c одним агрегированным запуском Allure TestOps](https://habr.com/ru/companies/alfa/articles/913716/?utm_campaign=913716&utm_source=habrahabr&utm_medium=rss)
 - [Провоцируем http-ошибки в Постмане](https://habr.com/ru/companies/petrovich-tech/articles/913806/?utm_campaign=913806&utm_source=habrahabr&utm_medium=rss)
-- [Что меня поразило в английском, когда я начала работать тех. писателем. Часть 1](https://habr.com/ru/articles/913812/?utm_campaign=913812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

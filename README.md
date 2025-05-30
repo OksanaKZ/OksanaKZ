@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему разработка через тестирование &lpar;TDD&rpar; не приводит к плохому коду](https://habr.com/ru/companies/piter/articles/914232/?utm_campaign=914232&utm_source=habrahabr&utm_medium=rss)
+- [Как провести нагрузочное тестирование БД PostgreSQL и ничего не забыть](https://habr.com/ru/companies/tantor/articles/914320/?utm_campaign=914320&utm_source=habrahabr&utm_medium=rss)
+- [Как я мог уйти в разработку, не ушёл и ничуть не пожалел. А потом разработка пришла ко мне сама…](https://habr.com/ru/companies/profi_ru/articles/914294/?utm_campaign=914294&utm_source=habrahabr&utm_medium=rss)
 - [Чек-лист для тестирования требований](https://habr.com/ru/companies/reksoft/articles/914266/?utm_campaign=914266&utm_source=habrahabr&utm_medium=rss)
 - [От подбора пароля к WiFi до пентеста серверов Apple: разговор с топовыми багхантерами из Synack и HackerOne](https://habr.com/ru/companies/pt/articles/914018/?utm_campaign=914018&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] 10 техник оптимизации Java, которые выведут вас на новый уровень](https://habr.com/ru/companies/otus/articles/913922/?utm_campaign=913922&utm_source=habrahabr&utm_medium=rss)
-- [Видеть инфраструктуру как хакер. От графа моделирования угроз к алгоритмам, которые находят маршруты атак на нем](https://habr.com/ru/companies/pt/articles/913386/?utm_campaign=913386&utm_source=habrahabr&utm_medium=rss)
-- [Как подружить несколько Jenkins Jobs c одним агрегированным запуском Allure TestOps](https://habr.com/ru/companies/alfa/articles/913716/?utm_campaign=913716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость LED-панелей](https://habr.com/ru/articles/914674/?utm_campaign=914674&utm_source=habrahabr&utm_medium=rss)
 - [UI-автотесты: как правильно организовать код и не сойти с ума](https://habr.com/ru/articles/914636/?utm_campaign=914636&utm_source=habrahabr&utm_medium=rss)
 - [Scenax: как превратить API-тесты в читаемые сценарии с Vitest и Allure &lpar;Часть 2&rpar;](https://habr.com/ru/companies/alfastrah/articles/914604/?utm_campaign=914604&utm_source=habrahabr&utm_medium=rss)
 - [История одного QA](https://habr.com/ru/companies/otus/articles/911500/?utm_campaign=911500&utm_source=habrahabr&utm_medium=rss)
 - [Scenax: как превратить API-тесты в читаемые сценарии с Vitest и Allure &lpar;Часть 1&rpar;](https://habr.com/ru/companies/alfastrah/articles/914450/?utm_campaign=914450&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Почему разработка через тестирование &lpar;TDD&rpar; не приводит к плохому коду](https://habr.com/ru/companies/piter/articles/914232/?utm_campaign=914232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

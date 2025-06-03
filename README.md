@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я тестировал OWASP Juice Shop с ИИ: от генерации кейсов до баг-репортов. Часть 1](https://habr.com/ru/companies/minerva_media/articles/914382/?utm_campaign=914382&utm_source=habrahabr&utm_medium=rss)
 - [Тесты как код: храним ручные тест-кейсы в Git и дружим с ТестОпс](https://habr.com/ru/articles/915004/?utm_campaign=915004&utm_source=habrahabr&utm_medium=rss)
 - [Обрезание баз данных без боли — использование и реализация database subsets в Greenmask](https://habr.com/ru/articles/915052/?utm_campaign=915052&utm_source=habrahabr&utm_medium=rss)
 - [54 открытых урока июня: от ML до микросервисов](https://habr.com/ru/companies/otus/articles/913940/?utm_campaign=913940&utm_source=habrahabr&utm_medium=rss)
 - [От слепых котят к ИИ-гуру: история автоматизации тестирования в Сбере](https://habr.com/ru/companies/sberbank/articles/914080/?utm_campaign=914080&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость LED-панелей](https://habr.com/ru/articles/914674/?utm_campaign=914674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

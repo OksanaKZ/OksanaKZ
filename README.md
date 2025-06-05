@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Изучай и властвуй: как с помощью одного UX-исследователя, этнографии и тестов мы разработали систему управления складами](https://habr.com/ru/companies/ecom_tech/articles/914246/?utm_campaign=914246&utm_source=habrahabr&utm_medium=rss)
 - [Почему ты пропустил баг? Или как настроены процессы в обеспечении качества](https://habr.com/ru/articles/915708/?utm_campaign=915708&utm_source=habrahabr&utm_medium=rss)
 - [Читаем под одеялом с фонариком: темная тема и документация в ТМС TestY 2.1](https://habr.com/ru/companies/yadro/articles/915312/?utm_campaign=915312&utm_source=habrahabr&utm_medium=rss)
 - [Claude Sonnet 4, и это самая защищенная модель? Wasted](https://habr.com/ru/articles/915402/?utm_campaign=915402&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании: инструменты тестирования](https://habr.com/ru/articles/913390/?utm_campaign=913390&utm_source=habrahabr&utm_medium=rss)
-- [Как перестать беспокоиться и начать внедрять интеграционные тесты](https://habr.com/ru/companies/vk/articles/914906/?utm_campaign=914906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

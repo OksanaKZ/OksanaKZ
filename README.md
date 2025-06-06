@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Юнит-тестирование в Angular: лучшие практики и инструменты](https://habr.com/ru/companies/otus/articles/916166/?utm_campaign=916166&utm_source=habrahabr&utm_medium=rss)
 - [Что не убивает, делает сильней: как мы тестируем СХД, «ломая» его по частям](https://habr.com/ru/companies/yadro/articles/915890/?utm_campaign=915890&utm_source=habrahabr&utm_medium=rss)
+- [ПОТРАЧЕНО–3. Как тестировать локализацию переводов, чтобы потом не было стыдно](https://habr.com/ru/companies/sportmaster_lab/articles/915870/?utm_campaign=915870&utm_source=habrahabr&utm_medium=rss)
 - [Изучай и властвуй: как с помощью одного UX-исследователя, этнографии и тестов мы разработали систему управления складами](https://habr.com/ru/companies/ecom_tech/articles/914246/?utm_campaign=914246&utm_source=habrahabr&utm_medium=rss)
 - [Почему ты пропустил баг? Или как настроены процессы в обеспечении качества](https://habr.com/ru/articles/915708/?utm_campaign=915708&utm_source=habrahabr&utm_medium=rss)
-- [Читаем под одеялом с фонариком: темная тема и документация в ТМС TestY 2.1](https://habr.com/ru/companies/yadro/articles/915312/?utm_campaign=915312&utm_source=habrahabr&utm_medium=rss)
-- [Claude Sonnet 4, и это самая защищенная модель? Wasted](https://habr.com/ru/articles/915402/?utm_campaign=915402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

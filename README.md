@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Отказаться от Postman, перейти на Bruno и жить счастливо](https://habr.com/ru/companies/alfa/articles/915940/?utm_campaign=915940&utm_source=habrahabr&utm_medium=rss)
 - [Нашел, проверил, убедил: как мы организовали генерацию SQL-запросов, проверку сложных данных и при чем здесь Allure](https://habr.com/ru/companies/rshb/articles/916148/?utm_campaign=916148&utm_source=habrahabr&utm_medium=rss)
 - [19 лет в айти, чтобы прикинуться джуном: как искать баги в приложениях с помощью ИИ](https://habr.com/ru/companies/minerva_media/articles/916222/?utm_campaign=916222&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Юнит-тестирование в Angular: лучшие практики и инструменты](https://habr.com/ru/companies/otus/articles/916166/?utm_campaign=916166&utm_source=habrahabr&utm_medium=rss)
 - [Что не убивает, делает сильней: как мы тестируем СХД, «ломая» его по частям](https://habr.com/ru/companies/yadro/articles/915890/?utm_campaign=915890&utm_source=habrahabr&utm_medium=rss)
-- [ПОТРАЧЕНО–3. Как тестировать локализацию переводов, чтобы потом не было стыдно](https://habr.com/ru/companies/sportmaster_lab/articles/915870/?utm_campaign=915870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

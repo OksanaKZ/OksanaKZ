@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [12 платформ, где можно генерировать визуал &lpar;и не только&rpar; бесплатно](https://habr.com/ru/articles/917326/?utm_campaign=917326&utm_source=habrahabr&utm_medium=rss)
 - [Взлом AI Assistant через… философию?](https://habr.com/ru/articles/916698/?utm_campaign=916698&utm_source=habrahabr&utm_medium=rss)
 - [Containerlab, как альтернатива Cisco Packet Tracer / PNETLab](https://habr.com/ru/articles/916662/?utm_campaign=916662&utm_source=habrahabr&utm_medium=rss)
 - [Отказаться от Postman, перейти на Bruno и жить счастливо](https://habr.com/ru/companies/alfa/articles/915940/?utm_campaign=915940&utm_source=habrahabr&utm_medium=rss)
 - [Нашел, проверил, убедил: как мы организовали генерацию SQL-запросов, проверку сложных данных и при чем здесь Allure](https://habr.com/ru/companies/rshb/articles/916148/?utm_campaign=916148&utm_source=habrahabr&utm_medium=rss)
-- [19 лет в айти, чтобы прикинуться джуном: как искать баги в приложениях с помощью ИИ](https://habr.com/ru/companies/minerva_media/articles/916222/?utm_campaign=916222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

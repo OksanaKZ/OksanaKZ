@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Постоянный логин в автотестах? Решаем с Playwright и экономим время](https://habr.com/ru/articles/918546/?utm_campaign=918546&utm_source=habrahabr&utm_medium=rss)
 - [Слив электронной подписи: как потерять имущество, деньги и компанию](https://habr.com/ru/articles/918498/?utm_campaign=918498&utm_source=habrahabr&utm_medium=rss)
 - [Управление тестированием без боли: митап о том, как выстраивать и автоматизировать QA-процессы](https://habr.com/ru/companies/yadro/articles/917594/?utm_campaign=917594&utm_source=habrahabr&utm_medium=rss)
 - [12 платформ, где можно генерировать визуал &lpar;и не только&rpar; бесплатно](https://habr.com/ru/articles/917326/?utm_campaign=917326&utm_source=habrahabr&utm_medium=rss)
 - [Взлом AI Assistant через… философию?](https://habr.com/ru/articles/916698/?utm_campaign=916698&utm_source=habrahabr&utm_medium=rss)
-- [Containerlab, как альтернатива Cisco Packet Tracer / PNETLab](https://habr.com/ru/articles/916662/?utm_campaign=916662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

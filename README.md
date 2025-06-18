@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Цифровой абьюз. Обзор практик от энтузиастов по поиску моральных пределов чат-ботов](https://habr.com/ru/companies/selectel/articles/919412/?utm_campaign=919412&utm_source=habrahabr&utm_medium=rss)
 - [Оценка падения качества видео после передачи по проблемному каналу IP сети](https://habr.com/ru/articles/919122/?utm_campaign=919122&utm_source=habrahabr&utm_medium=rss)
 - [Гайд по техникам тест-дизайна: нюансы и механики. Часть 1](https://habr.com/ru/companies/lanit/articles/913818/?utm_campaign=913818&utm_source=habrahabr&utm_medium=rss)
 - [Как мы автоматизировали A/B-тестирование CRM-рассылок и избавили аналитиков от рутины](https://habr.com/ru/companies/avito/articles/918634/?utm_campaign=918634&utm_source=habrahabr&utm_medium=rss)
 - [Постоянный логин в автотестах? Решаем с Playwright и экономим время](https://habr.com/ru/articles/918546/?utm_campaign=918546&utm_source=habrahabr&utm_medium=rss)
-- [Слив электронной подписи: как потерять имущество, деньги и компанию](https://habr.com/ru/articles/918498/?utm_campaign=918498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

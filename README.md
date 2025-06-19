@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Не витаем в облаках: настраиваем прозрачный процесс тестирования облака](https://habr.com/ru/companies/runity/articles/919768/?utm_campaign=919768&utm_source=habrahabr&utm_medium=rss)
 - [Архитектурное банкротство: как технический долг убивает проект](https://habr.com/ru/articles/919724/?utm_campaign=919724&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Postman + Newman: быстрый старт API-автотестов на практике](https://habr.com/ru/companies/otus/articles/919512/?utm_campaign=919512&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносы против песочницы на Standoff 15](https://habr.com/ru/companies/pt/articles/919358/?utm_campaign=919358&utm_source=habrahabr&utm_medium=rss)
 - [Цифровой абьюз. Обзор практик от энтузиастов по поиску моральных пределов чат-ботов](https://habr.com/ru/companies/selectel/articles/919412/?utm_campaign=919412&utm_source=habrahabr&utm_medium=rss)
-- [Оценка падения качества видео после передачи по проблемному каналу IP сети](https://habr.com/ru/articles/919122/?utm_campaign=919122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

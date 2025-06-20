@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мифический «стеклянный потолок» в карьере QA](https://habr.com/ru/companies/ru_mts/articles/913466/?utm_campaign=913466&utm_source=habrahabr&utm_medium=rss)
 - [Генератор трафика Cisco TRex. Обзор](https://habr.com/ru/companies/beget/articles/919544/?utm_campaign=919544&utm_source=habrahabr&utm_medium=rss)
 - [Не витаем в облаках: настраиваем прозрачный процесс тестирования облака](https://habr.com/ru/companies/runity/articles/919768/?utm_campaign=919768&utm_source=habrahabr&utm_medium=rss)
 - [Архитектурное банкротство: как технический долг убивает проект](https://habr.com/ru/articles/919724/?utm_campaign=919724&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Postman + Newman: быстрый старт API-автотестов на практике](https://habr.com/ru/companies/otus/articles/919512/?utm_campaign=919512&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносы против песочницы на Standoff 15](https://habr.com/ru/companies/pt/articles/919358/?utm_campaign=919358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [C каждой розетки про MCP, но давайте по-человечески](https://habr.com/ru/articles/920882/?utm_campaign=920882&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие AI-модели для генерации изображений &lpar;мой личный рейтинг по всем-всем моделям рынка&rpar;](https://habr.com/ru/articles/920440/?utm_campaign=920440&utm_source=habrahabr&utm_medium=rss)
 - [Июньский «В тренде VM»: уязвимости в Windows, Apache HTTP Server, веб-интерфейсах MDaemon и Zimbra, архиваторе 7-Zip](https://habr.com/ru/companies/pt/articles/920062/?utm_campaign=920062&utm_source=habrahabr&utm_medium=rss)
 - [Мифический «стеклянный потолок» в карьере QA](https://habr.com/ru/companies/ru_mts/articles/913466/?utm_campaign=913466&utm_source=habrahabr&utm_medium=rss)
 - [Генератор трафика Cisco TRex. Обзор](https://habr.com/ru/companies/beget/articles/919544/?utm_campaign=919544&utm_source=habrahabr&utm_medium=rss)
-- [Не витаем в облаках: настраиваем прозрачный процесс тестирования облака](https://habr.com/ru/companies/runity/articles/919768/?utm_campaign=919768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

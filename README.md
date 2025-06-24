@@ -39,6 +39,6 @@
 - [Простые вещи, которых я не знаю: юнит-тесты](https://habr.com/ru/articles/920750/?utm_campaign=920750&utm_source=habrahabr&utm_medium=rss)
 - [Тестируемый код в Golang](https://habr.com/ru/companies/skbkontur/articles/917280/?utm_campaign=917280&utm_source=habrahabr&utm_medium=rss)
 - [Как я перестал бояться тестов и полюбил зелёный CI](https://habr.com/ru/articles/921152/?utm_campaign=921152&utm_source=habrahabr&utm_medium=rss)
-- [15 минут — и у тебя свой LLM, который не утекает в облако и не стоит $20 в месяц](https://habr.com/ru/companies/minerva_media/articles/920946/?utm_campaign=920946&utm_source=habrahabr&utm_medium=rss)
+- [15 минут — и у тебя бесплатная ИИ-модель для генерации кода, текста, иллюстраций](https://habr.com/ru/companies/minerva_media/articles/920946/?utm_campaign=920946&utm_source=habrahabr&utm_medium=rss)
 - [C каждой розетки про MCP, но давайте по-человечески](https://habr.com/ru/articles/920882/?utm_campaign=920882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

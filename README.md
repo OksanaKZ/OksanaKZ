@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестируемый код в Golang](https://habr.com/ru/companies/skbkontur/articles/917280/?utm_campaign=917280&utm_source=habrahabr&utm_medium=rss)
 - [Как я перестал бояться тестов и полюбил зелёный CI](https://habr.com/ru/articles/921152/?utm_campaign=921152&utm_source=habrahabr&utm_medium=rss)
 - [Забудьте про Hugging Face и CLI — ставим Gemma 3 12B за 15 минут](https://habr.com/ru/companies/minerva_media/articles/920946/?utm_campaign=920946&utm_source=habrahabr&utm_medium=rss)
 - [C каждой розетки про MCP, но давайте по-человечески](https://habr.com/ru/articles/920882/?utm_campaign=920882&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие AI-модели для генерации изображений &lpar;мой личный рейтинг по всем-всем моделям рынка&rpar;](https://habr.com/ru/articles/920440/?utm_campaign=920440&utm_source=habrahabr&utm_medium=rss)
-- [Июньский «В тренде VM»: уязвимости в Windows, Apache HTTP Server, веб-интерфейсах MDaemon и Zimbra, архиваторе 7-Zip](https://habr.com/ru/companies/pt/articles/920062/?utm_campaign=920062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Генерация юнит-тестов с LLM: если бы посуда мылась сама](https://habr.com/ru/companies/vk/articles/921410/?utm_campaign=921410&utm_source=habrahabr&utm_medium=rss)
 - [Правдивая история бага: “Баг” Эдисона и мотылек, с которого все началось](https://habr.com/ru/articles/921350/?utm_campaign=921350&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Пошаговое руководство по написанию эксплойта ядра iOS](https://habr.com/ru/companies/bastion/articles/920922/?utm_campaign=920922&utm_source=habrahabr&utm_medium=rss)
 - [Простые вещи, которых я не знаю: юнит-тесты](https://habr.com/ru/articles/920750/?utm_campaign=920750&utm_source=habrahabr&utm_medium=rss)
 - [Тестируемый код в Golang](https://habr.com/ru/companies/skbkontur/articles/917280/?utm_campaign=917280&utm_source=habrahabr&utm_medium=rss)
-- [Как я перестал бояться тестов и полюбил зелёный CI](https://habr.com/ru/articles/921152/?utm_campaign=921152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

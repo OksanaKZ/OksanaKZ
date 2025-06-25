@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Автотесты, ночные сборки, экстремальный Agile. Как мы тестируем наши продукты](https://habr.com/ru/companies/bitrix/articles/274955/?utm_campaign=274955&utm_source=habrahabr&utm_medium=rss)
-- [Мутационное тестирование](https://habr.com/ru/articles/334394/?utm_campaign=334394&utm_source=habrahabr&utm_medium=rss)
-- [Четверть миллиона за «жука»: Microsoft начинает активную борьбу с багами](https://habr.com/ru/companies/1cloud/articles/334552/?utm_campaign=334552&utm_source=habrahabr&utm_medium=rss)
-- [Смок тестирование на небольшом проекте: как началось и какие результаты](https://habr.com/ru/articles/334544/?utm_campaign=334544&utm_source=habrahabr&utm_medium=rss)
-- [Настройка push-нотификаций для своего сервиса](https://habr.com/ru/companies/host-tracker/articles/334038/?utm_campaign=334038&utm_source=habrahabr&utm_medium=rss)
+- [Тест-драйв WAF: как быстро и на практике проверить, подходит ли вам файервол](https://habr.com/ru/companies/pt/articles/919182/?utm_campaign=919182&utm_source=habrahabr&utm_medium=rss)
+- [Генерация юнит-тестов с LLM: если бы посуда мылась сама](https://habr.com/ru/companies/vk/articles/921410/?utm_campaign=921410&utm_source=habrahabr&utm_medium=rss)
+- [Правдивая история бага: “Баг” Эдисона и мотылек, с которого все началось](https://habr.com/ru/articles/921350/?utm_campaign=921350&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Пошаговое руководство по написанию эксплойта ядра iOS](https://habr.com/ru/companies/bastion/articles/920922/?utm_campaign=920922&utm_source=habrahabr&utm_medium=rss)
+- [Простые вещи, которых я не знаю: юнит-тесты](https://habr.com/ru/articles/920750/?utm_campaign=920750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

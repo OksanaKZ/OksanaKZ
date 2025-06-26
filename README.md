@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [10 мифов об A/B-тестировании: как избежать распространённых заблуждений в статистическом анализе](https://habr.com/ru/companies/yandex/articles/919966/?utm_campaign=919966&utm_source=habrahabr&utm_medium=rss)
 - [Я тестировщик и два месяца работал без рук. Вот, что я понял](https://habr.com/ru/companies/yougile/articles/921764/?utm_campaign=921764&utm_source=habrahabr&utm_medium=rss)
 - [Тест-драйв WAF: как быстро и на практике проверить, подходит ли вам файервол](https://habr.com/ru/companies/pt/articles/919182/?utm_campaign=919182&utm_source=habrahabr&utm_medium=rss)
+- [Нефункциональные проверки мобильных приложений](https://habr.com/ru/companies/sovcombank_technologies/articles/921612/?utm_campaign=921612&utm_source=habrahabr&utm_medium=rss)
 - [Генерация юнит-тестов с LLM: если бы посуда мылась сама](https://habr.com/ru/companies/vk/articles/921410/?utm_campaign=921410&utm_source=habrahabr&utm_medium=rss)
-- [Правдивая история бага: “Баг” Эдисона и мотылек, с которого все началось](https://habr.com/ru/articles/921350/?utm_campaign=921350&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Пошаговое руководство по написанию эксплойта ядра iOS](https://habr.com/ru/companies/bastion/articles/920922/?utm_campaign=920922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

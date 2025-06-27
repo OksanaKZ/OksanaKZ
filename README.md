@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Чужой напротив IT-шников](https://habr.com/ru/articles/922456/?utm_campaign=922456&utm_source=habrahabr&utm_medium=rss)
 - [Считаем риски: как планировать спринт без сюрпризов](https://habr.com/ru/articles/922220/?utm_campaign=922220&utm_source=habrahabr&utm_medium=rss)
 - [Видеть инфраструктуру как хакер: рассчитываем время кибератаки](https://habr.com/ru/companies/pt/articles/921872/?utm_campaign=921872&utm_source=habrahabr&utm_medium=rss)
 - [Опыт построения антифрод-системы на основе поведенческого анализа для FreezerSports](https://habr.com/ru/articles/922094/?utm_campaign=922094&utm_source=habrahabr&utm_medium=rss)
 - [О количестве минимальных тестов](https://habr.com/ru/articles/921704/?utm_campaign=921704&utm_source=habrahabr&utm_medium=rss)
-- [Как спасти проект, если нашли баги перед релизом](https://habr.com/ru/companies/netologyru/articles/921954/?utm_campaign=921954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

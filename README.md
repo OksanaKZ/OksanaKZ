@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Управление ИТ-парком без SCCM — какой российский аналог справится с этой задачей](https://habr.com/ru/articles/924172/?utm_campaign=924172&utm_source=habrahabr&utm_medium=rss)
+- [Подмена входящего трафика: скрытые, но крайне полезные фичи браузера Chrome](https://habr.com/ru/companies/sberbank/articles/923888/?utm_campaign=923888&utm_source=habrahabr&utm_medium=rss)
+- [Собрать IKEA без инструкции. Обзор рынка балансировщиков в новых реалиях и результаты тестирования китайского DPTech](https://habr.com/ru/companies/k2tech/articles/924244/?utm_campaign=924244&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как вырастить QA-команду, которая не боится будущего](https://habr.com/ru/companies/otus/articles/924238/?utm_campaign=924238&utm_source=habrahabr&utm_medium=rss)
 - [Как улучшить прогоны автотестов при помощи карантина](https://habr.com/ru/companies/hh/articles/923964/?utm_campaign=923964&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать хуки в React с @testing-library/react-hooks](https://habr.com/ru/companies/otus/articles/923214/?utm_campaign=923214&utm_source=habrahabr&utm_medium=rss)
-- [Технологический долг. Как сделать первый шаг к запуску производства](https://habr.com/ru/articles/924038/?utm_campaign=924038&utm_source=habrahabr&utm_medium=rss)
-- [45 открытых уроков июля: возможности роста для каждого](https://habr.com/ru/companies/otus/articles/922266/?utm_campaign=922266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

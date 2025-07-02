@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Чтобы завтра отчет был на столе: как автоматизация и TMS помогают прозрачно вести QA-процессы](https://habr.com/ru/companies/yadro/articles/924254/?utm_campaign=924254&utm_source=habrahabr&utm_medium=rss)
 - [Лучшее сообщение об ошибке — это его отсутствие](https://habr.com/ru/companies/ozontech/articles/921280/?utm_campaign=921280&utm_source=habrahabr&utm_medium=rss)
 - [Чистый чил: как сделать так, чтобы тебя не трогали по рабочим вопросам в отпуске](https://habr.com/ru/articles/924266/?utm_campaign=924266&utm_source=habrahabr&utm_medium=rss)
 - [Подмена входящего трафика: скрытые, но крайне полезные фичи браузера Chrome](https://habr.com/ru/companies/sberbank/articles/923888/?utm_campaign=923888&utm_source=habrahabr&utm_medium=rss)
 - [Собрать IKEA без инструкции. Обзор рынка балансировщиков в новых реалиях и результаты тестирования китайского DPTech](https://habr.com/ru/companies/k2tech/articles/924244/?utm_campaign=924244&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как вырастить QA-команду, которая не боится будущего](https://habr.com/ru/companies/otus/articles/924238/?utm_campaign=924238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

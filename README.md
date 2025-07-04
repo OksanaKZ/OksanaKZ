@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Рейтинг Российских ПЛК](https://habr.com/ru/articles/924470/?utm_campaign=924470&utm_source=habrahabr&utm_medium=rss)
-- [Java. Практические советы по написанию чистого кода](https://habr.com/ru/companies/reksoft/articles/924350/?utm_campaign=924350&utm_source=habrahabr&utm_medium=rss)
 - [Чтобы завтра отчет был на столе: как автоматизация и TMS помогают прозрачно вести QA-процессы](https://habr.com/ru/companies/yadro/articles/924254/?utm_campaign=924254&utm_source=habrahabr&utm_medium=rss)
 - [Лучшее сообщение об ошибке — это его отсутствие](https://habr.com/ru/companies/ozontech/articles/921280/?utm_campaign=921280&utm_source=habrahabr&utm_medium=rss)
 - [Чистый чил: как сделать так, чтобы тебя не трогали по рабочим вопросам в отпуске](https://habr.com/ru/articles/924266/?utm_campaign=924266&utm_source=habrahabr&utm_medium=rss)
+- [Подмена входящего трафика: скрытые, но крайне полезные фичи браузера Chrome](https://habr.com/ru/companies/sberbank/articles/923888/?utm_campaign=923888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

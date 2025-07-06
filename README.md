@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [TDD: разработка быстрее и качественнее](https://habr.com/ru/articles/925446/?utm_campaign=925446&utm_source=habrahabr&utm_medium=rss)
 - [Эффективная коммуникация в ИТ: как тестировщики могут стать связующим звеном между отделами](https://habr.com/ru/articles/925070/?utm_campaign=925070&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация рутины в Postman &lpar;часть 1&rpar;: 10 pre-request скриптов, которые мне упростили жизнь](https://habr.com/ru/articles/906150/?utm_campaign=906150&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг Российских ПЛК](https://habr.com/ru/articles/924470/?utm_campaign=924470&utm_source=habrahabr&utm_medium=rss)
 - [Java. Практические советы по написанию чистого кода](https://habr.com/ru/companies/reksoft/articles/924350/?utm_campaign=924350&utm_source=habrahabr&utm_medium=rss)
-- [Чтобы завтра отчет был на столе: как автоматизация и TMS помогают прозрачно вести QA-процессы](https://habr.com/ru/companies/yadro/articles/924254/?utm_campaign=924254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

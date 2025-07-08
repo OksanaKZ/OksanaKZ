@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как не утонуть в тестовых средах: dev, test, staging и не только](https://habr.com/ru/articles/926122/?utm_campaign=926122&utm_source=habrahabr&utm_medium=rss)
 - [Баги, изменившие мир](https://habr.com/ru/articles/926042/?utm_campaign=926042&utm_source=habrahabr&utm_medium=rss)
 - [От HackerOne к родным берегам: как меняется российский багхантинг](https://habr.com/ru/companies/bastion/articles/925634/?utm_campaign=925634&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как Playwright MCP исследует ваш сайт и сам пишет тесты](https://habr.com/ru/companies/otus/articles/925916/?utm_campaign=925916&utm_source=habrahabr&utm_medium=rss)
 - [Как написать понятный всем отчёт: под капотом Allure Report](https://habr.com/ru/companies/testops_tms/articles/925900/?utm_campaign=925900&utm_source=habrahabr&utm_medium=rss)
-- [Шесть уровней AI-квалификации тестировщика](https://habr.com/ru/articles/925878/?utm_campaign=925878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

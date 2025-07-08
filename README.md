@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Шесть уровней AI-квалификации тестировщика](https://habr.com/ru/articles/925878/?utm_campaign=925878&utm_source=habrahabr&utm_medium=rss)
 - [Раннее тестирование или как сократить время деливери](https://habr.com/ru/companies/yandex/articles/922230/?utm_campaign=922230&utm_source=habrahabr&utm_medium=rss)
 - [TDD: разработка быстрее и качественнее](https://habr.com/ru/articles/925446/?utm_campaign=925446&utm_source=habrahabr&utm_medium=rss)
 - [Эффективная коммуникация в ИТ: как тестировщики могут стать связующим звеном между отделами](https://habr.com/ru/articles/925070/?utm_campaign=925070&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация рутины в Postman &lpar;часть 1&rpar;: 10 pre-request скриптов, которые мне упростили жизнь](https://habr.com/ru/articles/906150/?utm_campaign=906150&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг Российских ПЛК](https://habr.com/ru/articles/924470/?utm_campaign=924470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

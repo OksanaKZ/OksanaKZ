@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс.Полуразврат или при чём тут Crypt?](https://habr.com/ru/articles/926670/?utm_campaign=926670&utm_source=habrahabr&utm_medium=rss)
 - [Психология тестировщика: почему критическое мышление — это суперсила](https://habr.com/ru/companies/ozontech/articles/924608/?utm_campaign=924608&utm_source=habrahabr&utm_medium=rss)
 - [Когда нужны компромиссы в тестировании](https://habr.com/ru/companies/maxilect/articles/926208/?utm_campaign=926208&utm_source=habrahabr&utm_medium=rss)
 - [Как не утонуть в тестовых средах: dev, test, staging и не только](https://habr.com/ru/articles/926122/?utm_campaign=926122&utm_source=habrahabr&utm_medium=rss)
 - [Баги, изменившие мир](https://habr.com/ru/articles/926042/?utm_campaign=926042&utm_source=habrahabr&utm_medium=rss)
-- [От HackerOne к родным берегам: как меняется российский багхантинг](https://habr.com/ru/companies/bastion/articles/925634/?utm_campaign=925634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

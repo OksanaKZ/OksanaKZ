@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы проводим тестирования: итоги испытаний отечественной гиперконвергентной платформы vStack](https://habr.com/ru/companies/fplus_tech/articles/927664/?utm_campaign=927664&utm_source=habrahabr&utm_medium=rss)
 - [Как мы в Авито используем split-тесты для оценки алгоритмов продвижения объявлений](https://habr.com/ru/companies/avito/articles/927606/?utm_campaign=927606&utm_source=habrahabr&utm_medium=rss)
 - [Почему именно юнит-тесты: искусство укрощения кода маленькими шагами](https://habr.com/ru/articles/927596/?utm_campaign=927596&utm_source=habrahabr&utm_medium=rss)
 - [Explyt 4.0: агентский режим и генерация тестов по исполнению](https://habr.com/ru/companies/explyt/articles/927556/?utm_campaign=927556&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как грамотно организовать тесты в Playwright](https://habr.com/ru/companies/otus/articles/927572/?utm_campaign=927572&utm_source=habrahabr&utm_medium=rss)
-- [Разбор заданий AI CTF на Positive Hack Days Fest. Часть 2](https://habr.com/ru/companies/pt/articles/926892/?utm_campaign=926892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как грамотно организовать тесты в Playwright](https://habr.com/ru/companies/otus/articles/927572/?utm_campaign=927572&utm_source=habrahabr&utm_medium=rss)
 - [Разбор заданий AI CTF на Positive Hack Days Fest. Часть 2](https://habr.com/ru/companies/pt/articles/926892/?utm_campaign=926892&utm_source=habrahabr&utm_medium=rss)
 - [Как мы избавились от «бутылочного горлышка в тестировании» и увеличили пропускную способность команды вдвое](https://habr.com/ru/companies/raiffeisenbank/articles/913644/?utm_campaign=913644&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация рутины в Postman &lpar;часть 2&rpar;: 10 Post-request скриптов, которые упростили мне жизнь](https://habr.com/ru/articles/927358/?utm_campaign=927358&utm_source=habrahabr&utm_medium=rss)
 - [Пеликаны, сарказм и логические игры — забавные LLM-бенчмарки](https://habr.com/ru/companies/beeline_cloud/articles/927284/?utm_campaign=927284&utm_source=habrahabr&utm_medium=rss)
-- [Практическое руководство по настройке автотестов на реальном устройстве iOS с использованием Appium](https://habr.com/ru/articles/926848/?utm_campaign=926848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

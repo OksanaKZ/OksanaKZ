@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по техникам тест-дизайна: нюансы и механики. Часть 2](https://habr.com/ru/companies/lanit/articles/918856/?utm_campaign=918856&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Обработка асинхронных операций с Flowable: Бенчмарки производительности](https://habr.com/ru/articles/920296/?utm_campaign=920296&utm_source=habrahabr&utm_medium=rss)
 - [Как мы проводим тестирования: итоги испытаний отечественной гиперконвергентной платформы vStack](https://habr.com/ru/companies/fplus_tech/articles/927664/?utm_campaign=927664&utm_source=habrahabr&utm_medium=rss)
 - [Как мы в Авито используем split-тесты для оценки алгоритмов продвижения объявлений](https://habr.com/ru/companies/avito/articles/927606/?utm_campaign=927606&utm_source=habrahabr&utm_medium=rss)
 - [Почему именно юнит-тесты: искусство укрощения кода маленькими шагами](https://habr.com/ru/articles/927596/?utm_campaign=927596&utm_source=habrahabr&utm_medium=rss)
-- [Explyt 4.0: агентский режим и генерация тестов по исполнению](https://habr.com/ru/companies/explyt/articles/927556/?utm_campaign=927556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тесты, баги, два кота. Как устроено тестирование продуктов в Angie Software](https://habr.com/ru/articles/928804/?utm_campaign=928804&utm_source=habrahabr&utm_medium=rss)
 - [Это не BDD, это другое. Путь от кода к BugBuster — платформе автоматизации тестирования на естественном языке](https://habr.com/ru/articles/927840/?utm_campaign=927840&utm_source=habrahabr&utm_medium=rss)
 - [Qual-AI-ty Assurance: как ИИ меняет QA](https://habr.com/ru/articles/928032/?utm_campaign=928032&utm_source=habrahabr&utm_medium=rss)
 - [SD-WAN и трудности миграции: объединяем сети с одинаковым адресным пространством](https://habr.com/ru/companies/icl_group/articles/928148/?utm_campaign=928148&utm_source=habrahabr&utm_medium=rss)
 - [От хаоса к порядку: построение системы автотестов в условиях минимальных требований](https://habr.com/ru/companies/simbirsoft/articles/927484/?utm_campaign=927484&utm_source=habrahabr&utm_medium=rss)
-- [Гайд по техникам тест-дизайна: нюансы и механики. Часть 2](https://habr.com/ru/companies/lanit/articles/918856/?utm_campaign=918856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

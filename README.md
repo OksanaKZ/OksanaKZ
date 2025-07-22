@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Прокси для парсинга: от теории к практике — архитектуры, алгоритмы, подводные камни](https://habr.com/ru/articles/930002/?utm_campaign=930002&utm_source=habrahabr&utm_medium=rss)
 - [Опыт Авито: сетап А/В-теста, который помог снизить MDE выручки в 2 раза](https://habr.com/ru/companies/avito/articles/929894/?utm_campaign=929894&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование на Python и Locust с запуском на CI/CD](https://habr.com/ru/articles/929136/?utm_campaign=929136&utm_source=habrahabr&utm_medium=rss)
 - [AI-бот для QA-инженеров: как я сделал Telegram-ассистента для ежедневной прокачки](https://habr.com/ru/articles/927708/?utm_campaign=927708&utm_source=habrahabr&utm_medium=rss)
-- [QA-собеседование: работа над ошибками. Большая серия разборов от практиков](https://habr.com/ru/articles/929764/?utm_campaign=929764&utm_source=habrahabr&utm_medium=rss)
-- [Исследование QA в России [2025]](https://habr.com/ru/companies/2gis/articles/928946/?utm_campaign=928946&utm_source=habrahabr&utm_medium=rss)
+- [Типичные ошибки Junior QA. Большая серия разборов от практиков](https://habr.com/ru/articles/929764/?utm_campaign=929764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование на Python и Locust с запуском на CI/CD](https://habr.com/ru/articles/929136/?utm_campaign=929136&utm_source=habrahabr&utm_medium=rss)
+- [AI-бот для QA-инженеров: как я сделал Telegram-ассистента для ежедневной прокачки](https://habr.com/ru/articles/927708/?utm_campaign=927708&utm_source=habrahabr&utm_medium=rss)
 - [QA-собеседование: работа над ошибками. Большая серия разборов от практиков](https://habr.com/ru/articles/929764/?utm_campaign=929764&utm_source=habrahabr&utm_medium=rss)
 - [Исследование QA в России [2025]](https://habr.com/ru/companies/2gis/articles/928946/?utm_campaign=928946&utm_source=habrahabr&utm_medium=rss)
 - [Таблица решений для тестирования скриптов](https://habr.com/ru/articles/929314/?utm_campaign=929314&utm_source=habrahabr&utm_medium=rss)
-- [Советы в составлении резюме для новичков в тестировании](https://habr.com/ru/articles/929046/?utm_campaign=929046&utm_source=habrahabr&utm_medium=rss)
-- [Июльский «В тренде VM»: уязвимости в Microsoft Windows и Roundcube](https://habr.com/ru/companies/pt/articles/928908/?utm_campaign=928908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тестирование производительности API: улучшаем пользовательский опыт](https://habr.com/ru/companies/otus/articles/930318/?utm_campaign=930318&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация процессов тестирования. Часть 1: инструменты и среда](https://habr.com/ru/companies/maxilect/articles/930194/?utm_campaign=930194&utm_source=habrahabr&utm_medium=rss)
 - [Ваш сайт теряет пользователей прямо сейчас. Виноват один символ: &#39;+&#39; в email](https://habr.com/ru/articles/930160/?utm_campaign=930160&utm_source=habrahabr&utm_medium=rss)
 - [Прокси для парсинга: от теории к практике — архитектуры, алгоритмы, подводные камни](https://habr.com/ru/articles/930002/?utm_campaign=930002&utm_source=habrahabr&utm_medium=rss)
 - [Сетап А/В-теста, который помог снизить MDE выручки в 2 раза](https://habr.com/ru/companies/avito/articles/929894/?utm_campaign=929894&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование на Python и Locust с запуском на CI/CD](https://habr.com/ru/articles/929136/?utm_campaign=929136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

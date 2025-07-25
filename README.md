@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить TBD?](https://habr.com/ru/companies/tbank/articles/931016/?utm_campaign=931016&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты как документация: «чистый» код и генератор на Regex](https://habr.com/ru/articles/930908/?utm_campaign=930908&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Тестируем веб приложение на Go](https://habr.com/ru/companies/otus/articles/930136/?utm_campaign=930136&utm_source=habrahabr&utm_medium=rss)
 - [Тесты не лгут — прислушивайтесь к ним. Часть 1](https://habr.com/ru/companies/testops_tms/articles/930742/?utm_campaign=930742&utm_source=habrahabr&utm_medium=rss)
 - [Как навести порядок в отчётах Allure: 6 уровней аннотаций, которые реально работают](https://habr.com/ru/articles/930500/?utm_campaign=930500&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Тестирование производительности API: улучшаем пользовательский опыт](https://habr.com/ru/companies/otus/articles/930318/?utm_campaign=930318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

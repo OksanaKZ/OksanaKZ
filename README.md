@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka: что нужно знать тестировщику](https://habr.com/ru/articles/931432/?utm_campaign=931432&utm_source=habrahabr&utm_medium=rss)
 - [Ломать не строить: как устроено хардверное тестирование](https://habr.com/ru/companies/yadro/articles/930674/?utm_campaign=930674&utm_source=habrahabr&utm_medium=rss)
 - [Как внедрить TBD?](https://habr.com/ru/companies/tbank/articles/931016/?utm_campaign=931016&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты как документация: «чистый» код и генератор на Regex](https://habr.com/ru/articles/930908/?utm_campaign=930908&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Тестируем веб приложение на Go](https://habr.com/ru/companies/otus/articles/930136/?utm_campaign=930136&utm_source=habrahabr&utm_medium=rss)
+- [Тесты не лгут — прислушивайтесь к ним. Часть 1](https://habr.com/ru/companies/testops_tms/articles/930742/?utm_campaign=930742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

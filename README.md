@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Моки в тестировании микросервисов с кучей интеграций — кейс приложения Финуслуги](https://habr.com/ru/companies/agima/articles/931802/?utm_campaign=931802&utm_source=habrahabr&utm_medium=rss)
+- [Cisco TRex. Сетевое тестирование в Stateless и Stateful сценариях](https://habr.com/ru/companies/beget/articles/930918/?utm_campaign=930918&utm_source=habrahabr&utm_medium=rss)
 - [Sigma + Trisigma = 4Sigma или как мы сделали эксперименты еще удобнее](https://habr.com/ru/companies/avito/articles/931628/?utm_campaign=931628&utm_source=habrahabr&utm_medium=rss)
 - [Apache Kafka: что нужно знать тестировщику](https://habr.com/ru/articles/931432/?utm_campaign=931432&utm_source=habrahabr&utm_medium=rss)
 - [Ломать не строить: как устроено хардверное тестирование](https://habr.com/ru/companies/yadro/articles/930674/?utm_campaign=930674&utm_source=habrahabr&utm_medium=rss)

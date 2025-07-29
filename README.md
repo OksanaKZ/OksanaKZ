@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/?utm_campaign=931814&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Грокаем безопасность веб-приложений»](https://habr.com/ru/companies/piter/articles/932020/?utm_campaign=932020&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] От хаоса к порядку: жизненный цикл бага](https://habr.com/ru/articles/930426/?utm_campaign=930426&utm_source=habrahabr&utm_medium=rss)
 - [Йети на яхте и при чем тут карате: как в YADRO тестируют телеком-продукты](https://habr.com/ru/companies/yadro/articles/931014/?utm_campaign=931014&utm_source=habrahabr&utm_medium=rss)
 - [Объявляем открытое бета-тестирование российской операционной системы «МСВСфера» 10. Присоединяйтесь](https://habr.com/ru/companies/inferit/articles/931978/?utm_campaign=931978&utm_source=habrahabr&utm_medium=rss)
-- [Как мы измерили удобство для курьеров-партнёров: создаём свою метрику юзабилити](https://habr.com/ru/companies/ecom_tech/articles/930478/?utm_campaign=930478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

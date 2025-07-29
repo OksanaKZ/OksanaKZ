@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Объявляем открытое бета-тестирование российской операционной системы «МСВСфера» 10. Присоединяйтесь](https://habr.com/ru/companies/inferit/articles/931978/?utm_campaign=931978&utm_source=habrahabr&utm_medium=rss)
+- [Как мы измерили удобство для курьеров-партнёров: создаём свою метрику юзабилити](https://habr.com/ru/companies/ecom_tech/articles/930478/?utm_campaign=930478&utm_source=habrahabr&utm_medium=rss)
 - [Docker, compose и Testcontainers в процессе разработки](https://habr.com/ru/articles/931932/?utm_campaign=931932&utm_source=habrahabr&utm_medium=rss)
 - [Кандидат сбежал в слезах. Про накрутку опыта](https://habr.com/ru/articles/911920/?utm_campaign=911920&utm_source=habrahabr&utm_medium=rss)
 - [Cisco TRex. Сетевое тестирование в Stateless и Stateful сценариях](https://habr.com/ru/companies/beget/articles/930918/?utm_campaign=930918&utm_source=habrahabr&utm_medium=rss)
-- [Sigma + Trisigma = 4Sigma или как мы сделали эксперименты еще удобнее](https://habr.com/ru/companies/avito/articles/931628/?utm_campaign=931628&utm_source=habrahabr&utm_medium=rss)
-- [Apache Kafka: что нужно знать тестировщику](https://habr.com/ru/articles/931432/?utm_campaign=931432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

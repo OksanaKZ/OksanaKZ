@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Правильный старт: как заложить фундамент проекта](https://habr.com/ru/articles/932762/?utm_campaign=932762&utm_source=habrahabr&utm_medium=rss)
 - [LLM как помощник тестировщика: от экспериментов к ИИ агенту](https://habr.com/ru/companies/sovcombank_technologies/articles/932426/?utm_campaign=932426&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем Kafka с Testcontainers](https://habr.com/ru/companies/otus/articles/931264/?utm_campaign=931264&utm_source=habrahabr&utm_medium=rss)
 - [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/?utm_campaign=931814&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Грокаем безопасность веб-приложений»](https://habr.com/ru/companies/piter/articles/932020/?utm_campaign=932020&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] От хаоса к порядку: жизненный цикл бага](https://habr.com/ru/articles/930426/?utm_campaign=930426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

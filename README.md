@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 1](https://habr.com/ru/articles/932850/?utm_campaign=932850&utm_source=habrahabr&utm_medium=rss)
 - [Как в Postman использовать данные из файла](https://habr.com/ru/articles/932896/?utm_campaign=932896&utm_source=habrahabr&utm_medium=rss)
 - [Правильный старт: как заложить фундамент проекта](https://habr.com/ru/articles/932762/?utm_campaign=932762&utm_source=habrahabr&utm_medium=rss)
 - [LLM как помощник тестировщика: от экспериментов к ИИ агенту](https://habr.com/ru/companies/sovcombank_technologies/articles/932426/?utm_campaign=932426&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем Kafka с Testcontainers](https://habr.com/ru/companies/otus/articles/931264/?utm_campaign=931264&utm_source=habrahabr&utm_medium=rss)
-- [Моки в тестировании микросервисов с кучей интеграций — кейс финтех-приложения](https://habr.com/ru/companies/agima/articles/931814/?utm_campaign=931814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

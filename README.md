@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как я собрал телеграм-бота через RAG-подход и сэкономил полжизни на переписках](https://habr.com/ru/companies/minerva_media/articles/933284/?utm_campaign=933284&utm_source=habrahabr&utm_medium=rss)
+- [Собрал ИИ-бота для переписок в телеграме, чтобы взять ещё один &lpar;стопятьсотый&rpar; проект](https://habr.com/ru/companies/minerva_media/articles/933284/?utm_campaign=933284&utm_source=habrahabr&utm_medium=rss)
 - [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 1](https://habr.com/ru/articles/932850/?utm_campaign=932850&utm_source=habrahabr&utm_medium=rss)
 - [Как в Postman использовать данные из файла](https://habr.com/ru/articles/932896/?utm_campaign=932896&utm_source=habrahabr&utm_medium=rss)
 - [Правильный старт: как заложить фундамент проекта](https://habr.com/ru/articles/932762/?utm_campaign=932762&utm_source=habrahabr&utm_medium=rss)

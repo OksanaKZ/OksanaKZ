@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [15 типичных ошибок начинающих автоматизаторов &lpar;и как их избежать&rpar;](https://habr.com/ru/articles/932590/?utm_campaign=932590&utm_source=habrahabr&utm_medium=rss)
 - [Альтернативный способ хранения скриншотов в Playwright и способ их обновления](https://habr.com/ru/articles/933596/?utm_campaign=933596&utm_source=habrahabr&utm_medium=rss)
 - [Собрал telegram-бота на Gemma 3, чтобы он отвечал на сообщения вместо меня](https://habr.com/ru/companies/minerva_media/articles/933284/?utm_campaign=933284&utm_source=habrahabr&utm_medium=rss)
 - [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 1](https://habr.com/ru/articles/932850/?utm_campaign=932850&utm_source=habrahabr&utm_medium=rss)
 - [Как в Postman использовать данные из файла](https://habr.com/ru/articles/932896/?utm_campaign=932896&utm_source=habrahabr&utm_medium=rss)
-- [Правильный старт: как заложить фундамент проекта](https://habr.com/ru/articles/932762/?utm_campaign=932762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [GIMP Script-Fu ООП. Тестирование на «РОМБЕ СМЕРТИ»](https://habr.com/ru/articles/934092/?utm_campaign=934092&utm_source=habrahabr&utm_medium=rss)
 - [Как вырасти из Manual QA в Automation: пошаговый план](https://habr.com/ru/articles/932374/?utm_campaign=932374&utm_source=habrahabr&utm_medium=rss)
 - [Как я стал тестировщиком…](https://habr.com/ru/articles/933812/?utm_campaign=933812&utm_source=habrahabr&utm_medium=rss)
 - [Уронили, отключили, обрубили, сломали: четыре сценария отказа метрокластера в прямом эфире](https://habr.com/ru/companies/jetinfosystems/articles/933768/?utm_campaign=933768&utm_source=habrahabr&utm_medium=rss)
 - [Создание собственного фреймворка &lpar;в общем смысле этого слова&rpar; для автоматизации &lpar;API&rpar;: почему это хорошая идея?](https://habr.com/ru/articles/933422/?utm_campaign=933422&utm_source=habrahabr&utm_medium=rss)
-- [15 типичных ошибок начинающих автоматизаторов &lpar;и как их избежать&rpar;](https://habr.com/ru/articles/932590/?utm_campaign=932590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

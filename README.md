@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация тестов. Часть 2. Внутренние детали](https://habr.com/ru/companies/maxilect/articles/930200/?utm_campaign=930200&utm_source=habrahabr&utm_medium=rss)
 - [27 миллионов абонентов под угрозой: разбор крупнейшей кибератаки на корейский телеком](https://habr.com/ru/companies/bastion/articles/930716/?utm_campaign=930716&utm_source=habrahabr&utm_medium=rss)
 - [GIMP Script-Fu ООП. Тестирование на «РОМБЕ СМЕРТИ»](https://habr.com/ru/articles/934092/?utm_campaign=934092&utm_source=habrahabr&utm_medium=rss)
 - [Как вырасти из Manual QA в Automation: пошаговый план](https://habr.com/ru/articles/932374/?utm_campaign=932374&utm_source=habrahabr&utm_medium=rss)
 - [Как я стал тестировщиком…](https://habr.com/ru/articles/933812/?utm_campaign=933812&utm_source=habrahabr&utm_medium=rss)
-- [Уронили, отключили, обрубили, сломали: четыре сценария отказа метрокластера в прямом эфире](https://habr.com/ru/companies/jetinfosystems/articles/933768/?utm_campaign=933768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

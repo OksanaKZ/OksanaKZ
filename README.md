@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 2](https://habr.com/ru/articles/933472/?utm_campaign=933472&utm_source=habrahabr&utm_medium=rss)
 - [Мир, дружба, тестирование: как QA и разработка могут работать вместе](https://habr.com/ru/companies/garage8/articles/934618/?utm_campaign=934618&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация тестов. Часть 2. Внутренние детали](https://habr.com/ru/companies/maxilect/articles/930200/?utm_campaign=930200&utm_source=habrahabr&utm_medium=rss)
 - [27 миллионов абонентов под угрозой: разбор крупнейшей кибератаки на корейский телеком](https://habr.com/ru/companies/bastion/articles/930716/?utm_campaign=930716&utm_source=habrahabr&utm_medium=rss)
 - [GIMP Script-Fu ООП. Тестирование на «РОМБЕ СМЕРТИ»](https://habr.com/ru/articles/934092/?utm_campaign=934092&utm_source=habrahabr&utm_medium=rss)
-- [Как вырасти из Manual QA в Automation: пошаговый план](https://habr.com/ru/articles/932374/?utm_campaign=932374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/?utm_campaign=932576&utm_source=habrahabr&utm_medium=rss)
 - [Оверинжиниринг: простое сложным языком](https://habr.com/ru/articles/933412/?utm_campaign=933412&utm_source=habrahabr&utm_medium=rss)
 - [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 2](https://habr.com/ru/articles/933472/?utm_campaign=933472&utm_source=habrahabr&utm_medium=rss)
 - [Мир, дружба, тестирование: как QA и разработка могут работать вместе](https://habr.com/ru/companies/garage8/articles/934618/?utm_campaign=934618&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация тестов. Часть 2. Внутренние детали](https://habr.com/ru/companies/maxilect/articles/930200/?utm_campaign=930200&utm_source=habrahabr&utm_medium=rss)
-- [27 миллионов абонентов под угрозой: разбор крупнейшей кибератаки на корейский телеком](https://habr.com/ru/companies/bastion/articles/930716/?utm_campaign=930716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

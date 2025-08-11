@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [AI и QA: убьёт ли ChatGPT профессию тестировщика?](https://habr.com/ru/articles/932394/?utm_campaign=932394&utm_source=habrahabr&utm_medium=rss)
 - [Тесты не лгут — прислушивайтесь к ним: часть 2](https://habr.com/ru/companies/testops_tms/articles/935476/?utm_campaign=935476&utm_source=habrahabr&utm_medium=rss)
 - [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/?utm_campaign=932576&utm_source=habrahabr&utm_medium=rss)
 - [Оверинжиниринг: простое сложным языком](https://habr.com/ru/articles/933412/?utm_campaign=933412&utm_source=habrahabr&utm_medium=rss)
 - [&lpar;Не&rpar;случайные числа в VBA Excel Ч. 2](https://habr.com/ru/articles/933472/?utm_campaign=933472&utm_source=habrahabr&utm_medium=rss)
-- [Мир, дружба, тестирование: как QA и разработка могут работать вместе](https://habr.com/ru/companies/garage8/articles/934618/?utm_campaign=934618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

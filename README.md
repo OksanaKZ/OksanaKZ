@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [На пути к совершенству: роль метрик в тестировании программного обеспечения](https://habr.com/ru/companies/axenix/articles/936206/?utm_campaign=936206&utm_source=habrahabr&utm_medium=rss)
+- [Сидинг тестовых данных: как готовить окружение перед нагрузочным тестированием](https://habr.com/ru/articles/934568/?utm_campaign=934568&utm_source=habrahabr&utm_medium=rss)
 - [Е2Е-тестирование: как за 2 года вырасти от внепроектной идеи до проекта и увеличить покрытие автотестами в 4 раза](https://habr.com/ru/companies/moex/articles/935326/?utm_campaign=935326&utm_source=habrahabr&utm_medium=rss)
 - [AI и QA: убьёт ли ChatGPT профессию тестировщика?](https://habr.com/ru/articles/932394/?utm_campaign=932394&utm_source=habrahabr&utm_medium=rss)
 - [Тесты не лгут — прислушивайтесь к ним. Часть 2](https://habr.com/ru/companies/testops_tms/articles/935476/?utm_campaign=935476&utm_source=habrahabr&utm_medium=rss)
-- [Как выбрать профиль нагрузки: 5 ключевых правил](https://habr.com/ru/articles/932576/?utm_campaign=932576&utm_source=habrahabr&utm_medium=rss)
-- [Оверинжиниринг: простое сложным языком](https://habr.com/ru/articles/933412/?utm_campaign=933412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

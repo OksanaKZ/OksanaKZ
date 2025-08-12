@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании: Инструменты для выполнения тестов](https://habr.com/ru/articles/935340/?utm_campaign=935340&utm_source=habrahabr&utm_medium=rss)
 - [Августовский «В тренде VM»: уязвимости в Microsoft Windows и SharePoint](https://habr.com/ru/companies/pt/articles/936274/?utm_campaign=936274&utm_source=habrahabr&utm_medium=rss)
 - [На пути к совершенству: роль метрик в тестировании программного обеспечения](https://habr.com/ru/companies/axenix/articles/936206/?utm_campaign=936206&utm_source=habrahabr&utm_medium=rss)
 - [Сидинг тестовых данных: как готовить окружение перед нагрузочным тестированием](https://habr.com/ru/articles/934568/?utm_campaign=934568&utm_source=habrahabr&utm_medium=rss)
 - [Е2Е-тестирование: как за 2 года вырасти от внепроектной идеи до проекта и увеличить покрытие автотестами в 4 раза](https://habr.com/ru/companies/moex/articles/935326/?utm_campaign=935326&utm_source=habrahabr&utm_medium=rss)
-- [AI и QA: убьёт ли ChatGPT профессию тестировщика?](https://habr.com/ru/articles/932394/?utm_campaign=932394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация QA: разбираем рынок решений для тестирования &lpar;Часть 1&rpar;](https://habr.com/ru/articles/937090/?utm_campaign=937090&utm_source=habrahabr&utm_medium=rss)
 - [Асинхронные тесты для UI и API на Python: примеры, подводные камни и трезвый вывод](https://habr.com/ru/articles/933652/?utm_campaign=933652&utm_source=habrahabr&utm_medium=rss)
 - [QA умерло? Как изменяется роль тестировщиков в 2025](https://habr.com/ru/articles/931646/?utm_campaign=931646&utm_source=habrahabr&utm_medium=rss)
 - [«Доктор Хаус» vs. командный игрок: какого сеньора возьмут в команду в 2025 году](https://habr.com/ru/companies/ssp-soft/articles/936030/?utm_campaign=936030&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик, разработчик и бизнес](https://habr.com/ru/articles/936418/?utm_campaign=936418&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Лидерство в тестировании: Инструменты для выполнения тестов](https://habr.com/ru/articles/935340/?utm_campaign=935340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

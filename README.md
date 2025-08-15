@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы собрали генератор тест-кейсов с GenAI под капотом](https://habr.com/ru/companies/technokratos/articles/937480/?utm_campaign=937480&utm_source=habrahabr&utm_medium=rss)
 - [Как я лишился законного перерыва на кофе и заодно ускорил Selenium тесты в 40 раз](https://habr.com/ru/articles/937458/?utm_campaign=937458&utm_source=habrahabr&utm_medium=rss)
 - [Типичные ошибки Junior QA. Большая серия разборов от практиков. Часть 2](https://habr.com/ru/articles/937336/?utm_campaign=937336&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация QA: разбираем рынок решений для тестирования. Часть 1](https://habr.com/ru/articles/937090/?utm_campaign=937090&utm_source=habrahabr&utm_medium=rss)
 - [Асинхронные тесты для UI и API на Python: примеры, подводные камни и трезвый вывод](https://habr.com/ru/articles/933652/?utm_campaign=933652&utm_source=habrahabr&utm_medium=rss)
-- [QA умерло? Как изменяется роль тестировщиков в 2025](https://habr.com/ru/articles/931646/?utm_campaign=931646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

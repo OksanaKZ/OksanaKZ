@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестируем производительность фронтенда через вкладку Performance в DevTools](https://habr.com/ru/companies/sberbank/articles/937334/?utm_campaign=937334&utm_source=habrahabr&utm_medium=rss)
 - [Программисты против вайбкодеров](https://habr.com/ru/articles/937844/?utm_campaign=937844&utm_source=habrahabr&utm_medium=rss)
 - [Хватит тестировать на «кошках»! Разворачиваем циничный API на FastAPI за 5 минут для реальных AQA-задач](https://habr.com/ru/articles/937716/?utm_campaign=937716&utm_source=habrahabr&utm_medium=rss)
 - [Разбираем по шагам механику A/B-тестирования: математика, интуиция и код](https://habr.com/ru/companies/avito/articles/936804/?utm_campaign=936804&utm_source=habrahabr&utm_medium=rss)
 - [Как мы собрали генератор тест-кейсов с GenAI под капотом](https://habr.com/ru/companies/technokratos/articles/937480/?utm_campaign=937480&utm_source=habrahabr&utm_medium=rss)
-- [Как я лишился законного перерыва на кофе и заодно ускорил Selenium тесты в 40 раз](https://habr.com/ru/articles/937458/?utm_campaign=937458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

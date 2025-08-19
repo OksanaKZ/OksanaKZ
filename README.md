@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как реализовать тестирование сортировки с помощью Playwright + TypeScript](https://habr.com/ru/articles/938710/?utm_campaign=938710&utm_source=habrahabr&utm_medium=rss)
 - [[В закладки] Гайд по составлению ТЗ для внутреннего пентеста](https://habr.com/ru/companies/bastion/articles/938586/?utm_campaign=938586&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура сомнений: почему программисты ошибаются даже в очевидном](https://habr.com/ru/articles/938570/?utm_campaign=938570&utm_source=habrahabr&utm_medium=rss)
 - [Jira для управления тестовыми проектами: советы по организации работы и документированию](https://habr.com/ru/companies/lanit/articles/933894/?utm_campaign=933894&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование наоборот: полное руководство по вопросам работодателю для QA-инженера](https://habr.com/ru/articles/938210/?utm_campaign=938210&utm_source=habrahabr&utm_medium=rss)
-- [Ettercap: руководство по MITM-атакам в локальной сети](https://habr.com/ru/articles/934772/?utm_campaign=934772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

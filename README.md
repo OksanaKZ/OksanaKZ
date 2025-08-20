@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как меняется тестирование — личный взгляд](https://habr.com/ru/companies/maxilect/articles/932036/?utm_campaign=932036&utm_source=habrahabr&utm_medium=rss)
 - [Как реализовать тестирование сортировки с помощью Playwright + TypeScript](https://habr.com/ru/articles/938710/?utm_campaign=938710&utm_source=habrahabr&utm_medium=rss)
 - [[В закладки] Гайд по составлению ТЗ для внутреннего пентеста](https://habr.com/ru/companies/bastion/articles/938586/?utm_campaign=938586&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура сомнений: почему программисты ошибаются даже в очевидном](https://habr.com/ru/articles/938570/?utm_campaign=938570&utm_source=habrahabr&utm_medium=rss)
 - [Jira для управления тестовыми проектами: советы по организации работы и документированию](https://habr.com/ru/companies/lanit/articles/933894/?utm_campaign=933894&utm_source=habrahabr&utm_medium=rss)
-- [Собеседование наоборот: полное руководство по вопросам работодателю для QA-инженера](https://habr.com/ru/articles/938210/?utm_campaign=938210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

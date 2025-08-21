@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Подключаем LLM к вашей TMS](https://habr.com/ru/articles/939566/?utm_campaign=939566&utm_source=habrahabr&utm_medium=rss)
 - [Как мы построили систему нагрузочного тестирования для обработки документов: метрики, инструменты, примеры](https://habr.com/ru/companies/contentai/articles/934248/?utm_campaign=934248&utm_source=habrahabr&utm_medium=rss)
 - [Как pytest работает под капотом](https://habr.com/ru/articles/939514/?utm_campaign=939514&utm_source=habrahabr&utm_medium=rss)
 - [Собираем отчет Allure 3](https://habr.com/ru/articles/939394/?utm_campaign=939394&utm_source=habrahabr&utm_medium=rss)
 - [Пентесты: как сделать всё по закону](https://habr.com/ru/articles/939312/?utm_campaign=939312&utm_source=habrahabr&utm_medium=rss)
-- [Холст для тестировщика: Функциональные автотесты с Canvas](https://habr.com/ru/articles/939206/?utm_campaign=939206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

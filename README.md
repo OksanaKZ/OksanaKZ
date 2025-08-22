@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [QA за пределами тестирования: надежность через учебные сбои](https://habr.com/ru/companies/tbank/articles/939746/?utm_campaign=939746&utm_source=habrahabr&utm_medium=rss)
 - [Самый лучший мок на свете: разбираемся с инструментами для генерации моков в Go](https://habr.com/ru/companies/avito/articles/939388/?utm_campaign=939388&utm_source=habrahabr&utm_medium=rss)
 - [Как прийти в IT и не облажаться: мой путь от новичка до руководителя группы тестирования в «Столото»](https://habr.com/ru/companies/stoloto/articles/939674/?utm_campaign=939674&utm_source=habrahabr&utm_medium=rss)
 - [Навайбкодил Mock Service](https://habr.com/ru/articles/939524/?utm_campaign=939524&utm_source=habrahabr&utm_medium=rss)
 - [Подключаем LLM к вашей TMS](https://habr.com/ru/articles/939566/?utm_campaign=939566&utm_source=habrahabr&utm_medium=rss)
-- [Как мы построили систему нагрузочного тестирования для обработки документов: метрики, инструменты, примеры](https://habr.com/ru/companies/contentai/articles/934248/?utm_campaign=934248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

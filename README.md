@@ -37,7 +37,7 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Секретные фишки поиска, о которых вы не знали: Яндекс, Google и Perplexity](https://habr.com/ru/companies/minerva_media/articles/940862/?utm_campaign=940862&utm_source=habrahabr&utm_medium=rss)
-- [SAFe predictability. Статистика багов, найденных тестером, не нужна](https://habr.com/ru/articles/940702/?utm_campaign=940702&utm_source=habrahabr&utm_medium=rss)
+- [Статистика багов, найденных тестером, не нужна. SAFe predictability](https://habr.com/ru/articles/940702/?utm_campaign=940702&utm_source=habrahabr&utm_medium=rss)
 - [Black, gray, white: разбираемся в методологиях пентеста](https://habr.com/ru/companies/bastion/articles/939432/?utm_campaign=939432&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация QA: разбираем рынок решений для тестирования. Часть 2. Позиционирование и ценовая политика](https://habr.com/ru/articles/940528/?utm_campaign=940528&utm_source=habrahabr&utm_medium=rss)
 - [Фрактальная логика и битва нейросетей за семантику](https://habr.com/ru/articles/940732/?utm_campaign=940732&utm_source=habrahabr&utm_medium=rss)

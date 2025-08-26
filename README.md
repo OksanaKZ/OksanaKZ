@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация QA: разбираем рынок решений для тестирования. Часть 2. Позиционирование и ценовая политика](https://habr.com/ru/articles/940528/?utm_campaign=940528&utm_source=habrahabr&utm_medium=rss)
 - [Фрактальная логика и битва нейросетей за семантику](https://habr.com/ru/articles/940732/?utm_campaign=940732&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать отчёты Playwright понятными, а падения — полезными](https://habr.com/ru/companies/2gis/articles/935882/?utm_campaign=935882&utm_source=habrahabr&utm_medium=rss)
 - [Гибкий подход к тестированию фильтров с Playwright + TypeScript](https://habr.com/ru/articles/940136/?utm_campaign=940136&utm_source=habrahabr&utm_medium=rss)
 - [Дизайн без интерфейса: как проектировать системы, у которых нет экрана](https://habr.com/ru/articles/940174/?utm_campaign=940174&utm_source=habrahabr&utm_medium=rss)
-- [Jailbreak ChatGPT-5, системный промпт, и скрытый контекст](https://habr.com/ru/articles/939962/?utm_campaign=939962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

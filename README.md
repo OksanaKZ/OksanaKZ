@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Kaspersky NGFW: тестирование фаервола в разрезе ИБ](https://habr.com/ru/companies/kaspersky/articles/940754/?utm_campaign=940754&utm_source=habrahabr&utm_medium=rss)
 - [Как устроен генератор случайных чисел в VBA Excel Ч.3](https://habr.com/ru/articles/940480/?utm_campaign=940480&utm_source=habrahabr&utm_medium=rss)
-- [Фишки поиска в 2025 году, о которых вы не знали: от Yahoo до Perplexity](https://habr.com/ru/companies/minerva_media/articles/940862/?utm_campaign=940862&utm_source=habrahabr&utm_medium=rss)
+- [Я раскопал секретные фишки поисковиков — и сэкономил часы на ресёрче](https://habr.com/ru/companies/minerva_media/articles/940862/?utm_campaign=940862&utm_source=habrahabr&utm_medium=rss)
 - [Статистика багов, найденных тестером, не нужна. SAFe predictability](https://habr.com/ru/articles/940702/?utm_campaign=940702&utm_source=habrahabr&utm_medium=rss)
 - [Black, gray, white: разбираемся в методологиях пентеста](https://habr.com/ru/companies/bastion/articles/939432/?utm_campaign=939432&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизация QA: разбираем рынок решений для тестирования. Часть 2. Позиционирование и ценовая политика](https://habr.com/ru/articles/940528/?utm_campaign=940528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

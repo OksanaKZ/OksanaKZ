@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Реальные атаки, виртуальный полигон: Standoff Defend — новый продукт для blue team](https://habr.com/ru/companies/pt/articles/941404/?utm_campaign=941404&utm_source=habrahabr&utm_medium=rss)
 - [Kaspersky NGFW: тестирование фаервола в разрезе ИБ](https://habr.com/ru/companies/kaspersky/articles/940754/?utm_campaign=940754&utm_source=habrahabr&utm_medium=rss)
 - [Как устроен генератор случайных чисел в VBA Excel Ч.3](https://habr.com/ru/articles/940480/?utm_campaign=940480&utm_source=habrahabr&utm_medium=rss)
 - [Секретные фишки поисковиков, о которых нигде не пишут: Яндекс, Гугл, Perplexity](https://habr.com/ru/companies/minerva_media/articles/940862/?utm_campaign=940862&utm_source=habrahabr&utm_medium=rss)
 - [Статистика багов, найденных тестером, не нужна. SAFe predictability](https://habr.com/ru/articles/940702/?utm_campaign=940702&utm_source=habrahabr&utm_medium=rss)
-- [Black, gray, white: разбираемся в методологиях пентеста](https://habr.com/ru/companies/bastion/articles/939432/?utm_campaign=939432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

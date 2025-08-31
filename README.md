@@ -1,6 +1,6 @@
 ## Welcome to my page :wave: 
 
-*I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Selenium automation tool.*
+*I am currently working as a software test engineer. I believe I have the necessary skills and experience to excel in this role. My area of expertise includes testing web application, writting test cases for the manual execution and reporting defects. Recently I have started learning Playwright automation tool.*
 
 🌍  I'm based in Saint-Petersburg, Russia
 

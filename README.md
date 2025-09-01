@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Искусство быть невидимым: 10 приёмов Bash для скрытности](https://habr.com/ru/articles/942668/?utm_campaign=942668&utm_source=habrahabr&utm_medium=rss)
 - [Записки одного QA. Вспомогательная часть автотестов: советы и практики &lpar;Playwright + Typescript&rpar;](https://habr.com/ru/articles/942656/?utm_campaign=942656&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизированная отладка Playwright-тестов с AI](https://habr.com/ru/articles/942226/?utm_campaign=942226&utm_source=habrahabr&utm_medium=rss)
 - [Специфика тест-кейсов под автоматизацию](https://habr.com/ru/articles/942520/?utm_campaign=942520&utm_source=habrahabr&utm_medium=rss)
 - [Я управляю тестированием ИИ-моделей 4 года. Что я понял за это время?](https://habr.com/ru/companies/alfa/articles/940514/?utm_campaign=940514&utm_source=habrahabr&utm_medium=rss)
-- [Allure + Jenkins/Gitlab CI. Настройка автоматической отправки отчетов по почте](https://habr.com/ru/companies/simbirsoft/articles/941730/?utm_campaign=941730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

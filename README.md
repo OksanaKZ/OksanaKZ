@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Shift-Left тестирование с Testcontainers: ловим баги на ранних этапах локальными интеграционными тестами](https://habr.com/ru/companies/otus/articles/943098/?utm_campaign=943098&utm_source=habrahabr&utm_medium=rss)
+- [Explyt 4.1: поддержка Python и MCP, пользовательские Rules и Workflows](https://habr.com/ru/companies/explyt/articles/943132/?utm_campaign=943132&utm_source=habrahabr&utm_medium=rss)
 - [Как НЕ нужно писать автотесты на Python](https://habr.com/ru/articles/942532/?utm_campaign=942532&utm_source=habrahabr&utm_medium=rss)
 - [Рынок автоматизации тестирования в России в 2025: вызовы, зарплаты, перспективы](https://habr.com/ru/articles/942792/?utm_campaign=942792&utm_source=habrahabr&utm_medium=rss)
 - [Искусство быть невидимым: 10 приёмов Bash для скрытности](https://habr.com/ru/articles/942668/?utm_campaign=942668&utm_source=habrahabr&utm_medium=rss)
-- [Записки одного QA. Вспомогательная часть автотестов: советы и практики &lpar;Playwright + Typescript&rpar;](https://habr.com/ru/articles/942656/?utm_campaign=942656&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизированная отладка Playwright-тестов с AI](https://habr.com/ru/articles/942226/?utm_campaign=942226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

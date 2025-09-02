@@ -40,5 +40,5 @@
 - [Explyt 4.1: поддержка Python и MCP, пользовательские Rules и Workflows](https://habr.com/ru/companies/explyt/articles/943132/?utm_campaign=943132&utm_source=habrahabr&utm_medium=rss)
 - [Как НЕ нужно писать автотесты на Python](https://habr.com/ru/articles/942532/?utm_campaign=942532&utm_source=habrahabr&utm_medium=rss)
 - [Рынок автоматизации тестирования в России в 2025: вызовы, зарплаты, перспективы](https://habr.com/ru/articles/942792/?utm_campaign=942792&utm_source=habrahabr&utm_medium=rss)
-- [Искусство быть невидимым: 10 приёмов Bash для скрытности](https://habr.com/ru/articles/942668/?utm_campaign=942668&utm_source=habrahabr&utm_medium=rss)
+- [QA-инженер в продукте: как я ушёл из аутсорса и перестал паниковать перед релизом](https://habr.com/ru/articles/942782/?utm_campaign=942782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

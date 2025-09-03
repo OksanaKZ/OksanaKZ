@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [FlaUI на практике: поиск элементов, умные ожидания и борьба с динамическим UI](https://habr.com/ru/articles/943650/?utm_campaign=943650&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно вайбкодить! Советы от QA, который запустил свою песочницу](https://habr.com/ru/articles/943518/?utm_campaign=943518&utm_source=habrahabr&utm_medium=rss)
 - [Как я вскрыл «умный» замок пятью способами за пять минут](https://habr.com/ru/companies/bastion/articles/937210/?utm_campaign=937210&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как проверить время и асинхронный код в Go](https://habr.com/ru/articles/943412/?utm_campaign=943412&utm_source=habrahabr&utm_medium=rss)
 - [Рынок труда тестировщиков-автоматизаторов в России &lpar;2025&rpar;](https://habr.com/ru/articles/943414/?utm_campaign=943414&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Shift-Left тестирование с Testcontainers: ловим баги на ранних этапах локальными интеграционными тестами](https://habr.com/ru/companies/otus/articles/943098/?utm_campaign=943098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как НКЦ изменил подход к оценке качества тестирования: от Defect Leakage к коэффициенту эффективности](https://habr.com/ru/companies/moex/articles/944152/?utm_campaign=944152&utm_source=habrahabr&utm_medium=rss)
 - [Пентест: когда компании просят «хакеров» их взломать](https://habr.com/ru/articles/944136/?utm_campaign=944136&utm_source=habrahabr&utm_medium=rss)
 - [SQL для всех: от новичка до профи. Полный гид по тренажерам, курсам и песочницам](https://habr.com/ru/articles/943924/?utm_campaign=943924&utm_source=habrahabr&utm_medium=rss)
 - [Когда open/close уже мало: как мы реализовали протокол доступа к 20 000 машин через Bluetooth](https://habr.com/ru/companies/citydrive/articles/943792/?utm_campaign=943792&utm_source=habrahabr&utm_medium=rss)
 - [FlaUI на практике: поиск элементов, умные ожидания и борьба с динамическим UI](https://habr.com/ru/articles/943650/?utm_campaign=943650&utm_source=habrahabr&utm_medium=rss)
-- [Как правильно вайбкодить! Советы от QA, который запустил свою песочницу](https://habr.com/ru/articles/943518/?utm_campaign=943518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

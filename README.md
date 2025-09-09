@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Я тимлид, который искал работу в 2025](https://habr.com/ru/articles/945300/?utm_campaign=945300&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование CLI-приложений без костылей: единый фреймворк вместо десятка утилит](https://habr.com/ru/companies/yadro/articles/944008/?utm_campaign=944008&utm_source=habrahabr&utm_medium=rss)
+- [Как я в пинболл играл и баги находил](https://habr.com/ru/articles/945356/?utm_campaign=945356&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Типы и тесты](https://habr.com/ru/companies/testops_tms/articles/944422/?utm_campaign=944422&utm_source=habrahabr&utm_medium=rss)
 - [Что самое важное в тестировании? Мы спросили у команды](https://habr.com/ru/companies/rvision/articles/944884/?utm_campaign=944884&utm_source=habrahabr&utm_medium=rss)
-- [Креатив глазами тестировщика](https://habr.com/ru/articles/944534/?utm_campaign=944534&utm_source=habrahabr&utm_medium=rss)
-- [Фигма глазами новичка и дизайнера: лучшие практики для всей команды](https://habr.com/ru/companies/bft/articles/944350/?utm_campaign=944350&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизация, стабильность, интеграционные тесты: митап о том, как тестируют СХД сегодня](https://habr.com/ru/companies/yadro/articles/944138/?utm_campaign=944138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

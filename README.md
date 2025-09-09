@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Типы и тесты](https://habr.com/ru/companies/testops_tms/articles/944422/?utm_campaign=944422&utm_source=habrahabr&utm_medium=rss)
 - [Что самое важное в тестировании? Мы спросили у команды](https://habr.com/ru/companies/rvision/articles/944884/?utm_campaign=944884&utm_source=habrahabr&utm_medium=rss)
 - [Креатив глазами тестировщика](https://habr.com/ru/articles/944534/?utm_campaign=944534&utm_source=habrahabr&utm_medium=rss)
 - [Фигма глазами новичка и дизайнера: лучшие практики для всей команды](https://habr.com/ru/companies/bft/articles/944350/?utm_campaign=944350&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация, стабильность, интеграционные тесты: митап о том, как тестируют СХД сегодня](https://habr.com/ru/companies/yadro/articles/944138/?utm_campaign=944138&utm_source=habrahabr&utm_medium=rss)
-- [Как НКЦ изменил подход к оценке качества тестирования: от Defect Leakage к коэффициенту эффективности](https://habr.com/ru/companies/moex/articles/944152/?utm_campaign=944152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

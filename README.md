@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Решил поучаствовать в бета-тестировании одной из российских ОС: что из этого вышло](https://habr.com/ru/articles/945670/?utm_campaign=945670&utm_source=habrahabr&utm_medium=rss)
 - [Я тимлид, который искал работу в 2025](https://habr.com/ru/articles/945300/?utm_campaign=945300&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование CLI-приложений без костылей: единый фреймворк вместо десятка утилит](https://habr.com/ru/companies/yadro/articles/944008/?utm_campaign=944008&utm_source=habrahabr&utm_medium=rss)
 - [Как я в пинболл играл и баги находил](https://habr.com/ru/articles/945356/?utm_campaign=945356&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Типы и тесты](https://habr.com/ru/companies/testops_tms/articles/944422/?utm_campaign=944422&utm_source=habrahabr&utm_medium=rss)
-- [Что самое важное в тестировании? Мы спросили у команды](https://habr.com/ru/companies/rvision/articles/944884/?utm_campaign=944884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

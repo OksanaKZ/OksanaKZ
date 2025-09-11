@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как устроено техническое интервью в отделе тестирования веб-приложений](https://habr.com/ru/companies/yoomoney/articles/946018/?utm_campaign=946018&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование в условиях отсутствия технической документации](https://habr.com/ru/companies/simbirsoft/articles/945650/?utm_campaign=945650&utm_source=habrahabr&utm_medium=rss)
 - [WireMock для QA: от ручных проверок до автотестов](https://habr.com/ru/articles/945740/?utm_campaign=945740&utm_source=habrahabr&utm_medium=rss)
 - [Решил поучаствовать в бета-тестировании одной из российских ОС: что из этого вышло](https://habr.com/ru/articles/945670/?utm_campaign=945670&utm_source=habrahabr&utm_medium=rss)
 - [Я тимлид, который искал работу в 2025](https://habr.com/ru/articles/945300/?utm_campaign=945300&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование CLI-приложений без костылей: единый фреймворк вместо десятка утилит](https://habr.com/ru/companies/yadro/articles/944008/?utm_campaign=944008&utm_source=habrahabr&utm_medium=rss)
-- [Как я в пинболл играл и баги находил](https://habr.com/ru/articles/945356/?utm_campaign=945356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

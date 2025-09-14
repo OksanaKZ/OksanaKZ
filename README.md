@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сбой программного обеспечения: имеются ли основания для ссылки на форс-мажор?](https://habr.com/ru/articles/946752/?utm_campaign=946752&utm_source=habrahabr&utm_medium=rss)
 - [Реальный проект и сертификат для портфолио — что, помимо знаний, дадут курсы по ручному тестированию и разработке на Go](https://habr.com/ru/companies/yadro/articles/946388/?utm_campaign=946388&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование Push-уведомлений: Полный чек-лист &lpar;ну или почти&rpar;](https://habr.com/ru/articles/946192/?utm_campaign=946192&utm_source=habrahabr&utm_medium=rss)
 - [OpenNMS Horizon 34.0, пробую новый релиз на практике](https://habr.com/ru/articles/946146/?utm_campaign=946146&utm_source=habrahabr&utm_medium=rss)
 - [Как устроено техническое интервью в отделе тестирования веб-приложений](https://habr.com/ru/companies/yoomoney/articles/946018/?utm_campaign=946018&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование в условиях отсутствия технической документации](https://habr.com/ru/companies/simbirsoft/articles/945650/?utm_campaign=945650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Awaitility: Полное руководство по тестированию асинхронных систем](https://habr.com/ru/articles/946090/?utm_campaign=946090&utm_source=habrahabr&utm_medium=rss)
 - [Записки одного QA. Часть 2: Советы и приёмы в автотестах на Playwright](https://habr.com/ru/articles/946902/?utm_campaign=946902&utm_source=habrahabr&utm_medium=rss)
 - [Локальные LLM модели: обзор и тестирование](https://habr.com/ru/articles/946900/?utm_campaign=946900&utm_source=habrahabr&utm_medium=rss)
 - [Сбой программного обеспечения: имеются ли основания для ссылки на форс-мажор?](https://habr.com/ru/articles/946752/?utm_campaign=946752&utm_source=habrahabr&utm_medium=rss)
 - [Реальный проект и сертификат для портфолио — что, помимо знаний, дадут курсы по ручному тестированию и разработке на Go](https://habr.com/ru/companies/yadro/articles/946388/?utm_campaign=946388&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование Push-уведомлений: Полный чек-лист &lpar;ну или почти&rpar;](https://habr.com/ru/articles/946192/?utm_campaign=946192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

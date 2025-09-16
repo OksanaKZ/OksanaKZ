@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании: обеспечение бизнес-процессов предприятия](https://habr.com/ru/articles/945074/?utm_campaign=945074&utm_source=habrahabr&utm_medium=rss)
+- [Как мы видеокарту AMD на ПЛИС с RISC-V и Linux запускали](https://habr.com/ru/companies/yadro/articles/946950/?utm_campaign=946950&utm_source=habrahabr&utm_medium=rss)
 - [Как взломать и разрушить АЭС за 49 минут: разбор кибератаки на ядерный реактор](https://habr.com/ru/companies/bastion/articles/945402/?utm_campaign=945402&utm_source=habrahabr&utm_medium=rss)
 - [Сентябрьский «В тренде VM»: уязвимости в архиваторах WinRAR и 7-Zip, SAP NetWeaver и TrueConf Server](https://habr.com/ru/companies/pt/articles/947166/?utm_campaign=947166&utm_source=habrahabr&utm_medium=rss)
 - [Awaitility: Полное руководство по тестированию асинхронных систем](https://habr.com/ru/articles/946090/?utm_campaign=946090&utm_source=habrahabr&utm_medium=rss)
-- [Записки одного QA. Часть 2: Советы и приёмы в автотестах на Playwright](https://habr.com/ru/articles/946902/?utm_campaign=946902&utm_source=habrahabr&utm_medium=rss)
-- [Локальные LLM модели: обзор и тестирование](https://habr.com/ru/articles/946900/?utm_campaign=946900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

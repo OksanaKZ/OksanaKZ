@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как взломать и разрушить АЭС за 49 минут: разбор кибератаки на ядерный реактор](https://habr.com/ru/companies/bastion/articles/945402/?utm_campaign=945402&utm_source=habrahabr&utm_medium=rss)
+- [Сентябрьский «В тренде VM»: уязвимости в архиваторах WinRAR и 7-Zip, SAP NetWeaver и TrueConf Server](https://habr.com/ru/companies/pt/articles/947166/?utm_campaign=947166&utm_source=habrahabr&utm_medium=rss)
 - [Awaitility: Полное руководство по тестированию асинхронных систем](https://habr.com/ru/articles/946090/?utm_campaign=946090&utm_source=habrahabr&utm_medium=rss)
 - [Записки одного QA. Часть 2: Советы и приёмы в автотестах на Playwright](https://habr.com/ru/articles/946902/?utm_campaign=946902&utm_source=habrahabr&utm_medium=rss)
 - [Локальные LLM модели: обзор и тестирование](https://habr.com/ru/articles/946900/?utm_campaign=946900&utm_source=habrahabr&utm_medium=rss)
-- [Сбой программного обеспечения: имеются ли основания для ссылки на форс-мажор?](https://habr.com/ru/articles/946752/?utm_campaign=946752&utm_source=habrahabr&utm_medium=rss)
-- [Реальный проект и сертификат для портфолио — что, помимо знаний, дадут курсы по ручному тестированию и разработке на Go](https://habr.com/ru/companies/yadro/articles/946388/?utm_campaign=946388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

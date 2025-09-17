@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Интеграционные тесты в Go: как избавиться от флаков и боли](https://habr.com/ru/companies/netologyru/articles/947796/?utm_campaign=947796&utm_source=habrahabr&utm_medium=rss)
+- [Как ChatGPT помогает при обучении](https://habr.com/ru/articles/947772/?utm_campaign=947772&utm_source=habrahabr&utm_medium=rss)
 - [Как ЮKassa готовится к распродажам-2025](https://habr.com/ru/companies/yoomoney/articles/947694/?utm_campaign=947694&utm_source=habrahabr&utm_medium=rss)
 - [У нас было 10k метрик, 500 А/В-экспериментов и 500kk p-value каждый день…](https://habr.com/ru/companies/avito/articles/947358/?utm_campaign=947358&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Ускорение крупномасштабной миграции тестов с помощью LLM](https://habr.com/ru/companies/otus/articles/947298/?utm_campaign=947298&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Лидерство в тестировании: обеспечение бизнес-процессов предприятия](https://habr.com/ru/articles/945074/?utm_campaign=945074&utm_source=habrahabr&utm_medium=rss)
-- [Как мы видеокарту AMD на ПЛИС с RISC-V и Linux запускали](https://habr.com/ru/companies/yadro/articles/946950/?utm_campaign=946950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

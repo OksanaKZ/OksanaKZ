@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся с IAST](https://habr.com/ru/companies/otus/articles/947940/?utm_campaign=947940&utm_source=habrahabr&utm_medium=rss)
 - [Массовые операции, фильтры и хорошие новости для сообщества TestY TMS](https://habr.com/ru/companies/yadro/articles/947812/?utm_campaign=947812&utm_source=habrahabr&utm_medium=rss)
 - [Без опыта, но с перспективами: как начинающему QA составить сильное резюме](https://habr.com/ru/companies/2gis/articles/948022/?utm_campaign=948022&utm_source=habrahabr&utm_medium=rss)
 - [Чем сети AI / ML отличаются от сетей традиционных дата-центров](https://habr.com/ru/articles/942644/?utm_campaign=942644&utm_source=habrahabr&utm_medium=rss)
 - [Снова в айти или мой опыт обучения на ручного QA](https://habr.com/ru/articles/947842/?utm_campaign=947842&utm_source=habrahabr&utm_medium=rss)
-- [Интеграционные тесты в Go: как избавиться от флаков и боли](https://habr.com/ru/companies/netologyru/articles/947796/?utm_campaign=947796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

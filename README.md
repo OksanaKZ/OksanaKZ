@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Простоту охота навести: как легко тестировать клиент-серверные взаимодействия на примере WebSocket](https://habr.com/ru/companies/sberbank/articles/948178/?utm_campaign=948178&utm_source=habrahabr&utm_medium=rss)
 - [QA-инженер в 2025 году: скилсет джуниора и ожидания рынка](https://habr.com/ru/companies/yandex_praktikum/articles/947868/?utm_campaign=947868&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура QA: как мыслят лиды и зачем компании нужен высокий уровень управления качеством](https://habr.com/ru/articles/948434/?utm_campaign=948434&utm_source=habrahabr&utm_medium=rss)
 - [Разбираемся с IAST](https://habr.com/ru/companies/otus/articles/947940/?utm_campaign=947940&utm_source=habrahabr&utm_medium=rss)
 - [Массовые операции, фильтры и хорошие новости для сообщества TestY TMS](https://habr.com/ru/companies/yadro/articles/947812/?utm_campaign=947812&utm_source=habrahabr&utm_medium=rss)
-- [Без опыта, но с перспективами: как начинающему QA составить сильное резюме](https://habr.com/ru/companies/2gis/articles/948022/?utm_campaign=948022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

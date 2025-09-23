@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Метрики QA: Анализ, Применение, Внедрение. Часть 2: Эффективность тестирования и производительность тестов](https://habr.com/ru/articles/946846/?utm_campaign=946846&utm_source=habrahabr&utm_medium=rss)
 - [«Политика открытых дверей»: как один скрипт обрушил защиту домена](https://habr.com/ru/companies/bastion/articles/948758/?utm_campaign=948758&utm_source=habrahabr&utm_medium=rss)
-- [Deep Link глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_campaign=933900&utm_source=habrahabr&utm_medium=rss)
+- [Deep Links глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_campaign=933900&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Тим Маккиннон, Стив Фриман, Филип Крейг «Эндотестирование: юнит-тестирование с мок-объектами»](https://habr.com/ru/articles/948982/?utm_campaign=948982&utm_source=habrahabr&utm_medium=rss)
 - [Как мы автоматизировали анализ упавших тестов с помощью AI: от хаоса к структуре](https://habr.com/ru/articles/948980/?utm_campaign=948980&utm_source=habrahabr&utm_medium=rss)
-- [Простоту охота навести: как легко тестировать клиент-серверные взаимодействия на примере WebSocket](https://habr.com/ru/companies/sberbank/articles/948178/?utm_campaign=948178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

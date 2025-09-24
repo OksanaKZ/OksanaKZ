@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Я мыслю — значит, тестирую: почему для тестировщиков так важно мышление](https://habr.com/ru/companies/otus/articles/950070/?utm_campaign=950070&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] 11 способов мышления тестировщика: как и зачем переключаться между подходами](https://habr.com/ru/companies/otus/articles/950070/?utm_campaign=950070&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ошибок на проектах по нагрузочному тестированию 1С](https://habr.com/ru/companies/ibs/articles/950050/?utm_campaign=950050&utm_source=habrahabr&utm_medium=rss)
 - [SD-WAN и трудности миграции: ни единого разрыва](https://habr.com/ru/companies/icl_group/articles/949716/?utm_campaign=949716&utm_source=habrahabr&utm_medium=rss)
 - [Продакт, рынок, две беты: путь от идеи SASE к релизу Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/949728/?utm_campaign=949728&utm_source=habrahabr&utm_medium=rss)

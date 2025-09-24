@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я мыслю — значит, тестирую: почему для тестировщиков так важно мышление](https://habr.com/ru/companies/otus/articles/950070/?utm_campaign=950070&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ошибок на проектах по нагрузочному тестированию 1С](https://habr.com/ru/companies/ibs/articles/950050/?utm_campaign=950050&utm_source=habrahabr&utm_medium=rss)
 - [SD-WAN и трудности миграции: ни единого разрыва](https://habr.com/ru/companies/icl_group/articles/949716/?utm_campaign=949716&utm_source=habrahabr&utm_medium=rss)
 - [Продакт, рынок, две беты: путь от идеи SASE к релизу Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/949728/?utm_campaign=949728&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Метрики QA: Анализ, Применение, Внедрение. Часть 2: Эффективность тестирования и производительность тестов](https://habr.com/ru/articles/946846/?utm_campaign=946846&utm_source=habrahabr&utm_medium=rss)
-- [«Политика открытых дверей»: как один скрипт обрушил защиту домена](https://habr.com/ru/companies/bastion/articles/948758/?utm_campaign=948758&utm_source=habrahabr&utm_medium=rss)
-- [Deep Links глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_campaign=933900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

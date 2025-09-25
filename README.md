@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Performance monitor и не только: продолжаем тестировать производительность в Chrome DevTools](https://habr.com/ru/companies/sberbank/articles/950294/?utm_campaign=950294&utm_source=habrahabr&utm_medium=rss)
 - [Манифест QA: как я победил хаос в автоматизации на Java](https://habr.com/ru/articles/948768/?utm_campaign=948768&utm_source=habrahabr&utm_medium=rss)
 - [Зрелое железо, к которому нужно найти подход: тестируем российские коммутаторы Eltex для ЦОД](https://habr.com/ru/companies/k2tech/articles/950136/?utm_campaign=950136&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 11 способов мышления тестировщика: как и зачем переключаться между подходами](https://habr.com/ru/companies/otus/articles/950070/?utm_campaign=950070&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ошибок на проектах по нагрузочному тестированию 1С](https://habr.com/ru/companies/ibs/articles/950050/?utm_campaign=950050&utm_source=habrahabr&utm_medium=rss)
-- [SD-WAN и трудности миграции: ни единого разрыва](https://habr.com/ru/companies/icl_group/articles/949716/?utm_campaign=949716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

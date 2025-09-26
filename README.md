@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin QA: как перейти с Java и писать тесты в 2 раза быстрее](https://habr.com/ru/companies/otus/articles/950864/?utm_campaign=950864&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование процессов: как подружить Camunda и Cucumber](https://habr.com/ru/companies/magnit/articles/929856/?utm_campaign=929856&utm_source=habrahabr&utm_medium=rss)
 - [Разбор атаки на PassOffice: мой пропуск в базу данных](https://habr.com/ru/companies/pt/articles/950718/?utm_campaign=950718&utm_source=habrahabr&utm_medium=rss)
 - [Сетевая фабрика для AI/ML: новая поверхность атаки?](https://habr.com/ru/articles/950794/?utm_campaign=950794&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизируем синхронизацию тест-кейсов в ТестОпс: больше никаких ручных обновлений](https://habr.com/ru/articles/948940/?utm_campaign=948940&utm_source=habrahabr&utm_medium=rss)
-- [От запахов к стабильности: рефакторим тесты на JUnit + Selenide](https://habr.com/ru/companies/testops_tms/articles/950776/?utm_campaign=950776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Пять ошибок при тестировании времени распознавания документов, которые отравляют жизнь нашим QA-инженерам](https://habr.com/ru/companies/contentai/articles/934256/?utm_campaign=934256&utm_source=habrahabr&utm_medium=rss)
 - [DevTools как инструмент тестировщика](https://habr.com/ru/articles/952094/?utm_campaign=952094&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Путь к получению сертификата ISTQB AI тестировщика: советы и полезная информация](https://habr.com/ru/articles/950762/?utm_campaign=950762&utm_source=habrahabr&utm_medium=rss)
 - [RAG-системы на арене: протестировали 5 популярных решений на реальных данных](https://habr.com/ru/companies/autofaq/articles/952008/?utm_campaign=952008&utm_source=habrahabr&utm_medium=rss)
 - [DR3.0: методология тестирования для проектов любой сложности. Основы подхода](https://habr.com/ru/companies/ibs/articles/951904/?utm_campaign=951904&utm_source=habrahabr&utm_medium=rss)
-- [AI Review: для всех, везде и без боли](https://habr.com/ru/articles/951434/?utm_campaign=951434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

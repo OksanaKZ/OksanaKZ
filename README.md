@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [RAG-системы на арене: протестировали 5 популярных решений на реальных данных](https://habr.com/ru/companies/autofaq/articles/952008/?utm_campaign=952008&utm_source=habrahabr&utm_medium=rss)
 - [DR3.0: методология тестирования для проектов любой сложности. Основы подхода](https://habr.com/ru/companies/ibs/articles/951904/?utm_campaign=951904&utm_source=habrahabr&utm_medium=rss)
 - [AI Review: для всех, везде и без боли](https://habr.com/ru/articles/951434/?utm_campaign=951434&utm_source=habrahabr&utm_medium=rss)
 - [Как тестирование влияет на репутацию бренда](https://habr.com/ru/articles/951912/?utm_campaign=951912&utm_source=habrahabr&utm_medium=rss)
 - [Тайный чембер. Тестовые станции для умных устройств и что там происходит](https://habr.com/ru/companies/sberdevices/articles/951410/?utm_campaign=951410&utm_source=habrahabr&utm_medium=rss)
-- [Kotlin QA: как перейти с Java и писать тесты в 2 раза быстрее](https://habr.com/ru/companies/otus/articles/950864/?utm_campaign=950864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

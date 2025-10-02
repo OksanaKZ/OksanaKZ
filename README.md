@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Вы делили на ноль?»: QA-разбор проблем утечки памяти в новой macOS Tahoe 26](https://habr.com/ru/articles/952800/?utm_campaign=952800&utm_source=habrahabr&utm_medium=rss)
 - [Что должен знать и уметь Разработчик Автоматического Тестирования, чтобы называться Инженером](https://habr.com/ru/articles/950302/?utm_campaign=950302&utm_source=habrahabr&utm_medium=rss)
 - [Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы](https://habr.com/ru/companies/compo/articles/952670/?utm_campaign=952670&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование – залог предсказуемости и качества &lpar;часть 1&rpar;](https://habr.com/ru/articles/952614/?utm_campaign=952614&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD: можно и в 1С](https://habr.com/ru/companies/otus/articles/951406/?utm_campaign=951406&utm_source=habrahabr&utm_medium=rss)
-- [Pytest. Гайд для тех, кто ни разу про него не слышал](https://habr.com/ru/companies/beget/articles/948806/?utm_campaign=948806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

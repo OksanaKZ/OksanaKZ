@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что должен знать и уметь Разработчик Автоматического Тестирования, чтобы называться Инженером](https://habr.com/ru/articles/950302/?utm_campaign=950302&utm_source=habrahabr&utm_medium=rss)
+- [Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы](https://habr.com/ru/companies/compo/articles/952670/?utm_campaign=952670&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование – залог предсказуемости и качества &lpar;часть 1&rpar;](https://habr.com/ru/articles/952614/?utm_campaign=952614&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD: можно и в 1С](https://habr.com/ru/companies/otus/articles/951406/?utm_campaign=951406&utm_source=habrahabr&utm_medium=rss)
 - [Pytest. Гайд для тех, кто ни разу про него не слышал](https://habr.com/ru/companies/beget/articles/948806/?utm_campaign=948806&utm_source=habrahabr&utm_medium=rss)
-- [Пять ошибок при тестировании времени распознавания документов, которые отравляют жизнь нашим QA-инженерам](https://habr.com/ru/companies/contentai/articles/934256/?utm_campaign=934256&utm_source=habrahabr&utm_medium=rss)
-- [DevTools как инструмент тестировщика](https://habr.com/ru/articles/952094/?utm_campaign=952094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

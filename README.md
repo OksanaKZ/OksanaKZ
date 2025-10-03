@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [MES-система глазами тестировщика](https://habr.com/ru/companies/severstal/articles/953206/?utm_campaign=953206&utm_source=habrahabr&utm_medium=rss)
+- [Едем в поле с железным ящиком: как тестируют телеком](https://habr.com/ru/companies/yadro/articles/953204/?utm_campaign=953204&utm_source=habrahabr&utm_medium=rss)
 - [«Вы делили на ноль?»: QA-разбор проблем утечки памяти в новой macOS Tahoe 26](https://habr.com/ru/articles/952800/?utm_campaign=952800&utm_source=habrahabr&utm_medium=rss)
 - [Что должен знать и уметь Разработчик Автоматического Тестирования, чтобы называться Инженером](https://habr.com/ru/articles/950302/?utm_campaign=950302&utm_source=habrahabr&utm_medium=rss)
 - [Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы](https://habr.com/ru/companies/compo/articles/952670/?utm_campaign=952670&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование – залог предсказуемости и качества &lpar;часть 1&rpar;](https://habr.com/ru/articles/952614/?utm_campaign=952614&utm_source=habrahabr&utm_medium=rss)
-- [CI/CD: можно и в 1С](https://habr.com/ru/companies/otus/articles/951406/?utm_campaign=951406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

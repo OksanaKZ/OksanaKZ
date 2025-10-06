@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/?utm_campaign=951452&utm_source=habrahabr&utm_medium=rss)
 - [AI Review кода за 30 минут: локальная LLM прямо в CI/CD](https://habr.com/ru/articles/953598/?utm_campaign=953598&utm_source=habrahabr&utm_medium=rss)
 - [От Basic Auth до OIDC: тестирование аутентификации и авторизации для QA-инженеров](https://habr.com/ru/articles/953386/?utm_campaign=953386&utm_source=habrahabr&utm_medium=rss)
 - [MES-система глазами тестировщика](https://habr.com/ru/companies/severstal/articles/953206/?utm_campaign=953206&utm_source=habrahabr&utm_medium=rss)
 - [Едем в поле с железным ящиком: как тестируют телеком](https://habr.com/ru/companies/yadro/articles/953204/?utm_campaign=953204&utm_source=habrahabr&utm_medium=rss)
-- [«Вы делили на ноль?»: QA-разбор проблем утечки памяти в новой macOS Tahoe 26](https://habr.com/ru/articles/952800/?utm_campaign=952800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

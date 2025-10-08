@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Agents — тесты, которые “живут своей жизнью”](https://habr.com/ru/articles/954368/?utm_campaign=954368&utm_source=habrahabr&utm_medium=rss)
 - [От запахов к стабильности: рефакторим unit-тесты на JUnit](https://habr.com/ru/companies/testops_tms/articles/954294/?utm_campaign=954294&utm_source=habrahabr&utm_medium=rss)
 - [Несколько способов как упросить анализ отчета Allure при работе с инструментом АТ в 1С Vanessa-Automation](https://habr.com/ru/articles/953962/?utm_campaign=953962&utm_source=habrahabr&utm_medium=rss)
 - [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/?utm_campaign=951452&utm_source=habrahabr&utm_medium=rss)
 - [AI Review кода за 30 минут: локальная LLM прямо в CI/CD](https://habr.com/ru/articles/953598/?utm_campaign=953598&utm_source=habrahabr&utm_medium=rss)
-- [От Basic Auth до OIDC: тестирование аутентификации и авторизации для QA-инженеров](https://habr.com/ru/articles/953386/?utm_campaign=953386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

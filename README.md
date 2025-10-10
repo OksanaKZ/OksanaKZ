@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Исчезнувший агент](https://habr.com/ru/articles/955426/?utm_campaign=955426&utm_source=habrahabr&utm_medium=rss)
 - [Как я создала аккаунт с именем «NULL» и мне стали приходить уведомления о покупке доменов другими пользователями](https://habr.com/ru/articles/955134/?utm_campaign=955134&utm_source=habrahabr&utm_medium=rss)
 - [Решили не выбирать, а взяли всех: как мы объединили несколько хостеров](https://habr.com/ru/articles/955048/?utm_campaign=955048&utm_source=habrahabr&utm_medium=rss)
 - [Тест-драйв документации: как мы научились ловить баги до релиза](https://habr.com/ru/companies/runity/articles/954832/?utm_campaign=954832&utm_source=habrahabr&utm_medium=rss)
 - [Как я автоматизировал анализ логов из Kibana с помощью LLM и AI-агентов](https://habr.com/ru/companies/kaspersky/articles/953780/?utm_campaign=953780&utm_source=habrahabr&utm_medium=rss)
-- [Playwright Agents — тесты, которые “живут своей жизнью”](https://habr.com/ru/articles/954368/?utm_campaign=954368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в Т-Банке ручное тестирование роботизировали](https://habr.com/ru/companies/tbank/articles/955974/?utm_campaign=955974&utm_source=habrahabr&utm_medium=rss)
+- [Java ООП: 4 принципа, которые стоит понимать, а не просто заучивать](https://habr.com/ru/articles/954232/?utm_campaign=954232&utm_source=habrahabr&utm_medium=rss)
 - [Киберполигон STF Bank. Атакуем СБП по-настоящему: вендорское ПО, реальные уязвимости и ваша красная кнопка](https://habr.com/ru/companies/pt/articles/955958/?utm_campaign=955958&utm_source=habrahabr&utm_medium=rss)
 - [AI против хаоса: как я помогаю дебажить Playwright тесты](https://habr.com/ru/articles/955508/?utm_campaign=955508&utm_source=habrahabr&utm_medium=rss)
 - [Исчезнувший агент](https://habr.com/ru/articles/955426/?utm_campaign=955426&utm_source=habrahabr&utm_medium=rss)
-- [Как я создала аккаунт с именем «NULL» и мне стали приходить уведомления о покупке доменов другими пользователями](https://habr.com/ru/articles/955134/?utm_campaign=955134&utm_source=habrahabr&utm_medium=rss)
-- [Решили не выбирать, а взяли всех: как мы объединили несколько хостеров](https://habr.com/ru/articles/955048/?utm_campaign=955048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

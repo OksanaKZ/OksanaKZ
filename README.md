@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [AI-генерация тестов: как превратить 3 месяца работы в 1 неделю](https://habr.com/ru/companies/moex/articles/956294/?utm_campaign=956294&utm_source=habrahabr&utm_medium=rss)
+- [Применение структурно-логических схем в организации тестирования](https://habr.com/ru/companies/lanit/articles/954882/?utm_campaign=954882&utm_source=habrahabr&utm_medium=rss)
+- [Quality gates — твои бро. Инструментальный контроль стандарта разработки](https://habr.com/ru/companies/gazprombank/articles/951448/?utm_campaign=951448&utm_source=habrahabr&utm_medium=rss)
 - [Как мы в Т-Банке ручное тестирование роботизировали](https://habr.com/ru/companies/tbank/articles/955974/?utm_campaign=955974&utm_source=habrahabr&utm_medium=rss)
 - [Java ООП: 4 принципа, которые стоит понимать, а не просто заучивать](https://habr.com/ru/articles/954232/?utm_campaign=954232&utm_source=habrahabr&utm_medium=rss)
-- [Киберполигон STF Bank. Атакуем СБП по-настоящему: вендорское ПО, реальные уязвимости и ваша красная кнопка](https://habr.com/ru/companies/pt/articles/955958/?utm_campaign=955958&utm_source=habrahabr&utm_medium=rss)
-- [AI против хаоса: как я помогаю дебажить Playwright тесты](https://habr.com/ru/articles/955508/?utm_campaign=955508&utm_source=habrahabr&utm_medium=rss)
-- [Исчезнувший агент](https://habr.com/ru/articles/955426/?utm_campaign=955426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

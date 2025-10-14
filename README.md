@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Визуальное тестирование с ИИ: сравнение скриншотов без ложных срабатываний](https://habr.com/ru/companies/otus/articles/956492/?utm_campaign=956492&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как искать различия на изображениях в визуальном тестировании ПО с помощью ИИ](https://habr.com/ru/companies/otus/articles/956490/?utm_campaign=956490&utm_source=habrahabr&utm_medium=rss)
 - [Российские коммутаторы Eltex для ЦОД. Часть 2 – нагрузочное тестирование](https://habr.com/ru/companies/k2tech/articles/956144/?utm_campaign=956144&utm_source=habrahabr&utm_medium=rss)
 - [Анатомия POS-терминала: от разведки на диване до обхода антивскрытия](https://habr.com/ru/companies/bastion/articles/953842/?utm_campaign=953842&utm_source=habrahabr&utm_medium=rss)
 - [AI-генерация тестов: как превратить 3 месяца работы в 1 неделю](https://habr.com/ru/companies/moex/articles/956294/?utm_campaign=956294&utm_source=habrahabr&utm_medium=rss)
+- [Применение структурно-логических схем в организации тестирования](https://habr.com/ru/companies/lanit/articles/954882/?utm_campaign=954882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

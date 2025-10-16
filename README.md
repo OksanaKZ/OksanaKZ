@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Продукт, который спасал компанию, но умер из-за менеджмента](https://habr.com/ru/articles/945304/?utm_campaign=945304&utm_source=habrahabr&utm_medium=rss)
 - [DIY Observability для автотестов, используя Pytest, ClickHouse и Grafana](https://habr.com/ru/companies/ozonbank/articles/956834/?utm_campaign=956834&utm_source=habrahabr&utm_medium=rss)
 - [Если эффективность есть, то зрение опционально](https://habr.com/ru/companies/alfa/articles/956126/?utm_campaign=956126&utm_source=habrahabr&utm_medium=rss)
 - [Сокращаем дефекты: практическое руководство по кросс-ревью](https://habr.com/ru/companies/slsoft/articles/956654/?utm_campaign=956654&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Визуальное тестирование с ИИ: сравнение скриншотов без ложных срабатываний](https://habr.com/ru/companies/otus/articles/956492/?utm_campaign=956492&utm_source=habrahabr&utm_medium=rss)
-- [Российские коммутаторы Eltex для ЦОД. Часть 2 – нагрузочное тестирование](https://habr.com/ru/companies/k2tech/articles/956144/?utm_campaign=956144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

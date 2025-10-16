@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как конвертировать mind map в чек лист](https://habr.com/ru/articles/957338/?utm_campaign=957338&utm_source=habrahabr&utm_medium=rss)
 - [Самый скучный на свете взлом подарочных сертификатов](https://habr.com/ru/articles/956174/?utm_campaign=956174&utm_source=habrahabr&utm_medium=rss)
 - [Опыт сдачи ISTQB в Финляндии on-site](https://habr.com/ru/articles/957096/?utm_campaign=957096&utm_source=habrahabr&utm_medium=rss)
 - [Продукт, который спасал компанию, но умер из-за менеджмента](https://habr.com/ru/articles/945304/?utm_campaign=945304&utm_source=habrahabr&utm_medium=rss)
 - [DIY Observability для автотестов, используя Pytest, ClickHouse и Grafana](https://habr.com/ru/companies/ozonbank/articles/956834/?utm_campaign=956834&utm_source=habrahabr&utm_medium=rss)
-- [Если эффективность есть, то зрение опционально](https://habr.com/ru/companies/alfa/articles/956126/?utm_campaign=956126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

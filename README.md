@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Как выбрать TMS и не пожалеть: обзор популярных решений от тестировщика](https://habr.com/ru/articles/957528/?utm_campaign=957528&utm_source=habrahabr&utm_medium=rss)
+- [Requestly: гайд для тестировщиков](https://habr.com/ru/companies/kts/articles/957518/?utm_campaign=957518&utm_source=habrahabr&utm_medium=rss)
 - [От валидации функционала к обеспечению киберустойчивости. При чем здесь тестирование?](https://habr.com/ru/articles/954976/?utm_campaign=954976&utm_source=habrahabr&utm_medium=rss)
 - [Как конвертировать mind map в чек лист](https://habr.com/ru/articles/957338/?utm_campaign=957338&utm_source=habrahabr&utm_medium=rss)
 - [Самый скучный на свете взлом подарочных сертификатов](https://habr.com/ru/articles/956174/?utm_campaign=956174&utm_source=habrahabr&utm_medium=rss)
-- [Опыт сдачи ISTQB в Финляндии on-site](https://habr.com/ru/articles/957096/?utm_campaign=957096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

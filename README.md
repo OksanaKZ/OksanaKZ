@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [AI Review и AI-ассистент в CI/CD за 30 минут — бесплатно с OpenRouter](https://habr.com/ru/articles/957738/?utm_campaign=957738&utm_source=habrahabr&utm_medium=rss)
+- [Кейс из production: Deadlock в асинхронном коде на Java](https://habr.com/ru/articles/958166/?utm_campaign=958166&utm_source=habrahabr&utm_medium=rss)
+- [UI-автотесты: Fluent-стиль и умные данные — чтобы тесты работали на вас, а не вы на них](https://habr.com/ru/articles/958146/?utm_campaign=958146&utm_source=habrahabr&utm_medium=rss)
+- [Как добавить AI-ревью и ответы ассистента в Pull Request всего за 30 минут](https://habr.com/ru/articles/957738/?utm_campaign=957738&utm_source=habrahabr&utm_medium=rss)
 - [OpenSpeedTest: российская альтернатива для проверки скорости интернет-соединения](https://habr.com/ru/articles/957960/?utm_campaign=957960&utm_source=habrahabr&utm_medium=rss)
 - [Как запускать 100k+ браузеров в день и спать спокойно](https://habr.com/ru/companies/tbank/articles/957648/?utm_campaign=957648&utm_source=habrahabr&utm_medium=rss)
-- [Искусственный интеллект в CRM: между прототипами и экосистемами](https://habr.com/ru/companies/bpmsoft/articles/957652/?utm_campaign=957652&utm_source=habrahabr&utm_medium=rss)
-- [Как выбрать TMS и не пожалеть: обзор популярных решений от тестировщика](https://habr.com/ru/articles/957528/?utm_campaign=957528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

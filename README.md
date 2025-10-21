@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Технологии, которые держат мир на связи. Как выглядит современный Wi-Fi и что влияет на его безопасность](https://habr.com/ru/companies/pt/articles/958476/?utm_campaign=958476&utm_source=habrahabr&utm_medium=rss)
 - [Кейс из production: Deadlock в асинхронном коде на Java](https://habr.com/ru/articles/958166/?utm_campaign=958166&utm_source=habrahabr&utm_medium=rss)
 - [UI-автотесты: Fluent-стиль и умные данные — чтобы тесты работали на вас, а не вы на них](https://habr.com/ru/articles/958146/?utm_campaign=958146&utm_source=habrahabr&utm_medium=rss)
 - [Как добавить AI-ревью и ответы ассистента в Pull Request всего за 30 минут](https://habr.com/ru/articles/957738/?utm_campaign=957738&utm_source=habrahabr&utm_medium=rss)
 - [OpenSpeedTest: российская альтернатива для проверки скорости интернет-соединения](https://habr.com/ru/articles/957960/?utm_campaign=957960&utm_source=habrahabr&utm_medium=rss)
-- [Как запускать 100k+ браузеров в день и спать спокойно](https://habr.com/ru/companies/tbank/articles/957648/?utm_campaign=957648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

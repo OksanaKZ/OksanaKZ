@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как поддерживать вовлеченность в сообществе тестировщиков](https://habr.com/ru/companies/usetech/articles/959558/?utm_campaign=959558&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT Atlas: пока ещё не торт для тестировщиков](https://habr.com/ru/articles/958978/?utm_campaign=958978&utm_source=habrahabr&utm_medium=rss)
 - [Не бойтесь, просто ходите: как пройти первые собеседования, если ты QA-инженер без опыта](https://habr.com/ru/companies/yandex_praktikum/articles/954196/?utm_campaign=954196&utm_source=habrahabr&utm_medium=rss)
 - [Технологии, которые держат мир на связи. Как выглядит современный Wi-Fi и что влияет на его безопасность](https://habr.com/ru/companies/pt/articles/958476/?utm_campaign=958476&utm_source=habrahabr&utm_medium=rss)
 - [Кейс из production: Deadlock в асинхронном коде на Java](https://habr.com/ru/articles/958166/?utm_campaign=958166&utm_source=habrahabr&utm_medium=rss)
-- [UI-автотесты: Fluent-стиль и умные данные — чтобы тесты работали на вас, а не вы на них](https://habr.com/ru/articles/958146/?utm_campaign=958146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

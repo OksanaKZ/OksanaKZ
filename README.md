@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Теория тестирования ПО простыми словами: от основ до практики](https://habr.com/ru/articles/960202/?utm_campaign=960202&utm_source=habrahabr&utm_medium=rss)
 - [Test Design на практике: как сократить число сценариев и отлавливать даже незаметные баги сложных систем](https://habr.com/ru/companies/dalee_group/articles/959902/?utm_campaign=959902&utm_source=habrahabr&utm_medium=rss)
 - [Импортозамещение оборудования для ЦОД. Интеграция российских коммутаторов Eltex с Cisco и Huawei](https://habr.com/ru/companies/k2tech/articles/959854/?utm_campaign=959854&utm_source=habrahabr&utm_medium=rss)
 - [Зеркало команды: Что «запахи» в тестах говорят о ваших процессах коммуникации](https://habr.com/ru/companies/testops_tms/articles/959842/?utm_campaign=959842&utm_source=habrahabr&utm_medium=rss)
 - [Топ-10 полезных расширений для браузера в арсенале QA-инженера](https://habr.com/ru/articles/956060/?utm_campaign=956060&utm_source=habrahabr&utm_medium=rss)
-- [Как автоматизировать тестирование батч-моделей? Гайд](https://habr.com/ru/companies/alfa/articles/958486/?utm_campaign=958486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

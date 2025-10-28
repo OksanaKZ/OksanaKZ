@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [WireMock без боли](https://habr.com/ru/companies/uzum/articles/959736/?utm_campaign=959736&utm_source=habrahabr&utm_medium=rss)
+- [Как понять, что вам нужны автотесты](https://habr.com/ru/companies/otus/articles/959642/?utm_campaign=959642&utm_source=habrahabr&utm_medium=rss)
 - [Почему для автоматизации тестирования мы выбрали Selenium и вам советуем](https://habr.com/ru/articles/960428/?utm_campaign=960428&utm_source=habrahabr&utm_medium=rss)
 - [Теория тестирования ПО простыми словами: от основ до практики](https://habr.com/ru/articles/960202/?utm_campaign=960202&utm_source=habrahabr&utm_medium=rss)
 - [Test Design на практике: как сократить число сценариев и отлавливать даже незаметные баги сложных систем](https://habr.com/ru/companies/dalee_group/articles/959902/?utm_campaign=959902&utm_source=habrahabr&utm_medium=rss)
-- [Импортозамещение оборудования для ЦОД. Интеграция российских коммутаторов Eltex с Cisco и Huawei](https://habr.com/ru/companies/k2tech/articles/959854/?utm_campaign=959854&utm_source=habrahabr&utm_medium=rss)
-- [Зеркало команды: Что «запахи» в тестах говорят о ваших процессах коммуникации](https://habr.com/ru/companies/testops_tms/articles/959842/?utm_campaign=959842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

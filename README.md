@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От Jest к Vitest на backend тестах: как мы мигрировали тестовый фреймворк для ускорения CI и повышения стабильности](https://habr.com/ru/companies/tbank/articles/960872/?utm_campaign=960872&utm_source=habrahabr&utm_medium=rss)
 - [Лучший планировщик задач и дел: обзор функций и тарифов 5 популярных сервисов](https://habr.com/ru/articles/960886/?utm_campaign=960886&utm_source=habrahabr&utm_medium=rss)
 - [WireMock без боли](https://habr.com/ru/companies/uzum/articles/959736/?utm_campaign=959736&utm_source=habrahabr&utm_medium=rss)
 - [Как понять, что вам нужны автотесты](https://habr.com/ru/companies/otus/articles/959642/?utm_campaign=959642&utm_source=habrahabr&utm_medium=rss)
 - [Почему для автоматизации тестирования мы выбрали Selenium и вам советуем](https://habr.com/ru/articles/960428/?utm_campaign=960428&utm_source=habrahabr&utm_medium=rss)
-- [Теория тестирования ПО простыми словами: от основ до практики](https://habr.com/ru/articles/960202/?utm_campaign=960202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что спрашивают на собеседовании у QA и SDET: топ вопросов и ответов. Часть 1. Сети](https://habr.com/ru/companies/simbirsoft/articles/960772/?utm_campaign=960772&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании: управление своей карьерой](https://habr.com/ru/articles/957360/?utm_campaign=957360&utm_source=habrahabr&utm_medium=rss)
 - [BDD: Как заставить тесты говорить на одном языке с бизнесом &lpar;и перестать платить за недопонимание&rpar;](https://habr.com/ru/companies/itfb/articles/960972/?utm_campaign=960972&utm_source=habrahabr&utm_medium=rss)
 - [От Jest к Vitest на backend тестах: как мы мигрировали тестовый фреймворк для ускорения CI и повышения стабильности](https://habr.com/ru/companies/tbank/articles/960872/?utm_campaign=960872&utm_source=habrahabr&utm_medium=rss)
 - [WireMock без боли](https://habr.com/ru/companies/uzum/articles/959736/?utm_campaign=959736&utm_source=habrahabr&utm_medium=rss)
-- [Как понять, что вам нужны автотесты](https://habr.com/ru/companies/otus/articles/959642/?utm_campaign=959642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

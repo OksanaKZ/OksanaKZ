@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Какую информацию включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_campaign=961452&utm_source=habrahabr&utm_medium=rss)
+- [Какую информацию можно включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_campaign=961452&utm_source=habrahabr&utm_medium=rss)
 - [Технологии, которые держат мир на связи. Как атакуют современный Wi-Fi](https://habr.com/ru/companies/pt/articles/961066/?utm_campaign=961066&utm_source=habrahabr&utm_medium=rss)
 - [Что спрашивают на собеседовании у QA и SDET: топ вопросов и ответов. Часть 1. Сети](https://habr.com/ru/companies/simbirsoft/articles/960772/?utm_campaign=960772&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Лидерство в тестировании: управление своей карьерой](https://habr.com/ru/articles/957360/?utm_campaign=957360&utm_source=habrahabr&utm_medium=rss)

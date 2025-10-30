@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Gradle для QA-инженера](https://habr.com/ru/articles/959912/?utm_campaign=959912&utm_source=habrahabr&utm_medium=rss)
 - [Итоги открытого бета-тестирования ОС «МСВСфера» 10](https://habr.com/ru/companies/inferit/articles/961336/?utm_campaign=961336&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование – залог предсказуемостии качества &lpar;часть 2&rpar;](https://habr.com/ru/articles/959794/?utm_campaign=959794&utm_source=habrahabr&utm_medium=rss)
 - [Какую информацию можно включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_campaign=961452&utm_source=habrahabr&utm_medium=rss)
 - [Технологии, которые держат мир на связи. Как атакуют современный Wi-Fi](https://habr.com/ru/companies/pt/articles/961066/?utm_campaign=961066&utm_source=habrahabr&utm_medium=rss)
-- [Что спрашивают на собеседовании у QA и SDET: топ вопросов и ответов. Часть 1. Сети](https://habr.com/ru/companies/simbirsoft/articles/960772/?utm_campaign=960772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Не искушайте пользователей делением на ноль](https://habr.com/ru/articles/962516/?utm_campaign=962516&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование QA-инженера: 5 вещей, к которым нужно быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/958734/?utm_campaign=958734&utm_source=habrahabr&utm_medium=rss)
 - [Gradle для QA-инженера](https://habr.com/ru/articles/959912/?utm_campaign=959912&utm_source=habrahabr&utm_medium=rss)
 - [Итоги открытого бета-тестирования ОС «МСВСфера» 10](https://habr.com/ru/companies/inferit/articles/961336/?utm_campaign=961336&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование – залог предсказуемостии качества &lpar;часть 2&rpar;](https://habr.com/ru/articles/959794/?utm_campaign=959794&utm_source=habrahabr&utm_medium=rss)
-- [Какую информацию можно включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_campaign=961452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

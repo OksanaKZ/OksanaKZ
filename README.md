@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить Hamcrest с POJO](https://habr.com/ru/articles/962990/?utm_campaign=962990&utm_source=habrahabr&utm_medium=rss)
 - [Почему Python так популярен в 2025?](https://habr.com/ru/companies/otus/articles/961864/?utm_campaign=961864&utm_source=habrahabr&utm_medium=rss)
 - [Послание для всех, кто сейчас ищет работу в QA](https://habr.com/ru/articles/962770/?utm_campaign=962770&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Не искушайте пользователей делением на ноль](https://habr.com/ru/articles/962516/?utm_campaign=962516&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование QA-инженера: 5 вещей, к которым нужно быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/958734/?utm_campaign=958734&utm_source=habrahabr&utm_medium=rss)
-- [Gradle для QA-инженера](https://habr.com/ru/articles/959912/?utm_campaign=959912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 3: Статус тестирования и Эффективность исправления багов](https://habr.com/ru/articles/893620/?utm_campaign=893620&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование AI-систем и роль MCP-сервера: теория и практика глазами QA](https://habr.com/ru/articles/963012/?utm_campaign=963012&utm_source=habrahabr&utm_medium=rss)
 - [Как подружить Hamcrest с POJO](https://habr.com/ru/articles/962990/?utm_campaign=962990&utm_source=habrahabr&utm_medium=rss)
 - [Почему Python так популярен в 2025?](https://habr.com/ru/companies/otus/articles/961864/?utm_campaign=961864&utm_source=habrahabr&utm_medium=rss)
 - [Послание для всех, кто сейчас ищет работу в QA](https://habr.com/ru/articles/962770/?utm_campaign=962770&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Не искушайте пользователей делением на ноль](https://habr.com/ru/articles/962516/?utm_campaign=962516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

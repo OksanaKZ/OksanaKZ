@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я научила ИИ быть моим напарником по тестированию](https://habr.com/ru/articles/963718/?utm_campaign=963718&utm_source=habrahabr&utm_medium=rss)
 - [Промпт для QA: представь, что ты НЕ тестировщик](https://habr.com/ru/articles/963644/?utm_campaign=963644&utm_source=habrahabr&utm_medium=rss)
 - [Топ-3 отечественных TMS: где вести тесты, когда привычные инструменты больше недоступны](https://habr.com/ru/articles/963466/?utm_campaign=963466&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD для Bare-Metal Embedded-разработки](https://habr.com/ru/articles/963298/?utm_campaign=963298&utm_source=habrahabr&utm_medium=rss)
 - [Амбассадор Standoff: как за год ворваться в топ-5 площадок Bug Bounty?](https://habr.com/ru/companies/gaz-is/articles/963272/?utm_campaign=963272&utm_source=habrahabr&utm_medium=rss)
-- [Как я чуть не положил домен заказчика ZeroLogon’ом, или почему некоторые пентестеры опаснее хакеров](https://habr.com/ru/companies/bastion/articles/960506/?utm_campaign=960506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

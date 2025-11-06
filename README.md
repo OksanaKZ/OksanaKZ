@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Топ-3 отечественных TMS: где вести тесты, когда привычные инструменты больше недоступны](https://habr.com/ru/articles/963466/?utm_campaign=963466&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD для Bare-Metal Embedded-разработки](https://habr.com/ru/articles/963298/?utm_campaign=963298&utm_source=habrahabr&utm_medium=rss)
 - [Амбассадор Standoff: как за год ворваться в топ-5 площадок Bug Bounty?](https://habr.com/ru/companies/gaz-is/articles/963272/?utm_campaign=963272&utm_source=habrahabr&utm_medium=rss)
 - [Как я чуть не положил домен заказчика ZeroLogon’ом, или почему некоторые пентестеры опаснее хакеров](https://habr.com/ru/companies/bastion/articles/960506/?utm_campaign=960506&utm_source=habrahabr&utm_medium=rss)
-- [Метрики в тестировании: как в Рунити перешли от ручного сбора данных к автоматизации](https://habr.com/ru/companies/runity/articles/963166/?utm_campaign=963166&utm_source=habrahabr&utm_medium=rss)
-- [Как мы cделали AI-симулятор собеседований для QA и не сошли с ума при его тестировании](https://habr.com/ru/articles/963076/?utm_campaign=963076&utm_source=habrahabr&utm_medium=rss)
+- [От сбора данных к лучшим решениям: как автоматизация метрик помогает нам в Рунити развивать продукт](https://habr.com/ru/companies/runity/articles/963166/?utm_campaign=963166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

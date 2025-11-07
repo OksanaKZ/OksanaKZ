@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сохрани и автоматизируй: три доклада о том, как тестируют СХД прямо сейчас](https://habr.com/ru/companies/yadro/articles/964040/?utm_campaign=964040&utm_source=habrahabr&utm_medium=rss)
 - [Как уязвимости в сетевой AI/ML архитектуре влияют на ROI?](https://habr.com/ru/articles/962022/?utm_campaign=962022&utm_source=habrahabr&utm_medium=rss)
 - [Пострелизная валидация данных как новый вид тестирования?](https://habr.com/ru/articles/963860/?utm_campaign=963860&utm_source=habrahabr&utm_medium=rss)
 - [Как я научила ИИ быть моим напарником по тестированию](https://habr.com/ru/articles/963718/?utm_campaign=963718&utm_source=habrahabr&utm_medium=rss)
 - [Промпт для QA: представь, что ты НЕ тестировщик](https://habr.com/ru/articles/963644/?utm_campaign=963644&utm_source=habrahabr&utm_medium=rss)
-- [Топ-3 отечественных TMS: где вести тесты, когда привычные инструменты больше недоступны](https://habr.com/ru/articles/963466/?utm_campaign=963466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

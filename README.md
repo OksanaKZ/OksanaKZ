@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [100-Year QA-Textbook 2026 — Новое поколение бесплатного 1000-страничного учебника по тестированию](https://habr.com/ru/articles/964744/?utm_campaign=964744&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование K6 &lpar;Концепт&rpar;](https://habr.com/ru/articles/964492/?utm_campaign=964492&utm_source=habrahabr&utm_medium=rss)
 - [Сохрани и автоматизируй: три доклада о том, как тестируют СХД прямо сейчас](https://habr.com/ru/companies/yadro/articles/964040/?utm_campaign=964040&utm_source=habrahabr&utm_medium=rss)
 - [Как уязвимости в сетевой AI/ML архитектуре влияют на ROI?](https://habr.com/ru/articles/962022/?utm_campaign=962022&utm_source=habrahabr&utm_medium=rss)
 - [Пострелизная валидация данных как новый вид тестирования?](https://habr.com/ru/articles/963860/?utm_campaign=963860&utm_source=habrahabr&utm_medium=rss)
-- [Как я научила ИИ быть моим напарником по тестированию](https://habr.com/ru/articles/963718/?utm_campaign=963718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

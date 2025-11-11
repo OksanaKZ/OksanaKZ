@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Как полюбить писать тесты: опыт TATLIN.UNIFIED](https://habr.com/ru/companies/yadro/articles/964122/?utm_campaign=964122&utm_source=habrahabr&utm_medium=rss)
 - [В поисках инструмента для проверки работы интернет…](https://habr.com/ru/articles/965310/?utm_campaign=965310&utm_source=habrahabr&utm_medium=rss)
-- [Плохой промпт против хорошего: зачем нужен контекст для ИИ в задачах тестировщика](https://habr.com/ru/articles/965048/?utm_campaign=965048&utm_source=habrahabr&utm_medium=rss)
+- [Плохой промпт vs хороший: как контекст меняет тесты ИИ](https://habr.com/ru/articles/965048/?utm_campaign=965048&utm_source=habrahabr&utm_medium=rss)
 - [Чёрная пятница: от мечты о скидках до кошмара для ИТ. Как избежать провалов](https://habr.com/ru/companies/psb/articles/964768/?utm_campaign=964768&utm_source=habrahabr&utm_medium=rss)
 - [Матрица трассировки: от хаоса к системности, или как мы искали универсальную модель](https://habr.com/ru/companies/rgs_it/articles/964794/?utm_campaign=964794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

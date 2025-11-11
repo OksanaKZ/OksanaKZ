@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Чёрная пятница: от мечты о скидках до кошмара для ИТ. Как избежать провалов](https://habr.com/ru/companies/psb/articles/964768/?utm_campaign=964768&utm_source=habrahabr&utm_medium=rss)
 - [Матрица трассировки: от хаоса к системности, или как мы искали универсальную модель](https://habr.com/ru/companies/rgs_it/articles/964794/?utm_campaign=964794&utm_source=habrahabr&utm_medium=rss)
 - [Как мы выстроили процесс нагрузочного тестирования в KISLOROD](https://habr.com/ru/companies/kislorod/articles/964212/?utm_campaign=964212&utm_source=habrahabr&utm_medium=rss)
 - [100-Year QA-Textbook 2026 — Новое поколение бесплатного 1000-страничного учебника по тестированию](https://habr.com/ru/articles/964744/?utm_campaign=964744&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование K6 &lpar;Концепт&rpar;](https://habr.com/ru/articles/964492/?utm_campaign=964492&utm_source=habrahabr&utm_medium=rss)
-- [Сохрани и автоматизируй: три доклада о том, как тестируют СХД прямо сейчас](https://habr.com/ru/companies/yadro/articles/964040/?utm_campaign=964040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

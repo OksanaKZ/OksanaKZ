@@ -39,6 +39,6 @@
 - [Ноябрьский «В тренде VM»: уязвимости в продуктах Microsoft, Redis, XWiki, Zimbra Collaboration и Linux](https://habr.com/ru/companies/pt/articles/965994/?utm_campaign=965994&utm_source=habrahabr&utm_medium=rss)
 - [Исключения в Java: просто о сложном для AQA](https://habr.com/ru/articles/964434/?utm_campaign=964434&utm_source=habrahabr&utm_medium=rss)
 - [Убрать рутину из регресса или как автоматизировать, не зная кода](https://habr.com/ru/companies/axenix/articles/957168/?utm_campaign=957168&utm_source=habrahabr&utm_medium=rss)
-- [Дерево против Wi-Fi, «проклятый» стол, погодные катаклизмы и другие причины и истории о неочевидных, порой нелепых багах](https://habr.com/ru/companies/beeline_cloud/articles/965850/?utm_campaign=965850&utm_source=habrahabr&utm_medium=rss)
 - [Пишем LLM бенчмарк для GPU-серверов с картами NVIDIA в Ollama](https://habr.com/ru/companies/hostkey/articles/965666/?utm_campaign=965666&utm_source=habrahabr&utm_medium=rss)
+- [Конформанс-тестирование: как мы сертифицировали базовую станцию YADRO](https://habr.com/ru/companies/yadro/articles/964172/?utm_campaign=964172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

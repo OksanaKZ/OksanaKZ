@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я перестал бояться GUI-тестов и научился их любить &lpar;почти&rpar;](https://habr.com/ru/articles/966756/?utm_campaign=966756&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем RT.Warehouse: тестовые сценарии, сбор и анализ метрик по результатам тестирования](https://habr.com/ru/companies/rostelecom/articles/966416/?utm_campaign=966416&utm_source=habrahabr&utm_medium=rss)
 - [Почему QA должен думать о безопасности IT-продукта](https://habr.com/ru/companies/simbirsoft/articles/965948/?utm_campaign=965948&utm_source=habrahabr&utm_medium=rss)
 - [Карты, деньги, два бага: погружаемся в программный взлом банкоматов](https://habr.com/ru/companies/pt/articles/963094/?utm_campaign=963094&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция OpenSearch: от функционального тестирования до проверки интеллекта поиска](https://habr.com/ru/companies/ispring/articles/966096/?utm_campaign=966096&utm_source=habrahabr&utm_medium=rss)
-- [Ноябрьский «В тренде VM»: уязвимости в продуктах Microsoft, Redis, XWiki, Zimbra Collaboration и Linux](https://habr.com/ru/companies/pt/articles/965994/?utm_campaign=965994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

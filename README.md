@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Нейросеть, мы тебя отключим»: интервью о взломе LLM и реальной цене ИИ-инструментов](https://habr.com/ru/articles/967920/?utm_campaign=967920&utm_source=habrahabr&utm_medium=rss)
 - [Apache Kafka для QA инженера](https://habr.com/ru/articles/967028/?utm_campaign=967028&utm_source=habrahabr&utm_medium=rss)
 - [Как я перестал бояться GUI-тестов и научился их любить &lpar;почти&rpar;](https://habr.com/ru/articles/966756/?utm_campaign=966756&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем RT.Warehouse: тестовые сценарии, сбор и анализ метрик по результатам тестирования](https://habr.com/ru/companies/rostelecom/articles/966416/?utm_campaign=966416&utm_source=habrahabr&utm_medium=rss)
 - [Почему QA должен думать о безопасности IT-продукта](https://habr.com/ru/companies/simbirsoft/articles/965948/?utm_campaign=965948&utm_source=habrahabr&utm_medium=rss)
-- [Карты, деньги, два бага: погружаемся в программный взлом банкоматов](https://habr.com/ru/companies/pt/articles/963094/?utm_campaign=963094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

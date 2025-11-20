@@ -40,5 +40,5 @@
 - [Coding Agents становятся нормой: AWS Kiro против Cursor, Copilot и Claude Code](https://habr.com/ru/articles/968346/?utm_campaign=968346&utm_source=habrahabr&utm_medium=rss)
 - [Публикация Allure-отчетов в условиях ограниченности CI/CD](https://habr.com/ru/companies/simbirsoft/articles/965738/?utm_campaign=965738&utm_source=habrahabr&utm_medium=rss)
 - [«Нейросеть, мы тебя отключим»: интервью о взломе LLM и реальной цене ИИ-инструментов](https://habr.com/ru/articles/967920/?utm_campaign=967920&utm_source=habrahabr&utm_medium=rss)
-- [Apache Kafka для QA инженера](https://habr.com/ru/articles/967028/?utm_campaign=967028&utm_source=habrahabr&utm_medium=rss)
+- [Apache Kafka для QA инженера или что нужно знать тестировщику о Kafka](https://habr.com/ru/articles/967028/?utm_campaign=967028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

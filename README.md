@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ProSTQB — бесплатная платформа, которая выводит подготовку к ISTQB на новый уровень](https://habr.com/ru/articles/969460/?utm_campaign=969460&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD и непрерывное тестирование &lpar;управление рисками в условиях постоянных изменений&rpar;](https://habr.com/ru/articles/966432/?utm_campaign=966432&utm_source=habrahabr&utm_medium=rss)
 - [QA-метрики: что на самом деле важно измерять и как в этом помогает TMS](https://habr.com/ru/articles/968374/?utm_campaign=968374&utm_source=habrahabr&utm_medium=rss)
 - [Публикация Allure-отчетов в условиях ограниченности CI/CD](https://habr.com/ru/companies/simbirsoft/articles/965738/?utm_campaign=965738&utm_source=habrahabr&utm_medium=rss)
 - [«Нейросеть, мы тебя отключим»: интервью о взломе LLM и реальной цене ИИ-инструментов](https://habr.com/ru/articles/967920/?utm_campaign=967920&utm_source=habrahabr&utm_medium=rss)
-- [Apache Kafka для QA инженера или что нужно знать тестировщику о Kafka](https://habr.com/ru/articles/967028/?utm_campaign=967028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

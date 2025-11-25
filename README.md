@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы будем тестировать человекоподобных роботов &lpar;когда они станут реальностью&rpar;](https://habr.com/ru/articles/970070/?utm_campaign=970070&utm_source=habrahabr&utm_medium=rss)
 - [Интеграционное тестирование: от теории до боевого опыта](https://habr.com/ru/companies/reksoft/articles/969972/?utm_campaign=969972&utm_source=habrahabr&utm_medium=rss)
 - [5 промтов, которые сэкономили мне часы рутинной работы тестировщика](https://habr.com/ru/articles/965822/?utm_campaign=965822&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие практики автоматизации тестирования: 9 принципов стабильных автотестов](https://habr.com/ru/articles/965890/?utm_campaign=965890&utm_source=habrahabr&utm_medium=rss)
 - [О современной разработке. Часть 1: Моки — это технический долг](https://habr.com/ru/articles/969926/?utm_campaign=969926&utm_source=habrahabr&utm_medium=rss)
-- [QA в дежурствах: путь к настоящему качеству](https://habr.com/ru/companies/2gis/articles/968290/?utm_campaign=968290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

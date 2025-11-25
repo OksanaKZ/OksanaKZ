@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [О современной разработке. Часть 1: Моки — это технический долг](https://habr.com/ru/articles/969926/?utm_campaign=969926&utm_source=habrahabr&utm_medium=rss)
 - [QA в дежурствах: путь к настоящему качеству](https://habr.com/ru/companies/2gis/articles/968290/?utm_campaign=968290&utm_source=habrahabr&utm_medium=rss)
 - [Почему менеджеры увольняют лучших инженеров — и всегда потом жалеют](https://habr.com/ru/articles/957318/?utm_campaign=957318&utm_source=habrahabr&utm_medium=rss)
 - [ProSTQB — бесплатная платформа, которая выводит подготовку к ISTQB на новый уровень](https://habr.com/ru/articles/969460/?utm_campaign=969460&utm_source=habrahabr&utm_medium=rss)
 - [CI/CD и непрерывное тестирование &lpar;управление рисками в условиях постоянных изменений&rpar;](https://habr.com/ru/articles/966432/?utm_campaign=966432&utm_source=habrahabr&utm_medium=rss)
-- [QA-метрики: что на самом деле важно измерять и как в этом помогает TMS](https://habr.com/ru/articles/968374/?utm_campaign=968374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

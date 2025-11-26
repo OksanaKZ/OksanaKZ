@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему агенты НЕ пишут основную часть нашего кода](https://habr.com/ru/articles/968828/?utm_campaign=968828&utm_source=habrahabr&utm_medium=rss)
 - [Общая концепция локаторов и их специфика в Playwright](https://habr.com/ru/companies/otus/articles/969020/?utm_campaign=969020&utm_source=habrahabr&utm_medium=rss)
 - [Как мы будем тестировать человекоподобных роботов &lpar;когда они станут реальностью&rpar;](https://habr.com/ru/articles/970070/?utm_campaign=970070&utm_source=habrahabr&utm_medium=rss)
 - [Интеграционное тестирование: от теории до боевого опыта](https://habr.com/ru/companies/reksoft/articles/969972/?utm_campaign=969972&utm_source=habrahabr&utm_medium=rss)
 - [5 промтов, которые сэкономили мне часы рутинной работы тестировщика](https://habr.com/ru/articles/965822/?utm_campaign=965822&utm_source=habrahabr&utm_medium=rss)
-- [Лучшие практики автоматизации тестирования: 9 принципов стабильных автотестов](https://habr.com/ru/articles/965890/?utm_campaign=965890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

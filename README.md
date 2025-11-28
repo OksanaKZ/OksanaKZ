@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему QA должен быть душнилой: тестируем PostgreSQL и не даём разработчикам расслабиться](https://habr.com/ru/companies/postgrespro/articles/971330/?utm_campaign=971330&utm_source=habrahabr&utm_medium=rss)
 - [Базовая база для успешного собеседования на джуна в QA. Рассказываю, о чем спрашиваю на собесах](https://habr.com/ru/companies/ru_mts/articles/971244/?utm_campaign=971244&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное испытание Wi-Fi, «народный» метод](https://habr.com/ru/articles/971148/?utm_campaign=971148&utm_source=habrahabr&utm_medium=rss)
 - [Cursor и ИИ-ассистенты ускоряют разработку — но без нормальных автотестов топят всю команду](https://habr.com/ru/articles/970986/?utm_campaign=970986&utm_source=habrahabr&utm_medium=rss)
 - [Где ломается прокси-балансировщик: наш опыт измерений](https://habr.com/ru/companies/cloud_ru/articles/970450/?utm_campaign=970450&utm_source=habrahabr&utm_medium=rss)
-- [Как Устранить Stop Code 0xc00002e2 в доменной сети на серверной ОС в VMware?](https://habr.com/ru/articles/970766/?utm_campaign=970766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

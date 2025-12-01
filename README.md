@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Хардверный QA: как тестируют железо в радиочастотном центре и прямо на конвейере](https://habr.com/ru/companies/yadro/articles/971938/?utm_campaign=971938&utm_source=habrahabr&utm_medium=rss)
 - [6 простых вопросов, из-за которых сыпятся даже сильные кандидаты &lpar;и как отвечать правильно&rpar;](https://habr.com/ru/articles/966258/?utm_campaign=966258&utm_source=habrahabr&utm_medium=rss)
 - [Почему QA должен быть душнилой: тестируем PostgreSQL и не даём разработчикам расслабиться](https://habr.com/ru/companies/postgrespro/articles/971330/?utm_campaign=971330&utm_source=habrahabr&utm_medium=rss)
 - [Базовая база для успешного собеседования на джуна в QA. Рассказываю, о чем спрашиваю на собесах](https://habr.com/ru/companies/ru_mts/articles/971244/?utm_campaign=971244&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное испытание Wi-Fi, «народный» метод](https://habr.com/ru/articles/971148/?utm_campaign=971148&utm_source=habrahabr&utm_medium=rss)
-- [Cursor и ИИ-ассистенты ускоряют разработку — но без нормальных автотестов топят всю команду](https://habr.com/ru/articles/970986/?utm_campaign=970986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

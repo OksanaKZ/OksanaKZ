@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как ускорить автотесты на Python в Pytest в 8,5 раз](https://habr.com/ru/articles/972448/?utm_campaign=972448&utm_source=habrahabr&utm_medium=rss)
 - [10 Chrome-расширений для QA часть 2](https://habr.com/ru/articles/971406/?utm_campaign=971406&utm_source=habrahabr&utm_medium=rss)
 - [Хардверный QA: как тестируют железо в радиочастотном центре и прямо на конвейере](https://habr.com/ru/companies/yadro/articles/971938/?utm_campaign=971938&utm_source=habrahabr&utm_medium=rss)
 - [6 простых вопросов, из-за которых сыпятся даже сильные кандидаты &lpar;и как отвечать правильно&rpar;](https://habr.com/ru/articles/966258/?utm_campaign=966258&utm_source=habrahabr&utm_medium=rss)
 - [Почему QA должен быть душнилой: тестируем PostgreSQL и не даём разработчикам расслабиться](https://habr.com/ru/companies/postgrespro/articles/971330/?utm_campaign=971330&utm_source=habrahabr&utm_medium=rss)
-- [Базовая база для успешного собеседования на джуна в QA. Рассказываю, о чем спрашиваю на собесах](https://habr.com/ru/companies/ru_mts/articles/971244/?utm_campaign=971244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

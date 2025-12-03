@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Работаем с фабрикой ЦОД без бубнов и плясок. Система управления Eltex ECCM](https://habr.com/ru/companies/k2tech/articles/972838/?utm_campaign=972838&utm_source=habrahabr&utm_medium=rss)
 - [Как переход на Z Garbage Collector в Java 17 сэкономил нам ресурсы: на примере хранилища артефактов](https://habr.com/ru/companies/sberbank/articles/972476/?utm_campaign=972476&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование без тонны кейсов: свобода, автотесты и наша экспертиза](https://habr.com/ru/companies/k2tech/articles/971204/?utm_campaign=971204&utm_source=habrahabr&utm_medium=rss)
 - [Как ускорить автотесты на Python в Pytest в 8,5 раз](https://habr.com/ru/articles/972448/?utm_campaign=972448&utm_source=habrahabr&utm_medium=rss)
 - [10 Chrome-расширений для QA часть 2](https://habr.com/ru/articles/971406/?utm_campaign=971406&utm_source=habrahabr&utm_medium=rss)
-- [Хардверный QA: как тестируют железо в радиочастотном центре и прямо на конвейере](https://habr.com/ru/companies/yadro/articles/971938/?utm_campaign=971938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

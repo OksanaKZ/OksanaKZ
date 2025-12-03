@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От спонтанных ремонтов к проактивному управлению:](https://habr.com/ru/articles/972980/?utm_campaign=972980&utm_source=habrahabr&utm_medium=rss)
 - [Когда ошибка становится наставником: почему баги прошлого нередко полезнее любого чек-листа](https://habr.com/ru/articles/972944/?utm_campaign=972944&utm_source=habrahabr&utm_medium=rss)
 - [Работаем с фабрикой ЦОД без бубнов и плясок. Система управления Eltex ECCM](https://habr.com/ru/companies/k2tech/articles/972838/?utm_campaign=972838&utm_source=habrahabr&utm_medium=rss)
 - [Как переход на Z Garbage Collector в Java 17 сэкономил нам ресурсы: на примере хранилища артефактов](https://habr.com/ru/companies/sberbank/articles/972476/?utm_campaign=972476&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование без тонны кейсов: свобода, автотесты и наша экспертиза](https://habr.com/ru/companies/k2tech/articles/971204/?utm_campaign=971204&utm_source=habrahabr&utm_medium=rss)
-- [Как ускорить автотесты на Python в Pytest в 8,5 раз](https://habr.com/ru/articles/972448/?utm_campaign=972448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

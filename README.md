@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Запуск x64 программ на ARM или почему вы не захотите этим заниматься](https://habr.com/ru/articles/974608/?utm_campaign=974608&utm_source=habrahabr&utm_medium=rss)
 - [Почему токсичные эксперты больше никому не нужны — и при чём тут ИИ](https://habr.com/ru/articles/970590/?utm_campaign=970590&utm_source=habrahabr&utm_medium=rss)
 - [Стриминг логов Kafka в Elasticsearch с визуализацией в Kibana](https://habr.com/ru/companies/simbirsoft/articles/972108/?utm_campaign=972108&utm_source=habrahabr&utm_medium=rss)
 - [HTB Season Gacha | Gavel — Полный путь от SQLi до root](https://habr.com/ru/articles/974030/?utm_campaign=974030&utm_source=habrahabr&utm_medium=rss)
 - [etcd-walker: TUI-проводник по etcd для ленивых &lpar;и не только?&rpar;](https://habr.com/ru/companies/hstx/articles/973628/?utm_campaign=973628&utm_source=habrahabr&utm_medium=rss)
-- [То, что обычно не показывают: как выглядит Wi-Fi взлом изнутри &lpar;схемы, примеры, анализ&rpar;](https://habr.com/ru/articles/973656/?utm_campaign=973656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

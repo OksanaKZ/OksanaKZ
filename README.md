@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [9 ISTQB сертификатов спустя: что бы я реально посоветовал тем, кто собирается сдавать](https://habr.com/ru/articles/975778/?utm_campaign=975778&utm_source=habrahabr&utm_medium=rss)
 - [Как проходит онбординг тестировщика в финтехе](https://habr.com/ru/companies/yoomoney/articles/975642/?utm_campaign=975642&utm_source=habrahabr&utm_medium=rss)
 - [Проксируй это: как ускорить A/B-тесты и не попасть в ловушку метрик](https://habr.com/ru/companies/X5Tech/articles/974372/?utm_campaign=974372&utm_source=habrahabr&utm_medium=rss)
 - [Ищем выход из лабиринтов RISC-V ISA: ускорение инференса с тензорным компилятором и JIT-ассемблером](https://habr.com/ru/companies/yadro/articles/970390/?utm_campaign=970390&utm_source=habrahabr&utm_medium=rss)
 - [Как мы превратили скучное тестирование в захватывающее развлечение](https://habr.com/ru/articles/974710/?utm_campaign=974710&utm_source=habrahabr&utm_medium=rss)
-- [«Работает — не трогай», но с YDB можно: испытания отказоустойчивости в боевых условиях](https://habr.com/ru/companies/jetinfosystems/articles/974850/?utm_campaign=974850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

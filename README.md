@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Собеседование QA под нейросетью: когда ИИ говорит «Да»](https://habr.com/ru/companies/sberbank/articles/975172/?utm_campaign=975172&utm_source=habrahabr&utm_medium=rss)
+- [Как мы запускали «марсоход» на PostgreSQL: автоматизация кластеров в изолированной среде крупной компании](https://habr.com/ru/companies/jetinfosystems/articles/976520/?utm_campaign=976520&utm_source=habrahabr&utm_medium=rss)
 - [Сколько на самом деле получали тестировщики в 2025 году](https://habr.com/ru/articles/976668/?utm_campaign=976668&utm_source=habrahabr&utm_medium=rss)
 - [9 самых частых задач на Python live-coding &lpar;и как их правильно решать&rpar;](https://habr.com/ru/articles/967152/?utm_campaign=967152&utm_source=habrahabr&utm_medium=rss)
 - [Как инженеры обеспечивают стабильную связь: три доклада, которые помогут разобраться](https://habr.com/ru/companies/yadro/articles/976090/?utm_campaign=976090&utm_source=habrahabr&utm_medium=rss)
-- [9 ISTQB сертификатов спустя: что бы я реально посоветовал тем, кто собирается сдавать](https://habr.com/ru/articles/975778/?utm_campaign=975778&utm_source=habrahabr&utm_medium=rss)
-- [Как проходит онбординг тестировщика в финтехе](https://habr.com/ru/companies/yoomoney/articles/975642/?utm_campaign=975642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

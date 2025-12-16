@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Стабильность E2E тестов: как приблизиться к 100% успешных прогонов](https://habr.com/ru/articles/977140/?utm_campaign=977140&utm_source=habrahabr&utm_medium=rss)
 - [Адаптация на новой работе: как совместить процессы, документацию,  коммуникацию и при чем тут Beginner’s Mind](https://habr.com/ru/companies/fix_price/articles/976868/?utm_campaign=976868&utm_source=habrahabr&utm_medium=rss)
 - [Разбор атак на городскую среду: как злоумышленники ломали инфраструктуру Государства F](https://habr.com/ru/companies/pt/articles/976586/?utm_campaign=976586&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование QA под нейросетью: когда ИИ говорит «Да»](https://habr.com/ru/companies/sberbank/articles/975172/?utm_campaign=975172&utm_source=habrahabr&utm_medium=rss)
 - [Как мы запускали «марсоход» на PostgreSQL: автоматизация кластеров в изолированной среде крупной компании](https://habr.com/ru/companies/jetinfosystems/articles/976520/?utm_campaign=976520&utm_source=habrahabr&utm_medium=rss)
-- [Сколько на самом деле получали тестировщики в 2025 году](https://habr.com/ru/articles/976668/?utm_campaign=976668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

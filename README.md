@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Эффективность QA-лида и способы ее достижения](https://habr.com/ru/companies/otus/articles/977922/?utm_campaign=977922&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Установка и базовое использование Item Browser в Zabbix](https://habr.com/ru/articles/970700/?utm_campaign=970700&utm_source=habrahabr&utm_medium=rss)
 - [Зачем и как автоматизировать Health Check тестовой среды, если вы QA](https://habr.com/ru/companies/skyeng/articles/968090/?utm_campaign=968090&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать AI-приложения — бесплатный курс для QA-инженеров](https://habr.com/ru/articles/977718/?utm_campaign=977718&utm_source=habrahabr&utm_medium=rss)
 - [За 5 лет я научился продавать курсы по QA с помощью личного бренда](https://habr.com/ru/articles/977698/?utm_campaign=977698&utm_source=habrahabr&utm_medium=rss)
-- [Путь самурая, или Как «почти» в одиночку поднять полноценное тестирование продукта](https://habr.com/ru/companies/sberbank/articles/977188/?utm_campaign=977188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

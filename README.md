@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как сэкономить при сдаче ISTQB экзамена &lpar;реальный опыт + цифры&rpar;](https://habr.com/ru/articles/978602/?utm_campaign=978602&utm_source=habrahabr&utm_medium=rss)
 - [Адвент-календарь для тестировщиков 2025](https://habr.com/ru/articles/978558/?utm_campaign=978558&utm_source=habrahabr&utm_medium=rss)
 - [HTB Season Gacha | MonitorsFour — Полный путь от IDOR до Docker Desktop escape &lpar;WSL2&rpar; и root](https://habr.com/ru/articles/978238/?utm_campaign=978238&utm_source=habrahabr&utm_medium=rss)
 - [Как быстро определить тепловые ограничения сервера](https://habr.com/ru/companies/yadro/articles/975014/?utm_campaign=975014&utm_source=habrahabr&utm_medium=rss)
 - [Эффективность QA-лида и способы ее достижения](https://habr.com/ru/companies/otus/articles/977922/?utm_campaign=977922&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Установка и базовое использование Item Browser в Zabbix](https://habr.com/ru/articles/970700/?utm_campaign=970700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

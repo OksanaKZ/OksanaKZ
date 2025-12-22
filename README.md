@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Axiom — тестовый фреймворк для Go, которого нам всегда не хватало](https://habr.com/ru/articles/975478/?utm_campaign=975478&utm_source=habrahabr&utm_medium=rss)
 - [Токсичный QA. Быть или не быть?](https://habr.com/ru/companies/directum/articles/979176/?utm_campaign=979176&utm_source=habrahabr&utm_medium=rss)
 - [Как сэкономить при сдаче ISTQB экзамена &lpar;реальный опыт + цифры&rpar;](https://habr.com/ru/articles/978602/?utm_campaign=978602&utm_source=habrahabr&utm_medium=rss)
 - [Адвент-календарь для тестировщиков 2025](https://habr.com/ru/articles/978558/?utm_campaign=978558&utm_source=habrahabr&utm_medium=rss)
 - [HTB Season Gacha | MonitorsFour — Полный путь от IDOR до Docker Desktop escape &lpar;WSL2&rpar; и root](https://habr.com/ru/articles/978238/?utm_campaign=978238&utm_source=habrahabr&utm_medium=rss)
-- [Как быстро определить тепловые ограничения сервера](https://habr.com/ru/companies/yadro/articles/975014/?utm_campaign=975014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

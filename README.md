@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Думает как хакер, действует как пентестер: что такое автоматическое тестирование на проникновение](https://habr.com/ru/companies/pt/articles/979922/?utm_campaign=979922&utm_source=habrahabr&utm_medium=rss)
 - [Тест-менеджмент по agile: работающая документация](https://habr.com/ru/companies/cinimex/articles/978492/?utm_campaign=978492&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Ваша работа — выпускать код, который доказанно работает](https://habr.com/ru/articles/980006/?utm_campaign=980006&utm_source=habrahabr&utm_medium=rss)
 - [Termidesk Connect vs BIG-IP F5 и Citrix NetScaler: новичок и классика в нагрузочных тестах](https://habr.com/ru/companies/k2tech/articles/979812/?utm_campaign=979812&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировщику написать bug report на английском](https://habr.com/ru/articles/979198/?utm_campaign=979198&utm_source=habrahabr&utm_medium=rss)
-- [Археология автотестирования: SUnit, прародитель JUnit](https://habr.com/ru/companies/testops_tms/articles/979700/?utm_campaign=979700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

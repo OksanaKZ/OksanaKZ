@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Три промпта — три результата: как качество запроса определяет качество автотестов](https://habr.com/ru/companies/rostelecom/articles/980584/?utm_campaign=980584&utm_source=habrahabr&utm_medium=rss)
 - [Теория и практика интеграции СХД с OpenStack](https://habr.com/ru/companies/yadro/articles/973346/?utm_campaign=973346&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] За пределами юнит-тестов: как обрести уверенность в сложных системах](https://habr.com/ru/companies/otus/articles/980454/?utm_campaign=980454&utm_source=habrahabr&utm_medium=rss)
 - [Разделяй и тестируй: @DataJpaTest и @WebMvcTest для быстрых тестов Spring Boot](https://habr.com/ru/companies/otus/articles/978616/?utm_campaign=978616&utm_source=habrahabr&utm_medium=rss)
 - [Думает как хакер, действует как пентестер: что такое автоматическое тестирование на проникновение](https://habr.com/ru/companies/pt/articles/979922/?utm_campaign=979922&utm_source=habrahabr&utm_medium=rss)
-- [Тест-менеджмент по agile: работающая документация](https://habr.com/ru/companies/cinimex/articles/978492/?utm_campaign=978492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

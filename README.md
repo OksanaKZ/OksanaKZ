@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование с плагинами из маркетплейса GigaIDE](https://habr.com/ru/companies/sberbank/articles/980436/?utm_campaign=980436&utm_source=habrahabr&utm_medium=rss)
 - [Ручное управление не делает нас сильнее: как я написал клиент для автоматизации тестирования](https://habr.com/ru/companies/yadro/articles/977142/?utm_campaign=977142&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Словарь flaky-тестов](https://habr.com/ru/companies/otus/articles/980882/?utm_campaign=980882&utm_source=habrahabr&utm_medium=rss)
 - [Округление как зеркало корпоративной культуры в IT-продуктах](https://habr.com/ru/articles/981444/?utm_campaign=981444&utm_source=habrahabr&utm_medium=rss)
 - [Три промпта — три результата: как качество запроса определяет качество автотестов](https://habr.com/ru/companies/rostelecom/articles/980584/?utm_campaign=980584&utm_source=habrahabr&utm_medium=rss)
-- [Теория и практика интеграции СХД с OpenStack](https://habr.com/ru/companies/yadro/articles/973346/?utm_campaign=973346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

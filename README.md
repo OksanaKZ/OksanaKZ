@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Гадание на взломах. Предсказательная сила EPSS](https://habr.com/ru/articles/981876/?utm_campaign=981876&utm_source=habrahabr&utm_medium=rss)
 - [Как устроено фаззинг-тестирование на Go, которое знает о ваших багах больше, чем вы сами](https://habr.com/ru/companies/yadro/articles/981544/?utm_campaign=981544&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование с плагинами из маркетплейса GigaIDE](https://habr.com/ru/companies/sberbank/articles/980436/?utm_campaign=980436&utm_source=habrahabr&utm_medium=rss)
 - [Ручное управление не делает нас сильнее: как я написал клиент для автоматизации тестирования](https://habr.com/ru/companies/yadro/articles/977142/?utm_campaign=977142&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Словарь flaky-тестов](https://habr.com/ru/companies/otus/articles/980882/?utm_campaign=980882&utm_source=habrahabr&utm_medium=rss)
-- [Округление как зеркало корпоративной культуры в IT-продуктах](https://habr.com/ru/articles/981444/?utm_campaign=981444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

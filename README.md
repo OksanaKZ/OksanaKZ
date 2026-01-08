@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нечёткое тестирование свойств](https://habr.com/ru/articles/983538/?utm_campaign=983538&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатная нейросеть-астролог с разбором натальных карт — как и зачем мы его запилили](https://habr.com/ru/companies/aipanda/articles/983478/?utm_campaign=983478&utm_source=habrahabr&utm_medium=rss)
 - [Создаем свой проектный фреймворк автотестирования API [Часть 1/3]](https://habr.com/ru/articles/982624/?utm_campaign=982624&utm_source=habrahabr&utm_medium=rss)
 - [Универсальный автогенератор тестов API на базе Schemathesis](https://habr.com/ru/articles/982616/?utm_campaign=982616&utm_source=habrahabr&utm_medium=rss)
 - [Гадание на взломах. Предсказательная сила EPSS](https://habr.com/ru/articles/981876/?utm_campaign=981876&utm_source=habrahabr&utm_medium=rss)
-- [Как устроено фаззинг-тестирование на Go, которое знает о ваших багах больше, чем вы сами](https://habr.com/ru/companies/yadro/articles/981544/?utm_campaign=981544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

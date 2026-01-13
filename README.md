@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мышление QA: что происходит у меня в голове, когда я тестирую](https://habr.com/ru/companies/banki/articles/984356/?utm_campaign=984356&utm_source=habrahabr&utm_medium=rss)
+- [Фаззинг телекома с генетическим алгоритмом: как тестировать продукт на безопасность, если обычных методов недостаточно](https://habr.com/ru/companies/yadro/articles/981842/?utm_campaign=981842&utm_source=habrahabr&utm_medium=rss)
 - [Mock API для QA: Mockoon + ngrok](https://habr.com/ru/articles/982628/?utm_campaign=982628&utm_source=habrahabr&utm_medium=rss)
 - [Как протестировать собственный контроллер памяти SDRAM на FPGA](https://habr.com/ru/articles/984236/?utm_campaign=984236&utm_source=habrahabr&utm_medium=rss)
 - [Компрометировать изнутри: как фокус хакеров переключился с внешней инфраструктуры на внутреннюю](https://habr.com/ru/articles/984346/?utm_campaign=984346&utm_source=habrahabr&utm_medium=rss)
-- [Рынок QA без входа: почему junior и manual исчезают из вакансий &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982050/?utm_campaign=982050&utm_source=habrahabr&utm_medium=rss)
-- [Как готовиться к cобеседованию с лайв-кодингом QA](https://habr.com/ru/articles/983892/?utm_campaign=983892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как начать тестировать внутренние покупки &lpar;In-App Purchases&rpar; на Android](https://habr.com/ru/articles/930204/?utm_campaign=930204&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование LLM-приложений с DeepEval](https://habr.com/ru/articles/984968/?utm_campaign=984968&utm_source=habrahabr&utm_medium=rss)
 - [Почему я выбрал Suno AI для создания мемного альбома «Вася Тестировщик»?](https://habr.com/ru/articles/984790/?utm_campaign=984790&utm_source=habrahabr&utm_medium=rss)
 - [Assumed Breach как эволюция подходов к внутреннему пентесту](https://habr.com/ru/companies/bastion/articles/984400/?utm_campaign=984400&utm_source=habrahabr&utm_medium=rss)
 - [Мышление QA: что происходит у меня в голове, когда я тестирую](https://habr.com/ru/companies/banki/articles/984356/?utm_campaign=984356&utm_source=habrahabr&utm_medium=rss)
-- [Фаззинг телекома с генетическим алгоритмом: как тестировать продукт на безопасность, если обычных методов недостаточно](https://habr.com/ru/companies/yadro/articles/981842/?utm_campaign=981842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

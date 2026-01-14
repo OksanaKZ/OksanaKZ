@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Хотят многие, делают единицы: наш опыт автоматизации рутины пентеста](https://habr.com/ru/companies/pt/articles/984606/?utm_campaign=984606&utm_source=habrahabr&utm_medium=rss)
 - [Полезные ресурсы для тестировщиков: подборка от специалистов Selectel](https://habr.com/ru/companies/selectel/articles/985060/?utm_campaign=985060&utm_source=habrahabr&utm_medium=rss)
 - [Как начать тестировать внутренние покупки &lpar;In-App Purchases&rpar; на Android](https://habr.com/ru/articles/930204/?utm_campaign=930204&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование LLM-приложений с DeepEval](https://habr.com/ru/articles/984968/?utm_campaign=984968&utm_source=habrahabr&utm_medium=rss)
 - [Почему я выбрал Suno AI для создания мемного альбома «Вася Тестировщик»?](https://habr.com/ru/articles/984790/?utm_campaign=984790&utm_source=habrahabr&utm_medium=rss)
-- [Assumed Breach как эволюция подходов к внутреннему пентесту](https://habr.com/ru/companies/bastion/articles/984400/?utm_campaign=984400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

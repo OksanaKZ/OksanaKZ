@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Меланхолия тестировщика: почему метрики врут &lpar;Часть 1&rpar;](https://habr.com/ru/companies/rostelecom/articles/985732/?utm_campaign=985732&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем железо на заводе, в РЧЦ и дома: два доклада и дискуссия с QA-инженерами](https://habr.com/ru/companies/yadro/articles/985464/?utm_campaign=985464&utm_source=habrahabr&utm_medium=rss)
 - [Мы пробили новое дно: change request-ы и баг-репорты, которые никто не понимает](https://habr.com/ru/articles/985084/?utm_campaign=985084&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция QA: от ручного тестирования к TestOps](https://habr.com/ru/companies/ctsg/articles/985128/?utm_campaign=985128&utm_source=habrahabr&utm_medium=rss)
 - [Хотят многие, делают единицы: наш опыт автоматизации рутины пентеста](https://habr.com/ru/companies/pt/articles/984606/?utm_campaign=984606&utm_source=habrahabr&utm_medium=rss)
-- [Полезные ресурсы для тестировщиков: подборка от специалистов Selectel](https://habr.com/ru/companies/selectel/articles/985060/?utm_campaign=985060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

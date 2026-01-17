@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Декарт, Поппер и баг в продакшене, или почему самый полезный предмет в моей карьере не имел отношения к ИТ](https://habr.com/ru/articles/986020/?utm_campaign=986020&utm_source=habrahabr&utm_medium=rss)
 - [Полный дуплекс по SRT на Pro Convert Audio DX: двустороннее стерео-аудио через USB и VLC](https://habr.com/ru/articles/985804/?utm_campaign=985804&utm_source=habrahabr&utm_medium=rss)
 - [Меланхолия тестировщика: почему метрики врут &lpar;Часть 1&rpar;](https://habr.com/ru/companies/rostelecom/articles/985732/?utm_campaign=985732&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем железо на заводе, в РЧЦ и дома: два доклада и дискуссия с QA-инженерами](https://habr.com/ru/companies/yadro/articles/985464/?utm_campaign=985464&utm_source=habrahabr&utm_medium=rss)
 - [Мы пробили новое дно: change request-ы и баг-репорты, которые никто не понимает](https://habr.com/ru/articles/985084/?utm_campaign=985084&utm_source=habrahabr&utm_medium=rss)
-- [Эволюция QA: от ручного тестирования к TestOps](https://habr.com/ru/companies/ctsg/articles/985128/?utm_campaign=985128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Не junior-стек: какие технологии на самом деле требует рынок QA &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982052/?utm_campaign=982052&utm_source=habrahabr&utm_medium=rss)
 - [Разрабатываем тестовый стенд с автономным ИИ-агентом QA, способным заменить тестировщика в команде разработки бэкенда](https://habr.com/ru/articles/986350/?utm_campaign=986350&utm_source=habrahabr&utm_medium=rss)
 - [Что мне не нравится в текущем подходе к QAA](https://habr.com/ru/articles/986130/?utm_campaign=986130&utm_source=habrahabr&utm_medium=rss)
 - [Как писать тест‑кейсы, которые не устаревают через месяц](https://habr.com/ru/articles/985624/?utm_campaign=985624&utm_source=habrahabr&utm_medium=rss)
 - [Декарт, Поппер и баг в продакшене, или почему самый полезный предмет в моей карьере не имел отношения к ИТ](https://habr.com/ru/articles/986020/?utm_campaign=986020&utm_source=habrahabr&utm_medium=rss)
-- [Полный дуплекс по SRT на Pro Convert Audio DX: двустороннее стерео-аудио через USB и VLC](https://habr.com/ru/articles/985804/?utm_campaign=985804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

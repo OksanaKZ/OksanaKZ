@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Внедряем Testcontainers за два дня или как перестать бояться рефакторинга и начать доверять своим тестам](https://habr.com/ru/articles/986870/?utm_campaign=986870&utm_source=habrahabr&utm_medium=rss)
 - [Наблюдаемое нагрузочное тестирование: Locust + OpenTelemetry](https://habr.com/ru/companies/otus/articles/986734/?utm_campaign=986734&utm_source=habrahabr&utm_medium=rss)
 - [Как автоматизировать сертификационное тестирование дисковых массивов: несколько секретов](https://habr.com/ru/companies/yadro/articles/980404/?utm_campaign=980404&utm_source=habrahabr&utm_medium=rss)
 - [Apidog: выходные с инструментом, который пытается заменить Postman](https://habr.com/ru/companies/rostelecom/articles/986494/?utm_campaign=986494&utm_source=habrahabr&utm_medium=rss)
 - [Не junior-стек: какие технологии на самом деле требует рынок QA &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982052/?utm_campaign=982052&utm_source=habrahabr&utm_medium=rss)
-- [Разрабатываем тестовый стенд с автономным ИИ-агентом QA, способным заменить тестировщика в команде разработки бэкенда](https://habr.com/ru/articles/986350/?utm_campaign=986350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

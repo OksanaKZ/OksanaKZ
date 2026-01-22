@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Docker для QA-инженеров](https://habr.com/ru/companies/otus/articles/987622/?utm_campaign=987622&utm_source=habrahabr&utm_medium=rss)
 - [Red team: если хочешь защититься от преступника, думай, как он](https://habr.com/ru/companies/habr_rutube/articles/985874/?utm_campaign=985874&utm_source=habrahabr&utm_medium=rss)
 - [Аудит QA-процессов: кто сторожит стражей](https://habr.com/ru/companies/tbank/articles/987132/?utm_campaign=987132&utm_source=habrahabr&utm_medium=rss)
 - [EVA: Методология. Как оценивать качество тестов, а не их количество &lpar;Часть 2&rpar;](https://habr.com/ru/companies/rostelecom/articles/987244/?utm_campaign=987244&utm_source=habrahabr&utm_medium=rss)
 - [Как попарное тестирование спасло нас ещё до первой строчки кода](https://habr.com/ru/companies/domclick/articles/984862/?utm_campaign=984862&utm_source=habrahabr&utm_medium=rss)
-- [Внедряем Testcontainers за два дня или как перестать бояться рефакторинга и начать доверять своим тестам](https://habr.com/ru/articles/986870/?utm_campaign=986870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

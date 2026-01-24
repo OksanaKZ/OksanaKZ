@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что мы считаем, когда считаем эффективность: от парового двигателя до нейросетей](https://habr.com/ru/articles/988444/?utm_campaign=988444&utm_source=habrahabr&utm_medium=rss)
 - [Войти в айти в 2026 году](https://habr.com/ru/companies/rshb/articles/988162/?utm_campaign=988162&utm_source=habrahabr&utm_medium=rss)
 - [От «спагетти-кода» к чистым сценариям. Как Page Object Model помог нам преодолеть техдолг в автотестах](https://habr.com/ru/articles/988096/?utm_campaign=988096&utm_source=habrahabr&utm_medium=rss)
 - [Почему «заканчивается» время в iOS-будильнике и как мы искали предел в часах Samsung](https://habr.com/ru/articles/987822/?utm_campaign=987822&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Docker для QA-инженеров](https://habr.com/ru/companies/otus/articles/987622/?utm_campaign=987622&utm_source=habrahabr&utm_medium=rss)
-- [Red team: если хочешь защититься от преступника, думай, как он](https://habr.com/ru/companies/habr_rutube/articles/985874/?utm_campaign=985874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

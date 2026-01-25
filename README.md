@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Компромиссы](https://habr.com/ru/articles/988846/?utm_campaign=988846&utm_source=habrahabr&utm_medium=rss)
+- [Компромиссы построчной вставки в БД и батчинга](https://habr.com/ru/articles/988846/?utm_campaign=988846&utm_source=habrahabr&utm_medium=rss)
 - [За пределами LLM: детерминированный движок рассуждения на конечном алфавите](https://habr.com/ru/articles/988698/?utm_campaign=988698&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Стив Фриман, Нэт Прайс, Тим Маккиннон, Джо Уорнc «Мокируем роли, а не объекты»](https://habr.com/ru/articles/988518/?utm_campaign=988518&utm_source=habrahabr&utm_medium=rss)
 - [Что мы считаем, когда считаем эффективность: от парового двигателя до нейросетей](https://habr.com/ru/articles/988444/?utm_campaign=988444&utm_source=habrahabr&utm_medium=rss)

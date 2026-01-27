@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [EVA: Инструмент. От нейросетей к детерминизму &lpar;Часть 3&rpar;](https://habr.com/ru/articles/989340/?utm_campaign=989340&utm_source=habrahabr&utm_medium=rss)
 - [FFmpeg: уменьшаем размер видео](https://habr.com/ru/articles/988616/?utm_campaign=988616&utm_source=habrahabr&utm_medium=rss)
 - [Работа с нестабильными тестами в Allure 3](https://habr.com/ru/companies/testops_tms/articles/988980/?utm_campaign=988980&utm_source=habrahabr&utm_medium=rss)
 - [В QA платят не за тестирование: анализ зарплат по 2500 вакансиям](https://habr.com/ru/articles/982182/?utm_campaign=982182&utm_source=habrahabr&utm_medium=rss)
 - [Компромиссы построчной вставки в БД и батчинга](https://habr.com/ru/articles/988846/?utm_campaign=988846&utm_source=habrahabr&utm_medium=rss)
-- [За пределами LLM: детерминированный движок рассуждения на конечном алфавите](https://habr.com/ru/articles/988698/?utm_campaign=988698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

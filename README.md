@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [QA и SRE – две стороны одной медали](https://habr.com/ru/companies/tbank/articles/989606/?utm_campaign=989606&utm_source=habrahabr&utm_medium=rss)
 - [Обход ограничений сети на рабочем ПК](https://habr.com/ru/articles/989762/?utm_campaign=989762&utm_source=habrahabr&utm_medium=rss)
 - [Что происходит с почтовым сервером при смешанной рабочей нагрузке SMTP и XIMSS](https://habr.com/ru/companies/k2tech/articles/989420/?utm_campaign=989420&utm_source=habrahabr&utm_medium=rss)
 - [EVA: Инструмент. От нейросетей к детерминизму &lpar;Часть 3&rpar;](https://habr.com/ru/articles/989340/?utm_campaign=989340&utm_source=habrahabr&utm_medium=rss)
 - [FFmpeg: уменьшаем размер видео](https://habr.com/ru/articles/988616/?utm_campaign=988616&utm_source=habrahabr&utm_medium=rss)
-- [Работа с нестабильными тестами в Allure 3](https://habr.com/ru/companies/testops_tms/articles/988980/?utm_campaign=988980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От монолога к диалогу: Как “Три амиго” научили нас сверять карты перед стартом](https://habr.com/ru/articles/992368/?utm_campaign=992368&utm_source=habrahabr&utm_medium=rss)
 - [Взлом андроида Unitree G1. От радиоперехвата до джейлбрейка прошивки](https://habr.com/ru/companies/bastion/articles/989912/?utm_campaign=989912&utm_source=habrahabr&utm_medium=rss)
 - [Как мы «усложнили жизнь» автотестам и повысили качество тестирования](https://habr.com/ru/articles/991720/?utm_campaign=991720&utm_source=habrahabr&utm_medium=rss)
 - [Postman удобен ровно до тех пор, пока не слил секреты твоего прода](https://habr.com/ru/companies/haulmont/articles/990732/?utm_campaign=990732&utm_source=habrahabr&utm_medium=rss)
 - [Как писать API-автотесты на Go: Axiom, Resty, Testify, Allure и запуск в CI/CD](https://habr.com/ru/articles/991694/?utm_campaign=991694&utm_source=habrahabr&utm_medium=rss)
-- [Путешествие внутрь YADRO. Часть 3: распаковка и тест-драйв TATLIN.UNIFIED Gen2](https://habr.com/ru/companies/k2tech/articles/990008/?utm_campaign=990008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

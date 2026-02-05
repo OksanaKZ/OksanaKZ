@@ -39,6 +39,6 @@
 - [GitHub Copilot Custom Agents: от универсального чата к специализированным ролям &lpar;на примере VS Code&rpar;](https://habr.com/ru/articles/993252/?utm_campaign=993252&utm_source=habrahabr&utm_medium=rss)
 - [Sec в DevSecOps — в чем разница подходов](https://habr.com/ru/companies/chislitellab/articles/991648/?utm_campaign=991648&utm_source=habrahabr&utm_medium=rss)
 - [Cursor AI для ревью ручных тест-кейсов в TestOps](https://habr.com/ru/companies/vkusvill/articles/993090/?utm_campaign=993090&utm_source=habrahabr&utm_medium=rss)
-- [Стресс-тесты и оптимизация ИИ-агентов — открытые инструменты](https://habr.com/ru/companies/beeline_cloud/articles/992814/?utm_campaign=992814&utm_source=habrahabr&utm_medium=rss)
+- [Стресс-тесты, информационная безопасность и оптимизация ИИ-агентов — открытые инструменты](https://habr.com/ru/companies/beeline_cloud/articles/992814/?utm_campaign=992814&utm_source=habrahabr&utm_medium=rss)
 - [Российское сердце всея телеком: как мы тестируем компоненты для импортозамещения ядра мобильной сети](https://habr.com/ru/companies/rtk_service/articles/992774/?utm_campaign=992774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

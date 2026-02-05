@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Открытые инструменты для стресс-тестов, семантических проверок и оптимизации ИИ-агентов](https://habr.com/ru/companies/beeline_cloud/articles/992814/?utm_campaign=992814&utm_source=habrahabr&utm_medium=rss)
+- [Стресс-тесты и оптимизация ИИ-агентов — открытые инструменты](https://habr.com/ru/companies/beeline_cloud/articles/992814/?utm_campaign=992814&utm_source=habrahabr&utm_medium=rss)
 - [Российское сердце всея телеком: как мы тестируем компоненты для импортозамещения ядра мобильной сети](https://habr.com/ru/companies/rtk_service/articles/992774/?utm_campaign=992774&utm_source=habrahabr&utm_medium=rss)
 - [Обзор QA-экосистемы Saby](https://habr.com/ru/companies/tensor/articles/992750/?utm_campaign=992750&utm_source=habrahabr&utm_medium=rss)
 - [Миграция автотестов с Cypress на Playwright](https://habr.com/ru/articles/992500/?utm_campaign=992500&utm_source=habrahabr&utm_medium=rss)

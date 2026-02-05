@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Cursor AI для ревью ручных тест-кейсов в TestOps](https://habr.com/ru/companies/vkusvill/articles/993090/?utm_campaign=993090&utm_source=habrahabr&utm_medium=rss)
 - [Стресс-тесты и оптимизация ИИ-агентов — открытые инструменты](https://habr.com/ru/companies/beeline_cloud/articles/992814/?utm_campaign=992814&utm_source=habrahabr&utm_medium=rss)
 - [Российское сердце всея телеком: как мы тестируем компоненты для импортозамещения ядра мобильной сети](https://habr.com/ru/companies/rtk_service/articles/992774/?utm_campaign=992774&utm_source=habrahabr&utm_medium=rss)
 - [Обзор QA-экосистемы Saby](https://habr.com/ru/companies/tensor/articles/992750/?utm_campaign=992750&utm_source=habrahabr&utm_medium=rss)
 - [Миграция автотестов с Cypress на Playwright](https://habr.com/ru/articles/992500/?utm_campaign=992500&utm_source=habrahabr&utm_medium=rss)
-- [От монолога к диалогу: как «Три амиго» научили нас сверять карты перед стартом](https://habr.com/ru/articles/992368/?utm_campaign=992368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

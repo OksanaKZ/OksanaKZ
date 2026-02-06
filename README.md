@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Флоу вайб-кодинга с Claude Code + speckit](https://habr.com/ru/articles/993774/?utm_campaign=993774&utm_source=habrahabr&utm_medium=rss)
 - [Куда расти верификатору: два основных трека и матрица компетенций](https://habr.com/ru/companies/yadro/articles/993198/?utm_campaign=993198&utm_source=habrahabr&utm_medium=rss)
 - [Дело о ненужной рекомендательной системе, сделанной с помощью AI](https://habr.com/ru/articles/993568/?utm_campaign=993568&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в 2026: Manual VS Auto](https://habr.com/ru/articles/987172/?utm_campaign=987172&utm_source=habrahabr&utm_medium=rss)
 - [Kaken — как мы внедрили четыре AI-сервиса для собственного использования](https://habr.com/ru/companies/selectel/articles/993434/?utm_campaign=993434&utm_source=habrahabr&utm_medium=rss)
-- [Что спросить у тимлида в первый день на проекте?](https://habr.com/ru/articles/985974/?utm_campaign=985974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

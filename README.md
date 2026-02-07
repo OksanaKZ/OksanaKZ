@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Уведомления от Claude Code в Telegram с Hooks](https://habr.com/ru/articles/993964/?utm_campaign=993964&utm_source=habrahabr&utm_medium=rss)
 - [Первый месяц в Bug Bounty: итоги, цифры и выученные уроки](https://habr.com/ru/articles/993926/?utm_campaign=993926&utm_source=habrahabr&utm_medium=rss)
 - [Подсушенный флоу вайб-кодинга с Claude Code + speckit](https://habr.com/ru/articles/993774/?utm_campaign=993774&utm_source=habrahabr&utm_medium=rss)
 - [Куда расти верификатору: два основных трека и матрица компетенций](https://habr.com/ru/companies/yadro/articles/993198/?utm_campaign=993198&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование аналитики: зачем QA лезет в данные и как это помогает продукту](https://habr.com/ru/companies/cian/articles/993346/?utm_campaign=993346&utm_source=habrahabr&utm_medium=rss)
-- [Дело о ненужной рекомендательной системе, сделанной с помощью AI](https://habr.com/ru/articles/993568/?utm_campaign=993568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

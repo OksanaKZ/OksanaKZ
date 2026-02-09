@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Первая работа в QA: выбор компании, подготовка с ИИ и 7 красных флагов работодателя](https://habr.com/ru/companies/2gis/articles/986774/?utm_campaign=986774&utm_source=habrahabr&utm_medium=rss)
 - [Prompt Worms Часть 2: Я проверил на практике — 31 уязвимость в экосистеме AI-агента](https://habr.com/ru/articles/994230/?utm_campaign=994230&utm_source=habrahabr&utm_medium=rss)
 - [Ваш отчет никто не читает: Как мы научили разработчиков понимать падения тестов за 30 секунд?](https://habr.com/ru/articles/994112/?utm_campaign=994112&utm_source=habrahabr&utm_medium=rss)
 - [Самописные уведомления от Claude Code в Telegram](https://habr.com/ru/articles/993964/?utm_campaign=993964&utm_source=habrahabr&utm_medium=rss)
 - [Первый месяц в Bug Bounty: итоги, цифры и выученные уроки](https://habr.com/ru/articles/993926/?utm_campaign=993926&utm_source=habrahabr&utm_medium=rss)
-- [Подсушенный флоу вайб-кодинга с Claude Code + speckit](https://habr.com/ru/articles/993774/?utm_campaign=993774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

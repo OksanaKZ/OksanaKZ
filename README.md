@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Главная цель Continuous Integration — это провал](https://habr.com/ru/articles/994888/?utm_campaign=994888&utm_source=habrahabr&utm_medium=rss)
 - [Cucumber должен умереть: Как с помощью BDR превратить код в отчеты без регулярок и регистрации?](https://habr.com/ru/articles/994732/?utm_campaign=994732&utm_source=habrahabr&utm_medium=rss)
 - [250 тестов вручную? Нет, спасибо. Автоматизируем screenshot-тестирование через Compose Preview](https://habr.com/ru/companies/sovcombank_technologies/articles/993170/?utm_campaign=993170&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ETL: практический взгляд и подводные камни](https://habr.com/ru/companies/slsoft/articles/994386/?utm_campaign=994386&utm_source=habrahabr&utm_medium=rss)
 - [Ваше собеседование уже слили. Рынок, где работают «волки»](https://habr.com/ru/articles/993356/?utm_campaign=993356&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование в спортивном программировании: приемы и советы](https://habr.com/ru/articles/994516/?utm_campaign=994516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

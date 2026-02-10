@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ваше собеседование уже слили. Рынок, где работают «волки»](https://habr.com/ru/articles/993356/?utm_campaign=993356&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование в спортивном программировании: приемы и советы](https://habr.com/ru/articles/994516/?utm_campaign=994516&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование механизмов балансировки на Kaspersky SD-WAN](https://habr.com/ru/companies/icl_group/articles/994484/?utm_campaign=994484&utm_source=habrahabr&utm_medium=rss)
 - [Первая работа в QA: выбор компании, подготовка с ИИ и 7 красных флагов работодателя](https://habr.com/ru/companies/2gis/articles/986774/?utm_campaign=986774&utm_source=habrahabr&utm_medium=rss)
 - [OpenClaw &lpar;бывший Clawbot&rpar; Prompt Worms Часть 2: Я проверил на практике — 31 уязвимость в экосистеме AI-агента](https://habr.com/ru/articles/994230/?utm_campaign=994230&utm_source=habrahabr&utm_medium=rss)
-- [Ваш отчет никто не читает: Как мы научили разработчиков понимать падения тестов за 30 секунд?](https://habr.com/ru/articles/994112/?utm_campaign=994112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

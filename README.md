@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От vibe coding к Spec-Driven Development: как приручить скорость ИИ и довести проект до продакшена](https://habr.com/ru/companies/X5Tech/articles/995466/?utm_campaign=995466&utm_source=habrahabr&utm_medium=rss)
+- [BDR Handbook: Архитектура живой документации на 1000+ тестов](https://habr.com/ru/articles/995694/?utm_campaign=995694&utm_source=habrahabr&utm_medium=rss)
 - [Сравнение тестовых фреймворков: Cypress vs Playwright vs Selenium](https://habr.com/ru/articles/995626/?utm_campaign=995626&utm_source=habrahabr&utm_medium=rss)
 - [WebSocket на Go: от эксперимента до production-ready решения](https://habr.com/ru/articles/995284/?utm_campaign=995284&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Главная цель Continuous Integration — это провал](https://habr.com/ru/articles/994888/?utm_campaign=994888&utm_source=habrahabr&utm_medium=rss)
-- [Cucumber должен умереть: Как с помощью BDR превратить код в отчеты без регулярок и регистрации?](https://habr.com/ru/articles/994732/?utm_campaign=994732&utm_source=habrahabr&utm_medium=rss)
-- [250 тестов вручную? Нет, спасибо. Автоматизируем screenshot-тестирование через Compose Preview](https://habr.com/ru/companies/sovcombank_technologies/articles/993170/?utm_campaign=993170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

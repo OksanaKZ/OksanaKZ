@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сравнение тестовых фреймворков: Cypress vs Playwright vs Selenium](https://habr.com/ru/articles/995626/?utm_campaign=995626&utm_source=habrahabr&utm_medium=rss)
 - [WebSocket на Go: от эксперимента до production-ready решения](https://habr.com/ru/articles/995284/?utm_campaign=995284&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Главная цель Continuous Integration — это провал](https://habr.com/ru/articles/994888/?utm_campaign=994888&utm_source=habrahabr&utm_medium=rss)
 - [Cucumber должен умереть: Как с помощью BDR превратить код в отчеты без регулярок и регистрации?](https://habr.com/ru/articles/994732/?utm_campaign=994732&utm_source=habrahabr&utm_medium=rss)
 - [250 тестов вручную? Нет, спасибо. Автоматизируем screenshot-тестирование через Compose Preview](https://habr.com/ru/companies/sovcombank_technologies/articles/993170/?utm_campaign=993170&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование ETL: практический взгляд и подводные камни](https://habr.com/ru/companies/slsoft/articles/994386/?utm_campaign=994386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

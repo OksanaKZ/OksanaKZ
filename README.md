@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Школьная информатика в составлении тест-кейсов авторизации](https://habr.com/ru/articles/996838/?utm_campaign=996838&utm_source=habrahabr&utm_medium=rss)
 - [Как QA-инженеру вырасти из джуна в руководителя?](https://habr.com/ru/companies/avito/articles/996160/?utm_campaign=996160&utm_source=habrahabr&utm_medium=rss)
 - [Тапают роботы, счастлив человек: как мы сделали робопалец для тестов устройств с мобильной ОС](https://habr.com/ru/companies/kaspersky/articles/993172/?utm_campaign=993172&utm_source=habrahabr&utm_medium=rss)
 - [5 техник тест-дизайна, которые реально спрашивают на собеседованиях](https://habr.com/ru/articles/996060/?utm_campaign=996060&utm_source=habrahabr&utm_medium=rss)
 - [Почему индустриальный подход к качеству важнее Agile-ритуалов](https://habr.com/ru/articles/995772/?utm_campaign=995772&utm_source=habrahabr&utm_medium=rss)
-- [От vibe coding к Spec-Driven Development: как приручить скорость ИИ и довести проект до продакшена](https://habr.com/ru/companies/X5Tech/articles/995466/?utm_campaign=995466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Беда “войти в айти” или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_campaign=996678&utm_source=habrahabr&utm_medium=rss)
+- [Беда «войти в айти» или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_campaign=996678&utm_source=habrahabr&utm_medium=rss)
 - [7 подводных камней собеседований, о которых кандидаты узнают слишком поздно](https://habr.com/ru/articles/966260/?utm_campaign=966260&utm_source=habrahabr&utm_medium=rss)
 - [API и Security Testing на собеседованиях: полный разбор с примерами задач](https://habr.com/ru/articles/996914/?utm_campaign=996914&utm_source=habrahabr&utm_medium=rss)
 - [«Вроде всё правильно, но не работает»: как я перестал дебажить “на глаз” и собрал evidence-first пайплайн](https://habr.com/ru/articles/996850/?utm_campaign=996850&utm_source=habrahabr&utm_medium=rss)

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему оркестр не играет без дирижёра, а команда — без QA и менеджера](https://habr.com/ru/articles/1000404/?utm_campaign=1000404&utm_source=habrahabr&utm_medium=rss)
 - [Как перейти на тестирование мобильных приложений и не сойти с ума](https://habr.com/ru/companies/lanit/articles/992994/?utm_campaign=992994&utm_source=habrahabr&utm_medium=rss)
 - [Soft Skills для тестировщика: почему «мягкие» навыки важнее «жестких» скриптов](https://habr.com/ru/articles/992042/?utm_campaign=992042&utm_source=habrahabr&utm_medium=rss)
 - [«Важно доставлять, а не понимать» — идеальный способ работы с нейросетями](https://habr.com/ru/articles/1000140/?utm_campaign=1000140&utm_source=habrahabr&utm_medium=rss)
 - [Может ли ИИ заменить QA?](https://habr.com/ru/companies/otus/articles/996888/?utm_campaign=996888&utm_source=habrahabr&utm_medium=rss)
-- [Standoff Defend: как поддерживать киберустойчивость компании с помощью реалистичных симуляций атак](https://habr.com/ru/companies/pt/articles/996332/?utm_campaign=996332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

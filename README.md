@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Разобрать по косточкам. «Песочницы» и бенчмарки для оценки качества кода, сгенерированного системой ИИ](https://habr.com/ru/companies/beeline_cloud/articles/1001188/?utm_campaign=1001188&utm_source=habrahabr&utm_medium=rss)
 - [Смарт-контракт без иллюзий: разговор с Solidity-аудитором](https://habr.com/ru/companies/pt/articles/1000584/?utm_campaign=1000584&utm_source=habrahabr&utm_medium=rss)
 - [Надежный код: как писать тесты, чтобы запускать фичи в продакшен одним днем](https://habr.com/ru/companies/mindbox/articles/1000090/?utm_campaign=1000090&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать AI-приложения — LLM метрики](https://habr.com/ru/articles/1000796/?utm_campaign=1000796&utm_source=habrahabr&utm_medium=rss)
 - [Как одна форма обратной связи привела к компрометации helpdesk-учетки банка](https://habr.com/ru/companies/pt/articles/996352/?utm_campaign=996352&utm_source=habrahabr&utm_medium=rss)
-- [Почему оркестр не играет без дирижёра, а команда — без QA и менеджера](https://habr.com/ru/articles/1000404/?utm_campaign=1000404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

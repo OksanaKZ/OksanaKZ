@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Не самый сильный разработчик в комнате: как из QA я стала тимлидом разработки](https://habr.com/ru/companies/ozontech/articles/1001082/?utm_campaign=1001082&utm_source=habrahabr&utm_medium=rss)
 - [Как писать юнит-тесты, которые не ломаются](https://habr.com/ru/companies/avito/articles/1001170/?utm_campaign=1001170&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] На что кодинг-агенты тратят наши токены](https://habr.com/ru/articles/1001866/?utm_campaign=1001866&utm_source=habrahabr&utm_medium=rss)
 - [Как разрабатывать утилиты для тестов embedded-прошивок без железа: практика Test Driven Development](https://habr.com/ru/companies/yadro/articles/1001256/?utm_campaign=1001256&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как в Netflix масштабируют постобучение LLM](https://habr.com/ru/companies/piter/articles/1001790/?utm_campaign=1001790&utm_source=habrahabr&utm_medium=rss)
-- [System Design для QA: о чём вас спросят на собеседовании](https://habr.com/ru/articles/1001692/?utm_campaign=1001692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

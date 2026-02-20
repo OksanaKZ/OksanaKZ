@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как разрабатывать утилиты для тестов embedded-прошивок без железа: практика Test Driven Development](https://habr.com/ru/companies/yadro/articles/1001256/?utm_campaign=1001256&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как в Netflix масштабируют постобучение LLM](https://habr.com/ru/companies/piter/articles/1001790/?utm_campaign=1001790&utm_source=habrahabr&utm_medium=rss)
 - [System Design для QA: о чём вас спросят на собеседовании](https://habr.com/ru/articles/1001692/?utm_campaign=1001692&utm_source=habrahabr&utm_medium=rss)
 - [RAG Testing: как не сломать retrieval](https://habr.com/ru/articles/1001682/?utm_campaign=1001682&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Руководство по ArchUnit — как модульно тестировать архитектуру](https://habr.com/ru/companies/spring_aio/articles/1001486/?utm_campaign=1001486&utm_source=habrahabr&utm_medium=rss)
-- [Разобрать по косточкам. «Песочницы» и бенчмарки для оценки качества кода, сгенерированного системой ИИ](https://habr.com/ru/companies/beeline_cloud/articles/1001188/?utm_campaign=1001188&utm_source=habrahabr&utm_medium=rss)
-- [Смарт-контракт без иллюзий: разговор с Solidity-аудитором](https://habr.com/ru/companies/pt/articles/1000584/?utm_campaign=1000584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

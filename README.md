@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Руководство по настройке отчётов через плагины в Allure 3](https://habr.com/ru/companies/testops_tms/articles/1003302/?utm_campaign=1003302&utm_source=habrahabr&utm_medium=rss)
 - [Архитектурная бомба замедленного действия](https://habr.com/ru/articles/1002604/?utm_campaign=1002604&utm_source=habrahabr&utm_medium=rss)
 - [Как продают иллюзию входа в QA в 2026 году](https://habr.com/ru/articles/978968/?utm_campaign=978968&utm_source=habrahabr&utm_medium=rss)
 - [Не самый сильный разработчик в комнате: как из QA я стала тимлидом разработки](https://habr.com/ru/companies/ozontech/articles/1001082/?utm_campaign=1001082&utm_source=habrahabr&utm_medium=rss)
 - [Как писать юнит-тесты, которые не ломаются](https://habr.com/ru/companies/avito/articles/1001170/?utm_campaign=1001170&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] На что кодинг-агенты тратят наши токены](https://habr.com/ru/articles/1001866/?utm_campaign=1001866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

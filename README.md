@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [1 тест = 1 проверка. Чем хорош принцип атомарности в автотестах в Postman](https://habr.com/ru/articles/1003554/?utm_campaign=1003554&utm_source=habrahabr&utm_medium=rss)
 - [Изнанка абсолютной власти единственного тестировщика](https://habr.com/ru/companies/tochka/articles/989072/?utm_campaign=989072&utm_source=habrahabr&utm_medium=rss)
 - [Параллельный запуск автотестов на Java: лучшие практики для стабильного CI/CD](https://habr.com/ru/companies/otus/articles/994236/?utm_campaign=994236&utm_source=habrahabr&utm_medium=rss)
 - [Руководство по настройке отчётов через плагины в Allure 3](https://habr.com/ru/companies/testops_tms/articles/1003302/?utm_campaign=1003302&utm_source=habrahabr&utm_medium=rss)
 - [Архитектурная бомба замедленного действия](https://habr.com/ru/articles/1002604/?utm_campaign=1002604&utm_source=habrahabr&utm_medium=rss)
-- [Как продают иллюзию входа в QA в 2026 году](https://habr.com/ru/articles/978968/?utm_campaign=978968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -37,7 +37,7 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Нет времени на тесты — через неделю релиз](https://habr.com/ru/articles/1004396/?utm_campaign=1004396&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем тесты в Отелло: эволюция работы с flaky-тестами](https://habr.com/ru/companies/2gis/articles/995782/?utm_campaign=995782&utm_source=habrahabr&utm_medium=rss)
+- [Эволюция работы с flaky-тестами в Отелло](https://habr.com/ru/companies/2gis/articles/995782/?utm_campaign=995782&utm_source=habrahabr&utm_medium=rss)
 - [Инклюзивность без галочки: как мы внедряли доступность в большой продукт и не развалили архитектуру](https://habr.com/ru/articles/1004332/?utm_campaign=1004332&utm_source=habrahabr&utm_medium=rss)
 - [Мутационное тестирование &lpar;Как я учил байт-код плавать&rpar;](https://habr.com/ru/articles/1004240/?utm_campaign=1004240&utm_source=habrahabr&utm_medium=rss)
 - [Молчание не ягнят](https://habr.com/ru/companies/amvera/articles/1004006/?utm_campaign=1004006&utm_source=habrahabr&utm_medium=rss)

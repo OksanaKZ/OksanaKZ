@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Инклюзивность без галочки: как мы внедряли доступность в большой продукт и не развалили архитектуру](https://habr.com/ru/articles/1004332/?utm_campaign=1004332&utm_source=habrahabr&utm_medium=rss)
 - [Мутационное тестирование &lpar;Как я учил байт-код плавать&rpar;](https://habr.com/ru/articles/1004240/?utm_campaign=1004240&utm_source=habrahabr&utm_medium=rss)
 - [Молчание не ягнят](https://habr.com/ru/companies/amvera/articles/1004006/?utm_campaign=1004006&utm_source=habrahabr&utm_medium=rss)
 - [SD-WAN и трудности миграции: безопасна ли облачная модель](https://habr.com/ru/companies/icl_group/articles/1003866/?utm_campaign=1003866&utm_source=habrahabr&utm_medium=rss)
 - [1 тест = 1 проверка. Чем хорош принцип атомарности в автотестах в Postman](https://habr.com/ru/articles/1003554/?utm_campaign=1003554&utm_source=habrahabr&utm_medium=rss)
-- [Изнанка абсолютной власти единственного тестировщика](https://habr.com/ru/companies/tochka/articles/989072/?utm_campaign=989072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

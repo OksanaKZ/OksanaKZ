@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Доля авторства человека в ИИ-генерации песен](https://habr.com/ru/articles/993606/?utm_campaign=993606&utm_source=habrahabr&utm_medium=rss)
+- [Доли авторства в ИИ-генерациях песен](https://habr.com/ru/articles/993606/?utm_campaign=993606&utm_source=habrahabr&utm_medium=rss)
 - [ИИ решает вашу судьбу: как баг в ATS оставляет людей без работы. HR Tech в России 2026](https://habr.com/ru/articles/1005150/?utm_campaign=1005150&utm_source=habrahabr&utm_medium=rss)
 - [«Агенты Хаоса»: ИИ стирает сервера, или почему нельзя давать языковым моделям права root](https://habr.com/ru/articles/1005104/?utm_campaign=1005104&utm_source=habrahabr&utm_medium=rss)
 - [Portal: от Stored XSS к захвату пользовательских данных](https://habr.com/ru/companies/pt/articles/1004304/?utm_campaign=1004304&utm_source=habrahabr&utm_medium=rss)

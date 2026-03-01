@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Агенты Хаоса»: ИИ стирает сервера, или почему нельзя давать языковым моделям права root](https://habr.com/ru/articles/1005104/?utm_campaign=1005104&utm_source=habrahabr&utm_medium=rss)
 - [Portal: от Stored XSS к захвату пользовательских данных](https://habr.com/ru/companies/pt/articles/1004304/?utm_campaign=1004304&utm_source=habrahabr&utm_medium=rss)
 - [Нет времени на тесты — через неделю релиз](https://habr.com/ru/articles/1004396/?utm_campaign=1004396&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция работы с flaky-тестами в Отелло](https://habr.com/ru/companies/2gis/articles/995782/?utm_campaign=995782&utm_source=habrahabr&utm_medium=rss)
 - [Инклюзивность без галочки: как мы внедряли доступность в большой продукт и не развалили архитектуру](https://habr.com/ru/articles/1004332/?utm_campaign=1004332&utm_source=habrahabr&utm_medium=rss)
-- [Мутационное тестирование &lpar;Как я учил байт-код плавать&rpar;](https://habr.com/ru/articles/1004240/?utm_campaign=1004240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

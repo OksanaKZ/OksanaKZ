@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Когнитивный инжиниринг: почему ваш код — это слепок вашей психики &lpar;Каскад 1&rpar;](https://habr.com/ru/companies/bft/articles/1005308/?utm_campaign=1005308&utm_source=habrahabr&utm_medium=rss)
-- [AI Red Teaming: спор с Grok — Часть 4. От атаки к защите: как результаты red team улучшили мой продукт](https://habr.com/ru/articles/1005306/?utm_campaign=1005306&utm_source=habrahabr&utm_medium=rss)
-- [AI Red Teaming: спор с Grok — Часть 3. Атаки на модель: jailbreaks, thinking tokens и системный промпт](https://habr.com/ru/articles/1005304/?utm_campaign=1005304&utm_source=habrahabr&utm_medium=rss)
-- [AI Red Teaming: спор с Grok — Часть 2. За пределами sandbox: CSRF, WAF bypass и privilege escalation](https://habr.com/ru/articles/1005302/?utm_campaign=1005302&utm_source=habrahabr&utm_medium=rss)
-- [AI Red Teaming: спор с Grok на месяц рекламы — 12 часов, 61 уязвимость, root в Kubernetes](https://habr.com/ru/articles/1005300/?utm_campaign=1005300&utm_source=habrahabr&utm_medium=rss)
+- [Доли авторства в ИИ-генерациях песен](https://habr.com/ru/articles/993606/?utm_campaign=993606&utm_source=habrahabr&utm_medium=rss)
+- [ИИ решает вашу судьбу: как баг в ATS оставляет людей без работы. HR Tech в России 2026](https://habr.com/ru/articles/1005150/?utm_campaign=1005150&utm_source=habrahabr&utm_medium=rss)
+- [«Агенты Хаоса»: ИИ стирает сервера, или почему нельзя давать языковым моделям права root](https://habr.com/ru/articles/1005104/?utm_campaign=1005104&utm_source=habrahabr&utm_medium=rss)
+- [Portal: от Stored XSS к захвату пользовательских данных](https://habr.com/ru/companies/pt/articles/1004304/?utm_campaign=1004304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

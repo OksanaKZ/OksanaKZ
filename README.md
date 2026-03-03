@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [SQL для QA: 10 задач, которые реально дают на собеседованиях](https://habr.com/ru/articles/1005806/?utm_campaign=1005806&utm_source=habrahabr&utm_medium=rss)
 - [QA метрики как база управленческих решений](https://habr.com/ru/articles/1003900/?utm_campaign=1003900&utm_source=habrahabr&utm_medium=rss)
 - [10 Chrome-расширений для QA. Часть 3: данные, UI и безопасность](https://habr.com/ru/articles/980216/?utm_campaign=980216&utm_source=habrahabr&utm_medium=rss)
 - [Когнитивный инжиниринг: почему ваш код — это слепок вашей психики &lpar;Каскад 1&rpar;](https://habr.com/ru/companies/bft/articles/1005308/?utm_campaign=1005308&utm_source=habrahabr&utm_medium=rss)
 - [Доли авторства в ИИ-генерациях песен](https://habr.com/ru/articles/993606/?utm_campaign=993606&utm_source=habrahabr&utm_medium=rss)
-- [ИИ решает вашу судьбу: как баг в ATS оставляет людей без работы. HR Tech в России 2026](https://habr.com/ru/articles/1005150/?utm_campaign=1005150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что с QA в 2026? Профессия умирает? Или все преувеличивают?](https://habr.com/ru/articles/1006968/?utm_campaign=1006968&utm_source=habrahabr&utm_medium=rss)
 - [10 900 тестов: Как мы обеспечиваем качество в PingZen, или Почему ваш мониторинг должен быть протестирован](https://habr.com/ru/articles/1006610/?utm_campaign=1006610&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодер и Claude убивают стартап. Осталось немного](https://habr.com/ru/articles/1006294/?utm_campaign=1006294&utm_source=habrahabr&utm_medium=rss)
 - [Как ускорить тесты проекта в 6 раз: от 10 минут к 101 секунде](https://habr.com/ru/articles/1003592/?utm_campaign=1003592&utm_source=habrahabr&utm_medium=rss)
 - [Все паттерны в автоматизации тестирования](https://habr.com/ru/articles/1004628/?utm_campaign=1004628&utm_source=habrahabr&utm_medium=rss)
-- [Перенос тест-кейсов из Яндекс Трекера в Allure TestOps одной командой с Cursor + MCP](https://habr.com/ru/companies/vkusvill/articles/1005936/?utm_campaign=1005936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

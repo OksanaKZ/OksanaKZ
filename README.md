@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Зачем командам разработки и QA концепция DoR и DoD, и как не превратить ее в бюрократию](https://habr.com/ru/companies/garda/articles/1006382/?utm_campaign=1006382&utm_source=habrahabr&utm_medium=rss)
 - [Анатомия современного антифрода и автоматизация мультиаккаунтинга: Технический разбор AdsPower и его Local API](https://habr.com/ru/articles/1007152/?utm_campaign=1007152&utm_source=habrahabr&utm_medium=rss)
 - [Что значит «отвечать за качество»?](https://habr.com/ru/articles/1007098/?utm_campaign=1007098&utm_source=habrahabr&utm_medium=rss)
 - [Что с QA в 2026? Профессия умирает? Или все преувеличивают?](https://habr.com/ru/articles/1006968/?utm_campaign=1006968&utm_source=habrahabr&utm_medium=rss)
 - [10 900 тестов: Как мы обеспечиваем качество в PingZen, или Почему ваш мониторинг должен быть протестирован](https://habr.com/ru/articles/1006610/?utm_campaign=1006610&utm_source=habrahabr&utm_medium=rss)
-- [Вайб-кодер и Claude убивают стартап. Осталось немного](https://habr.com/ru/articles/1006294/?utm_campaign=1006294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

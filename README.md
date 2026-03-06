@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как расти QA-инженеру: инструменты, которые действительно работают](https://habr.com/ru/companies/avito/articles/1007298/?utm_campaign=1007298&utm_source=habrahabr&utm_medium=rss)
 - [Cisco Trex и нагрузочное тестирование NGFW EMIX-трафиком](https://habr.com/ru/companies/infowatch/articles/989110/?utm_campaign=989110&utm_source=habrahabr&utm_medium=rss)
 - [Зачем командам разработки и QA концепция DoR и DoD, и как не превратить ее в бюрократию](https://habr.com/ru/companies/garda/articles/1006382/?utm_campaign=1006382&utm_source=habrahabr&utm_medium=rss)
 - [Анатомия современного антифрода и автоматизация мультиаккаунтинга: Технический разбор AdsPower и его Local API](https://habr.com/ru/articles/1007152/?utm_campaign=1007152&utm_source=habrahabr&utm_medium=rss)
 - [Что значит «отвечать за качество»?](https://habr.com/ru/articles/1007098/?utm_campaign=1007098&utm_source=habrahabr&utm_medium=rss)
-- [Что с QA в 2026? Профессия умирает? Или все преувеличивают?](https://habr.com/ru/articles/1006968/?utm_campaign=1006968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

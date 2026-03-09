@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Пишем быстрые API-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/978660/?utm_campaign=978660&utm_source=habrahabr&utm_medium=rss)
 - [Как написать песенный альбом с Suno?](https://habr.com/ru/articles/1007818/?utm_campaign=1007818&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем железо в радиочастотном центре — от платы до полноценного RU](https://habr.com/ru/companies/yadro/articles/1006916/?utm_campaign=1006916&utm_source=habrahabr&utm_medium=rss)
 - [Как расти QA-инженеру: инструменты, которые действительно работают](https://habr.com/ru/companies/avito/articles/1007298/?utm_campaign=1007298&utm_source=habrahabr&utm_medium=rss)
 - [Cisco Trex и нагрузочное тестирование NGFW EMIX-трафиком](https://habr.com/ru/companies/infowatch/articles/989110/?utm_campaign=989110&utm_source=habrahabr&utm_medium=rss)
-- [Зачем командам разработки и QA концепция DoR и DoD, и как не превратить ее в бюрократию](https://habr.com/ru/companies/garda/articles/1006382/?utm_campaign=1006382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

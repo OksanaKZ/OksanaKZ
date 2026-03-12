@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ищи работу правильно — как не ошибиться в важном выборе](https://habr.com/ru/articles/1009526/?utm_campaign=1009526&utm_source=habrahabr&utm_medium=rss)
 - [Свой Remote Desktop за пару вечеров: не написав ни строчки кода](https://habr.com/ru/articles/1009242/?utm_campaign=1009242&utm_source=habrahabr&utm_medium=rss)
 - [Как я ускорил создание E2E тестов в 5 раз. И это не AI](https://habr.com/ru/articles/1009154/?utm_campaign=1009154&utm_source=habrahabr&utm_medium=rss)
 - [Анализ функционала и возможностей PT NGFW: лабораторный тест + итоги пилотов](https://habr.com/ru/companies/k2tech/articles/1009140/?utm_campaign=1009140&utm_source=habrahabr&utm_medium=rss)
 - [Пока не превратилось в тыкву. Быстрый гайд по выбору импортонезависимого оборудования для ЦОД](https://habr.com/ru/companies/k2tech/articles/1006894/?utm_campaign=1006894&utm_source=habrahabr&utm_medium=rss)
-- [Пишем быстрые API-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/978660/?utm_campaign=978660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

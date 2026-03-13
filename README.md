@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тесты показали, что не все WAF одинаково полезны](https://habr.com/ru/articles/1009666/?utm_campaign=1009666&utm_source=habrahabr&utm_medium=rss)
 - [Как мы управляем арсеналом из 500 тестовых стендов: инфраструктурный опыт hh.ru](https://habr.com/ru/companies/hh/articles/1009596/?utm_campaign=1009596&utm_source=habrahabr&utm_medium=rss)
 - [Git для новичков: ветки, коммиты и первый pull request](https://habr.com/ru/companies/otus/articles/994162/?utm_campaign=994162&utm_source=habrahabr&utm_medium=rss)
 - [Ищи работу правильно — как не ошибиться в важном выборе](https://habr.com/ru/articles/1009526/?utm_campaign=1009526&utm_source=habrahabr&utm_medium=rss)
 - [Свой Remote Desktop за пару вечеров: не написав ни строчки кода](https://habr.com/ru/articles/1009242/?utm_campaign=1009242&utm_source=habrahabr&utm_medium=rss)
-- [Как я ускорил создание E2E тестов в 5 раз. И это не AI](https://habr.com/ru/articles/1009154/?utm_campaign=1009154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

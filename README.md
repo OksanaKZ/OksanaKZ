@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как становятся верификаторами — и почему на рынке их дефицит. Мой опыт](https://habr.com/ru/companies/yadro/articles/1009518/?utm_campaign=1009518&utm_source=habrahabr&utm_medium=rss)
 - [AI-агенты в QA: как это работает на практике и где всё ещё болит](https://habr.com/ru/articles/1009780/?utm_campaign=1009780&utm_source=habrahabr&utm_medium=rss)
 - [Тесты показали, что не все WAF одинаково полезны](https://habr.com/ru/articles/1009666/?utm_campaign=1009666&utm_source=habrahabr&utm_medium=rss)
 - [Как мы управляем арсеналом из 500 тестовых стендов: инфраструктурный опыт hh.ru](https://habr.com/ru/companies/hh/articles/1009596/?utm_campaign=1009596&utm_source=habrahabr&utm_medium=rss)
 - [Git для новичков: ветки, коммиты и первый pull request](https://habr.com/ru/companies/otus/articles/994162/?utm_campaign=994162&utm_source=habrahabr&utm_medium=rss)
-- [Ищи работу правильно — как не ошибиться в важном выборе](https://habr.com/ru/articles/1009526/?utm_campaign=1009526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

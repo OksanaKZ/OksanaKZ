@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Хроники Agent Driven Development трансформации .1: улучшаем agent feedback loop](https://habr.com/ru/articles/1010148/?utm_campaign=1010148&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как писать изолированные интеграционные тесты с Testcontainers](https://habr.com/ru/companies/otus/articles/1010786/?utm_campaign=1010786&utm_source=habrahabr&utm_medium=rss)
+- [От простыней к DSL: эволюция UI-тестов на Java](https://habr.com/ru/companies/alfastrah/articles/1010794/?utm_campaign=1010794&utm_source=habrahabr&utm_medium=rss)
 - [Типичные ошибки настройки Active Directory](https://habr.com/ru/companies/vkusvill/articles/1010812/?utm_campaign=1010812&utm_source=habrahabr&utm_medium=rss)
 - [Собеседование QA-инженера в 2026: От HR до оффера. Гайд по этапам и вопросам для manual и automation](https://habr.com/ru/articles/1007736/?utm_campaign=1007736&utm_source=habrahabr&utm_medium=rss)
-- [Вход в QA в 2026 году: как действовать, когда рынок против вас](https://habr.com/ru/articles/978972/?utm_campaign=978972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

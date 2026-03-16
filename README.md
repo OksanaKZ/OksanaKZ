@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Вход в QA в 2026 году: как действовать, когда рынок против вас](https://habr.com/ru/articles/978972/?utm_campaign=978972&utm_source=habrahabr&utm_medium=rss)
 - [Идеальный Open Source проект, что ты такое?](https://habr.com/ru/articles/1010580/?utm_campaign=1010580&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование микросервисов 2026: гайд по стратегиям и инструментам](https://habr.com/ru/companies/otus/articles/994142/?utm_campaign=994142&utm_source=habrahabr&utm_medium=rss)
 - [Как становятся верификаторами — и почему на рынке их дефицит. Мой опыт](https://habr.com/ru/companies/yadro/articles/1009518/?utm_campaign=1009518&utm_source=habrahabr&utm_medium=rss)
 - [AI-агенты в QA: как это работает на практике и где всё ещё болит](https://habr.com/ru/articles/1009780/?utm_campaign=1009780&utm_source=habrahabr&utm_medium=rss)
-- [Тесты показали, что не все WAF одинаково полезны](https://habr.com/ru/articles/1009666/?utm_campaign=1009666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

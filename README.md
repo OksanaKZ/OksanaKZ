@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как тестировщик попал в комьюнити‑стартап с нейронками и написал ИИ‑генератор заглушек](https://habr.com/ru/companies/alfa/articles/1006352/?utm_campaign=1006352&utm_source=habrahabr&utm_medium=rss)
 - [Хроники Agent Driven Development трансформации .1: улучшаем agent feedback loop](https://habr.com/ru/articles/1010148/?utm_campaign=1010148&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Как писать изолированные интеграционные тесты с Testcontainers](https://habr.com/ru/companies/otus/articles/1010786/?utm_campaign=1010786&utm_source=habrahabr&utm_medium=rss)
 - [От простыней к DSL: эволюция UI-тестов на Java](https://habr.com/ru/companies/alfastrah/articles/1010794/?utm_campaign=1010794&utm_source=habrahabr&utm_medium=rss)
 - [Типичные ошибки настройки Active Directory](https://habr.com/ru/companies/vkusvill/articles/1010812/?utm_campaign=1010812&utm_source=habrahabr&utm_medium=rss)
-- [Собеседование QA-инженера в 2026: От HR до оффера. Гайд по этапам и вопросам для manual и automation](https://habr.com/ru/articles/1007736/?utm_campaign=1007736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

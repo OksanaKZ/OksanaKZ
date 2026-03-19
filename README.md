@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Контрактное тестирование в действии»](https://habr.com/ru/companies/piter/articles/1009836/?utm_campaign=1009836&utm_source=habrahabr&utm_medium=rss)
 - [Параметризация Pytest: когда файловая коллекция становится тест-кейсами](https://habr.com/ru/companies/infowatch/articles/1012040/?utm_campaign=1012040&utm_source=habrahabr&utm_medium=rss)
 - [Нефункциональное тестирование AI-приложений — бесплатный курс от Mentorpiece](https://habr.com/ru/articles/1011586/?utm_campaign=1011586&utm_source=habrahabr&utm_medium=rss)
 - [Эпические баги: как один Break положил телефонную сеть по всему США в 1990 г](https://habr.com/ru/companies/beget/articles/1009300/?utm_campaign=1009300&utm_source=habrahabr&utm_medium=rss)
 - [Docker для QA](https://habr.com/ru/articles/1011268/?utm_campaign=1011268&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировщик попал в комьюнити‑стартап с нейронками и написал ИИ‑генератор заглушек](https://habr.com/ru/companies/alfa/articles/1006352/?utm_campaign=1006352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

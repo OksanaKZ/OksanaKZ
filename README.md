@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автогенерация тестов в IDE: как RAG + LLM превращают ручные сценарии в код](https://habr.com/ru/companies/sberbank/articles/1011830/?utm_campaign=1011830&utm_source=habrahabr&utm_medium=rss)
+- [Когда искать работу? Сезоны найма](https://habr.com/ru/articles/1012578/?utm_campaign=1012578&utm_source=habrahabr&utm_medium=rss)
 - [Как заставить ИИ быть непредвзятым? – метод Достоевского](https://habr.com/ru/articles/1012518/?utm_campaign=1012518&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax‑M2.7 теперь доступен через облако Ollama: подробный обзор](https://habr.com/ru/articles/1012342/?utm_campaign=1012342&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] MiniMax‑M2.7 теперь доступен через облако Ollama: подробный обзор](https://habr.com/ru/articles/1012342/?utm_campaign=1012342&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты E2E еще проще, но все равно надежные…](https://habr.com/ru/articles/1012180/?utm_campaign=1012180&utm_source=habrahabr&utm_medium=rss)
-- [Книга: «Контрактное тестирование в действии»](https://habr.com/ru/companies/piter/articles/1009836/?utm_campaign=1009836&utm_source=habrahabr&utm_medium=rss)
-- [Параметризация Pytest: когда файловая коллекция становится тест-кейсами](https://habr.com/ru/companies/infowatch/articles/1012040/?utm_campaign=1012040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

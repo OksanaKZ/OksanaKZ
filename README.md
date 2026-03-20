@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить ИИ быть непредвзятым? – метод Достоевского](https://habr.com/ru/articles/1012518/?utm_campaign=1012518&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax‑M2.7 теперь доступен через облако Ollama: подробный обзор](https://habr.com/ru/articles/1012342/?utm_campaign=1012342&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты E2E еще проще, но все равно надежные…](https://habr.com/ru/articles/1012180/?utm_campaign=1012180&utm_source=habrahabr&utm_medium=rss)
 - [Книга: «Контрактное тестирование в действии»](https://habr.com/ru/companies/piter/articles/1009836/?utm_campaign=1009836&utm_source=habrahabr&utm_medium=rss)
 - [Параметризация Pytest: когда файловая коллекция становится тест-кейсами](https://habr.com/ru/companies/infowatch/articles/1012040/?utm_campaign=1012040&utm_source=habrahabr&utm_medium=rss)
-- [Нефункциональное тестирование AI-приложений — бесплатный курс от Mentorpiece](https://habr.com/ru/articles/1011586/?utm_campaign=1011586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

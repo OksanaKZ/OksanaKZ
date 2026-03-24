@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Кто такой инженер по обеспечению качества данных и почему без него уже не обойтись?](https://habr.com/ru/companies/kryptonite/articles/1014180/?utm_campaign=1014180&utm_source=habrahabr&utm_medium=rss)
+- [Никаких эксплойтов и zero-day: как эксплуатация безобидных настроек Асtive Directory приводит к компрометации домена](https://habr.com/ru/companies/bastion/articles/1012354/?utm_campaign=1012354&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ML-систем: сложности, факапы и рабочие практики](https://habr.com/ru/articles/1012480/?utm_campaign=1012480&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование с нуля: наши грабли, гонка за токеном и рабочий чек-лист](https://habr.com/ru/articles/1013866/?utm_campaign=1013866&utm_source=habrahabr&utm_medium=rss)
 - [Почему 80% автотестов в итоге не окупаются](https://habr.com/ru/articles/979956/?utm_campaign=979956&utm_source=habrahabr&utm_medium=rss)
-- [Автогенерация тестов в IDE: как RAG + LLM превращают ручные сценарии в код](https://habr.com/ru/companies/sberbank/articles/1011830/?utm_campaign=1011830&utm_source=habrahabr&utm_medium=rss)
-- [Когда искать работу? Сезоны найма](https://habr.com/ru/articles/1012578/?utm_campaign=1012578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему все хотят автоматические релизы и кому они на самом деле нужны](https://habr.com/ru/companies/tbank/articles/1014122/?utm_campaign=1014122&utm_source=habrahabr&utm_medium=rss)
 - [«Без паролей и боли»: как User Pool наводит порядок в тестовых учётных записях](https://habr.com/ru/companies/rtlabs/articles/1013762/?utm_campaign=1013762&utm_source=habrahabr&utm_medium=rss)
 - [Логи: всё, что нужно знать тестировщику](https://habr.com/ru/articles/1014648/?utm_campaign=1014648&utm_source=habrahabr&utm_medium=rss)
 - [Фронтендеры, хватит покрывать тестами каждую строчку кода – это безумие](https://habr.com/ru/articles/1014558/?utm_campaign=1014558&utm_source=habrahabr&utm_medium=rss)
 - [Шесть рекомендаций для тех, кто переходит в QA в 2026](https://habr.com/ru/companies/alfa/articles/1013538/?utm_campaign=1013538&utm_source=habrahabr&utm_medium=rss)
-- [Кто такой инженер по обеспечению качества данных и почему без него уже не обойтись?](https://habr.com/ru/companies/kryptonite/articles/1014180/?utm_campaign=1014180&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

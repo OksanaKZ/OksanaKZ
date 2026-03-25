@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Фронтендеры, хватит покрывать тестами каждую строчку кода – это безумие](https://habr.com/ru/articles/1014558/?utm_campaign=1014558&utm_source=habrahabr&utm_medium=rss)
 - [Шесть рекомендаций для тех, кто переходит в QA в 2026](https://habr.com/ru/companies/alfa/articles/1013538/?utm_campaign=1013538&utm_source=habrahabr&utm_medium=rss)
 - [Кто такой инженер по обеспечению качества данных и почему без него уже не обойтись?](https://habr.com/ru/companies/kryptonite/articles/1014180/?utm_campaign=1014180&utm_source=habrahabr&utm_medium=rss)
 - [Никаких эксплойтов и zero-day: как эксплуатация безобидных настроек Асtive Directory приводит к компрометации домена](https://habr.com/ru/companies/bastion/articles/1012354/?utm_campaign=1012354&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ML-систем: сложности, факапы и рабочие практики](https://habr.com/ru/articles/1012480/?utm_campaign=1012480&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование с нуля: наши грабли, гонка за токеном и рабочий чек-лист](https://habr.com/ru/articles/1013866/?utm_campaign=1013866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

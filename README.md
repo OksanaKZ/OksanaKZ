@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в Диасофт автоматизировали автотесты с помощью ИИ](https://habr.com/ru/companies/diasoft_company/articles/1015322/?utm_campaign=1015322&utm_source=habrahabr&utm_medium=rss)
 - [Начинаем в багбаунти: как найти ошибки в бизнес‑логике](https://habr.com/ru/companies/pt/articles/1014346/?utm_campaign=1014346&utm_source=habrahabr&utm_medium=rss)
 - [BDR: Почему ваши тесты на Playwright флакают в CI и как перестать жечь на этом деньги? Lead-гайд &lpar;Часть 1&rpar;](https://habr.com/ru/articles/1015194/?utm_campaign=1015194&utm_source=habrahabr&utm_medium=rss)
 - [Если требований нет, а тестировать хочется](https://habr.com/ru/articles/1014968/?utm_campaign=1014968&utm_source=habrahabr&utm_medium=rss)
 - [Почему все хотят автоматические релизы и кому они на самом деле нужны](https://habr.com/ru/companies/tbank/articles/1014122/?utm_campaign=1014122&utm_source=habrahabr&utm_medium=rss)
-- [«Без паролей и боли»: как User Pool наводит порядок в тестовых учётных записях](https://habr.com/ru/companies/rtlabs/articles/1013762/?utm_campaign=1013762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

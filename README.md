@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Формальная верификация «для бедных»: выбираем open source-решение](https://habr.com/ru/companies/yadro/articles/1007154/?utm_campaign=1007154&utm_source=habrahabr&utm_medium=rss)
 - [Вайбкодинг за выходные: как ручной QA-инженер собрал свой «Тиндер для кино» с помощью ИИ](https://habr.com/ru/articles/1015666/?utm_campaign=1015666&utm_source=habrahabr&utm_medium=rss)
 - [Как я тестирую API: чеклист и подходы, и автоматизация](https://habr.com/ru/articles/1015576/?utm_campaign=1015576&utm_source=habrahabr&utm_medium=rss)
 - [Как мы в Диасофт автоматизировали автотесты с помощью ИИ](https://habr.com/ru/companies/diasoft_company/articles/1015322/?utm_campaign=1015322&utm_source=habrahabr&utm_medium=rss)
 - [Начинаем в багбаунти: как найти ошибки в бизнес‑логике](https://habr.com/ru/companies/pt/articles/1014346/?utm_campaign=1014346&utm_source=habrahabr&utm_medium=rss)
-- [BDR: Почему ваши тесты на Playwright флакают в CI и как перестать жечь на этом деньги? Lead-гайд &lpar;Часть 1&rpar;](https://habr.com/ru/articles/1015194/?utm_campaign=1015194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

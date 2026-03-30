@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как получить реальные данные с прода для тестирования, не сесть в тюрьму и не получить по шапке от службы безопасности](https://habr.com/ru/companies/greenatom/articles/1014942/?utm_campaign=1014942&utm_source=habrahabr&utm_medium=rss)
 - [Как мы хакнули ИИ-бенчмарк PAC1 без нейросетей](https://habr.com/ru/articles/1016442/?utm_campaign=1016442&utm_source=habrahabr&utm_medium=rss)
 - [Как Достоевский решил проблему объяснимости ИИ и помог Эйнштейну](https://habr.com/ru/articles/1016434/?utm_campaign=1016434&utm_source=habrahabr&utm_medium=rss)
 - [Формальная верификация «для бедных»: выбираем open source-решение](https://habr.com/ru/companies/yadro/articles/1007154/?utm_campaign=1007154&utm_source=habrahabr&utm_medium=rss)
 - [Вайбкодинг за выходные: как ручной QA-инженер собрал свой «Тиндер для кино» с помощью ИИ](https://habr.com/ru/articles/1015666/?utm_campaign=1015666&utm_source=habrahabr&utm_medium=rss)
-- [Как я тестирую API: чеклист и подходы, и автоматизация](https://habr.com/ru/articles/1015576/?utm_campaign=1015576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

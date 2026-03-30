@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мифы о тестировании, в которые я верила в начале карьеры](https://habr.com/ru/companies/naumen/articles/1016700/?utm_campaign=1016700&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция участия ИИ в разработке и тестировании](https://habr.com/ru/companies/simbirsoft/articles/1015328/?utm_campaign=1015328&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 37 советов и приемов по написанию качественных тестов для фронтенда](https://habr.com/ru/companies/timeweb/articles/1006680/?utm_campaign=1006680&utm_source=habrahabr&utm_medium=rss)
 - [Как получить реальные данные с прода для тестирования, не сесть в тюрьму и не получить по шапке от службы безопасности](https://habr.com/ru/companies/greenatom/articles/1014942/?utm_campaign=1014942&utm_source=habrahabr&utm_medium=rss)
 - [Как мы хакнули ИИ-бенчмарк PAC1 без нейросетей](https://habr.com/ru/articles/1016442/?utm_campaign=1016442&utm_source=habrahabr&utm_medium=rss)
-- [Как Достоевский решил проблему объяснимости ИИ и помог Эйнштейну](https://habr.com/ru/articles/1016434/?utm_campaign=1016434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

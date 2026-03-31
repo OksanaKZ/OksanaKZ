@@ -39,6 +39,6 @@
 - [Эпические баги: как переиспользование вызова функции принесло убыток в $450.000.000](https://habr.com/ru/companies/beget/articles/1012834/?utm_campaign=1012834&utm_source=habrahabr&utm_medium=rss)
 - [BDR: Как запустить 1000 тестов в параллели без боли и превратить логи в живую документацию &lpar;Часть 2&rpar;?](https://habr.com/ru/articles/1017284/?utm_campaign=1017284&utm_source=habrahabr&utm_medium=rss)
 - [«Мелкий» баг, большие проблемы: почему переписки убивают карьеру тестировщика](https://habr.com/ru/companies/lanit/articles/1011848/?utm_campaign=1011848&utm_source=habrahabr&utm_medium=rss)
-- [Мысли вслух: Как AI-агенты сжимают процесс разработки в разных типах проектов](https://habr.com/ru/articles/1015004/?utm_campaign=1015004&utm_source=habrahabr&utm_medium=rss)
+- [Мысли вслух: Как AI-агенты меняют процесс разработки в разных типах проектов](https://habr.com/ru/articles/1015004/?utm_campaign=1015004&utm_source=habrahabr&utm_medium=rss)
 - [Как создать FEN-to-Image Converter на Java: от шахматных фигур до красивых досок](https://habr.com/ru/companies/beeline_cloud/articles/1016014/?utm_campaign=1016014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От макета до пострелиза: путь новых сервисов глазами QA](https://habr.com/ru/companies/banki/articles/1017660/?utm_campaign=1017660&utm_source=habrahabr&utm_medium=rss)
 - [Как мы приручили JMX-файл на 50 000 строк: декомпозиция JMeter-тестов для нормального code review](https://habr.com/ru/articles/1017472/?utm_campaign=1017472&utm_source=habrahabr&utm_medium=rss)
 - [Эпические баги: как переиспользование вызова функции принесло убыток в $450.000.000](https://habr.com/ru/companies/beget/articles/1012834/?utm_campaign=1012834&utm_source=habrahabr&utm_medium=rss)
 - [BDR: Как запустить 1000 тестов в параллели без боли и превратить логи в живую документацию &lpar;Часть 2&rpar;?](https://habr.com/ru/articles/1017284/?utm_campaign=1017284&utm_source=habrahabr&utm_medium=rss)
 - [«Мелкий» баг, большие проблемы: почему переписки убивают карьеру тестировщика](https://habr.com/ru/companies/lanit/articles/1011848/?utm_campaign=1011848&utm_source=habrahabr&utm_medium=rss)
-- [Мысли вслух: Как AI-агенты меняют процесс разработки в разных типах проектов](https://habr.com/ru/articles/1015004/?utm_campaign=1015004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

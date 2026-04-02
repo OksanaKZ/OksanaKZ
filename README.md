@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Проблемы безопасности 2025: почему миллиардные бюджеты на ИБ — не гарантия от захвата домена](https://habr.com/ru/companies/bastion/articles/1017132/?utm_campaign=1017132&utm_source=habrahabr&utm_medium=rss)
 - [Как мы заменяли Zscaler, или концепция Secure Access Service Edge &lpar;SASE&rpar; с Kaspersky SD-WAN](https://habr.com/ru/companies/icl_group/articles/1018092/?utm_campaign=1018092&utm_source=habrahabr&utm_medium=rss)
 - [Как минимальная потеря при округлении стоила Balancer более $128 млн](https://habr.com/ru/companies/pt/articles/1014954/?utm_campaign=1014954&utm_source=habrahabr&utm_medium=rss)
 - [От макета до пострелиза: путь новых сервисов глазами QA](https://habr.com/ru/companies/banki/articles/1017660/?utm_campaign=1017660&utm_source=habrahabr&utm_medium=rss)
 - [Как мы приручили JMX-файл на 50 000 строк: декомпозиция JMeter-тестов для нормального code review](https://habr.com/ru/articles/1017472/?utm_campaign=1017472&utm_source=habrahabr&utm_medium=rss)
-- [Эпические баги: как переиспользование вызова функции принесло убыток в $450.000.000](https://habr.com/ru/companies/beget/articles/1012834/?utm_campaign=1012834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

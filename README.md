@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агенты защищают друг друга от отключения: анализ уязвимостей в передовых моделях](https://habr.com/ru/articles/1018774/?utm_campaign=1018774&utm_source=habrahabr&utm_medium=rss)
 - [Сам свой код и тестируй: кто [на самом деле] должен искать баги](https://habr.com/ru/articles/1018524/?utm_campaign=1018524&utm_source=habrahabr&utm_medium=rss)
 - [Способ авторизации mTLs в Postman и Insomnia](https://habr.com/ru/companies/sberbank/articles/1011516/?utm_campaign=1011516&utm_source=habrahabr&utm_medium=rss)
 - [Проблемы безопасности 2025: почему миллиардные бюджеты на ИБ — не гарантия от захвата домена](https://habr.com/ru/companies/bastion/articles/1017132/?utm_campaign=1017132&utm_source=habrahabr&utm_medium=rss)
 - [Как мы заменяли Zscaler, или концепция Secure Access Service Edge &lpar;SASE&rpar; с Kaspersky SD‑WAN](https://habr.com/ru/companies/icl_group/articles/1018092/?utm_campaign=1018092&utm_source=habrahabr&utm_medium=rss)
-- [Как минимальная потеря при округлении стоила Balancer более $128 млн](https://habr.com/ru/companies/pt/articles/1014954/?utm_campaign=1014954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

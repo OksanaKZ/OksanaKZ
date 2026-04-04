@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Дефекты в тестировании: от хаоса к системе — полный гайд](https://habr.com/ru/companies/otus/articles/1008380/?utm_campaign=1008380&utm_source=habrahabr&utm_medium=rss)
 - [Процесс тестирования: от анализа до завершения](https://habr.com/ru/companies/otus/articles/1008382/?utm_campaign=1008382&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты защищают друг друга от отключения: анализ уязвимостей в передовых моделях](https://habr.com/ru/articles/1018774/?utm_campaign=1018774&utm_source=habrahabr&utm_medium=rss)
 - [Сам свой код и тестируй: кто [на самом деле] должен искать баги](https://habr.com/ru/articles/1018524/?utm_campaign=1018524&utm_source=habrahabr&utm_medium=rss)
 - [Способ авторизации mTLs в Postman и Insomnia](https://habr.com/ru/companies/sberbank/articles/1011516/?utm_campaign=1011516&utm_source=habrahabr&utm_medium=rss)
-- [Проблемы безопасности 2025: почему миллиардные бюджеты на ИБ — не гарантия от захвата домена](https://habr.com/ru/companies/bastion/articles/1017132/?utm_campaign=1017132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

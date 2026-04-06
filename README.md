@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему LLM-агенты в CI/CD выбирают читерство вместо решения задачи](https://habr.com/ru/articles/1019634/?utm_campaign=1019634&utm_source=habrahabr&utm_medium=rss)
 - [Сбежать из квест-комнаты или притвориться «кожаным мешком» — необычные бенчмарки для нейросетей](https://habr.com/ru/companies/beeline_cloud/articles/1019426/?utm_campaign=1019426&utm_source=habrahabr&utm_medium=rss)
 - [Дефекты в тестировании: от хаоса к системе — полный гайд](https://habr.com/ru/companies/otus/articles/1008380/?utm_campaign=1008380&utm_source=habrahabr&utm_medium=rss)
 - [Процесс тестирования: от анализа до завершения](https://habr.com/ru/companies/otus/articles/1008382/?utm_campaign=1008382&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты защищают друг друга от отключения: анализ уязвимостей в передовых моделях](https://habr.com/ru/articles/1018774/?utm_campaign=1018774&utm_source=habrahabr&utm_medium=rss)
-- [Сам свой код и тестируй: кто [на самом деле] должен искать баги](https://habr.com/ru/articles/1018524/?utm_campaign=1018524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Анти-флаккинес: Часть 3. Вы всё сделали правильно. Тест всё равно упал](https://habr.com/ru/articles/1019950/?utm_campaign=1019950&utm_source=habrahabr&utm_medium=rss)
+- [Анти-флаккинес: Вы всё сделали правильно. Тест всё равно упал](https://habr.com/ru/articles/1019950/?utm_campaign=1019950&utm_source=habrahabr&utm_medium=rss)
 - [Матрица трассируемости: Навигатор тестировщика](https://habr.com/ru/articles/1019492/?utm_campaign=1019492&utm_source=habrahabr&utm_medium=rss)
 - [Как мы построили AI-экзоскелет для QA-инженера: от идеи до 11 автономных агентов](https://habr.com/ru/articles/1019656/?utm_campaign=1019656&utm_source=habrahabr&utm_medium=rss)
 - [Почему LLM-агенты в CI/CD выбирают читерство вместо решения задачи](https://habr.com/ru/articles/1019634/?utm_campaign=1019634&utm_source=habrahabr&utm_medium=rss)

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Playwright: E2E‑тесты на JavaScript, которые не флакуют](https://habr.com/ru/companies/otus/articles/1018114/?utm_campaign=1018114&utm_source=habrahabr&utm_medium=rss)
 - [Анти-флаккинес: Вы всё сделали правильно. Тест всё равно упал](https://habr.com/ru/articles/1019950/?utm_campaign=1019950&utm_source=habrahabr&utm_medium=rss)
 - [Матрица трассируемости: Навигатор тестировщика](https://habr.com/ru/articles/1019492/?utm_campaign=1019492&utm_source=habrahabr&utm_medium=rss)
 - [Как мы построили AI-экзоскелет для QA-инженера: от идеи до 11 автономных агентов](https://habr.com/ru/articles/1019656/?utm_campaign=1019656&utm_source=habrahabr&utm_medium=rss)
 - [Почему LLM-агенты в CI/CD выбирают читерство вместо решения задачи](https://habr.com/ru/articles/1019634/?utm_campaign=1019634&utm_source=habrahabr&utm_medium=rss)
-- [Сбежать из квест-комнаты или притвориться «кожаным мешком» — необычные бенчмарки для нейросетей](https://habr.com/ru/companies/beeline_cloud/articles/1019426/?utm_campaign=1019426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

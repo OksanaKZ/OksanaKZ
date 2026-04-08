@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Виды тестирования ПО: статика, динамика и 5 уровней, которые работают на практике](https://habr.com/ru/companies/otus/articles/1008378/?utm_campaign=1008378&utm_source=habrahabr&utm_medium=rss)
 - [Как мы создали новый тестовый фреймворк, адаптируемый к росту проектов](https://habr.com/ru/articles/1020856/?utm_campaign=1020856&utm_source=habrahabr&utm_medium=rss)
 - [Не все RPS одинаково полезны: уроки нагрузочного тестирования core-системы](https://habr.com/ru/companies/alfa/articles/1018996/?utm_campaign=1018996&utm_source=habrahabr&utm_medium=rss)
 - [Playwright: E2E‑тесты на JavaScript, которые не флакуют](https://habr.com/ru/companies/otus/articles/1018114/?utm_campaign=1018114&utm_source=habrahabr&utm_medium=rss)
 - [Анти-флаккинес: Вы всё сделали правильно. Тест всё равно упал](https://habr.com/ru/articles/1019950/?utm_campaign=1019950&utm_source=habrahabr&utm_medium=rss)
-- [Матрица трассируемости: Навигатор тестировщика](https://habr.com/ru/articles/1019492/?utm_campaign=1019492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Укрощаем зоопарк, или Тестируем с помощью собственных API-mocks](https://habr.com/ru/companies/infotecs_tech/articles/1011362/?utm_campaign=1011362&utm_source=habrahabr&utm_medium=rss)
+- [Ваш собес уже в базе](https://habr.com/ru/articles/1021490/?utm_campaign=1021490&utm_source=habrahabr&utm_medium=rss)
 - [Фаззинг-сканирование: основные понятия, настройка, интеграция с CI/CD](https://habr.com/ru/companies/ibs/articles/1021434/?utm_campaign=1021434&utm_source=habrahabr&utm_medium=rss)
 - [Регресс без регресса: стратегия автотестов](https://habr.com/ru/companies/bcs_company/articles/1021368/?utm_campaign=1021368&utm_source=habrahabr&utm_medium=rss)
 - [Возможно ли запустить AI-тестирование за 4 часа?](https://habr.com/ru/articles/1020694/?utm_campaign=1020694&utm_source=habrahabr&utm_medium=rss)
-- [Пишем AI-помощника для ревью пулл-реквестов: как выбрать модель и разработать серверную часть](https://habr.com/ru/companies/yadro/articles/1020934/?utm_campaign=1020934&utm_source=habrahabr&utm_medium=rss)
-- [Тесты зелёные, архитектура мёртвая](https://habr.com/ru/articles/1021144/?utm_campaign=1021144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

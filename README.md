@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [QA в CI/CD: как перестать гонять тесты руками и настроить это один раз](https://habr.com/ru/articles/1021592/?utm_campaign=1021592&utm_source=habrahabr&utm_medium=rss)
 - [Я просканировал 30 публичных MCP-серверов: почти половина не дошла даже до скоринга](https://habr.com/ru/articles/1021566/?utm_campaign=1021566&utm_source=habrahabr&utm_medium=rss)
 - [Укрощаем зоопарк, или Тестируем с помощью собственных API-mocks](https://habr.com/ru/companies/infotecs_tech/articles/1011362/?utm_campaign=1011362&utm_source=habrahabr&utm_medium=rss)
 - [Ваш собес уже в базе](https://habr.com/ru/articles/1021490/?utm_campaign=1021490&utm_source=habrahabr&utm_medium=rss)
 - [Фаззинг-сканирование: основные понятия, настройка, интеграция с CI/CD](https://habr.com/ru/companies/ibs/articles/1021434/?utm_campaign=1021434&utm_source=habrahabr&utm_medium=rss)
-- [Регресс без регресса: стратегия автотестов](https://habr.com/ru/companies/bcs_company/articles/1021368/?utm_campaign=1021368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

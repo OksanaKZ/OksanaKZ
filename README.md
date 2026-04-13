@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Начинаем в багбаунти: file upload — больше, чем просто картинка](https://habr.com/ru/companies/pt/articles/1021224/?utm_campaign=1021224&utm_source=habrahabr&utm_medium=rss)
 - [Как работает система фейков для сквозного тестирования в Авито](https://habr.com/ru/companies/avito/articles/1021446/?utm_campaign=1021446&utm_source=habrahabr&utm_medium=rss)
 - [Как я перешла из тестирования в аппаратную верификацию без опыта в процессорных архитектурах](https://habr.com/ru/companies/yadro/articles/1021660/?utm_campaign=1021660&utm_source=habrahabr&utm_medium=rss)
 - [QA в CI/CD: как перестать гонять тесты руками и настроить это один раз](https://habr.com/ru/articles/1021592/?utm_campaign=1021592&utm_source=habrahabr&utm_medium=rss)
 - [Я просканировал 30 публичных MCP-серверов: почти половина не дошла даже до скоринга](https://habr.com/ru/articles/1021566/?utm_campaign=1021566&utm_source=habrahabr&utm_medium=rss)
-- [Укрощаем зоопарк, или Тестируем с помощью собственных API-mocks](https://habr.com/ru/companies/infotecs_tech/articles/1011362/?utm_campaign=1011362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

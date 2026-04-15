@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Хакни себя сам и не дай другим: как увидеть свою инфраструктуру глазами хакера](https://habr.com/ru/companies/pt/articles/1023256/?utm_campaign=1023256&utm_source=habrahabr&utm_medium=rss)
 - [QA и Dev в командах разработки: есть ли правильная пропорция или всё зависит](https://habr.com/ru/articles/1021580/?utm_campaign=1021580&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик и вера в Бога: баг или фича?](https://habr.com/ru/articles/1023498/?utm_campaign=1023498&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Что такое качественный инжиниринг? Ключ к созданию более качественных, быстрых и надёжных продуктов](https://habr.com/ru/articles/1023484/?utm_campaign=1023484&utm_source=habrahabr&utm_medium=rss)
 - [Работа с автотестами внутри TMS](https://habr.com/ru/articles/1023456/?utm_campaign=1023456&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Вышел Playwright 1.59: как тестировщикам с пользой применить каждую новую фичу](https://habr.com/ru/articles/1022960/?utm_campaign=1022960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

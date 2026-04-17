@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как мы разрабатывали AI-сервис поиска IT-вакансий](https://habr.com/ru/articles/1024238/?utm_campaign=1024238&utm_source=habrahabr&utm_medium=rss)
 - [JUnit 5 Extensions &lpar;часть 2&rpar;: пишем умные data-провайдеры и DI-контейнер на Kotlin](https://habr.com/ru/companies/chestnyznak/articles/1024120/?utm_campaign=1024120&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Full-stack верификация: как Playwright-агент тестирует UI, затем проверяет базу данных без единой строки SQL](https://habr.com/ru/articles/1022962/?utm_campaign=1022962&utm_source=habrahabr&utm_medium=rss)
 - [QA и Dev в командах разработки: есть ли правильная пропорция или всё зависит](https://habr.com/ru/articles/1021580/?utm_campaign=1021580&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик и вера в Бога: баг или фича?](https://habr.com/ru/articles/1023498/?utm_campaign=1023498&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Что такое качественный инжиниринг? Ключ к созданию более качественных, быстрых и надёжных продуктов](https://habr.com/ru/articles/1023484/?utm_campaign=1023484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

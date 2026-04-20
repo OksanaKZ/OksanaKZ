@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Практика измерения эффективности AI-инструментов в инженерных командах](https://habr.com/ru/articles/1025196/?utm_campaign=1025196&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Почему ИИ-код создаёт больше проблем, чем решает](https://habr.com/ru/articles/1025170/?utm_campaign=1025170&utm_source=habrahabr&utm_medium=rss)
-- [Как мы разрабатывали AI-сервис поиска IT-вакансий](https://habr.com/ru/articles/1024238/?utm_campaign=1024238&utm_source=habrahabr&utm_medium=rss)
-- [JUnit 5 Extensions &lpar;часть 2&rpar;: пишем умные data-провайдеры и DI-контейнер на Kotlin](https://habr.com/ru/companies/chestnyznak/articles/1024120/?utm_campaign=1024120&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Full-stack верификация: как Playwright-агент тестирует UI, затем проверяет базу данных без единой строки SQL](https://habr.com/ru/articles/1022962/?utm_campaign=1022962&utm_source=habrahabr&utm_medium=rss)
+- [Программирование с AI-ассистентом — похороните меня под плинтусом](https://habr.com/ru/companies/bitrix/articles/1022732/?utm_campaign=1022732&utm_source=habrahabr&utm_medium=rss)
+- [Зачем AI-ассистенту пирамида тестирования, или Как скормить слона нейросети по кусочкам](https://habr.com/ru/articles/1025278/?utm_campaign=1025278&utm_source=habrahabr&utm_medium=rss)
+- [Playwright vs Selenium на Java: что выбрать для автотестов в 2026 году](https://habr.com/ru/articles/1020774/?utm_campaign=1020774&utm_source=habrahabr&utm_medium=rss)
+- [Фикстуры в Go: как перестать писать инфраструктуру в автотестах](https://habr.com/ru/articles/978800/?utm_campaign=978800&utm_source=habrahabr&utm_medium=rss)
+- [Как развивать soft skills: практические шаги](https://habr.com/ru/articles/1016664/?utm_campaign=1016664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

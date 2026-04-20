@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Эксперименты с распараллеливанием Java-автотестов](https://habr.com/ru/companies/rostelecom/articles/1025746/?utm_campaign=1025746&utm_source=habrahabr&utm_medium=rss)
 - [Как мы строим внутренний контроль качества в компании по тестированию](https://habr.com/ru/articles/1025582/?utm_campaign=1025582&utm_source=habrahabr&utm_medium=rss)
 - [Курс по тестированию с ИИ лучше обычного? Личный опыт автора для новичков](https://habr.com/ru/articles/1025012/?utm_campaign=1025012&utm_source=habrahabr&utm_medium=rss)
 - [Контрактное тестирование на Kotlin: гайд для автоматизатора](https://habr.com/ru/companies/otus/articles/1022196/?utm_campaign=1022196&utm_source=habrahabr&utm_medium=rss)
 - [Программирование с AI-ассистентом — похороните меня под плинтусом](https://habr.com/ru/companies/bitrix/articles/1022732/?utm_campaign=1022732&utm_source=habrahabr&utm_medium=rss)
-- [Зачем AI-ассистенту пирамида тестирования, или Как скормить слона нейросети по кусочкам](https://habr.com/ru/articles/1025278/?utm_campaign=1025278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

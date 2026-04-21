@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Чем занимается инженер отдела сопровождения разработки: от предсерийного образца до стабильного продукта](https://habr.com/ru/companies/yadro/articles/1025652/?utm_campaign=1025652&utm_source=habrahabr&utm_medium=rss)
 - [Скриншотное тестирование: практические советы из реального проекта](https://habr.com/ru/companies/ispring/articles/1025676/?utm_campaign=1025676&utm_source=habrahabr&utm_medium=rss)
 - [Эксперименты с распараллеливанием Java-автотестов](https://habr.com/ru/companies/rostelecom/articles/1025746/?utm_campaign=1025746&utm_source=habrahabr&utm_medium=rss)
 - [Как мы строим внутренний контроль качества в компании по тестированию](https://habr.com/ru/articles/1025582/?utm_campaign=1025582&utm_source=habrahabr&utm_medium=rss)
 - [Курс по тестированию с ИИ лучше обычного? Личный опыт автора для новичков](https://habr.com/ru/articles/1025012/?utm_campaign=1025012&utm_source=habrahabr&utm_medium=rss)
-- [Контрактное тестирование на Kotlin: гайд для автоматизатора](https://habr.com/ru/companies/otus/articles/1022196/?utm_campaign=1022196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

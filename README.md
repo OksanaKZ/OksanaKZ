@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Что на самом деле происходит в комнате с пирамидками и почему после неё не верят даташитам на микросхемы](https://habr.com/ru/articles/1027006/?utm_campaign=1027006&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование с Apache JMeter: Best Practices](https://habr.com/ru/companies/otus/articles/1022194/?utm_campaign=1022194&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Могут ли Claude Skills заменить Playwright-агентов? Практический взгляд для QA-инженеров](https://habr.com/ru/articles/1025498/?utm_campaign=1025498&utm_source=habrahabr&utm_medium=rss)
 - [“Я потерял контекст”, или еще один инструмент для тестировщиков](https://habr.com/ru/companies/rostelecom/articles/1026460/?utm_campaign=1026460&utm_source=habrahabr&utm_medium=rss)
 - [Как ускорить верификацию: советы для инженеров и менеджеров аппаратной разработки](https://habr.com/ru/companies/yadro/articles/1026312/?utm_campaign=1026312&utm_source=habrahabr&utm_medium=rss)
-- [Чем занимается инженер отдела сопровождения разработки: от предсерийного образца до стабильного продукта](https://habr.com/ru/companies/yadro/articles/1025652/?utm_campaign=1025652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

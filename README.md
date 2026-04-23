@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Подводные камни распараллеливания автотестов](https://habr.com/ru/companies/sberbank/articles/1026636/?utm_campaign=1026636&utm_source=habrahabr&utm_medium=rss)
 - [Тесты в формате симуляции](https://habr.com/ru/companies/sportmaster_lab/articles/1027094/?utm_campaign=1027094&utm_source=habrahabr&utm_medium=rss)
 - [Даже гениям отказывают](https://habr.com/ru/articles/1027092/?utm_campaign=1027092&utm_source=habrahabr&utm_medium=rss)
 - [Почему автотесты пропускают изменения в API и как это исправить с Pydantic](https://habr.com/ru/companies/infowatch/articles/1026490/?utm_campaign=1026490&utm_source=habrahabr&utm_medium=rss)
 - [Что на самом деле происходит в комнате с пирамидками и почему после неё не верят даташитам на микросхемы](https://habr.com/ru/articles/1027006/?utm_campaign=1027006&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование с Apache JMeter: Best Practices](https://habr.com/ru/companies/otus/articles/1022194/?utm_campaign=1022194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

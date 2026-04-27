@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Redis для QA](https://habr.com/ru/articles/1026522/?utm_campaign=1026522&utm_source=habrahabr&utm_medium=rss)
+- [Пишем быстрые UI-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/982296/?utm_campaign=982296&utm_source=habrahabr&utm_medium=rss)
 - [ISTQB обновил сертификацию AI Testing до v2.0. Что изменилось и чего там всё ещё не хватает](https://habr.com/ru/articles/1027638/?utm_campaign=1027638&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование «на минималках»: визуализируем k6 через встроенные дашборды, ИИ и Grafana](https://habr.com/ru/articles/1027558/?utm_campaign=1027558&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура тестового фреймворка](https://habr.com/ru/companies/otus/articles/1026132/?utm_campaign=1026132&utm_source=habrahabr&utm_medium=rss)
-- [Подводные камни распараллеливания автотестов](https://habr.com/ru/companies/sberbank/articles/1026636/?utm_campaign=1026636&utm_source=habrahabr&utm_medium=rss)
-- [Тесты в формате симуляции](https://habr.com/ru/companies/sportmaster_lab/articles/1027094/?utm_campaign=1027094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как читать логи, когда их слишком много](https://habr.com/ru/companies/ruvds/articles/1028288/?utm_campaign=1028288&utm_source=habrahabr&utm_medium=rss)
+- [Quality Gates в разработке: делаем качество частью процесса](https://habr.com/ru/companies/ostrovok/articles/1026968/?utm_campaign=1026968&utm_source=habrahabr&utm_medium=rss)
 - [Как проверять CI-джобы локально с помощью Docker](https://habr.com/ru/articles/1027278/?utm_campaign=1027278&utm_source=habrahabr&utm_medium=rss)
 - [Как мы написали UI-тесты для ИИ-агента внутри JetBrains IDE](https://habr.com/ru/companies/veai/articles/1028756/?utm_campaign=1028756&utm_source=habrahabr&utm_medium=rss)
 - [Как проводить нагрузочное тестирование на Python](https://habr.com/ru/articles/1028950/?utm_campaign=1028950&utm_source=habrahabr&utm_medium=rss)
-- [Что делать, чтобы стать тестировщиком. Советы от автора самого большого курса по тестированию на Stepik &lpar;100K студентов&rpar;](https://habr.com/ru/articles/1027602/?utm_campaign=1027602&utm_source=habrahabr&utm_medium=rss)
-- [Как стратегия оптимальной конфигурации экономит до 50% ИТ бюджета](https://habr.com/ru/articles/1028930/?utm_campaign=1028930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

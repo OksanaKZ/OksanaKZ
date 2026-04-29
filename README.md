@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Самые популярные ошибки начинающего SDET-специалиста](https://habr.com/ru/companies/simbirsoft/articles/1027022/?utm_campaign=1027022&utm_source=habrahabr&utm_medium=rss)
 - [Робот встал. Что дальше? Почему складской роботизации нужна сервисная модель](https://habr.com/ru/articles/1029438/?utm_campaign=1029438&utm_source=habrahabr&utm_medium=rss)
 - [Тряска по науке:  как и зачем тестируют радиоэлектронику вибрацией](https://habr.com/ru/articles/1029398/?utm_campaign=1029398&utm_source=habrahabr&utm_medium=rss)
 - [Как читать логи, когда их слишком много](https://habr.com/ru/companies/ruvds/articles/1028288/?utm_campaign=1028288&utm_source=habrahabr&utm_medium=rss)
 - [Quality Gates в разработке: делаем качество частью процесса](https://habr.com/ru/companies/ostrovok/articles/1026968/?utm_campaign=1026968&utm_source=habrahabr&utm_medium=rss)
-- [Как проверять CI-джобы локально с помощью Docker](https://habr.com/ru/articles/1027278/?utm_campaign=1027278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

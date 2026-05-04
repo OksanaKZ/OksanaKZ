@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автотестирование пайплайнов в GitLab CI: наш опыт и практика](https://habr.com/ru/companies/ozontech/articles/1027596/?utm_campaign=1027596&utm_source=habrahabr&utm_medium=rss)
+- [QA в 2026 году: почему лёгкого входа в IT больше нет](https://habr.com/ru/articles/981382/?utm_campaign=981382&utm_source=habrahabr&utm_medium=rss)
 - [Юзабилити‑тестирование без иллюзий, или почему технических тестов недостаточно?](https://habr.com/ru/articles/1030978/?utm_campaign=1030978&utm_source=habrahabr&utm_medium=rss)
 - [Хотел протестировать веб-приложение через AI — за три дня собрал свой инструмент](https://habr.com/ru/articles/1030840/?utm_campaign=1030840&utm_source=habrahabr&utm_medium=rss)
 - [Почему Python стал главным помощником Java‑команд](https://habr.com/ru/companies/otus/articles/1022120/?utm_campaign=1022120&utm_source=habrahabr&utm_medium=rss)
-- [Сколько памяти нужно для жизни: стресс-тест старого и нового железа](https://habr.com/ru/companies/selectel/articles/1030298/?utm_campaign=1030298&utm_source=habrahabr&utm_medium=rss)
-- [Тестируем программы для вскрытия биткойн-головоломок](https://habr.com/ru/companies/ruvds/articles/1029952/?utm_campaign=1029952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

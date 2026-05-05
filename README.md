@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Reactive Resume — создаём стильное CV за 10 минут](https://habr.com/ru/articles/1030664/?utm_campaign=1030664&utm_source=habrahabr&utm_medium=rss)
 - [Реанимация легаси: как мы заставили древний SEO-сервис говорить на другом языке](https://habr.com/ru/companies/ivi/articles/1030042/?utm_campaign=1030042&utm_source=habrahabr&utm_medium=rss)
 - [Автотестирование пайплайнов в GitLab CI: наш опыт и практика](https://habr.com/ru/companies/ozontech/articles/1027596/?utm_campaign=1027596&utm_source=habrahabr&utm_medium=rss)
 - [QA в 2026 году: почему лёгкого входа в IT больше нет](https://habr.com/ru/articles/981382/?utm_campaign=981382&utm_source=habrahabr&utm_medium=rss)
 - [Юзабилити‑тестирование без иллюзий, или почему технических тестов недостаточно?](https://habr.com/ru/articles/1030978/?utm_campaign=1030978&utm_source=habrahabr&utm_medium=rss)
-- [Хотел протестировать веб-приложение через AI — за три дня собрал свой инструмент](https://habr.com/ru/articles/1030840/?utm_campaign=1030840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

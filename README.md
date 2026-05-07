@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Вайб-кодинг или лудомания?](https://habr.com/ru/articles/1032724/?utm_campaign=1032724&utm_source=habrahabr&utm_medium=rss)
 - [Flaky-тесты — не приговор: эксперименты по ускорению выпуска релизов](https://habr.com/ru/companies/hh/articles/1031996/?utm_campaign=1031996&utm_source=habrahabr&utm_medium=rss)
 - [Меньше ручного кода и в 1,5 раза больше закрытых story points: наш опыт внедрения ИИ в разработку](https://habr.com/ru/companies/jetinfosystems/articles/1032034/?utm_campaign=1032034&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования на Go: стратегия и реализация с нуля](https://habr.com/ru/companies/tuturu/articles/1027158/?utm_campaign=1027158&utm_source=habrahabr&utm_medium=rss)
 - [Reactive Resume — создаём стильное CV за 10 минут](https://habr.com/ru/articles/1030664/?utm_campaign=1030664&utm_source=habrahabr&utm_medium=rss)
-- [Реанимация легаси: как мы заставили древний SEO-сервис говорить на другом языке](https://habr.com/ru/companies/ivi/articles/1030042/?utm_campaign=1030042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

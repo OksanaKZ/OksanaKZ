@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Аналитик в тумане: как работать с неопределенностью, не притворяясь, что ее нет](https://habr.com/ru/companies/garage8/articles/1032988/?utm_campaign=1032988&utm_source=habrahabr&utm_medium=rss)
 - [Между нами SLA: как бизнесу и поддержке договориться до первого инцидента](https://habr.com/ru/articles/1032878/?utm_campaign=1032878&utm_source=habrahabr&utm_medium=rss)
 - [Философия автотестов: управление, поддержка и флаки](https://habr.com/ru/articles/1032868/?utm_campaign=1032868&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодинг или лудомания?](https://habr.com/ru/articles/1032724/?utm_campaign=1032724&utm_source=habrahabr&utm_medium=rss)
 - [Flaky-тесты — не приговор: эксперименты по ускорению выпуска релизов](https://habr.com/ru/companies/hh/articles/1031996/?utm_campaign=1031996&utm_source=habrahabr&utm_medium=rss)
-- [Меньше ручного кода и в 1,5 раза больше закрытых story points: наш опыт внедрения ИИ в разработку](https://habr.com/ru/companies/jetinfosystems/articles/1032034/?utm_campaign=1032034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

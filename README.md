@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Новая эра: нагрузочное тестирование UI-микросервисов](https://habr.com/ru/companies/rshb/articles/1034112/?utm_campaign=1034112&utm_source=habrahabr&utm_medium=rss)
+- [Apache Kafka: как настроить тестирование сообщений в топиках](https://habr.com/ru/companies/simbirsoft/articles/1034284/?utm_campaign=1034284&utm_source=habrahabr&utm_medium=rss)
+- [Новая эра: нагрузочное тестирование UI‑микросервисов](https://habr.com/ru/companies/rshb/articles/1034112/?utm_campaign=1034112&utm_source=habrahabr&utm_medium=rss)
 - [Как составить ИПР, который работает](https://habr.com/ru/companies/sminex_developer/articles/1032456/?utm_campaign=1032456&utm_source=habrahabr&utm_medium=rss)
 - [Аналитики и нагрузочное тестирование: как это работает на практике](https://habr.com/ru/companies/usetech/articles/1034066/?utm_campaign=1034066&utm_source=habrahabr&utm_medium=rss)
 - [Почему классический подход к QA больше не работает &lpar;и виновата ли в этом эпоха ИИ&rpar;](https://habr.com/ru/companies/otus/articles/1026818/?utm_campaign=1026818&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] postman2pytest: как превратить Postman-коллекцию в pytest-набор за одну команду](https://habr.com/ru/articles/1033658/?utm_campaign=1033658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

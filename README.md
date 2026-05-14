@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я автоматизировал UI в Windows: UIAutomation и Win32](https://habr.com/ru/articles/1035292/?utm_campaign=1035292&utm_source=habrahabr&utm_medium=rss)
 - [Юнит-тестирование на уровне базы данных PostgreSQL](https://habr.com/ru/companies/ibs/articles/1035100/?utm_campaign=1035100&utm_source=habrahabr&utm_medium=rss)
 - [Разбираемся в многообразии видов тестирования](https://habr.com/ru/companies/selectel/articles/1034602/?utm_campaign=1034602&utm_source=habrahabr&utm_medium=rss)
 - [Как приручить сервисы-моки](https://habr.com/ru/articles/1034736/?utm_campaign=1034736&utm_source=habrahabr&utm_medium=rss)
-- [Apache Kafka: как настроить тестирование сообщений в топиках](https://habr.com/ru/companies/simbirsoft/articles/1034284/?utm_campaign=1034284&utm_source=habrahabr&utm_medium=rss)
-- [Новая эра: нагрузочное тестирование UI‑микросервисов](https://habr.com/ru/companies/rshb/articles/1034112/?utm_campaign=1034112&utm_source=habrahabr&utm_medium=rss)
+- [Apache Kafka: как настроить тестирование сообщений в топиках](https://habr.com/ru/companies/simbirsoft/articles/1034284/?utm_campaign=1034284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

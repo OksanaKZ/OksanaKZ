@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Синергия E2E и скриншотных тестов: создание надежной системы тестирования iOS с помощью XCTest](https://habr.com/ru/companies/ispring/articles/1031692/?utm_campaign=1031692&utm_source=habrahabr&utm_medium=rss)
 - [Ты QA и у тебя баги. Какие из них блокируют релиз?](https://habr.com/ru/companies/otus/articles/1033970/?utm_campaign=1033970&utm_source=habrahabr&utm_medium=rss)
 - [Как я автоматизировал UI в Windows: UIAutomation и Win32](https://habr.com/ru/articles/1035292/?utm_campaign=1035292&utm_source=habrahabr&utm_medium=rss)
 - [Юнит-тестирование на уровне базы данных PostgreSQL](https://habr.com/ru/companies/ibs/articles/1035100/?utm_campaign=1035100&utm_source=habrahabr&utm_medium=rss)
 - [Разбираемся в многообразии видов тестирования](https://habr.com/ru/companies/selectel/articles/1034602/?utm_campaign=1034602&utm_source=habrahabr&utm_medium=rss)
-- [Как приручить сервисы-моки](https://habr.com/ru/articles/1034736/?utm_campaign=1034736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

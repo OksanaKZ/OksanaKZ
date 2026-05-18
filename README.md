@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Wayback Machine как архив IDOR: как временные ссылки перестали быть временными](https://habr.com/ru/articles/1035516/?utm_campaign=1035516&utm_source=habrahabr&utm_medium=rss)
 - [AI-агент действительно ловит баги? Пусть докажет на бенчмарке](https://habr.com/ru/articles/1036136/?utm_campaign=1036136&utm_source=habrahabr&utm_medium=rss)
 - [FlakyDetector 2.0: Как я превратил сырое исследование в продакшен-инструмент с AST, ML и красивым дашбордом…](https://habr.com/ru/articles/1035782/?utm_campaign=1035782&utm_source=habrahabr&utm_medium=rss)
 - [Могут ли LLM находить flaky‑тесты по одному только коду теста? Разбор одного исследования](https://habr.com/ru/companies/otus/articles/1026824/?utm_campaign=1026824&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] В логах Kibana лежат тест-кейсы. Вот CLI, чтобы их достать. С auth, заскрабленным по умолчанию](https://habr.com/ru/articles/1035576/?utm_campaign=1035576&utm_source=habrahabr&utm_medium=rss)
-- [Синергия E2E и скриншотных тестов: создание надежной системы тестирования iOS с помощью XCTest](https://habr.com/ru/companies/ispring/articles/1031692/?utm_campaign=1031692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

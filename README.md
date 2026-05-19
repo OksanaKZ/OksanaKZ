@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [5 распространенных ошибок новичка в E2E-тестах](https://habr.com/ru/companies/otus/articles/1034446/?utm_campaign=1034446&utm_source=habrahabr&utm_medium=rss)
 - [Почему ИИ-боты более уязвимы, чем их базовые LLM-модели?](https://habr.com/ru/articles/1036854/?utm_campaign=1036854&utm_source=habrahabr&utm_medium=rss)
 - [Вы неправильно тестируете асинхронный код: тест проходит раньше, чем выполняется проверка](https://habr.com/ru/companies/otus/articles/1036208/?utm_campaign=1036208&utm_source=habrahabr&utm_medium=rss)
 - [«Норма» как закономерный результат закона о норме](https://habr.com/ru/articles/1036782/?utm_campaign=1036782&utm_source=habrahabr&utm_medium=rss)
 - [Прогнал семь LLM через свой русский спортивный бенчмарк. Базовой моделью всё равно оставляю Gemma 4 31B](https://habr.com/ru/articles/1036448/?utm_campaign=1036448&utm_source=habrahabr&utm_medium=rss)
-- [GPT-шорткаты: что работает, а что нет](https://habr.com/ru/articles/1033518/?utm_campaign=1033518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

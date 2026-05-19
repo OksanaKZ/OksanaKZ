@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [«Норма» как закономерный результат закона о норме](https://habr.com/ru/articles/1036782/?utm_campaign=1036782&utm_source=habrahabr&utm_medium=rss)
 - [Прогнал семь LLM через свой русский спортивный бенчмарк. Базовой моделью всё равно оставляю Gemma 4 31B](https://habr.com/ru/articles/1036448/?utm_campaign=1036448&utm_source=habrahabr&utm_medium=rss)
 - [GPT-шорткаты: что работает, а что нет](https://habr.com/ru/articles/1033518/?utm_campaign=1033518&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать внешние API в Python: от DI-мока до настоящего HTTP-сервера](https://habr.com/ru/articles/1034864/?utm_campaign=1034864&utm_source=habrahabr&utm_medium=rss)
 - [Мы пытались заменить QA нейросетью. Не получилось](https://habr.com/ru/articles/995020/?utm_campaign=995020&utm_source=habrahabr&utm_medium=rss)
-- [Wayback Machine как архив IDOR: как временные ссылки перестали быть временными](https://habr.com/ru/articles/1035516/?utm_campaign=1035516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

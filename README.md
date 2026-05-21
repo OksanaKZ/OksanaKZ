@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал утилиту для автоматизации ручных тестов](https://habr.com/ru/articles/974258/?utm_campaign=974258&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Параметризация в JUnit 5 и Allure Report](https://habr.com/ru/companies/testops_tms/articles/1037696/?utm_campaign=1037696&utm_source=habrahabr&utm_medium=rss)
 - [5 распространенных ошибок новичка в E2E-тестах](https://habr.com/ru/companies/otus/articles/1034446/?utm_campaign=1034446&utm_source=habrahabr&utm_medium=rss)
 - [Почему ИИ-боты более уязвимы, чем их базовые LLM-модели?](https://habr.com/ru/articles/1036854/?utm_campaign=1036854&utm_source=habrahabr&utm_medium=rss)
 - [Вы неправильно тестируете асинхронный код: тест проходит раньше, чем выполняется проверка](https://habr.com/ru/companies/otus/articles/1036208/?utm_campaign=1036208&utm_source=habrahabr&utm_medium=rss)
-- [«Норма» как закономерный результат закона о норме](https://habr.com/ru/articles/1036782/?utm_campaign=1036782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я сократил рутину QA до пары кликов: генератор API-тестов и тест-кейсов на LLM, которым хочу поделиться](https://habr.com/ru/articles/1038390/?utm_campaign=1038390&utm_source=habrahabr&utm_medium=rss)
 - [Как работают выделенные ядра в облачном сервере: от планировщика Linux до тестов производительности](https://habr.com/ru/companies/selectel/articles/1037970/?utm_campaign=1037970&utm_source=habrahabr&utm_medium=rss)
 - [Влияние AI на позиции QA в 2026 году](https://habr.com/ru/articles/1037966/?utm_campaign=1037966&utm_source=habrahabr&utm_medium=rss)
 - [Как я сделал утилиту для автоматизации ручных тестов](https://habr.com/ru/articles/974258/?utm_campaign=974258&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Параметризация в JUnit 5 и Allure Report](https://habr.com/ru/companies/testops_tms/articles/1037696/?utm_campaign=1037696&utm_source=habrahabr&utm_medium=rss)
-- [5 распространенных ошибок новичка в E2E-тестах](https://habr.com/ru/companies/otus/articles/1034446/?utm_campaign=1034446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Пет-проект, который не умер: система бронирования устройств как полигон для AI-разработки](https://habr.com/ru/articles/1038990/?utm_campaign=1038990&utm_source=habrahabr&utm_medium=rss)
+- [CVE, Shell и побег из контейнера: испытываем возможности PT Cloud Application Firewall](https://habr.com/ru/companies/k2tech/articles/1038048/?utm_campaign=1038048&utm_source=habrahabr&utm_medium=rss)
+- [Я построила диагностику «стоит ли это автоматизировать» — и она трижды говорила глупости. Разбор ошибок](https://habr.com/ru/articles/1038938/?utm_campaign=1038938&utm_source=habrahabr&utm_medium=rss)
 - [10 Гбит/с — зачем вам такая скорость передачи данных в облаке](https://habr.com/ru/companies/selectel/articles/1038904/?utm_campaign=1038904&utm_source=habrahabr&utm_medium=rss)
 - [Новые методы и инструменты: как мы обновили курсы по тестированию в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/1036316/?utm_campaign=1036316&utm_source=habrahabr&utm_medium=rss)
-- [Как я сократил рутину QA до пары кликов: генератор API-тестов и тест-кейсов на LLM, которым хочу поделиться](https://habr.com/ru/articles/1038390/?utm_campaign=1038390&utm_source=habrahabr&utm_medium=rss)
-- [Как работают выделенные ядра в облачном сервере: от планировщика Linux до тестов производительности](https://habr.com/ru/companies/selectel/articles/1037970/?utm_campaign=1037970&utm_source=habrahabr&utm_medium=rss)
-- [Влияние AI на позиции QA в 2026 году](https://habr.com/ru/articles/1037966/?utm_campaign=1037966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

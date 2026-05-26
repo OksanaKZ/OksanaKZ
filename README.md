@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как ИИ портит резюме студентам](https://habr.com/ru/articles/1039714/?utm_campaign=1039714&utm_source=habrahabr&utm_medium=rss)
+- [Как приоритизировать регрессионные проверки, когда сжаты сроки релиза](https://habr.com/ru/companies/otus/articles/1034424/?utm_campaign=1034424&utm_source=habrahabr&utm_medium=rss)
 - [Почему ломается ваш AI-агент — и почему смена модели обычно его не чинит](https://habr.com/ru/articles/1039292/?utm_campaign=1039292&utm_source=habrahabr&utm_medium=rss)
 - [Пет-проект, который не умер: система бронирования устройств как полигон для AI-разработки](https://habr.com/ru/articles/1038990/?utm_campaign=1038990&utm_source=habrahabr&utm_medium=rss)
 - [CVE, Shell и побег из контейнера: испытываем возможности PT Cloud Application Firewall](https://habr.com/ru/companies/k2tech/articles/1038048/?utm_campaign=1038048&utm_source=habrahabr&utm_medium=rss)
-- [Я построила диагностику «стоит ли это автоматизировать» — и она трижды говорила глупости. Разбор ошибок](https://habr.com/ru/articles/1038938/?utm_campaign=1038938&utm_source=habrahabr&utm_medium=rss)
-- [10 Гбит/с — зачем вам такая скорость передачи данных в облаке](https://habr.com/ru/companies/selectel/articles/1038904/?utm_campaign=1038904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

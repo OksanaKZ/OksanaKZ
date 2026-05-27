@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Совместимость Test IT и RedOS: опыт автоматизации сборки, тестирования и сертификации](https://habr.com/ru/articles/1040022/?utm_campaign=1040022&utm_source=habrahabr&utm_medium=rss)
+- [Impact Analysis в дизайн-системе: как мы сделали CI осмысленнее, а review понятнее](https://habr.com/ru/companies/bcs_company/articles/1039404/?utm_campaign=1039404&utm_source=habrahabr&utm_medium=rss)
+- [Шёл за утечкой памяти, нашёл утечку диска: SXSSFWorkbook без dispose&lpar;&rpar; в Apache POI](https://habr.com/ru/articles/1039862/?utm_campaign=1039862&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ портит резюме студентам](https://habr.com/ru/articles/1039714/?utm_campaign=1039714&utm_source=habrahabr&utm_medium=rss)
 - [Как приоритизировать регрессионные проверки, когда сжаты сроки релиза](https://habr.com/ru/companies/otus/articles/1034424/?utm_campaign=1034424&utm_source=habrahabr&utm_medium=rss)
-- [Почему ломается ваш AI-агент — и почему смена модели обычно его не чинит](https://habr.com/ru/articles/1039292/?utm_campaign=1039292&utm_source=habrahabr&utm_medium=rss)
-- [Пет-проект, который не умер: система бронирования устройств как полигон для AI-разработки](https://habr.com/ru/articles/1038990/?utm_campaign=1038990&utm_source=habrahabr&utm_medium=rss)
-- [CVE, Shell и побег из контейнера: испытываем возможности PT Cloud Application Firewall](https://habr.com/ru/companies/k2tech/articles/1038048/?utm_campaign=1038048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Cursor пишет вам unit‑тесты за минуту. 5 паттернов, на которых эти тесты пропустят любой баг](https://habr.com/ru/companies/otus/articles/1039858/?utm_campaign=1039858&utm_source=habrahabr&utm_medium=rss)
 - [Испытание временем — как тестировать цифровой двойник, если физического объекта ещё не существует](https://habr.com/ru/companies/otus/articles/1032754/?utm_campaign=1032754&utm_source=habrahabr&utm_medium=rss)
 - [Назирокодил утилиту на Kotlin для создания аккордов в любой тональности](https://habr.com/ru/articles/1037586/?utm_campaign=1037586&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем в Профи.ру: почему у нас нет пирамиды, зато есть ромб и матрица](https://habr.com/ru/companies/profi_ru/articles/1039634/?utm_campaign=1039634&utm_source=habrahabr&utm_medium=rss)
 - [Совместимость Test IT и RedOS: опыт автоматизации сборки, тестирования и сертификации](https://habr.com/ru/articles/1040022/?utm_campaign=1040022&utm_source=habrahabr&utm_medium=rss)
-- [Impact Analysis в дизайн-системе: как мы сделали CI осмысленнее, а review понятнее](https://habr.com/ru/companies/bcs_company/articles/1039404/?utm_campaign=1039404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

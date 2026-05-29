@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как оценивать ИИ-агентов в проде: нижняя планка, трассы и кодовые проверки](https://habr.com/ru/articles/1040756/?utm_campaign=1040756&utm_source=habrahabr&utm_medium=rss)
+- [Как оценивать ИИ‑агентов в проде: нижняя планка, трассы и кодовые проверки](https://habr.com/ru/articles/1040756/?utm_campaign=1040756&utm_source=habrahabr&utm_medium=rss)
 - [Как я выиграла билет на Heisenbug и узнала про «биполярное тестирование»](https://habr.com/ru/articles/1041118/?utm_campaign=1041118&utm_source=habrahabr&utm_medium=rss)
 - [Cursor пишет вам unit‑тесты за минуту. 5 паттернов, на которых эти тесты пропустят любой баг](https://habr.com/ru/companies/otus/articles/1039858/?utm_campaign=1039858&utm_source=habrahabr&utm_medium=rss)
 - [Испытание временем — как тестировать цифровой двойник, если физического объекта ещё не существует](https://habr.com/ru/companies/otus/articles/1032754/?utm_campaign=1032754&utm_source=habrahabr&utm_medium=rss)

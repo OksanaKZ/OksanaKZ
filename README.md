@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тест кейсы как код](https://habr.com/ru/articles/1042176/?utm_campaign=1042176&utm_source=habrahabr&utm_medium=rss)
 - [Контекст для LLM в тестировании: от калькулятора страховой премии до ТЗ на сотню страниц](https://habr.com/ru/companies/rgs_it/articles/1041996/?utm_campaign=1041996&utm_source=habrahabr&utm_medium=rss)
 - [Git для QA Engineer](https://habr.com/ru/articles/1040232/?utm_campaign=1040232&utm_source=habrahabr&utm_medium=rss)
 - [Моки, стабы и фейки: в чем разница и что выбрать для автотестов?](https://habr.com/ru/articles/1023556/?utm_campaign=1023556&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать ИИ‑агентов в проде: нижняя планка, трассы и кодовые проверки](https://habr.com/ru/articles/1040756/?utm_campaign=1040756&utm_source=habrahabr&utm_medium=rss)
-- [Как я выиграла билет на Heisenbug и узнала про «биполярное тестирование»](https://habr.com/ru/articles/1041118/?utm_campaign=1041118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

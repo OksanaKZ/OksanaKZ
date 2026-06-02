@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_campaign=1042746&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование: не просто скриптики и кнопка «Запуск»](https://habr.com/ru/articles/1042628/?utm_campaign=1042628&utm_source=habrahabr&utm_medium=rss)
 - [«70% соответствия ТЗ — это уже хорошо»: три мифа заказной разработки](https://habr.com/ru/companies/diasoft_company/articles/1042396/?utm_campaign=1042396&utm_source=habrahabr&utm_medium=rss)
 - [Тест кейсы как код](https://habr.com/ru/articles/1042176/?utm_campaign=1042176&utm_source=habrahabr&utm_medium=rss)
 - [Контекст для LLM в тестировании: от калькулятора страховой премии до ТЗ на сотню страниц](https://habr.com/ru/companies/rgs_it/articles/1041996/?utm_campaign=1041996&utm_source=habrahabr&utm_medium=rss)
-- [Git для QA Engineer](https://habr.com/ru/articles/1040232/?utm_campaign=1040232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

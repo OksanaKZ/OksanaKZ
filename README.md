@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [APItizer — конструктор REST API-контрактов](https://habr.com/ru/articles/1042908/?utm_campaign=1042908&utm_source=habrahabr&utm_medium=rss)
+- [Evals для чайников. Как тестировать AI-агента, чтобы понимать, где именно он ломается](https://habr.com/ru/articles/1042924/?utm_campaign=1042924&utm_source=habrahabr&utm_medium=rss)
+- [Аудит QA-отдела «ТатИТнефти»: как провести независимую оценку компетенций за 20 дней и найти точки роста команды](https://habr.com/ru/articles/1042778/?utm_campaign=1042778&utm_source=habrahabr&utm_medium=rss)
 - [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_campaign=1042746&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование: не просто скриптики и кнопка «Запуск»](https://habr.com/ru/articles/1042628/?utm_campaign=1042628&utm_source=habrahabr&utm_medium=rss)
-- [«70% соответствия ТЗ — это уже хорошо»: три мифа заказной разработки](https://habr.com/ru/companies/diasoft_company/articles/1042396/?utm_campaign=1042396&utm_source=habrahabr&utm_medium=rss)
-- [Тест кейсы как код](https://habr.com/ru/articles/1042176/?utm_campaign=1042176&utm_source=habrahabr&utm_medium=rss)
-- [Контекст для LLM в тестировании: от калькулятора страховой премии до ТЗ на сотню страниц](https://habr.com/ru/companies/rgs_it/articles/1041996/?utm_campaign=1041996&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

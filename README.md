@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [AI-агентам скоро понадобится собственный Firewall. И вот почему](https://habr.com/ru/articles/1043160/?utm_campaign=1043160&utm_source=habrahabr&utm_medium=rss)
+- [Пять ошибок в работе с ожиданиями в UI‑автотестах, из‑за которых тесты падают через раз](https://habr.com/ru/companies/otus/articles/1042158/?utm_campaign=1042158&utm_source=habrahabr&utm_medium=rss)
 - [APItizer — конструктор REST API-контрактов](https://habr.com/ru/articles/1042908/?utm_campaign=1042908&utm_source=habrahabr&utm_medium=rss)
 - [Evals для чайников. Как тестировать AI-агента, чтобы понимать, где именно он ломается](https://habr.com/ru/articles/1042924/?utm_campaign=1042924&utm_source=habrahabr&utm_medium=rss)
 - [Аудит QA-отдела «ТатИТнефти»: как провести независимую оценку компетенций за 20 дней и найти точки роста команды](https://habr.com/ru/articles/1042778/?utm_campaign=1042778&utm_source=habrahabr&utm_medium=rss)
-- [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_campaign=1042746&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование: не просто скриптики и кнопка «Запуск»](https://habr.com/ru/articles/1042628/?utm_campaign=1042628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

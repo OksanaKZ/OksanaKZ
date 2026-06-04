@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Black-box пентест: как одна панель управления раскрыла 30 поддоменов и Zabbix в открытом доступе](https://habr.com/ru/companies/cloud4y/articles/1043478/?utm_campaign=1043478&utm_source=habrahabr&utm_medium=rss)
+- [Миф о «равных весах»: что на самом деле скрывается внутри малых моделей](https://habr.com/ru/companies/selectel/articles/1043278/?utm_campaign=1043278&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование ипотечного процесса в мобильном приложении СБОЛ](https://habr.com/ru/companies/domclick/articles/1036990/?utm_campaign=1036990&utm_source=habrahabr&utm_medium=rss)
+- [Page Object Pattern в Selenium на Java: гайд по первому автотестовому проекту](https://habr.com/ru/companies/otus/articles/1042148/?utm_campaign=1042148&utm_source=habrahabr&utm_medium=rss)
 - [AI-агентам скоро понадобится собственный Firewall. И вот почему](https://habr.com/ru/articles/1043160/?utm_campaign=1043160&utm_source=habrahabr&utm_medium=rss)
-- [Пять ошибок в работе с ожиданиями в UI‑автотестах, из‑за которых тесты падают через раз](https://habr.com/ru/companies/otus/articles/1042158/?utm_campaign=1042158&utm_source=habrahabr&utm_medium=rss)
-- [APItizer — конструктор REST API-контрактов](https://habr.com/ru/articles/1042908/?utm_campaign=1042908&utm_source=habrahabr&utm_medium=rss)
-- [Evals для чайников. Как тестировать AI-агента, чтобы понимать, где именно он ломается](https://habr.com/ru/articles/1042924/?utm_campaign=1042924&utm_source=habrahabr&utm_medium=rss)
-- [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_campaign=1042746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

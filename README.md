@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [FlakyDetector 2.0: Один комментарий, который перевернул моё представление о нестабильных тестах](https://habr.com/ru/articles/1043792/?utm_campaign=1043792&utm_source=habrahabr&utm_medium=rss)
 - [Webhook в TestY заставил переписать приложение с нуля: от Flask-костылей к FastAPI](https://habr.com/ru/companies/yadro/articles/1043316/?utm_campaign=1043316&utm_source=habrahabr&utm_medium=rss)
 - [Black-box пентест: как одна панель управления раскрыла 30 поддоменов и Zabbix в открытом доступе](https://habr.com/ru/companies/cloud4y/articles/1043478/?utm_campaign=1043478&utm_source=habrahabr&utm_medium=rss)
 - [Миф о «равных весах»: что на самом деле скрывается внутри малых моделей](https://habr.com/ru/companies/selectel/articles/1043278/?utm_campaign=1043278&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ипотечного процесса в мобильном приложении СБОЛ](https://habr.com/ru/companies/domclick/articles/1036990/?utm_campaign=1036990&utm_source=habrahabr&utm_medium=rss)
-- [Page Object Pattern в Selenium на Java: гайд по первому автотестовому проекту](https://habr.com/ru/companies/otus/articles/1042148/?utm_campaign=1042148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

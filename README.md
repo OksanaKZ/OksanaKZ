@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Резервное копирование БД без влияния на потребителя. Тестируем Direct I/O в CopyWala](https://habr.com/ru/companies/sberbank/articles/1043968/?utm_campaign=1043968&utm_source=habrahabr&utm_medium=rss)
+- [Доверенный ИИ на практике: RAG, который ссылается на источник — или честно отказывается](https://habr.com/ru/articles/1044752/?utm_campaign=1044752&utm_source=habrahabr&utm_medium=rss)
+- [Почему в Go больно писать автотесты &lpar;и дело не в синтаксисе&rpar;](https://habr.com/ru/articles/977406/?utm_campaign=977406&utm_source=habrahabr&utm_medium=rss)
 - [Anything LLM для каждого [бизнеса]](https://habr.com/ru/articles/1044140/?utm_campaign=1044140&utm_source=habrahabr&utm_medium=rss)
-- [Почему компании скоро начнут учитывать AI-действия как новый вид корпоративного актива](https://habr.com/ru/articles/1044266/?utm_campaign=1044266&utm_source=habrahabr&utm_medium=rss)
 - [FlakyDetector 2.0: Один комментарий, который перевернул моё представление о нестабильных тестах](https://habr.com/ru/articles/1043792/?utm_campaign=1043792&utm_source=habrahabr&utm_medium=rss)
-- [Webhook в TestY заставил переписать приложение с нуля: от Flask-костылей к FastAPI](https://habr.com/ru/companies/yadro/articles/1043316/?utm_campaign=1043316&utm_source=habrahabr&utm_medium=rss)
-- [Black-box пентест: как одна панель управления раскрыла 30 поддоменов и Zabbix в открытом доступе](https://habr.com/ru/companies/cloud4y/articles/1043478/?utm_campaign=1043478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

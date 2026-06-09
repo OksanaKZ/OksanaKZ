@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Типы границ для классов эквивалентности](https://habr.com/ru/articles/1045436/?utm_campaign=1045436&utm_source=habrahabr&utm_medium=rss)
 - [AI для Тестирования &lpar;QA&rpar;: краткий гайд по инструментам](https://habr.com/ru/articles/1045374/?utm_campaign=1045374&utm_source=habrahabr&utm_medium=rss)
 - [Отдали рутину боту: работа с тест-кейсами теперь на n8n](https://habr.com/ru/companies/banki/articles/1045336/?utm_campaign=1045336&utm_source=habrahabr&utm_medium=rss)
 - [Black-box тесты на Java: функциональные тесты за секунды и в параллель и почему я остался на своих](https://habr.com/ru/articles/1044626/?utm_campaign=1044626&utm_source=habrahabr&utm_medium=rss)
 - [Резервное копирование БД без влияния на потребителя. Тестируем Direct I/O в CopyWala](https://habr.com/ru/companies/sberbank/articles/1043968/?utm_campaign=1043968&utm_source=habrahabr&utm_medium=rss)
-- [Доверенный ИИ на практике: RAG, который ссылается на источник — или честно отказывается](https://habr.com/ru/articles/1044752/?utm_campaign=1044752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

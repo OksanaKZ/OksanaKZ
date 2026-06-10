@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Claude против краевых случаев: как LLM-агент нашёл баги в NumPy и других Python-библиотеках](https://habr.com/ru/companies/otus/articles/1045852/?utm_campaign=1045852&utm_source=habrahabr&utm_medium=rss)
+- [Свой инструмент для бенчмаркинга ИИ-агентов: архитектура, надёжность и интеграция с Airflow](https://habr.com/ru/companies/sberbank/articles/1045586/?utm_campaign=1045586&utm_source=habrahabr&utm_medium=rss)
+- [Как двери издеваются над программистами](https://habr.com/ru/companies/beget/articles/1041360/?utm_campaign=1041360&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование требований с ИИ: что делать, когда контекст уже готов](https://habr.com/ru/companies/rgs_it/articles/1044980/?utm_campaign=1044980&utm_source=habrahabr&utm_medium=rss)
 - [Типы границ для классов эквивалентности](https://habr.com/ru/articles/1045436/?utm_campaign=1045436&utm_source=habrahabr&utm_medium=rss)
-- [AI для Тестирования &lpar;QA&rpar;: краткий гайд по инструментам](https://habr.com/ru/articles/1045374/?utm_campaign=1045374&utm_source=habrahabr&utm_medium=rss)
-- [Отдали рутину боту: работа с тест-кейсами теперь на n8n](https://habr.com/ru/companies/banki/articles/1045336/?utm_campaign=1045336&utm_source=habrahabr&utm_medium=rss)
-- [Black-box тесты на Java: функциональные тесты за секунды и в параллель и почему я остался на своих](https://habr.com/ru/articles/1044626/?utm_campaign=1044626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [R-Vision SIEM и R-Vision SOAR на Standoff 17: «синие» получат дополнительные инструменты для мониторинга и реагирования](https://habr.com/ru/companies/pt/articles/1046457/?utm_campaign=1046457&utm_source=habrahabr&utm_medium=rss)
 - [Держите LLM подальше от тестов чат-бота](https://habr.com/ru/articles/1046277/?utm_campaign=1046277&utm_source=habrahabr&utm_medium=rss)
 - [Внедрение ИИ-агента глазами QA: полгода от скепсиса до 1600 тестов за сутки](https://habr.com/ru/companies/it_sense/articles/1046063/?utm_campaign=1046063&utm_source=habrahabr&utm_medium=rss)
 - [Ваши тесты медленные не из-за базы данных. Я измерил](https://habr.com/ru/articles/1045923/?utm_campaign=1045923&utm_source=habrahabr&utm_medium=rss)
 - [Клод в шестернях](https://habr.com/ru/articles/1045911/?utm_campaign=1045911&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизированное тестирование нового поколения: как ИИ меняет жизнь тестировщика](https://habr.com/ru/companies/sberbank/articles/1034680/?utm_campaign=1034680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

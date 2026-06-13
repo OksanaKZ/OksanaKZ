@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Table-test или как помочь агенту понять как тестироваться](https://habr.com/ru/articles/1046980/?utm_campaign=1046980&utm_source=habrahabr&utm_medium=rss)
 - [Как Jepsen ломает распределённые базы: разбор бага в CockroachDB](https://habr.com/ru/companies/otus/articles/1045000/?utm_campaign=1045000&utm_source=habrahabr&utm_medium=rss)
 - [Shrinking: как property-тест сводит мусорный контрпример к минимуму](https://habr.com/ru/companies/otus/articles/1046638/?utm_campaign=1046638&utm_source=habrahabr&utm_medium=rss)
 - [Борьба с галлюцинациями и 27 часов работы: практический опыт тестирования калькулятора трудозатрат с помощью ИИ](https://habr.com/ru/articles/1046586/?utm_campaign=1046586&utm_source=habrahabr&utm_medium=rss)
 - [Держите LLM подальше от тестов чат-бота](https://habr.com/ru/articles/1046277/?utm_campaign=1046277&utm_source=habrahabr&utm_medium=rss)
-- [Внедрение ИИ-агента глазами QA: полгода от скепсиса до 1600 тестов за сутки](https://habr.com/ru/companies/it_sense/articles/1046063/?utm_campaign=1046063&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

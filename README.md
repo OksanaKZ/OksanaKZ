@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование производительности MSPS &lpar;Microsoft Project Server&rpar;](https://habr.com/ru/articles/1047424/?utm_campaign=1047424&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Немного магии: как устроен API фикстур в Playwright](https://habr.com/ru/articles/1047326/?utm_campaign=1047326&utm_source=habrahabr&utm_medium=rss)
 - [Ложное чувство защиты: Почему 90% code coverage не спасает от багов](https://habr.com/ru/companies/otus/articles/1044658/?utm_campaign=1044658&utm_source=habrahabr&utm_medium=rss)
 - [Table-test или как помочь агенту понять как тестироваться](https://habr.com/ru/articles/1046980/?utm_campaign=1046980&utm_source=habrahabr&utm_medium=rss)
 - [Как Jepsen ломает распределённые базы: разбор бага в CockroachDB](https://habr.com/ru/companies/otus/articles/1045000/?utm_campaign=1045000&utm_source=habrahabr&utm_medium=rss)
-- [Shrinking: как property-тест сводит мусорный контрпример к минимуму](https://habr.com/ru/companies/otus/articles/1046638/?utm_campaign=1046638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

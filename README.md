@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Настройка SMTP-сервера IIS 6.0 на Windows Server 2019 с поддержкой TLS и аутентификации Negotiate](https://habr.com/ru/articles/1047958/?utm_campaign=1047958&utm_source=habrahabr&utm_medium=rss)
 - [Как навыки гейм-дизайна помогают мне в работе тестировщиком](https://habr.com/ru/articles/1047680/?utm_campaign=1047680&utm_source=habrahabr&utm_medium=rss)
 - [Почему E2E-тесты флакают всё чаще и как с этим жить](https://habr.com/ru/companies/testops_tms/articles/1047520/?utm_campaign=1047520&utm_source=habrahabr&utm_medium=rss)
 - [Чтобы ваши тесты работали быстрее, нужен простой советский… xdist. Я измерил. Часть 2](https://habr.com/ru/articles/1047134/?utm_campaign=1047134&utm_source=habrahabr&utm_medium=rss)
 - [REST и RESTful API для QA Engineer](https://habr.com/ru/articles/1047104/?utm_campaign=1047104&utm_source=habrahabr&utm_medium=rss)
-- [Переработки: как компании превращают вашу ответственность в бесплатный ресурс](https://habr.com/ru/articles/1029900/?utm_campaign=1029900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

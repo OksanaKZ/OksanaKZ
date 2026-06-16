@@ -37,7 +37,7 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] LLM собрала IndexedDB с нуля: 1208 тестов, SQLite и несколько неприятных сюрпризов](https://habr.com/ru/companies/otus/articles/1046662/?utm_campaign=1046662&utm_source=habrahabr&utm_medium=rss)
-- [QA на уровне платформы: Как мы строили систему качества](https://habr.com/ru/companies/avito/articles/1047534/?utm_campaign=1047534&utm_source=habrahabr&utm_medium=rss)
+- [QA на уровне платформы: как мы строили систему качества](https://habr.com/ru/companies/avito/articles/1047534/?utm_campaign=1047534&utm_source=habrahabr&utm_medium=rss)
 - [Property-based testing на практике: как находить баги, о которых вы не подумали](https://habr.com/ru/companies/otus/articles/1044964/?utm_campaign=1044964&utm_source=habrahabr&utm_medium=rss)
 - [Настройка SMTP-сервера IIS 6.0 на Windows Server 2019 с поддержкой TLS и аутентификации Negotiate](https://habr.com/ru/articles/1047958/?utm_campaign=1047958&utm_source=habrahabr&utm_medium=rss)
 - [Как навыки гейм-дизайна помогают мне в работе тестировщиком](https://habr.com/ru/articles/1047680/?utm_campaign=1047680&utm_source=habrahabr&utm_medium=rss)

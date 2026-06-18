@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Как я завёл нормальный голос в детское приложение, не разорившись и не заставив никого лезть в настройки](https://habr.com/ru/articles/1047888/?utm_campaign=1047888&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 4 антипаттерна CI‑автоматизации, из‑за которых команда делает работу за ботов](https://habr.com/ru/companies/otus/articles/1048516/?utm_campaign=1048516&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование ML-модели методами QA: возможно ли?](https://habr.com/ru/articles/1048944/?utm_campaign=1048944&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Мы дали ИИ написать код и тесты: что обнаружило мутационное тестирование](https://habr.com/ru/companies/otus/articles/1048504/?utm_campaign=1048504&utm_source=habrahabr&utm_medium=rss)
 - [Этика тестирования](https://habr.com/ru/articles/1048648/?utm_campaign=1048648&utm_source=habrahabr&utm_medium=rss)
+- [QA. Как навести порядок на проекте, в котором есть проблемы &lpar;Часть 3&rpar;](https://habr.com/ru/articles/1045899/?utm_campaign=1045899&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

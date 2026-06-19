@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как я завёл нормальный голос в детское приложение, не разорившись и не заставив никого лезть в настройки](https://habr.com/ru/articles/1047888/?utm_campaign=1047888&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] 4 антипаттерна CI‑автоматизации, из‑за которых команда делает работу за ботов](https://habr.com/ru/companies/otus/articles/1048516/?utm_campaign=1048516&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Мы дали ИИ написать код и тесты: что обнаружило мутационное тестирование](https://habr.com/ru/companies/otus/articles/1048504/?utm_campaign=1048504&utm_source=habrahabr&utm_medium=rss)
-- [Этика тестирования](https://habr.com/ru/articles/1048648/?utm_campaign=1048648&utm_source=habrahabr&utm_medium=rss)
-- [QA. Как навести порядок на проекте, в котором есть проблемы &lpar;Часть 3&rpar;](https://habr.com/ru/articles/1045899/?utm_campaign=1045899&utm_source=habrahabr&utm_medium=rss)
+- [Когда чат-бот продаёт Chevrolet за доллар: как тестировать и мониторить LLM-приложения](https://habr.com/ru/companies/oleg-bunin/articles/1049584/?utm_campaign=1049584&utm_source=habrahabr&utm_medium=rss)
+- [CrowdStrike, 19 июля 2024: как off-by-one в валидаторе за 78 минут уронил 8,5 млн Windows-машин](https://habr.com/ru/articles/1049524/?utm_campaign=1049524&utm_source=habrahabr&utm_medium=rss)
+- [SDET как эволюция QA, или почему автотестов больше недостаточно](https://habr.com/ru/companies/orion_soft/articles/1049522/?utm_campaign=1049522&utm_source=habrahabr&utm_medium=rss)
+- [Что перестаёт работать в тестировании, когда приходит LLM](https://habr.com/ru/articles/1049482/?utm_campaign=1049482&utm_source=habrahabr&utm_medium=rss)
+- [Как забытые JVM ломали наш CI &lpar;и как мы это починили&rpar;](https://habr.com/ru/companies/sberbank/articles/1048994/?utm_campaign=1048994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

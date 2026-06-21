@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Playwright, Selenium, Cypress, WebdriverIO: что реально известно о скорости в 2026 году &lpar;и как намерить свои цифры&rpar;](https://habr.com/ru/articles/1050168/?utm_campaign=1050168&utm_source=habrahabr&utm_medium=rss)
 - [Все тесты зелёные, а байты разные: как я проверяю порты бинарных форматов](https://habr.com/ru/articles/1049858/?utm_campaign=1049858&utm_source=habrahabr&utm_medium=rss)
 - [Когда чат-бот продаёт Chevrolet за доллар: как тестировать и мониторить LLM-приложения](https://habr.com/ru/companies/oleg-bunin/articles/1049584/?utm_campaign=1049584&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike, 19 июля 2024: как off-by-one в валидаторе за 78 минут уронил 8,5 млн Windows-машин](https://habr.com/ru/articles/1049524/?utm_campaign=1049524&utm_source=habrahabr&utm_medium=rss)
 - [SDET как эволюция QA, или почему автотестов больше недостаточно](https://habr.com/ru/companies/orion_soft/articles/1049522/?utm_campaign=1049522&utm_source=habrahabr&utm_medium=rss)
-- [Что перестаёт работать в тестировании, когда приходит LLM](https://habr.com/ru/articles/1049482/?utm_campaign=1049482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

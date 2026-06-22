@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Playwright, Selenium, Cypress, WebdriverIO: что реально известно о скорости в 2026 году &lpar;и как намерить свои цифры&rpar;](https://habr.com/ru/articles/1050168/?utm_campaign=1050168&utm_source=habrahabr&utm_medium=rss)
-- [Все тесты зелёные, а байты разные: как я проверяю порты бинарных форматов](https://habr.com/ru/articles/1049858/?utm_campaign=1049858&utm_source=habrahabr&utm_medium=rss)
-- [Когда чат-бот продаёт Chevrolet за доллар: как тестировать и мониторить LLM-приложения](https://habr.com/ru/companies/oleg-bunin/articles/1049584/?utm_campaign=1049584&utm_source=habrahabr&utm_medium=rss)
-- [CrowdStrike, 19 июля 2024: как off-by-one в валидаторе за 78 минут уронил 8,5 млн Windows-машин](https://habr.com/ru/articles/1049524/?utm_campaign=1049524&utm_source=habrahabr&utm_medium=rss)
-- [SDET как эволюция QA, или почему автотестов больше недостаточно](https://habr.com/ru/companies/orion_soft/articles/1049522/?utm_campaign=1049522&utm_source=habrahabr&utm_medium=rss)
+- [Топ плагинов IntelliJ IDEA для автоматизатора](https://habr.com/ru/articles/1045008/?utm_campaign=1045008&utm_source=habrahabr&utm_medium=rss)
+- [Как тестировать 5 LLM-агентов одним набором тестов: capability-based подход](https://habr.com/ru/articles/1050252/?utm_campaign=1050252&utm_source=habrahabr&utm_medium=rss)
+- [Mentorpiece Vacy Index июнь 2026: IT-найм продолжает падать](https://habr.com/ru/articles/1049892/?utm_campaign=1049892&utm_source=habrahabr&utm_medium=rss)
+- [Сокращения в российском IT продолжаются 7-й месяц – Мы создали автоиндикатор найма, который покажет окончание кризиса](https://habr.com/ru/articles/1049862/?utm_campaign=1049862&utm_source=habrahabr&utm_medium=rss)
+- [Дорогие автотесты: когда автоматизация тестирования начинает вредить бизнесу](https://habr.com/ru/articles/1025796/?utm_campaign=1025796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

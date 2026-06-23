@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Метод граничных значений и теория множеств](https://habr.com/ru/companies/gnivc/articles/1050902/?utm_campaign=1050902&utm_source=habrahabr&utm_medium=rss)
 - [Кейс обучения QA-персонала: развитие навыков оценки задач и контроль качества через метрики](https://habr.com/ru/articles/1050940/?utm_campaign=1050940&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование поиска и фильтров: чек-лист + как автоматизировать каждый пункт на Playwright](https://habr.com/ru/articles/1050904/?utm_campaign=1050904&utm_source=habrahabr&utm_medium=rss)
 - [Switchback-тесты: инфраструктура для экспериментов в условиях сетевых эффектов](https://habr.com/ru/companies/avito/articles/1048780/?utm_campaign=1048780&utm_source=habrahabr&utm_medium=rss)
 - [Property-based тестирование: как находить баги, которые вы не придумали](https://habr.com/ru/articles/1050850/?utm_campaign=1050850&utm_source=habrahabr&utm_medium=rss)
-- [Evals: что должен знать каждый AI-инженер в 2026](https://habr.com/ru/articles/1050736/?utm_campaign=1050736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

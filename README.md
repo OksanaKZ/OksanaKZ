@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Evals: что должен знать каждый AI-инженер в 2026](https://habr.com/ru/articles/1050736/?utm_campaign=1050736&utm_source=habrahabr&utm_medium=rss)
 - [Форма пишет «принято», а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_campaign=1050712&utm_source=habrahabr&utm_medium=rss)
 - [Топ плагинов IntelliJ IDEA для автоматизатора](https://habr.com/ru/articles/1045008/?utm_campaign=1045008&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать 5 LLM-агентов одним набором тестов: capability-based подход](https://habr.com/ru/articles/1050252/?utm_campaign=1050252&utm_source=habrahabr&utm_medium=rss)
 - [Mentorpiece Vacy Index июнь 2026: IT-найм продолжает падать](https://habr.com/ru/articles/1049892/?utm_campaign=1049892&utm_source=habrahabr&utm_medium=rss)
-- [Сокращения в российском IT продолжаются 7-й месяц – Мы создали автоиндикатор найма, который покажет окончание кризиса](https://habr.com/ru/articles/1049862/?utm_campaign=1049862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

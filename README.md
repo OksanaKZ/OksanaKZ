@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Кейс обучения QA-персонала: развитие навыков оценки задач и контроль качества через метрики](https://habr.com/ru/articles/1050940/?utm_campaign=1050940&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование поиска и фильтров: чек-лист + как автоматизировать каждый пункт на Playwright](https://habr.com/ru/articles/1050904/?utm_campaign=1050904&utm_source=habrahabr&utm_medium=rss)
+- [Switchback-тесты: инфраструктура для экспериментов в условиях сетевых эффектов](https://habr.com/ru/companies/avito/articles/1048780/?utm_campaign=1048780&utm_source=habrahabr&utm_medium=rss)
+- [Property-based тестирование: как находить баги, которые вы не придумали](https://habr.com/ru/articles/1050850/?utm_campaign=1050850&utm_source=habrahabr&utm_medium=rss)
 - [Evals: что должен знать каждый AI-инженер в 2026](https://habr.com/ru/articles/1050736/?utm_campaign=1050736&utm_source=habrahabr&utm_medium=rss)
-- [Форма пишет «принято», а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_campaign=1050712&utm_source=habrahabr&utm_medium=rss)
-- [Топ плагинов IntelliJ IDEA для автоматизатора](https://habr.com/ru/articles/1045008/?utm_campaign=1045008&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировать 5 LLM-агентов одним набором тестов: capability-based подход](https://habr.com/ru/articles/1050252/?utm_campaign=1050252&utm_source=habrahabr&utm_medium=rss)
-- [Mentorpiece Vacy Index июнь 2026: IT-найм продолжает падать](https://habr.com/ru/articles/1049892/?utm_campaign=1049892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

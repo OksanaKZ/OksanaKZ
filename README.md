@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы превратили Swagger из документации в двигатель API-автотестов](https://habr.com/ru/companies/vkusvill/articles/1050894/?utm_campaign=1050894&utm_source=habrahabr&utm_medium=rss)
+- [Retry в Go автотестах: как перестать бояться flaky-тестов](https://habr.com/ru/articles/978802/?utm_campaign=978802&utm_source=habrahabr&utm_medium=rss)
+- [Как биология и особенности медицинского учета издеваются над программистами](https://habr.com/ru/companies/beget/articles/1051252/?utm_campaign=1051252&utm_source=habrahabr&utm_medium=rss)
+- [Генерация автотестов с ИИ: почему первый PR растянулся на две недели и что изменилось после анализа фреймворка](https://habr.com/ru/companies/rgs_it/articles/1050208/?utm_campaign=1050208&utm_source=habrahabr&utm_medium=rss)
 - [Метод граничных значений и теория множеств](https://habr.com/ru/companies/gnivc/articles/1050902/?utm_campaign=1050902&utm_source=habrahabr&utm_medium=rss)
-- [Кейс обучения QA-персонала: развитие навыков оценки задач и контроль качества через метрики](https://habr.com/ru/articles/1050940/?utm_campaign=1050940&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование поиска и фильтров: чек-лист + как автоматизировать каждый пункт на Playwright](https://habr.com/ru/articles/1050904/?utm_campaign=1050904&utm_source=habrahabr&utm_medium=rss)
-- [Switchback-тесты: инфраструктура для экспериментов в условиях сетевых эффектов](https://habr.com/ru/companies/avito/articles/1048780/?utm_campaign=1048780&utm_source=habrahabr&utm_medium=rss)
-- [Property-based тестирование: как находить баги, которые вы не придумали](https://habr.com/ru/articles/1050850/?utm_campaign=1050850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Процессы vs инструменты: как Авито Sales строит QA с нулевыми сдвигами сроков](https://habr.com/ru/companies/avito/articles/1050646/?utm_campaign=1050646&utm_source=habrahabr&utm_medium=rss)
 - [Погружаем модели в сказки русские, да рассказы древние – тестируем возможности Qwen и Whisper на дореволюционномъ](https://habr.com/ru/companies/selectel/articles/1050826/?utm_campaign=1050826&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем Tantor Postgres для 1С от нагрузочных тестов до оптимизаций планировщика](https://habr.com/ru/companies/tantor/articles/1051090/?utm_campaign=1051090&utm_source=habrahabr&utm_medium=rss)
+- [Как мы тестируем Tantor Postgres для 1С — от нагрузочных тестов до оптимизаций планировщика](https://habr.com/ru/companies/tantor/articles/1051090/?utm_campaign=1051090&utm_source=habrahabr&utm_medium=rss)
 - [Как мы превратили Swagger из документации в двигатель API-автотестов](https://habr.com/ru/companies/vkusvill/articles/1050894/?utm_campaign=1050894&utm_source=habrahabr&utm_medium=rss)
 - [Retry в Go автотестах: как перестать бояться flaky-тестов](https://habr.com/ru/articles/978802/?utm_campaign=978802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

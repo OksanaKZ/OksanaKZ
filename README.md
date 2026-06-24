@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы тестируем Tantor Postgres для 1С от нагрузочных тестов до оптимизаций планировщика](https://habr.com/ru/companies/tantor/articles/1051090/?utm_campaign=1051090&utm_source=habrahabr&utm_medium=rss)
+- [С чего начать тестирование LLM: 5 проверок из практики](https://habr.com/ru/articles/1051302/?utm_campaign=1051302&utm_source=habrahabr&utm_medium=rss)
 - [Как мы превратили Swagger из документации в двигатель API-автотестов](https://habr.com/ru/companies/vkusvill/articles/1050894/?utm_campaign=1050894&utm_source=habrahabr&utm_medium=rss)
 - [Retry в Go автотестах: как перестать бояться flaky-тестов](https://habr.com/ru/articles/978802/?utm_campaign=978802&utm_source=habrahabr&utm_medium=rss)
 - [Как биология и особенности медицинского учета издеваются над программистами](https://habr.com/ru/companies/beget/articles/1051252/?utm_campaign=1051252&utm_source=habrahabr&utm_medium=rss)
-- [Генерация автотестов с ИИ: почему первый PR растянулся на две недели и что изменилось после анализа фреймворка](https://habr.com/ru/companies/rgs_it/articles/1050208/?utm_campaign=1050208&utm_source=habrahabr&utm_medium=rss)
-- [Метод граничных значений и теория множеств](https://habr.com/ru/companies/gnivc/articles/1050902/?utm_campaign=1050902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование UX для мобильных приложений: чек‑лист без софта и магии](https://habr.com/ru/companies/otus/articles/1051006/?utm_campaign=1051006&utm_source=habrahabr&utm_medium=rss)
 - [Одна DRC-дека, три техпроцесса и двенадцать неверных гипотез](https://habr.com/ru/articles/1051882/?utm_campaign=1051882&utm_source=habrahabr&utm_medium=rss)
 - [Оффлайн Агент IDEA: как AI-агент Cline Работает с Intellig IDEA полностью оффлайн](https://habr.com/ru/articles/1051826/?utm_campaign=1051826&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестировали Tarantool Database на 640 инстансов](https://habr.com/ru/companies/vk/articles/1051316/?utm_campaign=1051316&utm_source=habrahabr&utm_medium=rss)
 - [Процессы vs инструменты: как Авито Sales строит QA с нулевыми сдвигами сроков](https://habr.com/ru/companies/avito/articles/1050646/?utm_campaign=1050646&utm_source=habrahabr&utm_medium=rss)
-- [Погружаем модели в сказки русские, да рассказы древние – тестируем возможности Qwen и Whisper на дореволюционномъ](https://habr.com/ru/companies/selectel/articles/1050826/?utm_campaign=1050826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

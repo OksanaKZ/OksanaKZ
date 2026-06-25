@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как мы тестировали Tarantool Database на 640 инстансов](https://habr.com/ru/companies/vktech/articles/1051316/?utm_campaign=1051316&utm_source=habrahabr&utm_medium=rss)
+- [Одна DRC-дека, три техпроцесса и двенадцать неверных гипотез](https://habr.com/ru/articles/1051882/?utm_campaign=1051882&utm_source=habrahabr&utm_medium=rss)
+- [Оффлайн Агент IDEA: как AI-агент Cline Работает с Intellig IDEA полностью оффлайн](https://habr.com/ru/articles/1051826/?utm_campaign=1051826&utm_source=habrahabr&utm_medium=rss)
+- [Как мы тестировали Tarantool Database на 640 инстансов](https://habr.com/ru/companies/vk/articles/1051316/?utm_campaign=1051316&utm_source=habrahabr&utm_medium=rss)
 - [Процессы vs инструменты: как Авито Sales строит QA с нулевыми сдвигами сроков](https://habr.com/ru/companies/avito/articles/1050646/?utm_campaign=1050646&utm_source=habrahabr&utm_medium=rss)
 - [Погружаем модели в сказки русские, да рассказы древние – тестируем возможности Qwen и Whisper на дореволюционномъ](https://habr.com/ru/companies/selectel/articles/1050826/?utm_campaign=1050826&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем Tantor Postgres для 1С — от нагрузочных тестов до оптимизаций планировщика](https://habr.com/ru/companies/tantor/articles/1051090/?utm_campaign=1051090&utm_source=habrahabr&utm_medium=rss)
-- [Как мы превратили Swagger из документации в двигатель API-автотестов](https://habr.com/ru/companies/vkusvill/articles/1050894/?utm_campaign=1050894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

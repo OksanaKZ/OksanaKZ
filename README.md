@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Организовал весь пентест-арсенал в одном месте: всё под рукой, офлайн и на русском](https://habr.com/ru/articles/1052866/?utm_campaign=1052866&utm_source=habrahabr&utm_medium=rss)
 - [Аудит нагрузочного тестирования: пять этапов реального проекта](https://habr.com/ru/companies/ibs/articles/1052414/?utm_campaign=1052414&utm_source=habrahabr&utm_medium=rss)
 - [Ретро: Не Ной Слабо, Ной Достойно. Как Превратить Жалобы в Профит](https://habr.com/ru/articles/1052356/?utm_campaign=1052356&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование UX для мобильных приложений: чек‑лист без софта и магии](https://habr.com/ru/companies/otus/articles/1051006/?utm_campaign=1051006&utm_source=habrahabr&utm_medium=rss)
 - [Агент IDEA: как AI-агент Cline Работает с Intellig IDEA полностью оффлайн](https://habr.com/ru/articles/1051826/?utm_campaign=1051826&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестировали Tarantool Database на 640 инстансов](https://habr.com/ru/companies/vk/articles/1051316/?utm_campaign=1051316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

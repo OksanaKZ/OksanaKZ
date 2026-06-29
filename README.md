@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [6 ошибок в метриках дефектов, из-за которых QA теряет контроль над качеством](https://habr.com/ru/companies/otus/articles/1047054/?utm_campaign=1047054&utm_source=habrahabr&utm_medium=rss)
 - [Java для автоматизаторов: Алгоритмы, скорость и подводные камни](https://habr.com/ru/articles/1051954/?utm_campaign=1051954&utm_source=habrahabr&utm_medium=rss)
 - [Как правильно писать WebSocket API автотесты на Python](https://habr.com/ru/articles/1027960/?utm_campaign=1027960&utm_source=habrahabr&utm_medium=rss)
 - [Организовал весь пентест-арсенал в одном месте: всё под рукой, офлайн и на русском](https://habr.com/ru/articles/1052866/?utm_campaign=1052866&utm_source=habrahabr&utm_medium=rss)
 - [Аудит нагрузочного тестирования: пять этапов реального проекта](https://habr.com/ru/companies/ibs/articles/1052414/?utm_campaign=1052414&utm_source=habrahabr&utm_medium=rss)
-- [Ретро: Не Ной Слабо, Ной Достойно. Как Превратить Жалобы в Профит](https://habr.com/ru/articles/1052356/?utm_campaign=1052356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

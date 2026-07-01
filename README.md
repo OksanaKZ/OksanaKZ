@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Playwright в картинках: как работают фикстуры](https://habr.com/ru/articles/1054132/?utm_campaign=1054132&utm_source=habrahabr&utm_medium=rss)
 - [Генерация автотестов и локаторов с ИИ: рабочий код и подводные камни](https://habr.com/ru/companies/rgs_it/articles/1053128/?utm_campaign=1053128&utm_source=habrahabr&utm_medium=rss)
 - [Путь нагрузочного тестирования или почему я создал свой софт по нагрузке](https://habr.com/ru/articles/1053374/?utm_campaign=1053374&utm_source=habrahabr&utm_medium=rss)
 - [Группировка ошибок вручную и автоматически, или чем тестировщику занять своё время](https://habr.com/ru/companies/testops_tms/articles/1053544/?utm_campaign=1053544&utm_source=habrahabr&utm_medium=rss)
 - [6 ошибок в метриках дефектов, из-за которых QA теряет контроль над качеством](https://habr.com/ru/companies/otus/articles/1047054/?utm_campaign=1047054&utm_source=habrahabr&utm_medium=rss)
-- [Как правильно писать WebSocket API автотесты на Python](https://habr.com/ru/articles/1027960/?utm_campaign=1027960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

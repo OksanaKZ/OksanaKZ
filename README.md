@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Плагины в Go-автотестах: как вынести инфраструктуру за пределы тестов](https://habr.com/ru/articles/981190/?utm_campaign=981190&utm_source=habrahabr&utm_medium=rss)
 - [REST Assured: почему зелёные тесты пропускают баги в API](https://habr.com/ru/companies/otus/articles/1047064/?utm_campaign=1047064&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Playwright в картинках: как работают фикстуры](https://habr.com/ru/articles/1054132/?utm_campaign=1054132&utm_source=habrahabr&utm_medium=rss)
 - [Генерация автотестов и локаторов с ИИ: рабочий код и подводные камни](https://habr.com/ru/companies/rgs_it/articles/1053128/?utm_campaign=1053128&utm_source=habrahabr&utm_medium=rss)
 - [Путь нагрузочного тестирования или почему я создал свой софт по нагрузке](https://habr.com/ru/articles/1053374/?utm_campaign=1053374&utm_source=habrahabr&utm_medium=rss)
-- [Группировка ошибок вручную и автоматически, или чем тестировщику занять своё время](https://habr.com/ru/companies/testops_tms/articles/1053544/?utm_campaign=1053544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

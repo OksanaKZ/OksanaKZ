@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автотесты: что есть 100% покрытие API? Часть 2](https://habr.com/ru/articles/1055972/?utm_campaign=1055972&utm_source=habrahabr&utm_medium=rss)
 - [История одного зелёного теста: 97,8% mutation score и баг, который месяцами жил в проде](https://habr.com/ru/articles/1055672/?utm_campaign=1055672&utm_source=habrahabr&utm_medium=rss)
 - [Виды тестирования и с чем их есть](https://habr.com/ru/articles/1055272/?utm_campaign=1055272&utm_source=habrahabr&utm_medium=rss)
 - [Почему QA не уменьшает технический долг — и именно поэтому он так важен](https://habr.com/ru/articles/1055226/?utm_campaign=1055226&utm_source=habrahabr&utm_medium=rss)
 - [Хочешь сделать хорошо — сделай сам: как у нас появилась собственная система работы со стендами](https://habr.com/ru/companies/yadro/articles/1054094/?utm_campaign=1054094&utm_source=habrahabr&utm_medium=rss)
-- [Начинающему тестировщику: список инструментов, которые пригодятся в работе](https://habr.com/ru/companies/usetech/articles/1054732/?utm_campaign=1054732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

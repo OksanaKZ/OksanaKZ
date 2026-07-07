@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_campaign=1056684&utm_source=habrahabr&utm_medium=rss)
+- [Внедрение цифрового рубля: что протестировать уже сейчас, чтобы избежать сбоев и не напороться на штрафы](https://habr.com/ru/articles/1056618/?utm_campaign=1056618&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Когда ИИ-агент ошибается молча: 6 отказов, которые не видно по ответу](https://habr.com/ru/companies/otus/articles/1056170/?utm_campaign=1056170&utm_source=habrahabr&utm_medium=rss)
 - [Как мы научили AI разбирать упавшие автотесты и заводить баги в Трекере](https://habr.com/ru/companies/vkusvill/articles/1056500/?utm_campaign=1056500&utm_source=habrahabr&utm_medium=rss)
 - [История одного зелёного теста: 97,8% mutation score и баг, который месяцами жил в проде](https://habr.com/ru/articles/1055672/?utm_campaign=1055672&utm_source=habrahabr&utm_medium=rss)
-- [Виды тестирования и с чем их есть](https://habr.com/ru/articles/1055272/?utm_campaign=1055272&utm_source=habrahabr&utm_medium=rss)
-- [Почему QA не уменьшает технический долг — и именно поэтому он так важен](https://habr.com/ru/articles/1055226/?utm_campaign=1055226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы подружили динамические тесты JUnit 5 с Госуслугами](https://habr.com/ru/companies/rtlabs/articles/1056672/?utm_campaign=1056672&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование: как анализировать результаты k6 и принимать решения](https://habr.com/ru/companies/first/articles/1056188/?utm_campaign=1056188&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизация тестовой модели с ИИ: как актуализировать тест-кейсы, чтобы не было больно](https://habr.com/ru/companies/rgs_it/articles/1055862/?utm_campaign=1055862&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть-автопилот вместо 400 Playwright-тестов](https://habr.com/ru/articles/1056722/?utm_campaign=1056722&utm_source=habrahabr&utm_medium=rss)
 - [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_campaign=1056684&utm_source=habrahabr&utm_medium=rss)
-- [Внедрение цифрового рубля: что протестировать уже сейчас, чтобы избежать сбоев и не напороться на штрафы](https://habr.com/ru/articles/1056618/?utm_campaign=1056618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

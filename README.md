@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Хакер в магазине: изучаем поверхность атаки типичного супермаркета](https://habr.com/ru/companies/bastion/articles/1008166/?utm_campaign=1008166&utm_source=habrahabr&utm_medium=rss)
+- [Переход на zVirt 5.0: что меняется на каждом узле и как не сорвать обновление](https://habr.com/ru/companies/k2tech/articles/1057172/?utm_campaign=1057172&utm_source=habrahabr&utm_medium=rss)
+- [Чек-лист тестирования поисковой системы: от engine sanity до RAG и графов знаний](https://habr.com/ru/articles/1057356/?utm_campaign=1057356&utm_source=habrahabr&utm_medium=rss)
+- [SonarQube в CI: подключили, забили, а потом удивляемся](https://habr.com/ru/companies/2gis/articles/1053620/?utm_campaign=1053620&utm_source=habrahabr&utm_medium=rss)
 - [Как мы подружили динамические тесты JUnit 5 с Госуслугами](https://habr.com/ru/companies/rtlabs/articles/1056672/?utm_campaign=1056672&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование: как анализировать результаты k6 и принимать решения](https://habr.com/ru/companies/first/articles/1056188/?utm_campaign=1056188&utm_source=habrahabr&utm_medium=rss)
-- [Оптимизация тестовой модели с ИИ: как актуализировать тест-кейсы, чтобы не было больно](https://habr.com/ru/companies/rgs_it/articles/1055862/?utm_campaign=1055862&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть-автопилот вместо 400 Playwright-тестов](https://habr.com/ru/articles/1056722/?utm_campaign=1056722&utm_source=habrahabr&utm_medium=rss)
-- [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_campaign=1056684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

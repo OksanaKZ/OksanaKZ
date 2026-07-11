@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Я запретил Claude говорить «всё работает» без пруфов. Это изменило всё](https://habr.com/ru/articles/1058134/?utm_campaign=1058134&utm_source=habrahabr&utm_medium=rss)
 - [ИИ и автотесты: как поймать ложную зелёную галочку?](https://habr.com/ru/companies/otus/articles/1047068/?utm_campaign=1047068&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать работу специалиста, отвечающего за автотесты, метрики и KPI?](https://habr.com/ru/companies/simbirsoft/articles/1057952/?utm_campaign=1057952&utm_source=habrahabr&utm_medium=rss)
 - [В поле и офисе: послушаем доклады и увидим своими глазами, где тестируют продукты YADRO](https://habr.com/ru/companies/yadro/articles/1057262/?utm_campaign=1057262&utm_source=habrahabr&utm_medium=rss)
 - [Хакер в магазине: изучаем поверхность атаки типичного супермаркета](https://habr.com/ru/companies/bastion/articles/1008166/?utm_campaign=1008166&utm_source=habrahabr&utm_medium=rss)
-- [Переход на zVirt 5.0: что меняется на каждом узле и как не сорвать обновление](https://habr.com/ru/companies/k2tech/articles/1057172/?utm_campaign=1057172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

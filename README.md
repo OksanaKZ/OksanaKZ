@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделала отчет о дифференциальном тестировании через Cursor](https://habr.com/ru/articles/1058722/?utm_campaign=1058722&utm_source=habrahabr&utm_medium=rss)
 - [Почему ваш GitLab CI медленный: 6 ошибок в настройке Runner](https://habr.com/ru/companies/otus/articles/1047052/?utm_campaign=1047052&utm_source=habrahabr&utm_medium=rss)
 - [ИИ для QA: мы перестали тратить часы на подготовку Acceptance Criteria](https://habr.com/ru/companies/banki/articles/1056464/?utm_campaign=1056464&utm_source=habrahabr&utm_medium=rss)
 - [Как мы внедрили модель зрелости QA в 200 командах: от оценки до автоматизации](https://habr.com/ru/companies/tbank/articles/1055378/?utm_campaign=1055378&utm_source=habrahabr&utm_medium=rss)
 - [Как не бояться технических собеседований и live‑coding тестировщику автоматизатору](https://habr.com/ru/articles/1058414/?utm_campaign=1058414&utm_source=habrahabr&utm_medium=rss)
-- [Как я участвовал в Bug Bounty в 2026 году: чему меня научил Black Box-анализ веб-приложения крупной IT-компании](https://habr.com/ru/articles/1058396/?utm_campaign=1058396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

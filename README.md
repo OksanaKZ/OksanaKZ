@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ИИ ускорил разработку. Почему продакшен стал ломаться чаще](https://habr.com/ru/companies/otus/articles/1058978/?utm_campaign=1058978&utm_source=habrahabr&utm_medium=rss)
 - [Attack Replay: новый инструмент для воспроизведения и модификации трафика при тестировании СЗИ](https://habr.com/ru/companies/bastion/articles/1037152/?utm_campaign=1037152&utm_source=habrahabr&utm_medium=rss)
 - [7 ошибок в оценке QA-задач, из-за которых команда срывает сроки релиза](https://habr.com/ru/companies/otus/articles/1047056/?utm_campaign=1047056&utm_source=habrahabr&utm_medium=rss)
 - [Как я сделала отчет о дифференциальном тестировании через Cursor](https://habr.com/ru/articles/1058722/?utm_campaign=1058722&utm_source=habrahabr&utm_medium=rss)
 - [Почему ваш GitLab CI медленный: 6 ошибок в настройке Runner](https://habr.com/ru/companies/otus/articles/1047052/?utm_campaign=1047052&utm_source=habrahabr&utm_medium=rss)
-- [ИИ для QA: мы перестали тратить часы на подготовку Acceptance Criteria](https://habr.com/ru/companies/banki/articles/1056464/?utm_campaign=1056464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

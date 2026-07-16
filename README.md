@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как тестируют баги, которые невозможно воспроизвести](https://habr.com/ru/companies/otus/articles/1058636/?utm_campaign=1058636&utm_source=habrahabr&utm_medium=rss)
 - [Лучшие токены — те, которые вы не потратили: анатомия экономного LLM-бота](https://habr.com/ru/companies/hh/articles/1057108/?utm_campaign=1057108&utm_source=habrahabr&utm_medium=rss)
 - [Развертывание системы Колибри-АРМ в российском облаке](https://habr.com/ru/companies/icl_group/articles/1059354/?utm_campaign=1059354&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь сменил пароль и потерял доступ. Что проворонил тестировщик?](https://habr.com/ru/companies/otus/articles/1058180/?utm_campaign=1058180&utm_source=habrahabr&utm_medium=rss)
 - [Contract testing на Pact в 2026: как перестать чинить интеграции по факту падения](https://habr.com/ru/companies/otus/articles/1058382/?utm_campaign=1058382&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] ИИ ускорил разработку. Почему продакшен стал ломаться чаще](https://habr.com/ru/companies/otus/articles/1058978/?utm_campaign=1058978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

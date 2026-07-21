@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [page.waitForTimeout — это всего лишь warning. Почему зелёный линт не спасает Playwright-тесты](https://habr.com/ru/articles/1058692/?utm_campaign=1058692&utm_source=habrahabr&utm_medium=rss)
 - [Atomic Autotest Design. Когда Page Object&#39;а уже не достаточно](https://habr.com/ru/articles/1060244/?utm_campaign=1060244&utm_source=habrahabr&utm_medium=rss)
 - [Агентская разработка: как обеспечить качество](https://habr.com/ru/companies/avito/articles/1060190/?utm_campaign=1060190&utm_source=habrahabr&utm_medium=rss)
 - [Testcontainers в CI: почему тесты зелёные локально и красные на пайплайне](https://habr.com/ru/companies/otus/articles/1058388/?utm_campaign=1058388&utm_source=habrahabr&utm_medium=rss)
 - [Разделяем доступ к устройствам в Grafana](https://habr.com/ru/companies/swd_es/articles/1055194/?utm_campaign=1055194&utm_source=habrahabr&utm_medium=rss)
-- [Как мы встроили DSL в тестовый фреймворк и научили тесты говорить по-человечески](https://habr.com/ru/companies/hflabs/articles/1059908/?utm_campaign=1059908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

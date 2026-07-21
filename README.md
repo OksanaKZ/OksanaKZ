@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [От бесконечности к конечности: как математика помогает в тестировании](https://habr.com/ru/articles/1061572/?utm_campaign=1061572&utm_source=habrahabr&utm_medium=rss)
 - [Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/?utm_campaign=1060958&utm_source=habrahabr&utm_medium=rss)
 - [Origami Framework: автоматизация тестирования на Java](https://habr.com/ru/articles/1061356/?utm_campaign=1061356&utm_source=habrahabr&utm_medium=rss)
 - [VEGMAN R220 G3 и YADRO G4208P G3: что показали стресс-тесты серверов](https://habr.com/ru/companies/k2tech/articles/1060922/?utm_campaign=1060922&utm_source=habrahabr&utm_medium=rss)
 - [Hypothesis: тесты, которые сами ищут контрпримеры к вашему коду](https://habr.com/ru/companies/otus/articles/1058390/?utm_campaign=1058390&utm_source=habrahabr&utm_medium=rss)
-- [page.waitForTimeout — это всего лишь warning. Почему зелёный линт не спасает Playwright-тесты](https://habr.com/ru/articles/1058692/?utm_campaign=1058692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

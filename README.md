@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование изменилось навсегда — Перспективные MCP для QA](https://habr.com/ru/companies/alfastrah/articles/1058170/?utm_campaign=1058170&utm_source=habrahabr&utm_medium=rss)
+- [Нагрузочное тестирование: наш опыт, методология и результаты. Делимся внутренней кухней](https://habr.com/ru/companies/lansoft_career/articles/1061680/?utm_campaign=1061680&utm_source=habrahabr&utm_medium=rss)
 - [Mentorpiece Vacy Index июль 2026: Найм ручных QA продолжает падать, но сокращение Automation замедлилось](https://habr.com/ru/articles/1061482/?utm_campaign=1061482&utm_source=habrahabr&utm_medium=rss)
 - [От бесконечности к конечности: как математика помогает в тестировании](https://habr.com/ru/articles/1061572/?utm_campaign=1061572&utm_source=habrahabr&utm_medium=rss)
 - [Автотестирование кастомного K8s CNI: как правильно входить в ха… то есть поду](https://habr.com/ru/companies/cloud_ru/articles/1060958/?utm_campaign=1060958&utm_source=habrahabr&utm_medium=rss)
-- [Origami Framework: автоматизация тестирования на Java](https://habr.com/ru/articles/1061356/?utm_campaign=1061356&utm_source=habrahabr&utm_medium=rss)
-- [VEGMAN R220 G3 и YADRO G4208P G3: что показали стресс-тесты серверов](https://habr.com/ru/companies/k2tech/articles/1060922/?utm_campaign=1060922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

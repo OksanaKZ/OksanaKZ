@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [LLM-судье нельзя верить на слово: как построить надёжный гейт и проверить сами тесты](https://habr.com/ru/articles/1062614/?utm_campaign=1062614&utm_source=habrahabr&utm_medium=rss)
 - [AI-агент для анализа требований в финтехе: собираем контекст и находим проблемы до разработки](https://habr.com/ru/companies/svoi_ru/articles/1062390/?utm_campaign=1062390&utm_source=habrahabr&utm_medium=rss)
 - [ИИ заменит QA-инженера? Мы дали ему 2000 наших тестов, чтобы проверить](https://habr.com/ru/companies/it_sense/articles/1062316/?utm_campaign=1062316&utm_source=habrahabr&utm_medium=rss)
 - [Траблшутинг ИИ-багхантинга, или Как не стать бесплатным триажером для своего агента](https://habr.com/ru/companies/bastion/articles/1057486/?utm_campaign=1057486&utm_source=habrahabr&utm_medium=rss)
 - [Масштабирование Zeebe: от каскадных сбоев до 100 процессов в секунду через анализ ресурсов и тюнинг](https://habr.com/ru/companies/tbank/articles/1059936/?utm_campaign=1059936&utm_source=habrahabr&utm_medium=rss)
-- [Три секции TECH EVENT 2026, где особенно ждут доклады](https://habr.com/ru/companies/infostart/articles/1061834/?utm_campaign=1061834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мониторинг сорока сайтов мышкой: как я написал Terraform-провайдер и опубликовал его в реестре](https://habr.com/ru/articles/1063658/?utm_campaign=1063658&utm_source=habrahabr&utm_medium=rss)
 - [Когда 1С выдерживает тесты, но падает в проде: как проверить систему под реальной нагрузкой](https://habr.com/ru/companies/infostart/articles/1063416/?utm_campaign=1063416&utm_source=habrahabr&utm_medium=rss)
 - [Как QA я все равно пишу документацию, но с ИИ трачу на нее часы, а не дни](https://habr.com/ru/companies/cloud_ru/articles/1062556/?utm_campaign=1062556&utm_source=habrahabr&utm_medium=rss)
 - [Когда 200 OK опаснее ошибки](https://habr.com/ru/companies/barsgroup/articles/1063362/?utm_campaign=1063362&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.6 Flash: модель не стала умнее, но стала гениально дешёвой](https://habr.com/ru/companies/gptunnel/articles/1062994/?utm_campaign=1062994&utm_source=habrahabr&utm_medium=rss)
-- [Хуки Claude Code: запрещаем агенту коммитить без прогона тестов](https://habr.com/ru/articles/1062206/?utm_campaign=1062206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

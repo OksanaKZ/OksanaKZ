@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы подружили LLM с А/Б‑тестами: от сломанного BI до HTML‑отчётов с ИИ‑аналитиком внутри](https://habr.com/ru/companies/vk/articles/1063862/?utm_campaign=1063862&utm_source=habrahabr&utm_medium=rss)
 - [Пентест через GitLab. От раннера до контроля над облаком](https://habr.com/ru/companies/bastion/articles/1057592/?utm_campaign=1057592&utm_source=habrahabr&utm_medium=rss)
 - [416 тестов и кнопка «снести все»: где ломаются агентные проекты](https://habr.com/ru/articles/1063582/?utm_campaign=1063582&utm_source=habrahabr&utm_medium=rss)
 - [Kimi K3 на PAC1 и ECOM1: результаты 204 задач и разбор отказов](https://habr.com/ru/articles/1063740/?utm_campaign=1063740&utm_source=habrahabr&utm_medium=rss)
 - [Мониторинг сорока сайтов мышкой: как я написал Terraform-провайдер и опубликовал его в реестре](https://habr.com/ru/articles/1063658/?utm_campaign=1063658&utm_source=habrahabr&utm_medium=rss)
-- [Когда 1С выдерживает тесты, но падает в проде: как проверить систему под реальной нагрузкой](https://habr.com/ru/companies/infostart/articles/1063416/?utm_campaign=1063416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

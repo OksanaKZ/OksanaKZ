@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [За полчаса и 10 рублей — полноценный сайт для редактирования скриншотов. Пошаговая инструкция](https://habr.com/ru/articles/1064302/?utm_campaign=1064302&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-Автопилот: замкнутый цикл разработки на C++ — от тикета до проверки в живом GUI](https://habr.com/ru/articles/1064242/?utm_campaign=1064242&utm_source=habrahabr&utm_medium=rss)
 - [Первый осмысленный план нагрузочного тестирования](https://habr.com/ru/companies/otus/articles/1063238/?utm_campaign=1063238&utm_source=habrahabr&utm_medium=rss)
 - [Как мы подружили LLM с А/Б‑тестами: от сломанного BI до HTML‑отчётов с ИИ‑аналитиком внутри](https://habr.com/ru/companies/vk/articles/1063862/?utm_campaign=1063862&utm_source=habrahabr&utm_medium=rss)
 - [Пентест через GitLab. От раннера до контроля над облаком](https://habr.com/ru/companies/bastion/articles/1057592/?utm_campaign=1057592&utm_source=habrahabr&utm_medium=rss)
-- [416 тестов и кнопка «снести все»: где ломаются агентные проекты](https://habr.com/ru/articles/1063582/?utm_campaign=1063582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

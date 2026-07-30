@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [ИИ-агент в тестировании: почему сильный результат рождается не из промпта, а из инженерного контура](https://habr.com/ru/articles/1064824/?utm_campaign=1064824&utm_source=habrahabr&utm_medium=rss)
+- [Контрактное тестирование без единой строки кода: наш инструмент, наши грабли и честный разбор альтернатив](https://habr.com/ru/companies/nexign/articles/1063686/?utm_campaign=1063686&utm_source=habrahabr&utm_medium=rss)
 - [За полчаса и 10 рублей — полноценный сайт для загрузки и редактирования скриншотов. Пошаговая инструкция](https://habr.com/ru/articles/1064302/?utm_campaign=1064302&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-Автопилот: замкнутый цикл разработки на C++ — от тикета до проверки в живом GUI](https://habr.com/ru/articles/1064242/?utm_campaign=1064242&utm_source=habrahabr&utm_medium=rss)
 - [Первый осмысленный план нагрузочного тестирования](https://habr.com/ru/companies/otus/articles/1063238/?utm_campaign=1063238&utm_source=habrahabr&utm_medium=rss)
-- [Как мы подружили LLM с А/Б‑тестами: от сломанного BI до HTML‑отчётов с ИИ‑аналитиком внутри](https://habr.com/ru/companies/vk/articles/1063862/?utm_campaign=1063862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

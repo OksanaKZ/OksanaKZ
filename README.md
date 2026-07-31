@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как отличить перспективную идею от красивой иллюзии: тестируем инновации на пользователях](https://habr.com/ru/articles/1065324/?utm_campaign=1065324&utm_source=habrahabr&utm_medium=rss)
+- [Мы делили апельсин: как связать ручное и автоматизированное тестирование в единую систему качества](https://habr.com/ru/companies/infowatch/articles/1063872/?utm_campaign=1063872&utm_source=habrahabr&utm_medium=rss)
 - [Как превратить приемочные критерии в систему, а не в список](https://habr.com/ru/companies/otus/articles/1059874/?utm_campaign=1059874&utm_source=habrahabr&utm_medium=rss)
 - [Первый российский Wi-Fi 7: тестирование и честный разбор Eltex WEP-550K](https://habr.com/ru/companies/k2tech/articles/1064490/?utm_campaign=1064490&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент в тестировании: почему сильный результат рождается не из промпта, а из инженерного контура](https://habr.com/ru/articles/1064824/?utm_campaign=1064824&utm_source=habrahabr&utm_medium=rss)
-- [Контрактное тестирование без единой строки кода: наш инструмент, наши грабли и честный разбор альтернатив](https://habr.com/ru/companies/nexign/articles/1063686/?utm_campaign=1063686&utm_source=habrahabr&utm_medium=rss)
-- [За полчаса и 10 рублей — полноценный сайт для загрузки и редактирования скриншотов. Пошаговая инструкция](https://habr.com/ru/articles/1064302/?utm_campaign=1064302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Осознаёт ли Нейросеть, что её тестируют? Проверяю на практике](https://habr.com/ru/articles/1066512/?utm_campaign=1066512&utm_source=habrahabr&utm_medium=rss)
+- [Понимает ли Нейросеть, что её тестируют? Проверяю на практике](https://habr.com/ru/articles/1066512/?utm_campaign=1066512&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Собирали по частям, теряли по-крупному: почему новый сборщик мусора откатили в Python 3.14.5](https://habr.com/ru/companies/timeweb/articles/1065778/?utm_campaign=1065778&utm_source=habrahabr&utm_medium=rss)
 - [Выпекаем тесты на Go с Testo: делимся нашим open-source-фреймворком](https://habr.com/ru/companies/ozontech/articles/1062036/?utm_campaign=1062036&utm_source=habrahabr&utm_medium=rss)
 - [Служебный e-mail вместо рекламной СМС: как мы проверяем разбор решений ФАС](https://habr.com/ru/articles/1066048/?utm_campaign=1066048&utm_source=habrahabr&utm_medium=rss)

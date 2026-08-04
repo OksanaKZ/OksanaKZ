@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Собирали по частям, теряли по-крупному: почему новый сборщик мусора откатили в Python 3.14.5](https://habr.com/ru/companies/timeweb/articles/1065778/?utm_campaign=1065778&utm_source=habrahabr&utm_medium=rss)
 - [Выпекаем тесты на Go с Testo: делимся нашим open-source-фреймворком](https://habr.com/ru/companies/ozontech/articles/1062036/?utm_campaign=1062036&utm_source=habrahabr&utm_medium=rss)
 - [Служебный e-mail вместо рекламной СМС: как мы проверяем разбор решений ФАС](https://habr.com/ru/articles/1066048/?utm_campaign=1066048&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] 5 ошибок аналитика, из-за которых требования не выдерживают тестирования](https://habr.com/ru/companies/otus/articles/1065278/?utm_campaign=1065278&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-Автопилот: поток принятых задач вырос в тринадцать раз](https://habr.com/ru/articles/1065128/?utm_campaign=1065128&utm_source=habrahabr&utm_medium=rss)
-- [Мы делили апельсин: как связать ручное и автоматизированное тестирование в единую систему качества](https://habr.com/ru/companies/infowatch/articles/1063872/?utm_campaign=1063872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

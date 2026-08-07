@@ -37,8 +37,8 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [Группировка ошибок и анализ причин падений &lpar;RCA&rpar; с помощью ИИ](https://habr.com/ru/companies/testops_tms/articles/1067540/?utm_campaign=1067540&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование СУБД с использованием tpc-ds и методы сравнительного анализа](https://habr.com/ru/articles/1066926/?utm_campaign=1066926&utm_source=habrahabr&utm_medium=rss)
 - [Что будет если загрузить в «симулятор общества» чистый lorem ipsum? Большое исследование MiroFish, часть 1](https://habr.com/ru/articles/1066548/?utm_campaign=1066548&utm_source=habrahabr&utm_medium=rss)
 - [Понимает ли Нейросеть, что её тестируют? Проверяю на практике](https://habr.com/ru/articles/1066512/?utm_campaign=1066512&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Собирали по частям, теряли по-крупному: почему новый сборщик мусора откатили в Python 3.14.5](https://habr.com/ru/companies/timeweb/articles/1065778/?utm_campaign=1065778&utm_source=habrahabr&utm_medium=rss)
-- [Выпекаем тесты на Go с Testo: делимся нашим open-source-фреймворком](https://habr.com/ru/companies/ozontech/articles/1062036/?utm_campaign=1062036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

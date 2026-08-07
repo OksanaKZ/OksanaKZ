@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Беспроводной уровнемер на страже паводка](https://habr.com/ru/articles/1068016/?utm_campaign=1068016&utm_source=habrahabr&utm_medium=rss)
 - [Playwright vs Selenium: 7 ошибок Java‑миграции](https://habr.com/ru/companies/otus/articles/1047066/?utm_campaign=1047066&utm_source=habrahabr&utm_medium=rss)
 - [Тесты для кода, который пишет ИИ: контракты вместо ассертов — создание сервера для онлайн ММО игр на PHP, ч. 20](https://habr.com/ru/articles/1067872/?utm_campaign=1067872&utm_source=habrahabr&utm_medium=rss)
 - [Группировка ошибок и анализ причин падений &lpar;RCA&rpar; с помощью ИИ](https://habr.com/ru/companies/testops_tms/articles/1067540/?utm_campaign=1067540&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование СУБД с использованием tpc-ds и методы сравнительного анализа](https://habr.com/ru/articles/1066926/?utm_campaign=1066926&utm_source=habrahabr&utm_medium=rss)
-- [Что будет если загрузить в «симулятор общества» чистый lorem ipsum? Большое исследование MiroFish, часть 1](https://habr.com/ru/articles/1066548/?utm_campaign=1066548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ошибка в расчёте скидки, которую не видно глазами: проверяем ответ API по документации, когда автотестов нет](https://habr.com/ru/articles/1068580/?utm_campaign=1068580&utm_source=habrahabr&utm_medium=rss)
 - [Ваш UI-фреймворк уже написан. Используем возможности Playwright](https://habr.com/ru/companies/infowatch/articles/1065886/?utm_campaign=1065886&utm_source=habrahabr&utm_medium=rss)
 - [Playwright: пишем тесты на Kotlin и Java](https://habr.com/ru/companies/amvera/articles/1068330/?utm_campaign=1068330&utm_source=habrahabr&utm_medium=rss)
 - [Беспроводной уровнемер на страже паводка](https://habr.com/ru/articles/1068016/?utm_campaign=1068016&utm_source=habrahabr&utm_medium=rss)
 - [Playwright vs Selenium: 7 ошибок Java‑миграции](https://habr.com/ru/companies/otus/articles/1047066/?utm_campaign=1047066&utm_source=habrahabr&utm_medium=rss)
-- [Тесты для кода, который пишет ИИ: контракты вместо ассертов — создание сервера для онлайн ММО игр на PHP, ч. 20](https://habr.com/ru/articles/1067872/?utm_campaign=1067872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как перестать искать место для плат и начать тестировать](https://habr.com/ru/companies/yadro/articles/1065972/?utm_campaign=1065972&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизированное тестирование Webauthn с помощью Playwright](https://habr.com/ru/articles/1067938/?utm_campaign=1067938&utm_source=habrahabr&utm_medium=rss)
 - [Данные без противоречий. Связи между полями](https://habr.com/ru/articles/1069220/?utm_campaign=1069220&utm_source=habrahabr&utm_medium=rss)
 - [Выжимаем максимум XP из каждого пентеста: искусство разбора завершенных проектов](https://habr.com/ru/companies/bastion/articles/1067204/?utm_campaign=1067204&utm_source=habrahabr&utm_medium=rss)
 - [Инфраструктурный релиз. Консистентность сред vs идентичность сред](https://habr.com/ru/companies/psb/articles/1068552/?utm_campaign=1068552&utm_source=habrahabr&utm_medium=rss)
-- [Как провести нагрузочное тестирование правильно. Часть 1: как думать о тестировании производительности](https://habr.com/ru/companies/lemana_tech/articles/1068776/?utm_campaign=1068776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

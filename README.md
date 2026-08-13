@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3.5/3.6 на 16Гб VRAM: кванты, fine-tune, сравнение и немного про Gemma-4](https://habr.com/ru/articles/1069904/?utm_campaign=1069904&utm_source=habrahabr&utm_medium=rss)
+- [Как тестировать распределенные системы: тайм-ауты, дубликаты, Saga и частичные отказы](https://habr.com/ru/articles/1070068/?utm_campaign=1070068&utm_source=habrahabr&utm_medium=rss)
 - [Как перестать искать место для плат и начать тестировать](https://habr.com/ru/companies/yadro/articles/1065972/?utm_campaign=1065972&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизированное тестирование Webauthn с помощью Playwright](https://habr.com/ru/articles/1067938/?utm_campaign=1067938&utm_source=habrahabr&utm_medium=rss)
 - [Данные без противоречий. Связи между полями](https://habr.com/ru/articles/1069220/?utm_campaign=1069220&utm_source=habrahabr&utm_medium=rss)
-- [Выжимаем максимум XP из каждого пентеста: искусство разбора завершенных проектов](https://habr.com/ru/companies/bastion/articles/1067204/?utm_campaign=1067204&utm_source=habrahabr&utm_medium=rss)
-- [Инфраструктурный релиз. Консистентность сред vs идентичность сред](https://habr.com/ru/companies/psb/articles/1068552/?utm_campaign=1068552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

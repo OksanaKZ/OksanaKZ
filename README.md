@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ГигаАгент от Сбера. Первый блин слопом](https://habr.com/ru/articles/1071744/?utm_campaign=1071744&utm_source=habrahabr&utm_medium=rss)
 - [Мой тестовый харнесс нашёл баг в моей же реализации Raft. Рассказываю, как именно](https://habr.com/ru/articles/1071594/?utm_campaign=1071594&utm_source=habrahabr&utm_medium=rss)
 - [Генерация тестовых данных с ИИ: руководство для ручного тестировщика](https://habr.com/ru/companies/rgs_it/articles/1061318/?utm_campaign=1061318&utm_source=habrahabr&utm_medium=rss)
 - [Как оценить надёжность liveness‑проверки: гайд по метрикам для тех, кто выбирает KYC‑поставщика](https://habr.com/ru/articles/1070214/?utm_campaign=1070214&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3.5/3.6 на 16Гб VRAM: кванты, fine-tune, сравнение и немного про Gemma-4](https://habr.com/ru/articles/1069904/?utm_campaign=1069904&utm_source=habrahabr&utm_medium=rss)
-- [Агентная правка багов, ч. 1: всё для отладки](https://habr.com/ru/companies/testops_tms/articles/1070080/?utm_campaign=1070080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

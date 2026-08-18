@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Ответ 200, а денег нет. Что не покажут ни Postman, ни нейросеть](https://habr.com/ru/articles/1071444/?utm_campaign=1071444&utm_source=habrahabr&utm_medium=rss)
 - [Как оценить надёжность liveness‑проверки: гайд по метрикам для тех, кто выбирает KYC‑поставщика](https://habr.com/ru/articles/1070214/?utm_campaign=1070214&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3.5/3.6 на 16Гб VRAM: кванты, fine-tune, сравнение и немного про Gemma-4](https://habr.com/ru/articles/1069904/?utm_campaign=1069904&utm_source=habrahabr&utm_medium=rss)
 - [Агентная правка багов, ч. 1: всё для отладки](https://habr.com/ru/companies/testops_tms/articles/1070080/?utm_campaign=1070080&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать распределенные системы: тайм-ауты, дубликаты, Saga и частичные отказы](https://habr.com/ru/articles/1070068/?utm_campaign=1070068&utm_source=habrahabr&utm_medium=rss)
+- [Как перестать искать место для плат и начать тестировать](https://habr.com/ru/companies/yadro/articles/1065972/?utm_campaign=1065972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

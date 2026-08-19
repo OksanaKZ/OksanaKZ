@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [README врёт: как я сделал open‑source линтер, который сверяет документацию с реальным репозиторием](https://habr.com/ru/articles/1072076/?utm_campaign=1072076&utm_source=habrahabr&utm_medium=rss)
 - [Как удобно и безопасно тестировать платы в лаборатории](https://habr.com/ru/companies/yadro/articles/1065974/?utm_campaign=1065974&utm_source=habrahabr&utm_medium=rss)
 - [Позер vs. Тру, или Как мы провели Endpoint Hack Zone](https://habr.com/ru/companies/pt/articles/1071740/?utm_campaign=1071740&utm_source=habrahabr&utm_medium=rss)
 - [ИИ пишет тест-кейсы и автотесты за тебя: как их генерировать и не получить ложное покрытие](https://habr.com/ru/companies/netologyru/articles/1070438/?utm_campaign=1070438&utm_source=habrahabr&utm_medium=rss)
 - [ОК или НеОК: как мы строили LLM‑судью и дважды меняли формулу вердикта](https://habr.com/ru/articles/1071782/?utm_campaign=1071782&utm_source=habrahabr&utm_medium=rss)
-- [ГигаАгент от Сбера. Первый блин слопом](https://habr.com/ru/articles/1071744/?utm_campaign=1071744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

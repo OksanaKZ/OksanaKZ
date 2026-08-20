@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [5ⁿ → 4n+1: сколько на самом деле дают редукции в explicit-state model checking](https://habr.com/ru/articles/1072376/?utm_campaign=1072376&utm_source=habrahabr&utm_medium=rss)
 - [7 ошибок в оценке качества LLM‑систем в продакшене](https://habr.com/ru/companies/otus/articles/1067748/?utm_campaign=1067748&utm_source=habrahabr&utm_medium=rss)
 - [README врёт: как я сделал open‑source линтер, который сверяет документацию с реальным репозиторием](https://habr.com/ru/articles/1072076/?utm_campaign=1072076&utm_source=habrahabr&utm_medium=rss)
 - [Как удобно и безопасно тестировать платы в лаборатории](https://habr.com/ru/companies/yadro/articles/1065974/?utm_campaign=1065974&utm_source=habrahabr&utm_medium=rss)
 - [Позер vs. Тру, или Как мы провели Endpoint Hack Zone](https://habr.com/ru/companies/pt/articles/1071740/?utm_campaign=1071740&utm_source=habrahabr&utm_medium=rss)
-- [ИИ пишет тест-кейсы и автотесты за тебя: как их генерировать и не получить ложное покрытие](https://habr.com/ru/companies/netologyru/articles/1070438/?utm_campaign=1070438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

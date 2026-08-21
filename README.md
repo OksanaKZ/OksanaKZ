@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Пагинация. Ошибки тестирования списков и курсоров](https://habr.com/ru/companies/otus/articles/1070840/?utm_campaign=1070840&utm_source=habrahabr&utm_medium=rss)
 - [Дефект как источник информации о продуктовом риске](https://habr.com/ru/companies/modusbi/articles/1072994/?utm_campaign=1072994&utm_source=habrahabr&utm_medium=rss)
+- [Playwright для компонентных CAT-тестов в проекте на angular](https://habr.com/ru/articles/1072918/?utm_campaign=1072918&utm_source=habrahabr&utm_medium=rss)
 - [Данные без противоречий. Свободный формат вывода](https://habr.com/ru/articles/1072808/?utm_campaign=1072808&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Сколько автономности должно быть у ИИ‑агента](https://habr.com/ru/articles/1072558/?utm_campaign=1072558&utm_source=habrahabr&utm_medium=rss)
-- [5ⁿ → 4n+1: сколько на самом деле дают редукции в explicit‑state model checking](https://habr.com/ru/articles/1072376/?utm_campaign=1072376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

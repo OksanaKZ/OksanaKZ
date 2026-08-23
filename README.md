@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Все пять safety-свойств Raft прошли. Две реплики разошлись](https://habr.com/ru/articles/1073510/?utm_campaign=1073510&utm_source=habrahabr&utm_medium=rss)
 - [Пагинация. Ошибки тестирования списков и курсоров](https://habr.com/ru/companies/otus/articles/1070840/?utm_campaign=1070840&utm_source=habrahabr&utm_medium=rss)
 - [Дефект как источник информации о продуктовом риске](https://habr.com/ru/companies/modusbi/articles/1072994/?utm_campaign=1072994&utm_source=habrahabr&utm_medium=rss)
 - [Playwright для компонентных CAT-тестов в проекте на angular](https://habr.com/ru/articles/1072918/?utm_campaign=1072918&utm_source=habrahabr&utm_medium=rss)
 - [Данные без противоречий. Свободный формат вывода](https://habr.com/ru/articles/1072808/?utm_campaign=1072808&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Сколько автономности должно быть у ИИ‑агента](https://habr.com/ru/articles/1072558/?utm_campaign=1072558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

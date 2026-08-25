@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Долг понимания: почему ИИ-код опасен не тогда, когда что-то упало](https://habr.com/ru/companies/lansoft_career/articles/1073620/?utm_campaign=1073620&utm_source=habrahabr&utm_medium=rss)
 - [Человек между агентом и кнопкой: почему слой подтверждения — это такая сложная инженерия](https://habr.com/ru/articles/1073978/?utm_campaign=1073978&utm_source=habrahabr&utm_medium=rss)
 - [Playwright vs Selenium vs Cypress: как на самом деле выбирать фреймворк для автотестов в 2026](https://habr.com/ru/articles/1073646/?utm_campaign=1073646&utm_source=habrahabr&utm_medium=rss)
 - [Агентная правка багов, ч. 2: ловим издержки](https://habr.com/ru/companies/testops_tms/articles/1073560/?utm_campaign=1073560&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat 2 Max с памятью на связях обходит Claude Opus 5 без неё: замер семи моделей](https://habr.com/ru/articles/1073448/?utm_campaign=1073448&utm_source=habrahabr&utm_medium=rss)
-- [Все пять safety-свойств Raft прошли. Две реплики разошлись](https://habr.com/ru/articles/1073510/?utm_campaign=1073510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

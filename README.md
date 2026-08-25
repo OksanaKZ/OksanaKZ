@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [100% покрытия не поймали единственный баг, который был важен](https://habr.com/ru/articles/1074402/?utm_campaign=1074402&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать качество LLM, RAG и AI‑агентов: метрики, тестирование и LLM‑as‑a‑Judge](https://habr.com/ru/articles/1074356/?utm_campaign=1074356&utm_source=habrahabr&utm_medium=rss)
 - [AI Enablement at Scale, часть 1: почему мы начали не с агентов, а с оценки 13 команд](https://habr.com/ru/articles/1074004/?utm_campaign=1074004&utm_source=habrahabr&utm_medium=rss)
 - [658 тест‑кейсов за 24 часа: как мы встроили ИИ‑агентов в тестирование банковского ПО](https://habr.com/ru/articles/1074218/?utm_campaign=1074218&utm_source=habrahabr&utm_medium=rss)
 - [Агент сказал, что готово, и соврал. Как я поставил над ним судью](https://habr.com/ru/articles/1074216/?utm_campaign=1074216&utm_source=habrahabr&utm_medium=rss)
-- [Долг понимания: почему ИИ-код опасен не тогда, когда что-то упало](https://habr.com/ru/companies/lansoft_career/articles/1073620/?utm_campaign=1073620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

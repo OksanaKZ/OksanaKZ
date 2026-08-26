@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Агент написал себе навык и соврал, что тот работает](https://habr.com/ru/articles/1074880/?utm_campaign=1074880&utm_source=habrahabr&utm_medium=rss)
 - [Когда Chisel уже недостаточно: создаем свой фреймворк аппаратного тестирования на Verilator](https://habr.com/ru/companies/yadro/articles/1074380/?utm_campaign=1074380&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент вместо тестировщика: 20 копеек за диалог и причина, почему вас не заменит llm](https://habr.com/ru/companies/just_ai/articles/1073910/?utm_campaign=1073910&utm_source=habrahabr&utm_medium=rss)
 - [Мы собрали харнесс из ИИ-агентов — и главной ролью в нём оказалась роль тестировщика](https://habr.com/ru/articles/1074676/?utm_campaign=1074676&utm_source=habrahabr&utm_medium=rss)
 - [Масштабирование от 100 до 100 000+ автотестов: архитектура и инструменты](https://habr.com/ru/companies/ozontech/articles/1072880/?utm_campaign=1072880&utm_source=habrahabr&utm_medium=rss)
-- [Переписал ядро языка целиком. Ни один из 444 эталонов не сдвинулся](https://habr.com/ru/articles/1074456/?utm_campaign=1074456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

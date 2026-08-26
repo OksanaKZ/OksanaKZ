@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Масштабирование от 100 до 100 000+ автотестов: архитектура и инструменты](https://habr.com/ru/companies/ozontech/articles/1072880/?utm_campaign=1072880&utm_source=habrahabr&utm_medium=rss)
 - [Переписал ядро языка целиком. Ни один из 444 эталонов не сдвинулся](https://habr.com/ru/articles/1074456/?utm_campaign=1074456&utm_source=habrahabr&utm_medium=rss)
 - [100% покрытия не поймали единственный баг, который был важен](https://habr.com/ru/articles/1074402/?utm_campaign=1074402&utm_source=habrahabr&utm_medium=rss)
 - [Как оценивать качество LLM, RAG и AI‑агентов: метрики, тестирование и LLM‑as‑a‑Judge](https://habr.com/ru/articles/1074356/?utm_campaign=1074356&utm_source=habrahabr&utm_medium=rss)
 - [AI Enablement at Scale, часть 1: почему мы начали не с агентов, а с оценки 13 команд](https://habr.com/ru/articles/1074004/?utm_campaign=1074004&utm_source=habrahabr&utm_medium=rss)
-- [658 тест‑кейсов за 24 часа: как мы встроили ИИ‑агентов в тестирование банковского ПО](https://habr.com/ru/articles/1074218/?utm_campaign=1074218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

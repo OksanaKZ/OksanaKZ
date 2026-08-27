@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] От разовых запросов к повторно используемым ИИ-флоу в QA](https://habr.com/ru/articles/1075414/?utm_campaign=1075414&utm_source=habrahabr&utm_medium=rss)
+- [HTTP API для разработчика: практический гайд по проверке конфликтов при изменении одной сущности](https://habr.com/ru/companies/otus/articles/1073974/?utm_campaign=1073974&utm_source=habrahabr&utm_medium=rss)
+- [Данные без противоречий. Справочники](https://habr.com/ru/articles/1075068/?utm_campaign=1075068&utm_source=habrahabr&utm_medium=rss)
 - [Школьный класс — не модель общества. Это случайный набор ровесников с соседних улиц](https://habr.com/ru/articles/1075042/?utm_campaign=1075042&utm_source=habrahabr&utm_medium=rss)
 - [Таймер на 5 минут вместо 10 секунд: как сверка с руководством по эксплуатации нашла отказавшую защиту в чужом коде](https://habr.com/ru/articles/1075020/?utm_campaign=1075020&utm_source=habrahabr&utm_medium=rss)
-- [Агент написал себе навык и соврал, что тот работает](https://habr.com/ru/articles/1074880/?utm_campaign=1074880&utm_source=habrahabr&utm_medium=rss)
-- [Когда Chisel уже недостаточно: создаем свой фреймворк аппаратного тестирования на Verilator](https://habr.com/ru/companies/yadro/articles/1074380/?utm_campaign=1074380&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент вместо тестировщика: 20 копеек за диалог и причина, почему вас не заменит llm](https://habr.com/ru/companies/just_ai/articles/1073910/?utm_campaign=1073910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

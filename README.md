@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Регрессионное тестирование в Scrum: от прогона перед релизом к управлению риском](https://habr.com/ru/articles/1075542/?utm_campaign=1075542&utm_source=habrahabr&utm_medium=rss)
+- [Регрессионное тестирование в Scrum: от прогона перед релизом к управлению риском](https://habr.com/ru/articles/1075542/?utm_campaign=1075542&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Автономность ИИ‑агентов в аналитике: сопротивляющаяся среда](https://habr.com/ru/articles/1075472/?utm_campaign=1075472&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] От разовых запросов к повторно используемым ИИ‑флоу в QA](https://habr.com/ru/articles/1075414/?utm_campaign=1075414&utm_source=habrahabr&utm_medium=rss)
-- [HTTP API для разработчика: практический гайд по проверке конфликтов при изменении одной сущности](https://habr.com/ru/companies/otus/articles/1073974/?utm_campaign=1073974&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование конкурентных запросов: практический гайд по проверке конфликтов в HTTP API при изменении одной сущности](https://habr.com/ru/companies/otus/articles/1073974/?utm_campaign=1073974&utm_source=habrahabr&utm_medium=rss)
 - [Данные без противоречий. Справочники](https://habr.com/ru/articles/1075068/?utm_campaign=1075068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

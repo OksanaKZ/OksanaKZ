@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ в автотестах 1С: где агент помогает, а где лучше обойтись обычной автоматизацией](https://habr.com/ru/companies/infostart/articles/1076632/?utm_campaign=1076632&utm_source=habrahabr&utm_medium=rss)
+- [Сравниваем LLM, 12 тестов для китайских рабочих лошадок: MiniMax M3, LongCat 2.0, MiMo-v2.5-Pro и DeepSeek V4 Pro](https://habr.com/ru/companies/bothub/articles/1076136/?utm_campaign=1076136&utm_source=habrahabr&utm_medium=rss)
+- [Данные без противоречий. Форма данных рисунком](https://habr.com/ru/articles/1076248/?utm_campaign=1076248&utm_source=habrahabr&utm_medium=rss)
 - [Я ломал свою платформу мониторинга. Первым сломалось не то, что я тестировал](https://habr.com/ru/articles/1076348/?utm_campaign=1076348&utm_source=habrahabr&utm_medium=rss)
 - [Влияние кэша L4 i7-5775C на производительность в Minecraft: Java Edition в воспроизводимых серверных тестах](https://habr.com/ru/articles/1076340/?utm_campaign=1076340&utm_source=habrahabr&utm_medium=rss)
-- [Шесть миллиардов прогонов ради одной галочки: как устроено ревью научного софта на GitHub](https://habr.com/ru/articles/1076116/?utm_campaign=1076116&utm_source=habrahabr&utm_medium=rss)
-- [Регрессионное тестирование в Scrum: от прогона перед релизом к управлению риском](https://habr.com/ru/articles/1075542/?utm_campaign=1075542&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Автономность ИИ‑агентов в аналитике: сопротивляющаяся среда](https://habr.com/ru/articles/1075472/?utm_campaign=1075472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

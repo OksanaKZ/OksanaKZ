@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как убрать логин из UI‑тестов на Java без лишних секунд и флака](https://habr.com/ru/companies/otus/articles/1067760/?utm_campaign=1067760&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Четыре пул-реквеста, четыре полных прогона, один ответ](https://habr.com/ru/articles/1076812/?utm_campaign=1076812&utm_source=habrahabr&utm_medium=rss)
+- [PRACT-120 — бенчмарк для оценки ИИ‑чатов](https://habr.com/ru/articles/1076646/?utm_campaign=1076646&utm_source=habrahabr&utm_medium=rss)
+- [Mentorpiece Vacy Index август 2026: Число вакансий по тестированию AI‑приложений растет третий месяц подряд](https://habr.com/ru/articles/1076676/?utm_campaign=1076676&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в автотестах 1С: где агент помогает, а где лучше обойтись обычной автоматизацией](https://habr.com/ru/companies/infostart/articles/1076632/?utm_campaign=1076632&utm_source=habrahabr&utm_medium=rss)
-- [Сравниваем LLM, 12 тестов для китайских рабочих лошадок: MiniMax M3, LongCat 2.0, MiMo-v2.5-Pro и DeepSeek V4 Pro](https://habr.com/ru/companies/bothub/articles/1076136/?utm_campaign=1076136&utm_source=habrahabr&utm_medium=rss)
-- [Данные без противоречий. Форма данных рисунком](https://habr.com/ru/articles/1076248/?utm_campaign=1076248&utm_source=habrahabr&utm_medium=rss)
-- [Я ломал свою платформу мониторинга. Первым сломалось не то, что я тестировал](https://habr.com/ru/articles/1076348/?utm_campaign=1076348&utm_source=habrahabr&utm_medium=rss)
-- [Влияние кэша L4 i7-5775C на производительность в Minecraft: Java Edition в воспроизводимых серверных тестах](https://habr.com/ru/articles/1076340/?utm_campaign=1076340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

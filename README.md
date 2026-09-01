@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как проверить новую интеграционную архитектуру до выхода в прод: пример пилота ESB на реальной задаче](https://habr.com/ru/companies/w_code/articles/1077064/?utm_campaign=1077064&utm_source=habrahabr&utm_medium=rss)
+- [На что способен бесплатный Devin: тест на реальном проекте](https://habr.com/ru/companies/selectel/articles/1076610/?utm_campaign=1076610&utm_source=habrahabr&utm_medium=rss)
 - [Как убрать логин из UI‑тестов на Java без лишних секунд и флака](https://habr.com/ru/companies/otus/articles/1067760/?utm_campaign=1067760&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Четыре пул-реквеста, четыре полных прогона, один ответ](https://habr.com/ru/articles/1076812/?utm_campaign=1076812&utm_source=habrahabr&utm_medium=rss)
 - [PRACT-120 — бенчмарк для оценки ИИ‑чатов](https://habr.com/ru/articles/1076646/?utm_campaign=1076646&utm_source=habrahabr&utm_medium=rss)
-- [Mentorpiece Vacy Index август 2026: Число вакансий по тестированию AI‑приложений растет третий месяц подряд](https://habr.com/ru/articles/1076676/?utm_campaign=1076676&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в автотестах 1С: где агент помогает, а где лучше обойтись обычной автоматизацией](https://habr.com/ru/companies/infostart/articles/1076632/?utm_campaign=1076632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

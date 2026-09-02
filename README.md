@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Я дал четырем ИИ-ревьюерам 60 багов, про которые точно известно, что они баги](https://habr.com/ru/articles/1077470/?utm_campaign=1077470&utm_source=habrahabr&utm_medium=rss)
 - [Тест зелёный, фича сломана: семь случаев, когда проверка совпала по неверной причине](https://habr.com/ru/articles/1077182/?utm_campaign=1077182&utm_source=habrahabr&utm_medium=rss)
 - [Полгода делал курсы-игры для тестировщиков. Посчитал всю воронку, и удержание оказалось единственным, что не выросло](https://habr.com/ru/articles/1077134/?utm_campaign=1077134&utm_source=habrahabr&utm_medium=rss)
 - [Как проверить новую интеграционную архитектуру до выхода в прод: пример пилота ESB на реальной задаче](https://habr.com/ru/companies/w_code/articles/1077064/?utm_campaign=1077064&utm_source=habrahabr&utm_medium=rss)
 - [На что способен бесплатный Devin: тест на реальном проекте](https://habr.com/ru/companies/selectel/articles/1076610/?utm_campaign=1076610&utm_source=habrahabr&utm_medium=rss)
-- [Как убрать логин из UI‑тестов на Java без лишних секунд и флака](https://habr.com/ru/companies/otus/articles/1067760/?utm_campaign=1067760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

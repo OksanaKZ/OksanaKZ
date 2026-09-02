@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Написал детектор ИИ-текста на 13 правил и прогнал 59 своих статей: сумма баллов не забраковала ни одну](https://habr.com/ru/articles/1077790/?utm_campaign=1077790&utm_source=habrahabr&utm_medium=rss)
+- [Написал детектор ИИ‑текста на 13 правил и прогнал 59 своих статей: сумма баллов не забраковала ни одну](https://habr.com/ru/articles/1077790/?utm_campaign=1077790&utm_source=habrahabr&utm_medium=rss)
 - [Негативные тесты API, которые ничего не доказывают](https://habr.com/ru/companies/otus/articles/1070836/?utm_campaign=1070836&utm_source=habrahabr&utm_medium=rss)
 - [Мы проверили обещанные Nvidia 15x на DFlash: получилось 2,3x](https://habr.com/ru/companies/gptunnel/articles/1077598/?utm_campaign=1077598&utm_source=habrahabr&utm_medium=rss)
 - [Я дал четырем ИИ-ревьюерам 60 багов, про которые точно известно, что они баги](https://habr.com/ru/articles/1077470/?utm_campaign=1077470&utm_source=habrahabr&utm_medium=rss)

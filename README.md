@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Одна цифра сломала QR. Почему успешного чтения недостаточно](https://habr.com/ru/articles/1078710/?utm_campaign=1078710&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Мутационное тестирование: прекрасная концепция, которой вы редко будете пользоваться на практике](https://habr.com/ru/companies/spring_aio/articles/1078564/?utm_campaign=1078564&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестируем интерфейсы в полной удалёнке: 5 рабочих способов без лабораторий и больших бюджетов](https://habr.com/ru/companies/severstal/articles/1078550/?utm_campaign=1078550&utm_source=habrahabr&utm_medium=rss)
 - [Как ломается прокси-балансировщик о UDP трафик и при чем тут динозавры](https://habr.com/ru/companies/cloud_ru/articles/1077288/?utm_campaign=1077288&utm_source=habrahabr&utm_medium=rss)
 - [HTTP 200 на несуществующий адрес: пять способов, которыми Telegram обманул мои проверки](https://habr.com/ru/articles/1078128/?utm_campaign=1078128&utm_source=habrahabr&utm_medium=rss)
-- [Написал детектор ИИ‑текста на 13 правил и прогнал 59 своих статей: сумма баллов не забраковала ни одну](https://habr.com/ru/articles/1077790/?utm_campaign=1077790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

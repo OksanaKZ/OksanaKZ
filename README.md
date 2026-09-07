@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматическое Управление Мультиметром XDM1241 &lpar;или drive-by-wire&rpar;](https://habr.com/ru/articles/1078588/?utm_campaign=1078588&utm_source=habrahabr&utm_medium=rss)
+- [Обратный прокси из KWTS: проверка входящего трафика на наличие «малвари»](https://habr.com/ru/companies/icl_group/articles/1079436/?utm_campaign=1079436&utm_source=habrahabr&utm_medium=rss)
+- [Как мы научили ИИ читать корпоративные регламенты: от наивного RAG до измеримого pipeline](https://habr.com/ru/articles/1079414/?utm_campaign=1079414&utm_source=habrahabr&utm_medium=rss)
 - [Completion gate для локальных моделей: как отделить завершённый ответ от оценки качества](https://habr.com/ru/articles/1078916/?utm_campaign=1078916&utm_source=habrahabr&utm_medium=rss)
 - [Архитектурный ответ на атаки автономных ИИ‑агентов](https://habr.com/ru/articles/1078912/?utm_campaign=1078912&utm_source=habrahabr&utm_medium=rss)
-- [Как использовать облачные AI модели внутри контура компании и не получить по шее от ИБ?](https://habr.com/ru/articles/1078824/?utm_campaign=1078824&utm_source=habrahabr&utm_medium=rss)
-- [Одна цифра сломала QR. Почему успешного чтения недостаточно](https://habr.com/ru/articles/1078710/?utm_campaign=1078710&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Мутационное тестирование: прекрасная концепция, которой вы редко будете пользоваться на практике](https://habr.com/ru/companies/spring_aio/articles/1078564/?utm_campaign=1078564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

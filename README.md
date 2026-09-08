@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Кто на самом деле сломал вашего ИИ-агента: модель или обвязка?](https://habr.com/ru/articles/1079638/?utm_campaign=1079638&utm_source=habrahabr&utm_medium=rss)
 - [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_campaign=1071848&utm_source=habrahabr&utm_medium=rss)
 - [Автоматическое Управление Мультиметром XDM1241 &lpar;или drive‑by‑wire&rpar;](https://habr.com/ru/articles/1078588/?utm_campaign=1078588&utm_source=habrahabr&utm_medium=rss)
 - [Обратный прокси из KWTS: проверка входящего трафика на наличие «малвари»](https://habr.com/ru/companies/icl_group/articles/1079436/?utm_campaign=1079436&utm_source=habrahabr&utm_medium=rss)
 - [Как мы научили ИИ читать корпоративные регламенты: от наивного RAG до измеримого pipeline](https://habr.com/ru/articles/1079414/?utm_campaign=1079414&utm_source=habrahabr&utm_medium=rss)
-- [Completion gate для локальных моделей: как отделить завершённый ответ от оценки качества](https://habr.com/ru/articles/1078916/?utm_campaign=1078916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как защитить веб‑приложения с помощью Coraza &lpar;ModSecurity&rpar;](https://habr.com/ru/companies/selectel/articles/1079984/?utm_campaign=1079984&utm_source=habrahabr&utm_medium=rss)
+- [Утечка данных сотрудников: 3 сценария, которые могут обойтись компании в миллионы](https://habr.com/ru/articles/1080152/?utm_campaign=1080152&utm_source=habrahabr&utm_medium=rss)
 - [Гейт зелёный, а полезные результаты теряются: три ошибки в LLM-конвейере](https://habr.com/ru/articles/1078606/?utm_campaign=1078606&utm_source=habrahabr&utm_medium=rss)
 - [Кто на самом деле сломал вашего ИИ-агента: модель или обвязка?](https://habr.com/ru/articles/1079638/?utm_campaign=1079638&utm_source=habrahabr&utm_medium=rss)
 - [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_campaign=1071848&utm_source=habrahabr&utm_medium=rss)
-- [Автоматическое Управление Мультиметром XDM1241 &lpar;или drive‑by‑wire&rpar;](https://habr.com/ru/articles/1078588/?utm_campaign=1078588&utm_source=habrahabr&utm_medium=rss)
-- [Обратный прокси из KWTS: проверка входящего трафика на наличие «малвари»](https://habr.com/ru/companies/icl_group/articles/1079436/?utm_campaign=1079436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

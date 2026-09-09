@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Надпись «Откройте камерой» мешала прочитать QR-код](https://habr.com/ru/articles/1080454/?utm_campaign=1080454&utm_source=habrahabr&utm_medium=rss)
+- [Мощный ИИ агент в 16гб VRAM](https://habr.com/ru/articles/1080212/?utm_campaign=1080212&utm_source=habrahabr&utm_medium=rss)
 - [Сколько ваших проверок хоть раз возвращали False?](https://habr.com/ru/articles/1080324/?utm_campaign=1080324&utm_source=habrahabr&utm_medium=rss)
 - [CDN как транспорт для HTTP-туннеля: как мы намерили 5 % потерь, а через три недели не намерили ничего](https://habr.com/ru/articles/1080234/?utm_campaign=1080234&utm_source=habrahabr&utm_medium=rss)
 - [PCIe и DDR3 на ПЛИС Gowin: как мы заставили работать то, что не работало у производителя](https://habr.com/ru/companies/yadro/articles/1075056/?utm_campaign=1075056&utm_source=habrahabr&utm_medium=rss)
-- [Велосипед для покрытия: когда стандартные инструменты не справляются](https://habr.com/ru/articles/1080188/?utm_campaign=1080188&utm_source=habrahabr&utm_medium=rss)
-- [Как защитить веб‑приложения с помощью Coraza &lpar;ModSecurity&rpar;](https://habr.com/ru/companies/selectel/articles/1079984/?utm_campaign=1079984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сколько ваших проверок хоть раз возвращали False?](https://habr.com/ru/articles/1080324/?utm_campaign=1080324&utm_source=habrahabr&utm_medium=rss)
+- [CDN как транспорт для HTTP-туннеля: как мы намерили 5 % потерь, а через три недели не намерили ничего](https://habr.com/ru/articles/1080234/?utm_campaign=1080234&utm_source=habrahabr&utm_medium=rss)
+- [PCIe и DDR3 на ПЛИС Gowin: как мы заставили работать то, что не работало у производителя](https://habr.com/ru/companies/yadro/articles/1075056/?utm_campaign=1075056&utm_source=habrahabr&utm_medium=rss)
+- [Велосипед для покрытия: когда стандартные инструменты не справляются](https://habr.com/ru/articles/1080188/?utm_campaign=1080188&utm_source=habrahabr&utm_medium=rss)
 - [Как защитить веб‑приложения с помощью Coraza &lpar;ModSecurity&rpar;](https://habr.com/ru/companies/selectel/articles/1079984/?utm_campaign=1079984&utm_source=habrahabr&utm_medium=rss)
-- [Утечка данных сотрудников: 3 сценария, которые могут обойтись компании в миллионы](https://habr.com/ru/articles/1080152/?utm_campaign=1080152&utm_source=habrahabr&utm_medium=rss)
-- [Гейт зелёный, а полезные результаты теряются: три ошибки в LLM-конвейере](https://habr.com/ru/articles/1078606/?utm_campaign=1078606&utm_source=habrahabr&utm_medium=rss)
-- [Кто на самом деле сломал вашего ИИ-агента: модель или обвязка?](https://habr.com/ru/articles/1079638/?utm_campaign=1079638&utm_source=habrahabr&utm_medium=rss)
-- [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_campaign=1071848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

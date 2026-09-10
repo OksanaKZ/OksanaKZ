@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Наш бенчмарк ИИ-агентов: собачьи бега моделей LLM, в которых Алиса выигрывает](https://habr.com/ru/articles/1080744/?utm_campaign=1080744&utm_source=habrahabr&utm_medium=rss)
+- [Дело о взрыве контекста: поиск случайного гостя, который захотел остаться](https://habr.com/ru/articles/1080738/?utm_campaign=1080738&utm_source=habrahabr&utm_medium=rss)
+- [От рутины к эффективности: как QA-инженер может изменить релизный процесс в большой команде](https://habr.com/ru/companies/sberbank/articles/1077512/?utm_campaign=1077512&utm_source=habrahabr&utm_medium=rss)
 - [Надпись «Откройте камерой» мешала прочитать QR-код](https://habr.com/ru/articles/1080454/?utm_campaign=1080454&utm_source=habrahabr&utm_medium=rss)
 - [Мощный ИИ агент в 16гб VRAM](https://habr.com/ru/articles/1080212/?utm_campaign=1080212&utm_source=habrahabr&utm_medium=rss)
-- [Сколько ваших проверок хоть раз возвращали False?](https://habr.com/ru/articles/1080324/?utm_campaign=1080324&utm_source=habrahabr&utm_medium=rss)
-- [CDN как транспорт для HTTP-туннеля: как мы намерили 5 % потерь, а через три недели не намерили ничего](https://habr.com/ru/articles/1080234/?utm_campaign=1080234&utm_source=habrahabr&utm_medium=rss)
-- [PCIe и DDR3 на ПЛИС Gowin: как мы заставили работать то, что не работало у производителя](https://habr.com/ru/companies/yadro/articles/1075056/?utm_campaign=1075056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Особенности сбора кодового покрытия в ОС “Нейтрино”](https://habr.com/ru/companies/swd_es/articles/1080274/?utm_campaign=1080274&utm_source=habrahabr&utm_medium=rss)
+- [Ищем lateral movement нейросетью, обученной на синтетических данных](https://habr.com/ru/articles/1081092/?utm_campaign=1081092&utm_source=habrahabr&utm_medium=rss)
 - [Как тестировать API: 20 проверок, которые должен уметь делать QA](https://habr.com/ru/companies/netologyru/articles/1075684/?utm_campaign=1075684&utm_source=habrahabr&utm_medium=rss)
 - [Наш бенчмарк ИИ‑агентов: собачьи бега моделей LLM, в которых Алиса выигрывает](https://habr.com/ru/articles/1080744/?utm_campaign=1080744&utm_source=habrahabr&utm_medium=rss)
 - [Дело о взрыве контекста: поиск случайного гостя, который захотел остаться](https://habr.com/ru/articles/1080738/?utm_campaign=1080738&utm_source=habrahabr&utm_medium=rss)
-- [От рутины к эффективности: как QA-инженер может изменить релизный процесс в большой команде](https://habr.com/ru/companies/sberbank/articles/1077512/?utm_campaign=1077512&utm_source=habrahabr&utm_medium=rss)
-- [Надпись «Откройте камерой» мешала прочитать QR-код](https://habr.com/ru/articles/1080454/?utm_campaign=1080454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Standoff 17: как MaxPatrol Carbon помогал держать кибербитву в рамках сценария](https://habr.com/ru/companies/pt/articles/1081906/?utm_campaign=1081906&utm_source=habrahabr&utm_medium=rss)
-- [Уведомления для Slack в Allure 3](https://habr.com/ru/companies/testops_tms/articles/1081390/?utm_campaign=1081390&utm_source=habrahabr&utm_medium=rss)
-- [Как тестировать API с 202 Accepted и не пропускать сбои фоновой обработки](https://habr.com/ru/companies/otus/articles/1073948/?utm_campaign=1073948&utm_source=habrahabr&utm_medium=rss)
-- [Если ваши разработчики используют Claude Code, вы еще не автоматизировали разработку](https://habr.com/ru/articles/1081076/?utm_campaign=1081076&utm_source=habrahabr&utm_medium=rss)
-- [Особенности сбора кодового покрытия в ОС «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/1080274/?utm_campaign=1080274&utm_source=habrahabr&utm_medium=rss)
+- [Как проверять аналитический отчёт, если красивого графика недостаточно](https://habr.com/ru/articles/1082068/?utm_campaign=1082068&utm_source=habrahabr&utm_medium=rss)
+- [Полгода экспериментов с ИИ: RAG, AI-ревью, автотесты, агенты и автообработка счетов](https://habr.com/ru/companies/cynteka/articles/1082412/?utm_campaign=1082412&utm_source=habrahabr&utm_medium=rss)
+- [Тестируем смарт-контракты на Hardhat 3: node:test, viem и ни одного mocha](https://habr.com/ru/articles/1082316/?utm_campaign=1082316&utm_source=habrahabr&utm_medium=rss)
+- [Почему баги кроссбраузерности до сих пор никуда не исчезли](https://habr.com/ru/companies/selectel/articles/1081954/?utm_campaign=1081954&utm_source=habrahabr&utm_medium=rss)
+- [150 запросов на один flush, и 4343 зелёных теста. Как я делал детектор N+1 и как он сам меня обманывал](https://habr.com/ru/articles/1082250/?utm_campaign=1082250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

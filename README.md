@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Codegen: где заканчивается магия и начинается ручной труд](https://habr.com/ru/companies/domclick/articles/1082326/?utm_campaign=1082326&utm_source=habrahabr&utm_medium=rss)
+- [Как писать моки, чтобы тесты падали вместе с продом: 7 частых ошибок](https://habr.com/ru/companies/otus/articles/1079908/?utm_campaign=1079908&utm_source=habrahabr&utm_medium=rss)
+- [Нагрузочное тестирование как инженерный процесс](https://habr.com/ru/companies/sportmaster_lab/articles/1082436/?utm_campaign=1082436&utm_source=habrahabr&utm_medium=rss)
 - [Как проверять аналитический отчёт, если красивого графика недостаточно](https://habr.com/ru/articles/1082068/?utm_campaign=1082068&utm_source=habrahabr&utm_medium=rss)
 - [Полгода экспериментов с ИИ: RAG, AI-ревью, автотесты, агенты и автообработка счетов](https://habr.com/ru/companies/cynteka/articles/1082412/?utm_campaign=1082412&utm_source=habrahabr&utm_medium=rss)
-- [Тестируем смарт-контракты на Hardhat 3: node:test, viem и ни одного mocha](https://habr.com/ru/articles/1082316/?utm_campaign=1082316&utm_source=habrahabr&utm_medium=rss)
-- [Почему баги кроссбраузерности до сих пор никуда не исчезли](https://habr.com/ru/companies/selectel/articles/1081954/?utm_campaign=1081954&utm_source=habrahabr&utm_medium=rss)
-- [150 запросов на один flush, и 4343 зелёных теста. Как я делал детектор N+1 и как он сам меня обманывал](https://habr.com/ru/articles/1082250/?utm_campaign=1082250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

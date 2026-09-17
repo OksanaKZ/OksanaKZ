@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Системная отладка или Как искать баги: при чем тут дедукция и цепочка Целлера](https://habr.com/ru/companies/garda/articles/1083046/?utm_campaign=1083046&utm_source=habrahabr&utm_medium=rss)
+- [Как я перестал измерять MVP количеством функций: история создания Prosnix](https://habr.com/ru/articles/1083310/?utm_campaign=1083310&utm_source=habrahabr&utm_medium=rss)
+- [Как проверяющий ИИ испортил правильные ответы: разбор генератора учебных заданий](https://habr.com/ru/articles/1083304/?utm_campaign=1083304&utm_source=habrahabr&utm_medium=rss)
+- [Сорок раундов ревью на код, который уже был отревьюен: что два ИИ-ревьюера нашли друг за другом](https://habr.com/ru/articles/1083230/?utm_campaign=1083230&utm_source=habrahabr&utm_medium=rss)
 - [Playwright Codegen: где заканчивается магия и начинается ручной труд](https://habr.com/ru/companies/domclick/articles/1082326/?utm_campaign=1082326&utm_source=habrahabr&utm_medium=rss)
-- [Как писать моки, чтобы тесты падали вместе с продом: 7 частых ошибок](https://habr.com/ru/companies/otus/articles/1079908/?utm_campaign=1079908&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование как инженерный процесс](https://habr.com/ru/companies/sportmaster_lab/articles/1082436/?utm_campaign=1082436&utm_source=habrahabr&utm_medium=rss)
-- [Как проверять аналитический отчёт, если красивого графика недостаточно](https://habr.com/ru/articles/1082068/?utm_campaign=1082068&utm_source=habrahabr&utm_medium=rss)
-- [Полгода экспериментов с ИИ: RAG, AI-ревью, автотесты, агенты и автообработка счетов](https://habr.com/ru/companies/cynteka/articles/1082412/?utm_campaign=1082412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Попросил ИИ-агента писать код осторожнее — а он стал исправлять меньше багов](https://habr.com/ru/companies/otus/articles/1083366/?utm_campaign=1083366&utm_source=habrahabr&utm_medium=rss)
 - [Системная отладка или Как искать баги: при чем тут дедукция и цепочка Целлера](https://habr.com/ru/companies/garda/articles/1083046/?utm_campaign=1083046&utm_source=habrahabr&utm_medium=rss)
 - [Как я перестал измерять MVP количеством функций: история создания Prosnix](https://habr.com/ru/articles/1083310/?utm_campaign=1083310&utm_source=habrahabr&utm_medium=rss)
 - [Как проверяющий ИИ испортил правильные ответы: разбор генератора учебных заданий](https://habr.com/ru/articles/1083304/?utm_campaign=1083304&utm_source=habrahabr&utm_medium=rss)
 - [Сорок раундов ревью на код, который уже был отревьюен: что два ИИ-ревьюера нашли друг за другом](https://habr.com/ru/articles/1083230/?utm_campaign=1083230&utm_source=habrahabr&utm_medium=rss)
-- [Playwright Codegen: где заканчивается магия и начинается ручной труд](https://habr.com/ru/companies/domclick/articles/1082326/?utm_campaign=1082326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

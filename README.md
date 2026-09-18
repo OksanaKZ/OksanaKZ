@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [SQL-инъекция через декомпиляцию: от JAR-файла до захвата пароля](https://habr.com/ru/articles/1083916/?utm_campaign=1083916&utm_source=habrahabr&utm_medium=rss)
+- [SQL‑инъекция через декомпиляцию: от JAR‑файла до захвата пароля](https://habr.com/ru/articles/1083916/?utm_campaign=1083916&utm_source=habrahabr&utm_medium=rss)
 - [Кем я стану, когда вырасту: эволюция QA-инженера Контура внутри эволюционирующей системы оценки](https://habr.com/ru/companies/skbkontur/articles/1083470/?utm_campaign=1083470&utm_source=habrahabr&utm_medium=rss)
 - [Пять способов навсегда поселить flaky‑тесты в своём CI](https://habr.com/ru/companies/otus/articles/1080406/?utm_campaign=1080406&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Попросил ИИ-агента писать код осторожнее — а он стал исправлять меньше багов](https://habr.com/ru/companies/otus/articles/1083366/?utm_campaign=1083366&utm_source=habrahabr&utm_medium=rss)

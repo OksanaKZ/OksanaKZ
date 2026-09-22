@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [EvaDev 2.33 «Воронеж»: улучшенные инструменты для эффективной разработки](https://habr.com/ru/companies/evateam/articles/1084772/?utm_campaign=1084772&utm_source=habrahabr&utm_medium=rss)
+- [Промпт — не контракт: замерил, как часто модель нарушает жёсткие правила, и вынес их в код](https://habr.com/ru/articles/1085028/?utm_campaign=1085028&utm_source=habrahabr&utm_medium=rss)
+- [110 тестов, которые не проверяют код: как заставить документацию падать вместе со сборкой](https://habr.com/ru/articles/1083278/?utm_campaign=1083278&utm_source=habrahabr&utm_medium=rss)
 - [ИИ пишет тесты, но кто проверит ИИ: как меняется QA в 1С-командах](https://habr.com/ru/companies/infostart/articles/1084708/?utm_campaign=1084708&utm_source=habrahabr&utm_medium=rss)
 - [Тупая модель с жёстким циклом проверки бьёт умную модель без него](https://habr.com/ru/articles/1084656/?utm_campaign=1084656&utm_source=habrahabr&utm_medium=rss)
-- [Битва века: 20 лет опыта против двух лет и мощного LLM. Кто быстрее сделает production‑ready сервис?](https://habr.com/ru/articles/1084536/?utm_campaign=1084536&utm_source=habrahabr&utm_medium=rss)
-- [Нужна ли умная модель для рутины? Дал четырём моделям пять одинаковых задач и сравнил](https://habr.com/ru/articles/1084270/?utm_campaign=1084270&utm_source=habrahabr&utm_medium=rss)
-- [Completion не доказывает качество результата AI-агента](https://habr.com/ru/articles/1084146/?utm_campaign=1084146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

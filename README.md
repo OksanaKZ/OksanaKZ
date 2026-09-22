@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Выживут ли QA? Кто будет отвечать за качество?](https://habr.com/ru/companies/sberbank/articles/1077782/?utm_campaign=1077782&utm_source=habrahabr&utm_medium=rss)
+- [Калькулятор с ключами: как чтение одного файла привело к компрометации публичного облака](https://habr.com/ru/companies/bastion/articles/1083728/?utm_campaign=1083728&utm_source=habrahabr&utm_medium=rss)
 - [EvaDev 2.33 «Воронеж»: улучшенные инструменты для эффективной разработки](https://habr.com/ru/companies/evateam/articles/1084772/?utm_campaign=1084772&utm_source=habrahabr&utm_medium=rss)
 - [Промпт — не контракт: замерил, как часто модель нарушает жёсткие правила, и вынес их в код](https://habr.com/ru/articles/1085028/?utm_campaign=1085028&utm_source=habrahabr&utm_medium=rss)
 - [110 тестов, которые не проверяют код: как заставить документацию падать вместе со сборкой](https://habr.com/ru/articles/1083278/?utm_campaign=1083278&utm_source=habrahabr&utm_medium=rss)
-- [ИИ пишет тесты, но кто проверит ИИ: как меняется QA в 1С-командах](https://habr.com/ru/companies/infostart/articles/1084708/?utm_campaign=1084708&utm_source=habrahabr&utm_medium=rss)
-- [Тупая модель с жёстким циклом проверки бьёт умную модель без него](https://habr.com/ru/articles/1084656/?utm_campaign=1084656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Отдал сайт ИИ-агентам: из 111 находок аудита 25 пошли в мусор, 4 оказались выдумкой](https://habr.com/ru/articles/1085422/?utm_campaign=1085422&utm_source=habrahabr&utm_medium=rss)
 - [Краш‑тест клона корпоративной системы, написанного ИИ за 48 часов](https://habr.com/ru/articles/1085382/?utm_campaign=1085382&utm_source=habrahabr&utm_medium=rss)
 - [Кто нашёл больше багов — агент или человек? Мои замеры 11 недель работы с AI-тестировщиком](https://habr.com/ru/articles/1085288/?utm_campaign=1085288&utm_source=habrahabr&utm_medium=rss)
 - [Точечные перезапуски в JUnit+GitHub Actions: диалог с тестами](https://habr.com/ru/companies/testops_tms/articles/1085286/?utm_campaign=1085286&utm_source=habrahabr&utm_medium=rss)
 - [Выживут ли QA? Кто будет отвечать за качество?](https://habr.com/ru/companies/sberbank/articles/1077782/?utm_campaign=1077782&utm_source=habrahabr&utm_medium=rss)
-- [Калькулятор с ключами: как чтение одного файла привело к компрометации публичного облака](https://habr.com/ru/companies/bastion/articles/1083728/?utm_campaign=1083728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

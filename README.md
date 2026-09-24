@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как ИИ-агент проходит весь цикл мобильного тестирования в hh.ru](https://habr.com/ru/companies/hh/articles/1083878/?utm_campaign=1083878&utm_source=habrahabr&utm_medium=rss)
+- [ИИ спотыкается не об ум, а об контекст: как генератор майндмап превратился в RAG по продукту](https://habr.com/ru/companies/cynteka/articles/1085606/?utm_campaign=1085606&utm_source=habrahabr&utm_medium=rss)
 - [ExploDrive: как я превратил запись экрана в отчет исследовательской тестовой сессии](https://habr.com/ru/articles/1085404/?utm_campaign=1085404&utm_source=habrahabr&utm_medium=rss)
 - [Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Т8](https://habr.com/ru/companies/rtk_service/articles/1085762/?utm_campaign=1085762&utm_source=habrahabr&utm_medium=rss)
 - [Куда дует накачка? Разбираем рамановские и гибридные усилители, ROPA и безопасность эксплуатации](https://habr.com/ru/companies/rtk_service/articles/1085228/?utm_campaign=1085228&utm_source=habrahabr&utm_medium=rss)
-- [Black Magic Probe на ESP32-C5: беспроводной отладчик без OpenOCD](https://habr.com/ru/articles/1085396/?utm_campaign=1085396&utm_source=habrahabr&utm_medium=rss)
-- [Отдал сайт ИИ‑агентам: из 111 находок аудита 25 пошли в мусор, 4 оказались выдумкой](https://habr.com/ru/articles/1085422/?utm_campaign=1085422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

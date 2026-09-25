@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как мы следим за 18 000 автомобилями одновременно: телеметрия каршеринга изнутри](https://habr.com/ru/companies/citydrive/articles/1086328/?utm_campaign=1086328&utm_source=habrahabr&utm_medium=rss)
+- [Как мы следим за 18 000 автомобилями одновременно: телеметрия каршеринга изнутри](https://habr.com/ru/companies/citydrive/articles/1086328/?utm_campaign=1086328&utm_source=habrahabr&utm_medium=rss)
 - [vet молчит, -race молчит: горутины, которые переживают CI](https://habr.com/ru/articles/1085788/?utm_campaign=1085788&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ-агент проходит весь цикл мобильного тестирования в hh.ru](https://habr.com/ru/companies/hh/articles/1083878/?utm_campaign=1083878&utm_source=habrahabr&utm_medium=rss)
 - [ИИ спотыкается не об ум, а об контекст: как генератор майндмап превратился в RAG по продукту](https://habr.com/ru/companies/cynteka/articles/1085606/?utm_campaign=1085606&utm_source=habrahabr&utm_medium=rss)

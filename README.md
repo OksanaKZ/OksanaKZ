@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование SAP BW в современных условиях: опыт и практики реального проекта](https://habr.com/ru/companies/ibs/articles/1086728/?utm_campaign=1086728&utm_source=habrahabr&utm_medium=rss)
 - [xk6-sip: SIP-телефония как код](https://habr.com/ru/articles/1086816/?utm_campaign=1086816&utm_source=habrahabr&utm_medium=rss)
 - [Переход на 1С 8.5 за выходные: найдёте 3 причины сбоя?](https://habr.com/ru/companies/otus/articles/1077954/?utm_campaign=1077954&utm_source=habrahabr&utm_medium=rss)
 - [Оценка AI‑агентов: 7 ошибок, из‑за которых тесты врут](https://habr.com/ru/companies/otus/articles/1077946/?utm_campaign=1077946&utm_source=habrahabr&utm_medium=rss)
 - [Куча дисков еще не T-RAID: как один компонент проходит через руки десятков тестировщиков](https://habr.com/ru/companies/yadro/articles/1085304/?utm_campaign=1085304&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] ИИ в тестировании: от анализа требований до автоматизации](https://habr.com/ru/articles/1086562/?utm_campaign=1086562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

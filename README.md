@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Один мок — три проблемы](https://habr.com/ru/articles/1087228/?utm_campaign=1087228&utm_source=habrahabr&utm_medium=rss)
+- [Один мок — три проблемы](https://habr.com/ru/articles/1087228/?utm_campaign=1087228&utm_source=habrahabr&utm_medium=rss)
 - [Доверить сервер ИИ-агенту и не пожалеть: как спать спокойно без SSH](https://habr.com/ru/articles/1086976/?utm_campaign=1086976&utm_source=habrahabr&utm_medium=rss)
 - [xk6-sip: мониторинг нагрузочного тестирования VoIP/SIP‑звонков](https://habr.com/ru/articles/1087004/?utm_campaign=1087004&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] От тестирования релиза с высоким уровнем риска к новому ИИ‑инструменту для QA](https://habr.com/ru/articles/1086968/?utm_campaign=1086968&utm_source=habrahabr&utm_medium=rss)

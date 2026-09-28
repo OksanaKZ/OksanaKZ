@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как вывести нового QA на самостоятельную работу за 90 дней: практический план онбординга](https://habr.com/ru/companies/otus/articles/1085818/?utm_campaign=1085818&utm_source=habrahabr&utm_medium=rss)
+- [Шестнадцать обещаний и две модели, которые пытались их нарушить: как мы выпускали skillmem 0.12](https://habr.com/ru/articles/1087696/?utm_campaign=1087696&utm_source=habrahabr&utm_medium=rss)
 - [Один мок — три проблемы](https://habr.com/ru/articles/1087228/?utm_campaign=1087228&utm_source=habrahabr&utm_medium=rss)
 - [Доверить сервер ИИ-агенту и не пожалеть: как спать спокойно без SSH](https://habr.com/ru/articles/1086976/?utm_campaign=1086976&utm_source=habrahabr&utm_medium=rss)
 - [xk6-sip: мониторинг нагрузочного тестирования VoIP/SIP‑звонков](https://habr.com/ru/articles/1087004/?utm_campaign=1087004&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] От тестирования релиза с высоким уровнем риска к новому ИИ‑инструменту для QA](https://habr.com/ru/articles/1086968/?utm_campaign=1086968&utm_source=habrahabr&utm_medium=rss)
-- [Нагрузочное тестирование SAP BW в современных условиях: опыт и практики реального проекта](https://habr.com/ru/companies/ibs/articles/1086728/?utm_campaign=1086728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

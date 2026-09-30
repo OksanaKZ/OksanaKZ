@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему я требую увидеть новый тест красным](https://habr.com/ru/articles/1088638/?utm_campaign=1088638&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть написала PR, тесты зелёные, а поведение изменилось. Как я научил CI это ловить](https://habr.com/ru/articles/1088564/?utm_campaign=1088564&utm_source=habrahabr&utm_medium=rss)
+- [xk6-sip: нагрузочное тестирование в CI — автоматизация с нуля до отчёта](https://habr.com/ru/articles/1088254/?utm_campaign=1088254&utm_source=habrahabr&utm_medium=rss)
 - [Ищем замену MinIO в условиях импортозамещения: опыт тестирования трех S3-совместимых хранилищ](https://habr.com/ru/companies/rshb/articles/1088380/?utm_campaign=1088380&utm_source=habrahabr&utm_medium=rss)
 - [Одна раскладка на все игры: как я обошёл ограничение Steam Deck и нашёл контроллер номер 15](https://habr.com/ru/articles/1087730/?utm_campaign=1087730&utm_source=habrahabr&utm_medium=rss)
-- [Агента нельзя засудить: почему последняя миля ИИ — это человек](https://habr.com/ru/articles/1088290/?utm_campaign=1088290&utm_source=habrahabr&utm_medium=rss)
-- [xk6-sip: проверка качества звука в нагрузочных и автоматизированных функциональных тестах VoIP/SIP](https://habr.com/ru/articles/1088230/?utm_campaign=1088230&utm_source=habrahabr&utm_medium=rss)
-- [Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Nokia](https://habr.com/ru/companies/rtk_service/articles/1088122/?utm_campaign=1088122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,8 +36,8 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Агента нельзя засудить: почему последняя миля ИИ — это человек](https://habr.com/ru/articles/1088290/?utm_campaign=1088290&utm_source=habrahabr&utm_medium=rss)
-- [xk6-sip: проверка качества звука в нагрузочных и автоматизированных функциональных тестах VoIP/SIP](https://habr.com/ru/articles/1088230/?utm_campaign=1088230&utm_source=habrahabr&utm_medium=rss)
+- [Агента нельзя засудить: почему последняя миля ИИ — это человек](https://habr.com/ru/articles/1088290/?utm_campaign=1088290&utm_source=habrahabr&utm_medium=rss)
+- [xk6-sip: проверка качества звука в нагрузочных и автоматизированных функциональных тестах VoIP/SIP](https://habr.com/ru/articles/1088230/?utm_campaign=1088230&utm_source=habrahabr&utm_medium=rss)
 - [Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Nokia](https://habr.com/ru/companies/rtk_service/articles/1088122/?utm_campaign=1088122&utm_source=habrahabr&utm_medium=rss)
 - [«Железо» под давлением: как протестировать тысячи плат для базовых станций](https://habr.com/ru/companies/yadro/articles/1085562/?utm_campaign=1085562&utm_source=habrahabr&utm_medium=rss)
 - [Как найти причину ошибок AI-фичи и проверить её с помощью тестового оракула](https://habr.com/ru/companies/otus/articles/1087130/?utm_campaign=1087130&utm_source=habrahabr&utm_medium=rss)

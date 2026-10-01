@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Неделя до INFOSTART TECH EVENT 2026: практики 1С в мире темного фэнтези](https://habr.com/ru/companies/infostart/articles/1088690/?utm_campaign=1088690&utm_source=habrahabr&utm_medium=rss)
+- [Mentorpiece Vacy Index: Сравниваем динамику вакансий классических QA и AI QA в РФ и США за 6 месяцев](https://habr.com/ru/articles/1088686/?utm_campaign=1088686&utm_source=habrahabr&utm_medium=rss)
 - [Асимметрия как методологический и инструментальный принцип тестирования моделей](https://habr.com/ru/articles/1088722/?utm_campaign=1088722&utm_source=habrahabr&utm_medium=rss)
 - [Почему я требую увидеть новый тест красным](https://habr.com/ru/articles/1088638/?utm_campaign=1088638&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть написала PR, тесты зелёные, а поведение изменилось. Как я научил CI это ловить](https://habr.com/ru/articles/1088564/?utm_campaign=1088564&utm_source=habrahabr&utm_medium=rss)
-- [xk6-sip: нагрузочное тестирование в CI — автоматизация с нуля до отчёта](https://habr.com/ru/articles/1088254/?utm_campaign=1088254&utm_source=habrahabr&utm_medium=rss)
-- [Ищем замену MinIO в условиях импортозамещения: опыт тестирования трех S3-совместимых хранилищ](https://habr.com/ru/companies/rshb/articles/1088380/?utm_campaign=1088380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

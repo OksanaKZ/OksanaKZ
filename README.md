@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сравнительный анализ рамановских усилителей от РТК-Сервис. Вендор ECI](https://habr.com/ru/companies/rtk_service/articles/1089642/?utm_campaign=1089642&utm_source=habrahabr&utm_medium=rss)
+- [«Протестировать ML? Чё-то слишком широко берём»: как я собрала QA framework для готовых моделей](https://habr.com/ru/articles/1089614/?utm_campaign=1089614&utm_source=habrahabr&utm_medium=rss)
+- [Зелёный пайплайн ничего не доказывает. Семь способов, которыми quality gate пропускает брак в прод](https://habr.com/ru/companies/ruvds/articles/1088324/?utm_campaign=1088324&utm_source=habrahabr&utm_medium=rss)
 - [От сборки до проверки на плате: набор открытых инструментов для разработки под STM32](https://habr.com/ru/articles/1089012/?utm_campaign=1089012&utm_source=habrahabr&utm_medium=rss)
 - [Фабрика кода с выключенным светом: почему Хорти зовет обратно читать код, и что у меня с этим сходится](https://habr.com/ru/articles/1088490/?utm_campaign=1088490&utm_source=habrahabr&utm_medium=rss)
-- [Неделя до INFOSTART TECH EVENT 2026: практики 1С в мире темного фэнтези](https://habr.com/ru/companies/infostart/articles/1088690/?utm_campaign=1088690&utm_source=habrahabr&utm_medium=rss)
-- [Mentorpiece Vacy Index: Сравниваем динамику вакансий классических QA и AI QA в РФ и США за 6 месяцев](https://habr.com/ru/articles/1088686/?utm_campaign=1088686&utm_source=habrahabr&utm_medium=rss)
-- [Асимметрия как методологический и инструментальный принцип тестирования моделей](https://habr.com/ru/articles/1088722/?utm_campaign=1088722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

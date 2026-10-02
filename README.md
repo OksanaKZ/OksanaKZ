@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Вечер на код и месяц на всё остальное: свой MCP-сервер](https://habr.com/ru/articles/1089802/?utm_campaign=1089802&utm_source=habrahabr&utm_medium=rss)
+- [Вечер на код и месяц на всё остальное: свой MCP‑сервер](https://habr.com/ru/articles/1089802/?utm_campaign=1089802&utm_source=habrahabr&utm_medium=rss)
 - [Сравнительный анализ рамановских усилителей от РТК-Сервис. Вендор ECI](https://habr.com/ru/companies/rtk_service/articles/1089642/?utm_campaign=1089642&utm_source=habrahabr&utm_medium=rss)
 - [«Протестировать ML? Чё-то слишком широко берём»: как я собрала QA framework для готовых моделей](https://habr.com/ru/articles/1089614/?utm_campaign=1089614&utm_source=habrahabr&utm_medium=rss)
 - [Зелёный пайплайн ничего не доказывает. Семь способов, которыми quality gate пропускает брак в прод](https://habr.com/ru/companies/ruvds/articles/1088324/?utm_campaign=1088324&utm_source=habrahabr&utm_medium=rss)

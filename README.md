@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [У ИИ есть знания, у человека — контекст](https://habr.com/ru/articles/1089974/?utm_campaign=1089974&utm_source=habrahabr&utm_medium=rss)
+- [У ИИ есть знания, у человека — контекст](https://habr.com/ru/articles/1089974/?utm_campaign=1089974&utm_source=habrahabr&utm_medium=rss)
 - [Вечер на код и месяц на всё остальное: свой MCP‑сервер](https://habr.com/ru/articles/1089802/?utm_campaign=1089802&utm_source=habrahabr&utm_medium=rss)
 - [Сравнительный анализ рамановских усилителей от РТК-Сервис. Вендор ECI](https://habr.com/ru/companies/rtk_service/articles/1089642/?utm_campaign=1089642&utm_source=habrahabr&utm_medium=rss)
 - [«Протестировать ML? Чё-то слишком широко берём»: как я собрала QA framework для готовых моделей](https://habr.com/ru/articles/1089614/?utm_campaign=1089614&utm_source=habrahabr&utm_medium=rss)

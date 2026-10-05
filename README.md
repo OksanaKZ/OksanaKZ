@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тест проходит даже с багом: что показал эксперимент Дэна Лу](https://habr.com/ru/articles/1088808/?utm_campaign=1088808&utm_source=habrahabr&utm_medium=rss)
 - [Зачем я запускаю smoke‑тесты прямо в production и как они однажды сломали мне аналитику](https://habr.com/ru/articles/1090270/?utm_campaign=1090270&utm_source=habrahabr&utm_medium=rss)
 - [История построения автоматизации с нуля в банке: от первых трудностей до реальных результатов](https://habr.com/ru/articles/1090148/?utm_campaign=1090148&utm_source=habrahabr&utm_medium=rss)
 - [У ИИ есть знания, у человека — контекст](https://habr.com/ru/articles/1089974/?utm_campaign=1089974&utm_source=habrahabr&utm_medium=rss)
 - [Вечер на код и месяц на всё остальное: свой MCP‑сервер](https://habr.com/ru/articles/1089802/?utm_campaign=1089802&utm_source=habrahabr&utm_medium=rss)
-- [Сравнительный анализ рамановских усилителей от РТК-Сервис. Вендор ECI](https://habr.com/ru/companies/rtk_service/articles/1089642/?utm_campaign=1089642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

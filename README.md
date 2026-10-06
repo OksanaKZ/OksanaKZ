@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование до релиза и после: когда пора менять стратегию](https://habr.com/ru/companies/usetech/articles/1090920/?utm_campaign=1090920&utm_source=habrahabr&utm_medium=rss)
+- [Как сэкономить на ISTQB: Личный опыт](https://habr.com/ru/articles/1090838/?utm_campaign=1090838&utm_source=habrahabr&utm_medium=rss)
 - [Три итерации до полезного ИИ: как мы автоматизировали тестирование в ELMA365](https://habr.com/ru/companies/korus_consulting/articles/1090688/?utm_campaign=1090688&utm_source=habrahabr&utm_medium=rss)
 - [О тестировании ИИ-агентов, вызывающих функции](https://habr.com/ru/articles/1090748/?utm_campaign=1090748&utm_source=habrahabr&utm_medium=rss)
 - [Когда автоматические проверки говорят неправду: пять случаев из проекта, который пишут ИИ‑агенты](https://habr.com/ru/articles/1090620/?utm_campaign=1090620&utm_source=habrahabr&utm_medium=rss)
-- [Тест проходит даже с багом: что показал эксперимент Дэна Лу](https://habr.com/ru/articles/1088808/?utm_campaign=1088808&utm_source=habrahabr&utm_medium=rss)
-- [Зачем я запускаю smoke‑тесты прямо в production и как они однажды сломали мне аналитику](https://habr.com/ru/articles/1090270/?utm_campaign=1090270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

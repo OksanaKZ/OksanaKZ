@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Тестирование до релиза и после: когда пора менять стратегию](https://habr.com/ru/companies/usetech/articles/1090920/?utm_campaign=1090920&utm_source=habrahabr&utm_medium=rss)
-- [Как сэкономить на ISTQB: Личный опыт](https://habr.com/ru/articles/1090838/?utm_campaign=1090838&utm_source=habrahabr&utm_medium=rss)
-- [Три итерации до полезного ИИ: как мы автоматизировали тестирование в ELMA365](https://habr.com/ru/companies/korus_consulting/articles/1090688/?utm_campaign=1090688&utm_source=habrahabr&utm_medium=rss)
-- [О тестировании ИИ-агентов, вызывающих функции](https://habr.com/ru/articles/1090748/?utm_campaign=1090748&utm_source=habrahabr&utm_medium=rss)
-- [Когда автоматические проверки говорят неправду: пять случаев из проекта, который пишут ИИ‑агенты](https://habr.com/ru/articles/1090620/?utm_campaign=1090620&utm_source=habrahabr&utm_medium=rss)
+- [Рутину — в скилл, ошибку — в правило. Как я сделал QA-конвейер из скиллов](https://habr.com/ru/companies/banki/articles/1090912/?utm_campaign=1090912&utm_source=habrahabr&utm_medium=rss)
+- [«Тест зелёный, а оборотка не сходится»: пять багов в 1С, которые легко пропустить без знания бухучёта](https://habr.com/ru/companies/ozontech/articles/1089048/?utm_campaign=1089048&utm_source=habrahabr&utm_medium=rss)
+- [Как мы запустили ИИ-ревьюера на 4000 PR в день — и какие баги он находит](https://habr.com/ru/companies/yandex/articles/1089752/?utm_campaign=1089752&utm_source=habrahabr&utm_medium=rss)
+- [1С под нагрузкой: как вырасти от запуска тестов до экспертных решений](https://habr.com/ru/companies/infostart/articles/1091174/?utm_campaign=1091174&utm_source=habrahabr&utm_medium=rss)
+- [Генеративные тесты — «серебряная пуля» или бесполезный костыль: что говорят разработчики и ученые](https://habr.com/ru/companies/dalee_group/articles/1088932/?utm_campaign=1088932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

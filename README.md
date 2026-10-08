@@ -37,7 +37,7 @@
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Где сломался AI-агент? Как отлаживать многоэтапные воркфлоу по шагам](https://habr.com/ru/companies/otus/articles/1091962/?utm_campaign=1091962&utm_source=habrahabr&utm_medium=rss)
-- [Как мы работаем с тестовой инфраструктурой: OpenStack, GitLab CI, Ansible](https://habr.com/ru/companies/1c/articles/1092028/?utm_campaign=1092028&utm_source=habrahabr&utm_medium=rss)
+- [Как мы работаем с тестовой инфраструктурой: OpenStack, GitLab CI, Ansible](https://habr.com/ru/companies/1c/articles/1092028/?utm_campaign=1092028&utm_source=habrahabr&utm_medium=rss)
 - [Прогнали GigaChat 3.5 по реальным кейсам: Результаты большого тест‑драйва](https://habr.com/ru/articles/1092034/?utm_campaign=1092034&utm_source=habrahabr&utm_medium=rss)
 - [Тестируем программы для вскрытия биткойн-головоломок с известным публичным ключом](https://habr.com/ru/companies/ruvds/articles/1091538/?utm_campaign=1091538&utm_source=habrahabr&utm_medium=rss)
 - [Рутину — в скилл, ошибку — в правило. Как я сделал QA-конвейер из скиллов](https://habr.com/ru/companies/banki/articles/1090912/?utm_campaign=1090912&utm_source=habrahabr&utm_medium=rss)

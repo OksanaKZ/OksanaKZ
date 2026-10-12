@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агент почти без ИИ: в моём сметчике нейросеть не посчитала ни рубля](https://habr.com/ru/articles/1093050/?utm_campaign=1093050&utm_source=habrahabr&utm_medium=rss)
 - [МАЯК: сначала документация, потом кнопки](https://habr.com/ru/articles/1093098/?utm_campaign=1093098&utm_source=habrahabr&utm_medium=rss)
 - [Чему нас научил взаимный перенос тестов между Pii-Mask и его форком](https://habr.com/ru/articles/1092762/?utm_campaign=1092762&utm_source=habrahabr&utm_medium=rss)
 - [Я написал 61 тест для AI-ментора. Потом выяснилось, что тестам тоже нельзя верить](https://habr.com/ru/articles/1092676/?utm_campaign=1092676&utm_source=habrahabr&utm_medium=rss)
 - [Надёжное программирование: от кода к технологии](https://habr.com/ru/articles/1091796/?utm_campaign=1091796&utm_source=habrahabr&utm_medium=rss)
-- [Пять MQTT‑брокеров на AWS: соединения, задержки и поведение под нагрузкой](https://habr.com/ru/articles/1092512/?utm_campaign=1092512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

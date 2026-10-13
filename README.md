@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Полгода не пишем код руками. Посчитал, что стало с багами](https://habr.com/ru/articles/1092932/?utm_campaign=1092932&utm_source=habrahabr&utm_medium=rss)
+- [Как мы тестируем автопилот для тракторов и комбайнов: HIL-стенды, симулятор на Unreal Engine 5 и реальное поле](https://habr.com/ru/articles/1093478/?utm_campaign=1093478&utm_source=habrahabr&utm_medium=rss)
 - [Haiku поставила PASS и указала существенную ошибку: как мы разбирали отчет ревью](https://habr.com/ru/articles/1093538/?utm_campaign=1093538&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент почти без ИИ: в моём сметчике нейросеть не посчитала ни рубля](https://habr.com/ru/articles/1093050/?utm_campaign=1093050&utm_source=habrahabr&utm_medium=rss)
 - [МАЯК: сначала документация, потом кнопки](https://habr.com/ru/articles/1093098/?utm_campaign=1093098&utm_source=habrahabr&utm_medium=rss)
-- [Чему нас научил взаимный перенос тестов между Pii-Mask и его форком](https://habr.com/ru/articles/1092762/?utm_campaign=1092762&utm_source=habrahabr&utm_medium=rss)
-- [Я написал 61 тест для AI-ментора. Потом выяснилось, что тестам тоже нельзя верить](https://habr.com/ru/articles/1092676/?utm_campaign=1092676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

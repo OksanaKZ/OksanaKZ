@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Все 179 ответов были SURE. Четыре из них не прошли тесты](https://habr.com/ru/articles/1094642/?utm_campaign=1094642&utm_source=habrahabr&utm_medium=rss)
 - [Регрессионное тестирование промптов: ИИ‑модель в роли читателя пропустила три из четырёх текстов, которые я правил](https://habr.com/ru/articles/1094096/?utm_campaign=1094096&utm_source=habrahabr&utm_medium=rss)
 - [Первый RAG комом: как мы учились анализировать ошибки автотестов с помощью LLM](https://habr.com/ru/companies/hh/articles/1093854/?utm_campaign=1093854&utm_source=habrahabr&utm_medium=rss)
 - [Накопление истории в Zeebe: причины замедления и влияние на память](https://habr.com/ru/companies/tbank/articles/1093718/?utm_campaign=1093718&utm_source=habrahabr&utm_medium=rss)
 - [Полгода не пишем код руками. Посчитал, что стало с багами](https://habr.com/ru/articles/1092932/?utm_campaign=1092932&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестируем автопилот для тракторов и комбайнов: HIL-стенды, симулятор на Unreal Engine 5 и реальное поле](https://habr.com/ru/articles/1093478/?utm_campaign=1093478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

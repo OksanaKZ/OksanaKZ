@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали мобильные релизы более предсказуемыми без потери скорости поставки](https://habr.com/ru/companies/garage8/articles/1095262/?utm_campaign=1095262&utm_source=habrahabr&utm_medium=rss)
 - [Можно ли заменить mypy на ty или Pyrefly в 2к26?](https://habr.com/ru/articles/1095028/?utm_campaign=1095028&utm_source=habrahabr&utm_medium=rss)
 - [Сколько инструментов должно быть у MCP-сервера? Я измерила от 5 до 100 в Claude Code, Codex и Gemini](https://habr.com/ru/articles/1094886/?utm_campaign=1094886&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование LLM‑фичи: можно ли верить своему eval](https://habr.com/ru/companies/otus/articles/1088876/?utm_campaign=1088876&utm_source=habrahabr&utm_medium=rss)
 - [Все 179 ответов были SURE. Четыре из них не прошли тесты](https://habr.com/ru/articles/1094642/?utm_campaign=1094642&utm_source=habrahabr&utm_medium=rss)
-- [Регрессионное тестирование промптов: ИИ‑модель в роли читателя пропустила три из четырёх текстов, которые я правил](https://habr.com/ru/articles/1094096/?utm_campaign=1094096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

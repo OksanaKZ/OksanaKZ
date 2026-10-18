@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как ускорить ручное тестирование интеграций с RabbitMQ с помощью библиотеки pika](https://habr.com/ru/articles/1093540/?utm_campaign=1093540&utm_source=habrahabr&utm_medium=rss)
 - [Проверяю выбор функций и значения аргументов в ELM](https://habr.com/ru/articles/1095504/?utm_campaign=1095504&utm_source=habrahabr&utm_medium=rss)
 - [Как мы сделали мобильные релизы более предсказуемыми без потери скорости поставки](https://habr.com/ru/companies/garage8/articles/1095262/?utm_campaign=1095262&utm_source=habrahabr&utm_medium=rss)
 - [Можно ли заменить mypy на ty или Pyrefly в 2к26?](https://habr.com/ru/articles/1095028/?utm_campaign=1095028&utm_source=habrahabr&utm_medium=rss)
 - [Сколько инструментов должно быть у MCP-сервера? Я измерила от 5 до 100 в Claude Code, Codex и Gemini](https://habr.com/ru/articles/1094886/?utm_campaign=1094886&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование LLM‑фичи: можно ли верить своему eval](https://habr.com/ru/companies/otus/articles/1088876/?utm_campaign=1088876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

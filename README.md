@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Я не знаю Rust. Что меняется в разработке, когда код пишет ИИ](https://habr.com/ru/companies/magnit/articles/1094984/?utm_campaign=1094984&utm_source=habrahabr&utm_medium=rss)
+- [Allure Report Storage: как настроить своё хранилище отчётов](https://habr.com/ru/companies/testops_tms/articles/1096600/?utm_campaign=1096600&utm_source=habrahabr&utm_medium=rss)
+- [От первого бага до ревью тест-кейсов: как я стала тестировщиком](https://habr.com/ru/companies/psb/articles/1096136/?utm_campaign=1096136&utm_source=habrahabr&utm_medium=rss)
 - [Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему](https://habr.com/ru/articles/1096420/?utm_campaign=1096420&utm_source=habrahabr&utm_medium=rss)
 - [Как провести нагрузочное тестирование правильно. Часть 2: для чего нужно тестировать производительность](https://habr.com/ru/companies/lemana_tech/articles/1095350/?utm_campaign=1095350&utm_source=habrahabr&utm_medium=rss)
-- [«Ты сеньор» и «думай пошагово»: проверил шесть приёмов на 30 задачах по Python](https://habr.com/ru/articles/1096066/?utm_campaign=1096066&utm_source=habrahabr&utm_medium=rss)
-- [А вы точно тестируете то что ожидаете?](https://habr.com/ru/articles/1089612/?utm_campaign=1089612&utm_source=habrahabr&utm_medium=rss)
-- [Мой агент получил высокий балл. Проверяю, что он сделал](https://habr.com/ru/articles/1091900/?utm_campaign=1091900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

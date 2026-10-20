@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Coriant](https://habr.com/ru/companies/rtk_service/articles/1096846/?utm_campaign=1096846&utm_source=habrahabr&utm_medium=rss)
+- [Фатал на проде. Разбор без поиска виноватого](https://habr.com/ru/articles/1096826/?utm_campaign=1096826&utm_source=habrahabr&utm_medium=rss)
+- [Как написать безопасный сборщик промта для LLM: руководство-шпаргалка](https://habr.com/ru/articles/1096824/?utm_campaign=1096824&utm_source=habrahabr&utm_medium=rss)
+- [2000 тест-кейсов и три AI-агента: как я разбирал тестовую базу](https://habr.com/ru/articles/1096688/?utm_campaign=1096688&utm_source=habrahabr&utm_medium=rss)
 - [Я не знаю Rust. Что меняется в разработке, когда код пишет ИИ](https://habr.com/ru/companies/magnit/articles/1094984/?utm_campaign=1094984&utm_source=habrahabr&utm_medium=rss)
-- [Allure Report Storage: как настроить своё хранилище отчётов](https://habr.com/ru/companies/testops_tms/articles/1096600/?utm_campaign=1096600&utm_source=habrahabr&utm_medium=rss)
-- [От первого бага до ревью тест-кейсов: как я стала тестировщиком](https://habr.com/ru/companies/psb/articles/1096136/?utm_campaign=1096136&utm_source=habrahabr&utm_medium=rss)
-- [Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему](https://habr.com/ru/articles/1096420/?utm_campaign=1096420&utm_source=habrahabr&utm_medium=rss)
-- [Как провести нагрузочное тестирование правильно. Часть 2: для чего нужно тестировать производительность](https://habr.com/ru/companies/lemana_tech/articles/1095350/?utm_campaign=1095350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Траблшутинг ИИ‑багхантинга: ошибки, которые убивают ваши репорты](https://habr.com/ru/articles/1097010/?utm_campaign=1097010&utm_source=habrahabr&utm_medium=rss)
 - [Как мы запускали агента в CI по расписанию](https://habr.com/ru/articles/1096674/?utm_campaign=1096674&utm_source=habrahabr&utm_medium=rss)
 - [ИИ‑Мониторинг, который работает и врёт](https://habr.com/ru/articles/1096878/?utm_campaign=1096878&utm_source=habrahabr&utm_medium=rss)
 - [Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Coriant](https://habr.com/ru/companies/rtk_service/articles/1096846/?utm_campaign=1096846&utm_source=habrahabr&utm_medium=rss)
 - [Фатал на проде. Разбор без поиска виноватого](https://habr.com/ru/articles/1096826/?utm_campaign=1096826&utm_source=habrahabr&utm_medium=rss)
-- [Как написать безопасный сборщик промта для LLM: руководство-шпаргалка](https://habr.com/ru/articles/1096824/?utm_campaign=1096824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

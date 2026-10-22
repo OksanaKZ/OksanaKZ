@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ‑агент захватил штурвал моего пет‑проекта. Возвращаю его с помощью интерактивных объяснений и двух промптов](https://habr.com/ru/articles/1097826/?utm_campaign=1097826&utm_source=habrahabr&utm_medium=rss)
+- [Опыт QA-автоматизатора: как я подключил нейросеть к wiki, базам данных и тест-менеджменту](https://habr.com/ru/companies/X5Tech/articles/1096342/?utm_campaign=1096342&utm_source=habrahabr&utm_medium=rss)
 - [Первый запрос проходит, второй падает: почему TestClient ломает тесты FastAPI и как это исправить](https://habr.com/ru/companies/otus/articles/1095736/?utm_campaign=1095736&utm_source=habrahabr&utm_medium=rss)
 - [Где заканчивается самостоятельность ИИ-агента? Я дала ему банковскую карту, телефон, браузер и 200+ MCP: итоги теста](https://habr.com/ru/articles/1097430/?utm_campaign=1097430&utm_source=habrahabr&utm_medium=rss)
 - [Начинаем в багбаунти: как превратить низкокритичный баг в крит](https://habr.com/ru/companies/pt/articles/1097214/?utm_campaign=1097214&utm_source=habrahabr&utm_medium=rss)
-- [Какие доклады участники INFOSTART TECH EVENT 2026 оценили выше всего](https://habr.com/ru/companies/infostart/articles/1097146/?utm_campaign=1097146&utm_source=habrahabr&utm_medium=rss)
-- [Траблшутинг ИИ‑багхантинга: ошибки, которые убивают ваши репорты](https://habr.com/ru/articles/1097010/?utm_campaign=1097010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

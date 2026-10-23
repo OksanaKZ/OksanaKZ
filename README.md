@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Вербуем ИИ-агента через prompt injection](https://habr.com/ru/articles/1098288/?utm_campaign=1098288&utm_source=habrahabr&utm_medium=rss)
+- [Помнит ли ИИ-агент вчерашний разговор? Проверил: 0 из 10 без памяти, 10 из 10 с ней — и три бага по дороге](https://habr.com/ru/articles/1098266/?utm_campaign=1098266&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Самодельный фаззер против Rust-крейта regex: искал один баг, нашёл два](https://habr.com/ru/articles/1098262/?utm_campaign=1098262&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестировали резервное копирование](https://habr.com/ru/articles/1098208/?utm_campaign=1098208&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование ИИ‑агента реального действия на выполнение неназванных условий: прогоны на DeepSeek](https://habr.com/ru/articles/1098088/?utm_campaign=1098088&utm_source=habrahabr&utm_medium=rss)
-- [ИИ‑агент захватил штурвал моего пет‑проекта. Возвращаю его с помощью интерактивных объяснений и двух промптов](https://habr.com/ru/articles/1097826/?utm_campaign=1097826&utm_source=habrahabr&utm_medium=rss)
-- [Опыт QA‑автоматизатора: как я подключил нейросеть к wiki, базам данных и тест‑менеджменту](https://habr.com/ru/companies/X5Tech/articles/1096342/?utm_campaign=1096342&utm_source=habrahabr&utm_medium=rss)
-- [Первый запрос проходит, второй падает: почему TestClient ломает тесты FastAPI и как это исправить](https://habr.com/ru/companies/otus/articles/1095736/?utm_campaign=1095736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

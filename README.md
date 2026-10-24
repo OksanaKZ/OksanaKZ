@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Harness engineering: где на самом деле ломается агентная разработка](https://habr.com/ru/articles/1098832/?utm_campaign=1098832&utm_source=habrahabr&utm_medium=rss)
 - [API быстрее UI — не закон: замеры на 400+ Android UI-тестах](https://habr.com/ru/articles/1098628/?utm_campaign=1098628&utm_source=habrahabr&utm_medium=rss)
 - [Вербуем ИИ-агента через prompt injection](https://habr.com/ru/articles/1098288/?utm_campaign=1098288&utm_source=habrahabr&utm_medium=rss)
 - [Помнит ли ИИ-агент вчерашний разговор? Проверил: 0 из 10 без памяти, 10 из 10 с ней — и три бага по дороге](https://habr.com/ru/articles/1098266/?utm_campaign=1098266&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Самодельный фаззер против Rust-крейта regex: искал один баг, нашёл два](https://habr.com/ru/articles/1098262/?utm_campaign=1098262&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестировали резервное копирование](https://habr.com/ru/articles/1098208/?utm_campaign=1098208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

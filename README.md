@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Я вам сборку принёс, но я вам ее не отдам: как установить тестовое приложение на iOS](https://habr.com/ru/articles/1099592/?utm_campaign=1099592&utm_source=habrahabr&utm_medium=rss)
+- [Я попросил 14 нейросетей помочь маме ответить продавцу на OLX. Все 14 помогли перевести предоплату мошеннику](https://habr.com/ru/articles/1099576/?utm_campaign=1099576&utm_source=habrahabr&utm_medium=rss)
+- [Тест падает раз в 30 прогонов, и только в CI. Где искать причину?](https://habr.com/ru/companies/otus/articles/1088888/?utm_campaign=1088888&utm_source=habrahabr&utm_medium=rss)
 - [Тестовые данные отдельно, код отдельно: 5 способов изолировать данные в автотестах на Java](https://habr.com/ru/articles/1099006/?utm_campaign=1099006&utm_source=habrahabr&utm_medium=rss)
 - [Harness engineering: где на самом деле ломается агентная разработка](https://habr.com/ru/articles/1098832/?utm_campaign=1098832&utm_source=habrahabr&utm_medium=rss)
-- [API быстрее UI — не закон: замеры на 400+ Android UI-тестах](https://habr.com/ru/articles/1098628/?utm_campaign=1098628&utm_source=habrahabr&utm_medium=rss)
-- [Вербуем ИИ-агента через prompt injection](https://habr.com/ru/articles/1098288/?utm_campaign=1098288&utm_source=habrahabr&utm_medium=rss)
-- [Помнит ли ИИ-агент вчерашний разговор? Проверил: 0 из 10 без памяти, 10 из 10 с ней — и три бага по дороге](https://habr.com/ru/articles/1098266/?utm_campaign=1098266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

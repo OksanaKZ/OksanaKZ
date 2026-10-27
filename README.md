@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Проходим тесты hh.ru с помощью локального ИИ](https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss)
+- [Как я без опыта разработки написал первые автотесты на Kotlin за месяц](https://habr.com/ru/companies/domclick/articles/1092854/?utm_campaign=1092854&utm_source=habrahabr&utm_medium=rss)
+- [Выбираем кодинг-агента для Дельфи](https://habr.com/ru/articles/1099892/?utm_campaign=1099892&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация тестирования: возьми от IT всё](https://habr.com/ru/companies/2gis/articles/1097934/?utm_campaign=1097934&utm_source=habrahabr&utm_medium=rss)
 - [58 рекламных роликов, которые я не снимал, а закоммитил](https://habr.com/ru/articles/1098134/?utm_campaign=1098134&utm_source=habrahabr&utm_medium=rss)
-- [Вино вернуло 502 Bad Gateway: как писать баг-репорт на бутылку](https://habr.com/ru/companies/rshb/articles/1096780/?utm_campaign=1096780&utm_source=habrahabr&utm_medium=rss)
-- [Few-shot: пристрелочная для ИИ-агента](https://habr.com/ru/articles/1099792/?utm_campaign=1099792&utm_source=habrahabr&utm_medium=rss)
-- [Я вам сборку принёс, но я вам ее не отдам: как установить тестовое приложение на iOS](https://habr.com/ru/articles/1099592/?utm_campaign=1099592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

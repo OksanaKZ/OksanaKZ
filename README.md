@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация тестирования: возьми от IT всё](https://habr.com/ru/companies/2gis/articles/1097934/?utm_campaign=1097934&utm_source=habrahabr&utm_medium=rss)
+- [58 рекламных роликов, которые я не снимал, а закоммитил](https://habr.com/ru/articles/1098134/?utm_campaign=1098134&utm_source=habrahabr&utm_medium=rss)
+- [Вино вернуло 502 Bad Gateway: как писать баг-репорт на бутылку](https://habr.com/ru/companies/rshb/articles/1096780/?utm_campaign=1096780&utm_source=habrahabr&utm_medium=rss)
+- [Few-shot: пристрелочная для ИИ-агента](https://habr.com/ru/articles/1099792/?utm_campaign=1099792&utm_source=habrahabr&utm_medium=rss)
 - [Я вам сборку принёс, но я вам ее не отдам: как установить тестовое приложение на iOS](https://habr.com/ru/articles/1099592/?utm_campaign=1099592&utm_source=habrahabr&utm_medium=rss)
-- [Я попросил 14 нейросетей помочь маме ответить продавцу на OLX. Все 14 помогли перевести предоплату мошеннику](https://habr.com/ru/articles/1099576/?utm_campaign=1099576&utm_source=habrahabr&utm_medium=rss)
-- [Тест падает раз в 30 прогонов, и только в CI. Где искать причину?](https://habr.com/ru/companies/otus/articles/1088888/?utm_campaign=1088888&utm_source=habrahabr&utm_medium=rss)
-- [Тестовые данные отдельно, код отдельно: 5 способов изолировать данные в автотестах на Java](https://habr.com/ru/articles/1099006/?utm_campaign=1099006&utm_source=habrahabr&utm_medium=rss)
-- [Harness engineering: где на самом деле ломается агентная разработка](https://habr.com/ru/articles/1098832/?utm_campaign=1098832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов](https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss)
+- [Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_campaign=1100276&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты в QA: как я выстроил процесс от анализа требований до CI](https://habr.com/ru/articles/1099374/?utm_campaign=1099374&utm_source=habrahabr&utm_medium=rss)
 - [Проходим тесты hh.ru с помощью локального ИИ](https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss)
 - [Как я без опыта разработки написал первые автотесты на Kotlin за месяц](https://habr.com/ru/companies/domclick/articles/1092854/?utm_campaign=1092854&utm_source=habrahabr&utm_medium=rss)
-- [Выбираем кодинг-агента для Дельфи](https://habr.com/ru/articles/1099892/?utm_campaign=1099892&utm_source=habrahabr&utm_medium=rss)
-- [Автоматизация тестирования: возьми от IT всё](https://habr.com/ru/companies/2gis/articles/1097934/?utm_campaign=1097934&utm_source=habrahabr&utm_medium=rss)
-- [58 рекламных роликов, которые я не снимал, а закоммитил](https://habr.com/ru/articles/1098134/?utm_campaign=1098134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

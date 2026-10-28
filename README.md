@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование NDR: как проверить реальную производительность](https://habr.com/ru/companies/bastion/articles/1097820/?utm_campaign=1097820&utm_source=habrahabr&utm_medium=rss)
+- [Почему нельзя просто заменить зарубежную систему на российский аналог](https://habr.com/ru/articles/1100414/?utm_campaign=1100414&utm_source=habrahabr&utm_medium=rss)
 - [ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов](https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss)
 - [Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_campaign=1100276&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты в QA: как я выстроил процесс от анализа требований до CI](https://habr.com/ru/articles/1099374/?utm_campaign=1099374&utm_source=habrahabr&utm_medium=rss)
-- [Проходим тесты hh.ru с помощью локального ИИ](https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss)
-- [Как я без опыта разработки написал первые автотесты на Kotlin за месяц](https://habr.com/ru/companies/domclick/articles/1092854/?utm_campaign=1092854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

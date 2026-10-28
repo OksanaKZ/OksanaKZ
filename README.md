@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке](https://habr.com/ru/articles/1100796/?utm_campaign=1100796&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование NDR: как проверить реальную производительность](https://habr.com/ru/companies/bastion/articles/1097820/?utm_campaign=1097820&utm_source=habrahabr&utm_medium=rss)
 - [Почему нельзя просто заменить зарубежную систему на российский аналог](https://habr.com/ru/articles/1100414/?utm_campaign=1100414&utm_source=habrahabr&utm_medium=rss)
 - [ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов](https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss)
 - [Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_campaign=1100276&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты в QA: как я выстроил процесс от анализа требований до CI](https://habr.com/ru/articles/1099374/?utm_campaign=1099374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Компьютер из пластмассы и пружинок: оцифровал руководство к «Детской логической машине» 1987 года и нашёл в нём ошибки](https://habr.com/ru/articles/1101092/?utm_campaign=1101092&utm_source=habrahabr&utm_medium=rss)
+- [Агент повесил Bash одной кавычкой. Как детерминированный FSM спасает CLI-рантаймы](https://habr.com/ru/articles/1101048/?utm_campaign=1101048&utm_source=habrahabr&utm_medium=rss)
 - [Каждый таксист теперь может попробовать поуправлять крупной корпорацией](https://habr.com/ru/articles/1100858/?utm_campaign=1100858&utm_source=habrahabr&utm_medium=rss)
 - [KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке](https://habr.com/ru/articles/1100796/?utm_campaign=1100796&utm_source=habrahabr&utm_medium=rss)
 - [Нагрузочное тестирование NDR: как проверить реальную производительность](https://habr.com/ru/companies/bastion/articles/1097820/?utm_campaign=1097820&utm_source=habrahabr&utm_medium=rss)
-- [Почему нельзя просто заменить зарубежную систему на российский аналог](https://habr.com/ru/articles/1100414/?utm_campaign=1100414&utm_source=habrahabr&utm_medium=rss)
-- [ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов](https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

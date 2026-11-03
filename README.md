@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Не ждите обновлений от 1С. У вас есть DeepSeek](https://habr.com/ru/articles/1102948/?utm_campaign=1102948&utm_source=habrahabr&utm_medium=rss)
 - [«Don&#39;t fear the REAPer» или как DS себе локальную LLM выбирал](https://habr.com/ru/articles/1102764/?utm_campaign=1102764&utm_source=habrahabr&utm_medium=rss)
 - [Enterprise и агентская разработка: опыт одной команды](https://habr.com/ru/articles/1102636/?utm_campaign=1102636&utm_source=habrahabr&utm_medium=rss)
 - [SQAdays: ИИ-трансформация и ценность качества](https://habr.com/ru/articles/1102546/?utm_campaign=1102546&utm_source=habrahabr&utm_medium=rss)
 - [Пробить потолок для тестировщика в $5 000–10 000 и выйти на $8 000–15 000](https://habr.com/ru/articles/1102054/?utm_campaign=1102054&utm_source=habrahabr&utm_medium=rss)
-- [Как мои автоматические проверки врали мне зеленым цветом](https://habr.com/ru/articles/1102196/?utm_campaign=1102196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

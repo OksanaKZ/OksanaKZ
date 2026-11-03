@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Как проверить, что ИИ-приложение действительно восстановилось после сбоя](https://habr.com/ru/companies/runity/articles/1103018/?utm_campaign=1103018&utm_source=habrahabr&utm_medium=rss)
-- [Как перестать проверять одно и то же руками? Testence и ИИ-агент в работе тестировщика](https://habr.com/ru/articles/1103014/?utm_campaign=1103014&utm_source=habrahabr&utm_medium=rss)
-- [Топ-10 бесплатных &lpar;в основном&rpar; ресурсов для перехода QA → AI/ML](https://habr.com/ru/articles/1102544/?utm_campaign=1102544&utm_source=habrahabr&utm_medium=rss)
-- [Как читать результаты нагрузочного тестирования и не обмануть себя](https://habr.com/ru/companies/lanit/articles/1099546/?utm_campaign=1099546&utm_source=habrahabr&utm_medium=rss)
-- [Не ждите обновлений от 1С. У вас есть DeepSeek](https://habr.com/ru/articles/1102948/?utm_campaign=1102948&utm_source=habrahabr&utm_medium=rss)
+- [Из какой LLM получится хороший виртуальный сотрудник, или Почему валятся бенчмарки моделей для генерации кода](https://habr.com/ru/companies/ru_mts/articles/1097332/?utm_campaign=1097332&utm_source=habrahabr&utm_medium=rss)
+- [Агент починил красный CI: исправил тест, а не код](https://habr.com/ru/companies/otus/articles/1088902/?utm_campaign=1088902&utm_source=habrahabr&utm_medium=rss)
+- [Linux: Hardening — обзор инструментов для быстрой проверки на соответствие compliance-требованиям](https://habr.com/ru/companies/ruvds/articles/1086868/?utm_campaign=1086868&utm_source=habrahabr&utm_medium=rss)
+- [Распил монолита глазами QA: как взять от жизни все и наладить тестирование нового микросервиса](https://habr.com/ru/articles/1103046/?utm_campaign=1103046&utm_source=habrahabr&utm_medium=rss)
+- [Запоздавший INSERT при откате: разбор сбоя на стенде SQLite](https://habr.com/ru/articles/1102716/?utm_campaign=1102716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

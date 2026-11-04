@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Данные без противоречий: синтетика с известным ответом](https://habr.com/ru/articles/1103580/?utm_campaign=1103580&utm_source=habrahabr&utm_medium=rss)
+- [Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное](https://habr.com/ru/articles/1103656/?utm_campaign=1103656&utm_source=habrahabr&utm_medium=rss)
+- [Данные без противоречий: синтетика с известным ответом](https://habr.com/ru/articles/1103580/?utm_campaign=1103580&utm_source=habrahabr&utm_medium=rss)
 - [Программист с ИИ пишет код за день вместо недели. Теперь нужно больше тестировщиков?](https://habr.com/ru/articles/1103436/?utm_campaign=1103436&utm_source=habrahabr&utm_medium=rss)
 - [Вам понадобятся железные нервы для работы с ИИ-агентами](https://habr.com/ru/articles/1103388/?utm_campaign=1103388&utm_source=habrahabr&utm_medium=rss)
 - [Из какой LLM получится хороший виртуальный сотрудник, или Почему валятся бенчмарки моделей для генерации кода](https://habr.com/ru/companies/ru_mts/articles/1097332/?utm_campaign=1097332&utm_source=habrahabr&utm_medium=rss)
-- [Агент починил красный CI: исправил тест, а не код](https://habr.com/ru/companies/otus/articles/1088902/?utm_campaign=1088902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

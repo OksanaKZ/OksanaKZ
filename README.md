@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Программист с ИИ пишет код за день вместо недели. Почему компании сокращают тестировщиков?](https://habr.com/ru/articles/1103436/?utm_campaign=1103436&utm_source=habrahabr&utm_medium=rss)
+- [Вам понадобятся железные нервы для работы с ИИ-агентами](https://habr.com/ru/articles/1103388/?utm_campaign=1103388&utm_source=habrahabr&utm_medium=rss)
 - [Из какой LLM получится хороший виртуальный сотрудник, или Почему валятся бенчмарки моделей для генерации кода](https://habr.com/ru/companies/ru_mts/articles/1097332/?utm_campaign=1097332&utm_source=habrahabr&utm_medium=rss)
 - [Агент починил красный CI: исправил тест, а не код](https://habr.com/ru/companies/otus/articles/1088902/?utm_campaign=1088902&utm_source=habrahabr&utm_medium=rss)
 - [Linux: Hardening — обзор инструментов для быстрой проверки на соответствие compliance-требованиям](https://habr.com/ru/companies/ruvds/articles/1086868/?utm_campaign=1086868&utm_source=habrahabr&utm_medium=rss)
-- [Распил монолита глазами QA: как взять от жизни все и наладить тестирование нового микросервиса](https://habr.com/ru/articles/1103046/?utm_campaign=1103046&utm_source=habrahabr&utm_medium=rss)
-- [Запоздавший INSERT при откате: разбор сбоя на стенде SQLite](https://habr.com/ru/articles/1102716/?utm_campaign=1102716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

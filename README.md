@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_campaign=1104668&utm_source=habrahabr&utm_medium=rss)
+- [База знаний на максималках: как ИИ-агенты с помощью QA сами наполняют общую память тестирования](https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_campaign=1104486&utm_source=habrahabr&utm_medium=rss)
 - [Почему нагрузочные тесты дают ложные результаты и как правильно собрать тестовый стенд](https://habr.com/ru/companies/otus/articles/1100840/?utm_campaign=1100840&utm_source=habrahabr&utm_medium=rss)
 - [Пентест по PTES: руководство по Metasploit от создателей индустрии](https://habr.com/ru/articles/1103918/?utm_campaign=1103918&utm_source=habrahabr&utm_medium=rss)
 - [Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное](https://habr.com/ru/articles/1103656/?utm_campaign=1103656&utm_source=habrahabr&utm_medium=rss)
-- [Данные без противоречий: синтетика с известным ответом](https://habr.com/ru/articles/1103580/?utm_campaign=1103580&utm_source=habrahabr&utm_medium=rss)
-- [Программист с ИИ пишет код за день вместо недели. Теперь нужно больше тестировщиков?](https://habr.com/ru/articles/1103436/?utm_campaign=1103436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

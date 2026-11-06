@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_campaign=1104744&utm_source=habrahabr&utm_medium=rss)
+- [Боль и ненависть QA.Про программисткий менеджмент, цену изменений и тех, кто её платит](https://habr.com/ru/articles/1104702/?utm_campaign=1104702&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_campaign=1104668&utm_source=habrahabr&utm_medium=rss)
 - [База знаний на максималках: как ИИ-агенты с помощью QA сами наполняют общую память тестирования](https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_campaign=1104486&utm_source=habrahabr&utm_medium=rss)
 - [Почему нагрузочные тесты дают ложные результаты и как правильно собрать тестовый стенд](https://habr.com/ru/companies/otus/articles/1100840/?utm_campaign=1100840&utm_source=habrahabr&utm_medium=rss)
-- [Пентест по PTES: руководство по Metasploit от создателей индустрии](https://habr.com/ru/articles/1103918/?utm_campaign=1103918&utm_source=habrahabr&utm_medium=rss)
-- [Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное](https://habr.com/ru/articles/1103656/?utm_campaign=1103656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

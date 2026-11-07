@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен](https://habr.com/ru/articles/1104950/?utm_campaign=1104950&utm_source=habrahabr&utm_medium=rss)
-- [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_campaign=1104580&utm_source=habrahabr&utm_medium=rss)
+- [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_campaign=1104580&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_campaign=1104744&utm_source=habrahabr&utm_medium=rss)
 - [Боль и ненависть QA. Про программистский менеджмент, цену изменений и тех, кто её платит](https://habr.com/ru/articles/1104702/?utm_campaign=1104702&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_campaign=1104668&utm_source=habrahabr&utm_medium=rss)
+- [База знаний на максималках: как ИИ-агенты с помощью QA сами наполняют общую память тестирования](https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_campaign=1104486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

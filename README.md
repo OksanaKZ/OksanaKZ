@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Юнит‑тесты скорее метят территорию, чем устраняют баги](https://habr.com/ru/companies/otus/articles/1103980/?utm_campaign=1103980&utm_source=habrahabr&utm_medium=rss)
+- [Из спецкоров — в тимлиды: как Роман Яковлев за год прошел путь от новичка до руководителя группы тестирования](https://habr.com/ru/companies/nanosoft/articles/1104648/?utm_campaign=1104648&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Агент написал верный код, а потом удалил его ради скрытых тестов: что показал MaxxBench](https://habr.com/ru/articles/1105152/?utm_campaign=1105152&utm_source=habrahabr&utm_medium=rss)
 - [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_campaign=1104580&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_campaign=1104744&utm_source=habrahabr&utm_medium=rss)
-- [Боль и ненависть QA. Про программистский менеджмент, цену изменений и тех, кто её платит](https://habr.com/ru/articles/1104702/?utm_campaign=1104702&utm_source=habrahabr&utm_medium=rss)
-- [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_campaign=1104668&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыта уязвимость CVE-2026-97631, позволяющая выполнить произвольный код в прошивке UEFI серверных материнских плат](https://habr.com/ru/articles/1104242/?utm_campaign=1104242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

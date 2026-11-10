@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Юнит‑тесты скорее метят территорию, чем устраняют баги](https://habr.com/ru/companies/otus/articles/1103980/?utm_campaign=1103980&utm_source=habrahabr&utm_medium=rss)
-- [Из спецкоров — в тимлиды: как Роман Яковлев за год прошел путь от новичка до руководителя группы тестирования](https://habr.com/ru/companies/nanosoft/articles/1104648/?utm_campaign=1104648&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Агент написал верный код, а потом удалил его ради скрытых тестов: что показал MaxxBench](https://habr.com/ru/articles/1105152/?utm_campaign=1105152&utm_source=habrahabr&utm_medium=rss)
-- [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_campaign=1104580&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта уязвимость CVE-2026-97631, позволяющая выполнить произвольный код в прошивке UEFI серверных материнских плат](https://habr.com/ru/articles/1104242/?utm_campaign=1104242&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Что такое Greenfield-проекты и почему их сложно тестировать](https://habr.com/ru/articles/1106064/?utm_campaign=1106064&utm_source=habrahabr&utm_medium=rss)
+- [Генерируем тест-кейсы с n8n: как подружить Пачку, Яндекс Вики и ИИ](https://habr.com/ru/companies/testops_tms/articles/1105814/?utm_campaign=1105814&utm_source=habrahabr&utm_medium=rss)
+- [Хвост виляет собакой, или Как мы решаем, что тест СХД пройден](https://habr.com/ru/companies/aerodisk/articles/1105842/?utm_campaign=1105842&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Почему мой Mac не загружался, хотя на диске было свободно 264 ГБ?](https://habr.com/ru/articles/1105746/?utm_campaign=1105746&utm_source=habrahabr&utm_medium=rss)
+- [ОС еще не загрузилась, а Python уже работает: зачем мы принесли змею в UEFI](https://habr.com/ru/companies/graviton/articles/1105564/?utm_campaign=1105564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

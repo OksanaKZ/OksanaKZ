@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [ИИ‑агент уверенно ошибается, а ИИ‑проверяющий говорит: всё в порядке](https://habr.com/ru/articles/1106236/?utm_campaign=1106236&utm_source=habrahabr&utm_medium=rss)
+- [Как мы тестировали RAG: нашёл документ, но всё равно ошибся](https://habr.com/ru/companies/psm_unlim/articles/1106096/?utm_campaign=1106096&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Что такое Greenfield-проекты и почему их сложно тестировать](https://habr.com/ru/articles/1106064/?utm_campaign=1106064&utm_source=habrahabr&utm_medium=rss)
 - [Генерируем тест-кейсы с n8n: как подружить Пачку, Яндекс Вики и ИИ](https://habr.com/ru/companies/testops_tms/articles/1105814/?utm_campaign=1105814&utm_source=habrahabr&utm_medium=rss)
 - [Хвост виляет собакой, или Как мы решаем, что тест СХД пройден](https://habr.com/ru/companies/aerodisk/articles/1105842/?utm_campaign=1105842&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Почему мой Mac не загружался, хотя на диске было свободно 264 ГБ?](https://habr.com/ru/articles/1105746/?utm_campaign=1105746&utm_source=habrahabr&utm_medium=rss)
-- [ОС еще не загрузилась, а Python уже работает: зачем мы принесли змею в UEFI](https://habr.com/ru/companies/graviton/articles/1105564/?utm_campaign=1105564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

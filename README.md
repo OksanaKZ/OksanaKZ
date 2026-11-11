@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Атаки на ИИ-агентов: разбираем проект таксономии NIST](https://habr.com/ru/articles/1106012/?utm_campaign=1106012&utm_source=habrahabr&utm_medium=rss)
+- [Я написала промпт по‑русски. Два агента перестали искать решение в интернете](https://habr.com/ru/articles/1106298/?utm_campaign=1106298&utm_source=habrahabr&utm_medium=rss)
 - [ИИ‑агент уверенно ошибается, а ИИ‑проверяющий говорит: всё в порядке](https://habr.com/ru/articles/1106236/?utm_campaign=1106236&utm_source=habrahabr&utm_medium=rss)
 - [Как мы тестировали RAG: нашёл документ, но всё равно ошибся](https://habr.com/ru/companies/psm_unlim/articles/1106096/?utm_campaign=1106096&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Что такое Greenfield-проекты и почему их сложно тестировать](https://habr.com/ru/articles/1106064/?utm_campaign=1106064&utm_source=habrahabr&utm_medium=rss)
-- [Генерируем тест-кейсы с n8n: как подружить Пачку, Яндекс Вики и ИИ](https://habr.com/ru/companies/testops_tms/articles/1105814/?utm_campaign=1105814&utm_source=habrahabr&utm_medium=rss)
-- [Хвост виляет собакой, или Как мы решаем, что тест СХД пройден](https://habr.com/ru/companies/aerodisk/articles/1105842/?utm_campaign=1105842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

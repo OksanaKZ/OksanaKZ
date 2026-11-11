@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [О Дух Машины, возьми наши деньги и забери у нас ручное тестирование](https://habr.com/ru/companies/yandex/articles/1105352/?utm_campaign=1105352&utm_source=habrahabr&utm_medium=rss)
-- [Атаки на ИИ-агентов: разбираем проект таксономии NIST](https://habr.com/ru/articles/1106012/?utm_campaign=1106012&utm_source=habrahabr&utm_medium=rss)
-- [Я написала промпт по‑русски. Два агента перестали искать решение в интернете](https://habr.com/ru/articles/1106298/?utm_campaign=1106298&utm_source=habrahabr&utm_medium=rss)
-- [ИИ‑агент уверенно ошибается, а ИИ‑проверяющий говорит: всё в порядке](https://habr.com/ru/articles/1106236/?utm_campaign=1106236&utm_source=habrahabr&utm_medium=rss)
-- [Как мы тестировали RAG: нашёл документ, но всё равно ошибся](https://habr.com/ru/companies/psm_unlim/articles/1106096/?utm_campaign=1106096&utm_source=habrahabr&utm_medium=rss)
+- [Как перейти на Spring Boot 4 с OpenRewrite и не сломать API‑контракт](https://habr.com/ru/companies/otus/articles/1088906/?utm_campaign=1088906&utm_source=habrahabr&utm_medium=rss)
+- [AI, СХД, open source: разбираемся, как устроен аппаратный QA](https://habr.com/ru/companies/yadro/articles/1105872/?utm_campaign=1105872&utm_source=habrahabr&utm_medium=rss)
+- [6 SQL тренажёров для самостоятельной практики](https://habr.com/ru/articles/1106654/?utm_campaign=1106654&utm_source=habrahabr&utm_medium=rss)
+- [Агенту мало дать доступ к коду. Как мы перенесли процесс команды в хуки и гейты](https://habr.com/ru/companies/avito/articles/1101500/?utm_campaign=1101500&utm_source=habrahabr&utm_medium=rss)
+- [В штате Нью‑Йорк запустят первую в стране государственную программу тестирования ИИ‑систем](https://habr.com/ru/articles/1106592/?utm_campaign=1106592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Postman, Insomnia, Bruno и мой Kurlo: как я написал API‑клиент на Go и чем он отличается](https://habr.com/ru/articles/1106808/?utm_campaign=1106808&utm_source=habrahabr&utm_medium=rss)
-- [Как перейти на Spring Boot 4 с OpenRewrite и не сломать API‑контракт](https://habr.com/ru/companies/otus/articles/1088906/?utm_campaign=1088906&utm_source=habrahabr&utm_medium=rss)
-- [AI, СХД, open source: разбираемся, как устроен аппаратный QA](https://habr.com/ru/companies/yadro/articles/1105872/?utm_campaign=1105872&utm_source=habrahabr&utm_medium=rss)
-- [6 SQL тренажёров для самостоятельной практики](https://habr.com/ru/articles/1106654/?utm_campaign=1106654&utm_source=habrahabr&utm_medium=rss)
-- [Агенту мало дать доступ к коду. Как мы перенесли процесс команды в хуки и гейты](https://habr.com/ru/companies/avito/articles/1101500/?utm_campaign=1101500&utm_source=habrahabr&utm_medium=rss)
+- [СКД, DevOps и тестирование 1С: пять курсов на первое полугодие 2027 года](https://habr.com/ru/companies/infostart/articles/1106892/?utm_campaign=1106892&utm_source=habrahabr&utm_medium=rss)
+- [Может ли ИИ писать автотесты за QA-инженера? Проверили на реальных задачах](https://habr.com/ru/companies/runity/articles/1107000/?utm_campaign=1107000&utm_source=habrahabr&utm_medium=rss)
+- [Я написал мониторинг, который никогда не падает. Полгода он не падал и ни разу не сработал](https://habr.com/ru/articles/1104930/?utm_campaign=1104930&utm_source=habrahabr&utm_medium=rss)
+- [Что если автоматически создать 1035 Pull Request в одном репозитории?](https://habr.com/ru/articles/1106964/?utm_campaign=1106964&utm_source=habrahabr&utm_medium=rss)
+- [SDD: почему все туда идут и что там на самом деле](https://habr.com/ru/articles/1106936/?utm_campaign=1106936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

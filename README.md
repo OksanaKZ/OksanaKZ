@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как научить ИИ писать E2E-тесты для iOS и Android по стандартам проекта](https://habr.com/ru/companies/avito/articles/1095268/?utm_campaign=1095268&utm_source=habrahabr&utm_medium=rss)
+- [Рассказ о проблемах в тестировании на проекте или всегда ли виноват тестировщик](https://habr.com/ru/companies/usetech/articles/1107384/?utm_campaign=1107384&utm_source=habrahabr&utm_medium=rss)
 - [Профили критических сбоев ИИ-агентов с функцией вызова с реальным эффектом: DeepSeek V4 Pro и Gemini 3.8 Flash](https://habr.com/ru/articles/1107288/?utm_campaign=1107288&utm_source=habrahabr&utm_medium=rss)
 - [Как я разрабатываю систему, которая не верит ИИ‑агенту на слово](https://habr.com/ru/articles/1107022/?utm_campaign=1107022&utm_source=habrahabr&utm_medium=rss)
 - [СКД, DevOps и тестирование 1С: пять курсов на первое полугодие 2027 года](https://habr.com/ru/companies/infostart/articles/1106892/?utm_campaign=1106892&utm_source=habrahabr&utm_medium=rss)
-- [Может ли ИИ писать автотесты за QA-инженера? Проверили на реальных задачах](https://habr.com/ru/companies/runity/articles/1107000/?utm_campaign=1107000&utm_source=habrahabr&utm_medium=rss)
-- [Я написал мониторинг, который никогда не падает. Полгода он не падал и ни разу не сработал](https://habr.com/ru/articles/1104930/?utm_campaign=1104930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

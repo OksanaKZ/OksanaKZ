@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Роман как сложная система: применяем стиль разработки ПО к написанию художественного произведения](https://habr.com/ru/articles/1107932/?utm_campaign=1107932&utm_source=habrahabr&utm_medium=rss)
 - [Nightmare Eclipse опубликовал новую уязвимость нулевого дня SignDrop в драйвере Common Log File System &lpar;CLFS&rpar; Windows](https://habr.com/ru/articles/1107890/?utm_campaign=1107890&utm_source=habrahabr&utm_medium=rss)
 - [Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает](https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Airgorah для проверки безопасности беспроводных компьютерных сетей](https://habr.com/ru/articles/1107806/?utm_campaign=1107806&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в помощь тестировщику: от промптов к автоматизации тестирования](https://habr.com/ru/companies/bhv_publishing/articles/1107524/?utm_campaign=1107524&utm_source=habrahabr&utm_medium=rss)
-- [Как научить ИИ писать E2E-тесты для iOS и Android по стандартам проекта](https://habr.com/ru/companies/avito/articles/1095268/?utm_campaign=1095268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

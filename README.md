@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает](https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Airgorah для проверки безопасности беспроводных компьютерных сетей](https://habr.com/ru/articles/1107806/?utm_campaign=1107806&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в помощь тестировщику: от промптов к автоматизации тестирования](https://habr.com/ru/companies/bhv_publishing/articles/1107524/?utm_campaign=1107524&utm_source=habrahabr&utm_medium=rss)
 - [Как научить ИИ писать E2E-тесты для iOS и Android по стандартам проекта](https://habr.com/ru/companies/avito/articles/1095268/?utm_campaign=1095268&utm_source=habrahabr&utm_medium=rss)
 - [Рассказ о проблемах в тестировании на проекте или всегда ли виноват тестировщик](https://habr.com/ru/companies/usetech/articles/1107384/?utm_campaign=1107384&utm_source=habrahabr&utm_medium=rss)
-- [Профили критических сбоев ИИ-агентов с функцией вызова с реальным эффектом: DeepSeek V4 Pro и Gemini 3.8 Flash](https://habr.com/ru/articles/1107288/?utm_campaign=1107288&utm_source=habrahabr&utm_medium=rss)
-- [Как я разрабатываю систему, которая не верит ИИ‑агенту на слово](https://habr.com/ru/articles/1107022/?utm_campaign=1107022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

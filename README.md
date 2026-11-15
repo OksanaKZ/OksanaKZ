@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Почему не сохранялись навыки учеников, хотя код был готов. Три ошибки при передаче данных между сервисами](https://habr.com/ru/articles/1108008/?utm_campaign=1108008&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Мы нашли способ взломать любой подключенный автомобиль компании X в крупнейших странах](https://habr.com/ru/companies/ruvds/articles/1106486/?utm_campaign=1106486&utm_source=habrahabr&utm_medium=rss)
 - [Роман как сложная система: применяем стиль разработки ПО к написанию художественного произведения](https://habr.com/ru/articles/1107932/?utm_campaign=1107932&utm_source=habrahabr&utm_medium=rss)
 - [Nightmare Eclipse опубликовал новую уязвимость нулевого дня SignDrop в драйвере Common Log File System &lpar;CLFS&rpar; Windows](https://habr.com/ru/articles/1107890/?utm_campaign=1107890&utm_source=habrahabr&utm_medium=rss)
 - [Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает](https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Airgorah для проверки безопасности беспроводных компьютерных сетей](https://habr.com/ru/articles/1107806/?utm_campaign=1107806&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в помощь тестировщику: от промптов к автоматизации тестирования](https://habr.com/ru/companies/bhv_publishing/articles/1107524/?utm_campaign=1107524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

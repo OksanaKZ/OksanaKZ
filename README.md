@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Независимый регресс: как Ports &amp;amp; Adapters избавили нас от зависимости от общего репозитория](https://habr.com/ru/companies/tbank/articles/1108404/?utm_campaign=1108404&utm_source=habrahabr&utm_medium=rss)
+- [AI повсюду: зачем нужен QA, если всё может делать агент?](https://habr.com/ru/companies/avito/articles/1108376/?utm_campaign=1108376&utm_source=habrahabr&utm_medium=rss)
+- [Accio, тесты! Как мы призываем unit, story и e2e тесты на iOS и Android одним инструментом](https://habr.com/ru/companies/bitrix/articles/1106862/?utm_campaign=1106862&utm_source=habrahabr&utm_medium=rss)
+- [Причиной авиаколлапса в США стал неисправный маршрутизатор в радиоузле FAA в городке Эль-Дорадо &lpar;штат Арканзас&rpar;](https://habr.com/ru/articles/1108172/?utm_campaign=1108172&utm_source=habrahabr&utm_medium=rss)
 - [Чужая программа молчит: как отличить «долго» от «зависло» и «упало раньше, чем заметили»](https://habr.com/ru/articles/1108066/?utm_campaign=1108066&utm_source=habrahabr&utm_medium=rss)
-- [Почему не сохранялись навыки учеников, хотя код был готов. Три ошибки при передаче данных между сервисами](https://habr.com/ru/articles/1108008/?utm_campaign=1108008&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Мы нашли способ взломать любой подключенный автомобиль компании X в крупнейших странах](https://habr.com/ru/companies/ruvds/articles/1106486/?utm_campaign=1106486&utm_source=habrahabr&utm_medium=rss)
-- [Роман как сложная система: применяем стиль разработки ПО к написанию художественного произведения](https://habr.com/ru/articles/1107932/?utm_campaign=1107932&utm_source=habrahabr&utm_medium=rss)
-- [Nightmare Eclipse опубликовал новую уязвимость нулевого дня SignDrop в драйвере Common Log File System &lpar;CLFS&rpar; Windows](https://habr.com/ru/articles/1107890/?utm_campaign=1107890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

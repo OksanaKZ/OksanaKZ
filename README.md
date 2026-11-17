@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мы всё охотнее миримся с медленной работой программ](https://habr.com/ru/articles/1109128/?utm_campaign=1109128&utm_source=habrahabr&utm_medium=rss)
 - [Тест от ИИ зелёный, а возврат не работает: разбираю черновик автотеста API и чиню его](https://habr.com/ru/articles/1109006/?utm_campaign=1109006&utm_source=habrahabr&utm_medium=rss)
 - [Flipper One вышел на Kickstarter, проект собрал $1 млн за первые 15 минут и $2 млн за 30 минут](https://habr.com/ru/articles/1108990/?utm_campaign=1108990&utm_source=habrahabr&utm_medium=rss)
 - [Пять иишек чинили один и тот же баг с публикацией сайта — двое справились, трое сделали ещё хуже](https://habr.com/ru/articles/1108838/?utm_campaign=1108838&utm_source=habrahabr&utm_medium=rss)
 - [Матрица компетенций QA: анатомия современного тестировщика](https://habr.com/ru/companies/tn_digital/articles/1108788/?utm_campaign=1108788&utm_source=habrahabr&utm_medium=rss)
-- [Генерация тест-кейсов с ИИ: опыт команды ТестОпс](https://habr.com/ru/companies/testops_tms/articles/1108594/?utm_campaign=1108594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

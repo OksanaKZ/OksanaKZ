@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Глаз Бога для бизнеса: тестирую FirmaScanBot](https://habr.com/ru/articles/1108562/?utm_campaign=1108562&utm_source=habrahabr&utm_medium=rss)
-- [Независимый регресс: как Ports &amp;amp; Adapters избавили нас от зависимости от общего репозитория](https://habr.com/ru/companies/tbank/articles/1108404/?utm_campaign=1108404&utm_source=habrahabr&utm_medium=rss)
-- [AI повсюду: зачем нужен QA, если всё может делать агент?](https://habr.com/ru/companies/avito/articles/1108376/?utm_campaign=1108376&utm_source=habrahabr&utm_medium=rss)
-- [Accio, тесты! Как мы призываем unit, story и e2e тесты на iOS и Android одним инструментом](https://habr.com/ru/companies/bitrix/articles/1106862/?utm_campaign=1106862&utm_source=habrahabr&utm_medium=rss)
-- [Причиной авиаколлапса в США стал неисправный маршрутизатор в радиоузле FAA в городке Эль-Дорадо &lpar;штат Арканзас&rpar;](https://habr.com/ru/articles/1108172/?utm_campaign=1108172&utm_source=habrahabr&utm_medium=rss)
+- [Тест от ИИ зелёный, а возврат не работает: разбираю черновик автотеста API и чиню его](https://habr.com/ru/articles/1109006/?utm_campaign=1109006&utm_source=habrahabr&utm_medium=rss)
+- [Flipper One вышел на Kickstarter, проект собрал $1 млн за первые 15 минут и $2 млн за 30 минут](https://habr.com/ru/articles/1108990/?utm_campaign=1108990&utm_source=habrahabr&utm_medium=rss)
+- [Пять иишек чинили один и тот же баг с публикацией сайта — двое справились, трое сделали ещё хуже](https://habr.com/ru/articles/1108838/?utm_campaign=1108838&utm_source=habrahabr&utm_medium=rss)
+- [Матрица компетенций QA: анатомия современного тестировщика](https://habr.com/ru/companies/tn_digital/articles/1108788/?utm_campaign=1108788&utm_source=habrahabr&utm_medium=rss)
+- [Генерация тест-кейсов с ИИ: опыт команды ТестОпс](https://habr.com/ru/companies/testops_tms/articles/1108594/?utm_campaign=1108594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

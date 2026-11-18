@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Мы всё охотнее миримся с медленной работой программ](https://habr.com/ru/articles/1109128/?utm_campaign=1109128&utm_source=habrahabr&utm_medium=rss)
-- [Тест от ИИ зелёный, а возврат не работает: разбираю черновик автотеста API и чиню его](https://habr.com/ru/articles/1109006/?utm_campaign=1109006&utm_source=habrahabr&utm_medium=rss)
-- [Flipper One вышел на Kickstarter, проект собрал $1 млн за первые 15 минут и $2 млн за 30 минут](https://habr.com/ru/articles/1108990/?utm_campaign=1108990&utm_source=habrahabr&utm_medium=rss)
-- [Пять иишек чинили один и тот же баг с публикацией сайта — двое справились, трое сделали ещё хуже](https://habr.com/ru/articles/1108838/?utm_campaign=1108838&utm_source=habrahabr&utm_medium=rss)
-- [Матрица компетенций QA: анатомия современного тестировщика](https://habr.com/ru/companies/tn_digital/articles/1108788/?utm_campaign=1108788&utm_source=habrahabr&utm_medium=rss)
+- [Миллион подписей в сутки: как мы ломаем токены, чтобы им можно было доверять](https://habr.com/ru/companies/aktiv-company/articles/1108942/?utm_campaign=1108942&utm_source=habrahabr&utm_medium=rss)
+- [Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов](https://habr.com/ru/companies/ozontech/articles/1108928/?utm_campaign=1108928&utm_source=habrahabr&utm_medium=rss)
+- [Как мы превратили фестиваль на 1 849 гостей в управляемый квест — и получили за это награду «Перспектума»](https://habr.com/ru/companies/night_street/articles/1109242/?utm_campaign=1109242&utm_source=habrahabr&utm_medium=rss)
+- [Тестер поставил моему боту critical за названную цену. Бот написал «подача до 2027 года»](https://habr.com/ru/articles/1104932/?utm_campaign=1104932&utm_source=habrahabr&utm_medium=rss)
+- [228 релизов по заявкам незнакомцев, ноль ревью человеком: чем закончился эксперимент с автономной разработкой](https://habr.com/ru/articles/1109238/?utm_campaign=1109238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

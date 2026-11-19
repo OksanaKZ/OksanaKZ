@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Ещё 6 SQL‑тренажёров для самостоятельной практики. Что посоветовали на Хабре](https://habr.com/ru/articles/1110096/?utm_campaign=1110096&utm_source=habrahabr&utm_medium=rss)
 - [Flipper One на Kickstarter за первые сутки собрал $11,7 млн](https://habr.com/ru/articles/1109844/?utm_campaign=1109844&utm_source=habrahabr&utm_medium=rss)
 - [AI ускоряет написание кода. Почему это не гарантирует ускорения доставки?](https://habr.com/ru/articles/1109822/?utm_campaign=1109822&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-автоматизация тестирования](https://habr.com/ru/articles/1109806/?utm_campaign=1109806&utm_source=habrahabr&utm_medium=rss)
 - [Трактат о применении машинного разума в функциональном тестировании на примере Warhammer 40 000](https://habr.com/ru/companies/T1Holding/articles/1105508/?utm_campaign=1105508&utm_source=habrahabr&utm_medium=rss)
-- [Тесты как промпт: подход TDD при работе с ИИ-агентом](https://habr.com/ru/companies/ru_mts/articles/1108716/?utm_campaign=1108716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

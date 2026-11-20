@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Мой линтер миграций Django выдал 407 критичных тревог на шести больших проектах. 405 оказались ложными](https://habr.com/ru/articles/1110288/?utm_campaign=1110288&utm_source=habrahabr&utm_medium=rss)
+- [Распознать речь оказалось проще, чем вставить текст в чужое окно Windows](https://habr.com/ru/articles/1110230/?utm_campaign=1110230&utm_source=habrahabr&utm_medium=rss)
+- [Тестировщик — это не ступенька в программисты: 85 навыков современного QA](https://habr.com/ru/companies/ibs/articles/1110146/?utm_campaign=1110146&utm_source=habrahabr&utm_medium=rss)
 - [Представлено обновление Wireshark 4.6.10](https://habr.com/ru/articles/1109894/?utm_campaign=1109894&utm_source=habrahabr&utm_medium=rss)
 - [Ещё 6 SQL‑тренажёров для самостоятельной практики. Что посоветовали на Хабре](https://habr.com/ru/articles/1110096/?utm_campaign=1110096&utm_source=habrahabr&utm_medium=rss)
-- [Flipper One на Kickstarter за первые сутки собрал $11,7 млн](https://habr.com/ru/articles/1109844/?utm_campaign=1109844&utm_source=habrahabr&utm_medium=rss)
-- [AI ускоряет написание кода. Почему это не гарантирует ускорения доставки?](https://habr.com/ru/articles/1109822/?utm_campaign=1109822&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-автоматизация тестирования](https://habr.com/ru/articles/1109806/?utm_campaign=1109806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Уязвимость в Windows 11 позволяет получить доступ к запароленному ПК прямо с экрана блокировки](https://habr.com/ru/articles/1110610/?utm_campaign=1110610&utm_source=habrahabr&utm_medium=rss)
-- [Playbook DomainOS для Windows 11 pro 25h2/26h2](https://habr.com/ru/articles/1110588/?utm_campaign=1110588&utm_source=habrahabr&utm_medium=rss)
-- [Мой линтер миграций Django выдал 407 критичных тревог на шести больших проектах. 405 оказались ложными](https://habr.com/ru/articles/1110288/?utm_campaign=1110288&utm_source=habrahabr&utm_medium=rss)
-- [Распознать речь оказалось проще, чем вставить текст в чужое окно Windows](https://habr.com/ru/articles/1110230/?utm_campaign=1110230&utm_source=habrahabr&utm_medium=rss)
-- [Тестировщик — это не ступенька в программисты: 85 навыков современного QA](https://habr.com/ru/companies/ibs/articles/1110146/?utm_campaign=1110146&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
+- [15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам](https://habr.com/ru/articles/1110754/?utm_campaign=1110754&utm_source=habrahabr&utm_medium=rss)
+- [Причина мирового парада багов](https://habr.com/ru/articles/1110728/?utm_campaign=1110728&utm_source=habrahabr&utm_medium=rss)
+- [Какие кнопки ваши UI-тесты ни разу не нажали: меряем покрытие UI-элементов в XCUITest. Часть 1](https://habr.com/ru/articles/1110722/?utm_campaign=1110722&utm_source=habrahabr&utm_medium=rss)
+- [Как мы начали тестировать SwiftUI-компоненты без UI-тестов](https://habr.com/ru/articles/1110662/?utm_campaign=1110662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

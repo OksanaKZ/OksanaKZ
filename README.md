@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость в Windows 11 позволяет получить доступ к запароленному ПК прямо с экрана блокировки](https://habr.com/ru/articles/1110610/?utm_campaign=1110610&utm_source=habrahabr&utm_medium=rss)
+- [Playbook DomainOS для Windows 11 pro 25h2/26h2](https://habr.com/ru/articles/1110588/?utm_campaign=1110588&utm_source=habrahabr&utm_medium=rss)
 - [Мой линтер миграций Django выдал 407 критичных тревог на шести больших проектах. 405 оказались ложными](https://habr.com/ru/articles/1110288/?utm_campaign=1110288&utm_source=habrahabr&utm_medium=rss)
 - [Распознать речь оказалось проще, чем вставить текст в чужое окно Windows](https://habr.com/ru/articles/1110230/?utm_campaign=1110230&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик — это не ступенька в программисты: 85 навыков современного QA](https://habr.com/ru/companies/ibs/articles/1110146/?utm_campaign=1110146&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление Wireshark 4.6.10](https://habr.com/ru/articles/1109894/?utm_campaign=1109894&utm_source=habrahabr&utm_medium=rss)
-- [Ещё 6 SQL‑тренажёров для самостоятельной практики. Что посоветовали на Хабре](https://habr.com/ru/articles/1110096/?utm_campaign=1110096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

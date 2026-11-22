@@ -36,7 +36,7 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
+- [ИИ‑агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
 - [15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам](https://habr.com/ru/articles/1110754/?utm_campaign=1110754&utm_source=habrahabr&utm_medium=rss)
 - [Причина мирового парада багов](https://habr.com/ru/articles/1110728/?utm_campaign=1110728&utm_source=habrahabr&utm_medium=rss)
 - [Какие кнопки ваши UI-тесты ни разу не нажали: меряем покрытие UI-элементов в XCUITest. Часть 1](https://habr.com/ru/articles/1110722/?utm_campaign=1110722&utm_source=habrahabr&utm_medium=rss)

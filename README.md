@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Куда уходить с Postman командой: шесть API‑клиентов, одна проверка суммы и ИИ без облака](https://habr.com/ru/articles/1111504/?utm_campaign=1111504&utm_source=habrahabr&utm_medium=rss)
+- [Исправили ошибку в одном проекте, а на следующий день она повторилась в другом](https://habr.com/ru/articles/1111324/?utm_campaign=1111324&utm_source=habrahabr&utm_medium=rss)
 - [Как заставить LLM не врать в цифрах: код считает, модель формулирует](https://habr.com/ru/articles/1111224/?utm_campaign=1111224&utm_source=habrahabr&utm_medium=rss)
 - [Playwright глазами тестировщика: 11 возможностей, ради которых стоит обновиться](https://habr.com/ru/articles/1111204/?utm_campaign=1111204&utm_source=habrahabr&utm_medium=rss)
 - [Как не дать языковой модели выдумать телефон заказчика: факты из документов проверяет обычный код](https://habr.com/ru/articles/1111160/?utm_campaign=1111160&utm_source=habrahabr&utm_medium=rss)
-- [Testerium: как ручной тестировщик собрал свои инструменты в одно расширение для Chrome](https://habr.com/ru/companies/petrovich-tech/articles/1110952/?utm_campaign=1110952&utm_source=habrahabr&utm_medium=rss)
-- [Сообщается о новом взломе систем ФБР: на этот раз под ударом оказалась общенациональная полицейская база данных](https://habr.com/ru/articles/1110820/?utm_campaign=1110820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

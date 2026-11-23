@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить LLM не врать в цифрах: код считает, модель формулирует](https://habr.com/ru/articles/1111224/?utm_campaign=1111224&utm_source=habrahabr&utm_medium=rss)
+- [Playwright глазами тестировщика: 11 возможностей, ради которых стоит обновиться](https://habr.com/ru/articles/1111204/?utm_campaign=1111204&utm_source=habrahabr&utm_medium=rss)
+- [Как не дать языковой модели выдумать телефон заказчика: факты из документов проверяет обычный код](https://habr.com/ru/articles/1111160/?utm_campaign=1111160&utm_source=habrahabr&utm_medium=rss)
+- [Testerium: как ручной тестировщик собрал свои инструменты в одно расширение для Chrome](https://habr.com/ru/companies/petrovich-tech/articles/1110952/?utm_campaign=1110952&utm_source=habrahabr&utm_medium=rss)
 - [Сообщается о новом взломе систем ФБР: на этот раз под ударом оказалась общенациональная полицейская база данных](https://habr.com/ru/articles/1110820/?utm_campaign=1110820&utm_source=habrahabr&utm_medium=rss)
-- [ИИ‑агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
-- [15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам](https://habr.com/ru/articles/1110754/?utm_campaign=1110754&utm_source=habrahabr&utm_medium=rss)
-- [Какие кнопки ваши UI-тесты ни разу не нажали: меряем покрытие UI-элементов в XCUITest. Часть 1](https://habr.com/ru/articles/1110722/?utm_campaign=1110722&utm_source=habrahabr&utm_medium=rss)
-- [Как мы начали тестировать SwiftUI-компоненты без UI-тестов](https://habr.com/ru/articles/1110662/?utm_campaign=1110662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Тестировщик без опыта на hh: из 263 вакансий программы тестируют в 58](https://habr.com/ru/articles/1111514/?utm_campaign=1111514&utm_source=habrahabr&utm_medium=rss)
+- [От пилота к массовой миграции: как перевести 24 команды на новую TMS и не остановить тестирование](https://habr.com/ru/companies/runity/articles/1111534/?utm_campaign=1111534&utm_source=habrahabr&utm_medium=rss)
+- [Учебный курс с сюжетом: баг или фича?](https://habr.com/ru/articles/1111594/?utm_campaign=1111594&utm_source=habrahabr&utm_medium=rss)
+- [Не только автотесты: 5 принципов SDET-инженера для повышения качества продукта](https://habr.com/ru/companies/simbirsoft/articles/1103178/?utm_campaign=1103178&utm_source=habrahabr&utm_medium=rss)
 - [Куда уходить с Postman командой: шесть API‑клиентов, одна проверка суммы и ИИ без облака](https://habr.com/ru/articles/1111504/?utm_campaign=1111504&utm_source=habrahabr&utm_medium=rss)
-- [Исправили ошибку в одном проекте, а на следующий день она повторилась в другом](https://habr.com/ru/articles/1111324/?utm_campaign=1111324&utm_source=habrahabr&utm_medium=rss)
-- [Как заставить LLM не врать в цифрах: код считает, модель формулирует](https://habr.com/ru/articles/1111224/?utm_campaign=1111224&utm_source=habrahabr&utm_medium=rss)
-- [Playwright глазами тестировщика: 11 возможностей, ради которых стоит обновиться](https://habr.com/ru/articles/1111204/?utm_campaign=1111204&utm_source=habrahabr&utm_medium=rss)
-- [Как не дать языковой модели выдумать телефон заказчика: факты из документов проверяет обычный код](https://habr.com/ru/articles/1111160/?utm_campaign=1111160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

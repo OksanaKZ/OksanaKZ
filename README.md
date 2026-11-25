@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию](https://habr.com/ru/articles/1111958/?utm_campaign=1111958&utm_source=habrahabr&utm_medium=rss)
 - [Исправили одну ошибку — получили другую: как мы автоматизировали регресс в SAP HCM](https://habr.com/ru/companies/lentatech/articles/1108694/?utm_campaign=1108694&utm_source=habrahabr&utm_medium=rss)
 - [Что такое TDD: четыре мифа, короткая обратная связь и чистый код](https://habr.com/ru/companies/oleg-bunin/articles/1111692/?utm_campaign=1111692&utm_source=habrahabr&utm_medium=rss)
 - [Linux: Мониторинг. Что смотреть, зачем и какие есть инструменты](https://habr.com/ru/companies/ruvds/articles/1095070/?utm_campaign=1095070&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщик без опыта на hh: из 263 вакансий программы тестируют в 58](https://habr.com/ru/articles/1111514/?utm_campaign=1111514&utm_source=habrahabr&utm_medium=rss)
-- [От пилота к массовой миграции: как перевести 24 команды на новую TMS и не остановить тестирование](https://habr.com/ru/companies/runity/articles/1111534/?utm_campaign=1111534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Где тестировщику начинается бэкенд: API, SQL и логи в 1 120 вакансиях QA](https://habr.com/ru/articles/1112380/?utm_campaign=1112380&utm_source=habrahabr&utm_medium=rss)
 - [Первый взгляд на PT Email Security от Positive Technologies](https://habr.com/ru/companies/innostage/articles/1112108/?utm_campaign=1112108&utm_source=habrahabr&utm_medium=rss)
 - [Сам себе Edtech: как я попросил Claude научить меня работе с агентами на OpenCode и DeepSeek Harness… и научился оО](https://habr.com/ru/companies/ru_mts/articles/1111144/?utm_campaign=1111144&utm_source=habrahabr&utm_medium=rss)
 - [Бот не создал ссылку в закрытый Telegram-канал после оплаты. Проверяем повторную обработку заказа](https://habr.com/ru/articles/1112002/?utm_campaign=1112002&utm_source=habrahabr&utm_medium=rss)
 - [Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию](https://habr.com/ru/articles/1111958/?utm_campaign=1111958&utm_source=habrahabr&utm_medium=rss)
-- [Исправили одну ошибку — получили другую: как мы автоматизировали регресс в SAP HCM](https://habr.com/ru/companies/lentatech/articles/1108694/?utm_campaign=1108694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

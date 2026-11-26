@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [Где тестировщику начинается бэкенд: API, SQL и логи в 1 120 вакансиях QA](https://habr.com/ru/articles/1112380/?utm_campaign=1112380&utm_source=habrahabr&utm_medium=rss)
-- [Первый взгляд на PT Email Security от Positive Technologies](https://habr.com/ru/companies/innostage/articles/1112108/?utm_campaign=1112108&utm_source=habrahabr&utm_medium=rss)
-- [Сам себе Edtech: как я попросил Claude научить меня работе с агентами на OpenCode и DeepSeek Harness… и научился оО](https://habr.com/ru/companies/ru_mts/articles/1111144/?utm_campaign=1111144&utm_source=habrahabr&utm_medium=rss)
-- [Бот не создал ссылку в закрытый Telegram-канал после оплаты. Проверяем повторную обработку заказа](https://habr.com/ru/articles/1112002/?utm_campaign=1112002&utm_source=habrahabr&utm_medium=rss)
-- [Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию](https://habr.com/ru/articles/1111958/?utm_campaign=1111958&utm_source=habrahabr&utm_medium=rss)
+- [Я выбрал модель, а отвечала другая: 129 проверок Perplexity](https://habr.com/ru/articles/1111446/?utm_campaign=1111446&utm_source=habrahabr&utm_medium=rss)
+- [Ядра – чистый изумруд? Тестируем кампусные коммутаторы YADRO](https://habr.com/ru/companies/k2tech/articles/1112738/?utm_campaign=1112738&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Оверинжиниринг продолжается, пока не наскучит](https://habr.com/ru/companies/bhv_publishing/articles/1112750/?utm_campaign=1112750&utm_source=habrahabr&utm_medium=rss)
+- [50 параметров, 5 000 сценариев: как мы проверяем перенос легаси с Yii1 на Yii2](https://habr.com/ru/companies/flowwow/articles/1112718/?utm_campaign=1112718&utm_source=habrahabr&utm_medium=rss)
+- [Чек-лист как инструмент снижения рисков при тестировании IoT-систем](https://habr.com/ru/articles/1112694/?utm_campaign=1112694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

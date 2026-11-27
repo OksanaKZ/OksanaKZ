@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
+- [Данные без противоречий: генерация через свой сервис](https://habr.com/ru/articles/1112966/?utm_campaign=1112966&utm_source=habrahabr&utm_medium=rss)
+- [Две недели, 10 часов в день и 181 микросекунда: как живёт мой проект Domain OS изнутри](https://habr.com/ru/articles/1112902/?utm_campaign=1112902&utm_source=habrahabr&utm_medium=rss)
 - [Я выбрал модель, а отвечала другая: 129 проверок Perplexity](https://habr.com/ru/articles/1111446/?utm_campaign=1111446&utm_source=habrahabr&utm_medium=rss)
 - [Ядра — чистый изумруд? Тестируем кампусные коммутаторы YADRO](https://habr.com/ru/companies/k2tech/articles/1112738/?utm_campaign=1112738&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Оверинжиниринг продолжается, пока не наскучит](https://habr.com/ru/companies/bhv_publishing/articles/1112750/?utm_campaign=1112750&utm_source=habrahabr&utm_medium=rss)
-- [50 параметров, 5 000 сценариев: как мы проверяем перенос легаси с Yii1 на Yii2](https://habr.com/ru/companies/flowwow/articles/1112718/?utm_campaign=1112718&utm_source=habrahabr&utm_medium=rss)
-- [Чек-лист как инструмент снижения рисков при тестировании IoT-систем](https://habr.com/ru/articles/1112694/?utm_campaign=1112694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->

@@ -36,9 +36,9 @@
 
 ## :globe_with_meridians: Latest Posts from Habr about Testing
 <!-- BLOG-POST-LIST:START -->
-- [От требования регулятора до OVAL-проверки: как формализовать нормативный текст](https://habr.com/ru/companies/kaspersky/articles/1113108/?utm_campaign=1113108&utm_source=habrahabr&utm_medium=rss)
-- [24 открытых Django-проекта против моего статического парсера: код, которого нет в туториалах](https://habr.com/ru/articles/1113182/?utm_campaign=1113182&utm_source=habrahabr&utm_medium=rss)
+- [Часть 1. Selenium, Playwright и двадцать лет ожидания одной кнопки](https://habr.com/ru/articles/1112876/?utm_campaign=1112876&utm_source=habrahabr&utm_medium=rss)
+- [От требования регулятора до OVAL‑проверки: как формализовать нормативный текст](https://habr.com/ru/companies/kaspersky/articles/1113108/?utm_campaign=1113108&utm_source=habrahabr&utm_medium=rss)
+- [24 открытых Django‑проекта против моего статического парсера: код, которого нет в туториалах](https://habr.com/ru/articles/1113182/?utm_campaign=1113182&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Поиск багов считать вредным?](https://habr.com/ru/companies/piter/articles/1113104/?utm_campaign=1113104&utm_source=habrahabr&utm_medium=rss)
-- [TDD как процесс, а не техника: почему о нём всё ещё стоит говорить](https://habr.com/ru/companies/habr_weeek/articles/1112756/?utm_campaign=1112756&utm_source=habrahabr&utm_medium=rss)
-- [Эволюция тестирования: как проверить продукт на разных стадиях](https://habr.com/ru/companies/tochka/articles/1112542/?utm_campaign=1112542&utm_source=habrahabr&utm_medium=rss)
+- [TDD как процесс, а не техника: почему о нём всё ещё стоит говорить](https://habr.com/ru/companies/habr_weeek/articles/1112756/?utm_campaign=1112756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
